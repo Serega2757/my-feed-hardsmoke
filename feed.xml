@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-02 17:16">
+<yml_catalog date="2025-09-02 18:16">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -24705,6 +24705,1275 @@
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19831-400x400.png</picture>
 <vendorCode>hd19831</vendorCode>
 <name>Рідина YUMMY Ягідний Морс (30 мл)</name>
+</offer>
+<offer id="20565" available="false">
+<url>https://hardsmoke.store/akkumulyator-18650-hg2-3000-mah</url>
+<price>260</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20565-400x400.png</picture>
+<vendorCode>hd20565</vendorCode>
+<name>Акумулятор 18650 HG2 3000 mAh</name>
+</offer>
+<offer id="9996" available="false">
+<url>https://hardsmoke.store/isparitel-elf-bar-fb1000-0-8-om</url>
+<price>260</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/9996-1-400x400.png</picture>
+<vendorCode>hd9996</vendorCode>
+<name>Випарник Elf Bar FB1000 (0,8 ОМ)</name>
+</offer>
+<offer id="19551" available="false">
+<url>https://hardsmoke.store/isparitel-joyetech-en-08-om-mesh-coil</url>
+<price>61</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19551-400x400.png</picture>
+<vendorCode>hd19551</vendorCode>
+<name>Випарник Joyetech EN 0.8 Ом Mesh Coil</name>
+</offer>
+<offer id="19552" available="true">
+<url>https://hardsmoke.store/isparitel-joyetech-en-12-om-mesh-coil</url>
+<price>57</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19552-400x400.png</picture>
+<vendorCode>hd19552</vendorCode>
+<name>Випарник Joyetech EN 1.2 Ом Mesh Coil</name>
+</offer>
+<offer id="21669" available="true">
+<url>https://hardsmoke.store/isparitel-joyetech-en-mesh-coil-06-om%C2%A0</url>
+<price>57</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21669-400x400.png</picture>
+<vendorCode>hd21669</vendorCode>
+<name>Випарник Joyetech EN Mesh Coil 0.6 Ом</name>
+</offer>
+<offer id="19555" available="true">
+<url>https://hardsmoke.store/isparitel-smok-novo-4-lp1-meshed-08-om</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19555-400x400.png</picture>
+<vendorCode>hd19555</vendorCode>
+<name>Випарник Smok LP1 Meshed 0.8 Ом</name>
+</offer>
+<offer id="19553" available="true">
+<url>https://hardsmoke.store/isparitel-smok-lp2-dc-mtl-06-om</url>
+<price>94</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19553-400x400.png</picture>
+<vendorCode>hd19553</vendorCode>
+<name>Випарник Smok LP2 DC MTL 0.6 Ом</name>
+</offer>
+<offer id="19554" available="true">
+<url>https://hardsmoke.store/isparitel-smok-lp2-dl-meshed-023-om</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19554-400x400.png</picture>
+<vendorCode>hd19554</vendorCode>
+<name>Випарник Smok LP2 DL Meshed 0.23 Ом</name>
+</offer>
+<offer id="19765" available="false">
+<url>https://hardsmoke.store/isparitel-smok-novo-4-lp1-meshed-09-om-mtl-coil</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19765-400x400.png</picture>
+<vendorCode>hd19765</vendorCode>
+<name>Випарник Smok Novo 4 LP1 Meshed 0.9 Ом MTL Coil</name>
+</offer>
+<offer id="19556" available="true">
+<url>https://hardsmoke.store/isparitel-smok-novo-4-lp1-meshed-12-om</url>
+<price>96</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19556-400x400.png</picture>
+<vendorCode>hd19556</vendorCode>
+<name>Випарник Smok Novo 4 LP1 Meshed 1.2 Ом</name>
+</offer>
+<offer id="19990" available="true">
+<url>https://hardsmoke.store/isparitel-smok-rpm-3-meshed-015-om-coil</url>
+<price>106</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19990-400x400.png</picture>
+<vendorCode>hd19990</vendorCode>
+<name>Випарник Smok RPM 3 Meshed 0.15 Ом Coil</name>
+</offer>
+<offer id="19991" available="true">
+<url>https://hardsmoke.store/isparitel-smok-rpm-3-meshed-023-om-coil</url>
+<price>106</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19991-400x400.png</picture>
+<vendorCode>hd19991</vendorCode>
+<name>Випарник Smok RPM 3 Meshed 0.23 Ом Coil</name>
+</offer>
+<offer id="19766" available="true">
+<url>https://hardsmoke.store/isparitel-voopoo-pnp-dw60-06-om</url>
+<price>96</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19766-400x400.png</picture>
+<vendorCode>hd19766</vendorCode>
+<name>Випарник Voopoo PnP DW60 0.6 Ом</name>
+</offer>
+<offer id="21275" available="false">
+<url>https://hardsmoke.store/isparitel-voopoo-pnp-r2-mesh-coil-10-om</url>
+<price>101</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21275-400x400.png</picture>
+<vendorCode>hd21275</vendorCode>
+<name>Випарник Voopoo PnP R2 Mesh Coil 1.0 Ом</name>
+</offer>
+<offer id="19695" available="true">
+<url>https://hardsmoke.store/isparitel-voopoo-pnp-tm2-mesh-coil-08-om</url>
+<price>87</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19695-400x400.png</picture>
+<vendorCode>hd19695</vendorCode>
+<name>Випарник Voopoo PnP TM2 Mesh Coil 0.8 Ом</name>
+</offer>
+<offer id="19558" available="true">
+<url>https://hardsmoke.store/isparitel-voopoo-pnp-tw30-03-om</url>
+<price>83</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19558-400x400.png</picture>
+<vendorCode>hd19558</vendorCode>
+<name>Випарник Voopoo PnP TW30 0.3 Ом</name>
+</offer>
+<offer id="21622" available="true">
+<url>https://hardsmoke.store/isparitel-voopoo-vinci-pnp-vm3-045-om</url>
+<price>83</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21622-400x400.png</picture>
+<vendorCode>hd21622</vendorCode>
+<name>Випарник Voopoo Vinci PnP VM3 0.45 Ом</name>
+</offer>
+<offer id="9021" available="true">
+<url>https://hardsmoke.store/kartridj-dlya-mnogorazovoy-pod-sistemyi-elf-bar-rf350</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/9021-400x400.png</picture>
+<vendorCode>hd9021</vendorCode>
+<name>Картридж для багаторазової POD-СИСТЕМИ ELF BAR RF350</name>
+</offer>
+<offer id="10002" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfa-blue-razz-lemonade-blyu-razz-limonad</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10002-400x400.png</picture>
+<vendorCode>hd10002</vendorCode>
+<name>Картридж Elf Bar Elfa Blue Razz Lemonade (Блю разз Лимонад)</name>
+</offer>
+<offer id="10003" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfa-blueberry-chernika</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10003-400x400.png</picture>
+<vendorCode>hd10003</vendorCode>
+<name>Картридж Elf Bar Elfa Blueberry (Чорниця)</name>
+</offer>
+<offer id="10004" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfa-cola-kola</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10004-400x400.png</picture>
+<vendorCode>hd10004</vendorCode>
+<name>Картридж Elf Bar Elfa Cola (Кола)</name>
+</offer>
+<offer id="10005" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfa-energy-energetik</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10005-400x400.png</picture>
+<vendorCode>hd10005</vendorCode>
+<name>Картридж Elf Bar Elfa Energy (Енергетик)</name>
+</offer>
+<offer id="26260" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfa-pink-lemonade-rozovyiy-limonad</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26260-400x400.png</picture>
+<vendorCode>hd26260</vendorCode>
+<name>Картридж Elf Bar Elfa Pink Lemonade (Рожевий Лимонад)</name>
+</offer>
+<offer id="10006" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfa-strawberry-ice-cream-klubnichnoe-morojenoe</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10006-400x400.png</picture>
+<vendorCode>hd10006</vendorCode>
+<name>Картридж Elf Bar Elfa Strawberry Ice Cream (Полуничне Морозиво)</name>
+</offer>
+<offer id="25142" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfx-06-om-3-ml</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25142-400x400.png</picture>
+<vendorCode>elfx-06</vendorCode>
+<name>Картридж Elf Bar ELFX 0.6 Ом 3 мл</name>
+</offer>
+<offer id="25143" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-elfx-08-om-3-ml</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25143-400x400.png</picture>
+<vendorCode>elfx-08</vendorCode>
+<name>Картридж Elf Bar ELFX 0.8 Ом 3 мл</name>
+</offer>
+<offer id="9997" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-fb1000-3-5-ml</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/9997-400x400.png</picture>
+<vendorCode>hd9997</vendorCode>
+<name>Картридж Elf Bar FB1000 (3,5 мл)</name>
+</offer>
+<offer id="18489" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-banana-ice-banan-led</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18489-400x400.png</picture>
+<vendorCode>hd18489</vendorCode>
+<name>Картридж Elf Bar P1 Banana ice (Банан Льод)</name>
+</offer>
+<offer id="9998" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-blue-razz-lemonade-goluboy-limonad</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/9998-400x400.png</picture>
+<vendorCode>hd9998</vendorCode>
+<name>Картридж Elf Bar P1 Blue Razz Lemonade (Блакитний Лимонад)</name>
+</offer>
+<offer id="9999" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-blueberry-chernika</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/9999-400x400.png</picture>
+<vendorCode>hd9999</vendorCode>
+<name>Картридж Elf Bar P1 Blueberry (Чорниця)</name>
+</offer>
+<offer id="18491" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-cool-mint-myata-led</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18491-400x400.png</picture>
+<vendorCode>hd18491</vendorCode>
+<name>Картридж Elf Bar P1 Cool mint (М&apos;ята Лід)</name>
+</offer>
+<offer id="18490" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-grape-vinograd</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18490-400x400.png</picture>
+<vendorCode>hd18490</vendorCode>
+<name>Картридж Elf Bar P1 Grape (Виноград)</name>
+</offer>
+<offer id="18488" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-kiwi-passion-fruit-guava-kivi-marakuyya-guava</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18488-400x400.png</picture>
+<vendorCode>hd18488</vendorCode>
+<name>Картридж Elf Bar P1 Kiwi passion fruit guava (Ківі Маракуя Гуава)</name>
+</offer>
+<offer id="18322" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-mango-mango</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18322-400x400.png</picture>
+<vendorCode>hd18322</vendorCode>
+<name>Картридж Elf Bar P1 Mango (Манго)</name>
+</offer>
+<offer id="18323" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-peach-ice-persik-led</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18323-400x400.png</picture>
+<vendorCode>hd18323</vendorCode>
+<name>Картридж Elf Bar P1 Peach Ice (Персик Лід)</name>
+</offer>
+<offer id="18487" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-pink-lemonade-rozovyiy-limonad</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18487-400x400.png</picture>
+<vendorCode>hd18487</vendorCode>
+<name>Картридж Elf Bar P1 Pink lemonade (Рожевий Лимонад)</name>
+</offer>
+<offer id="18324" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-banana-klubnika-banan</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18324-400x400.png</picture>
+<vendorCode>hd18324</vendorCode>
+<name>Картридж Elf Bar P1 Strawberry banana (Полуниця Банан)</name>
+</offer>
+<offer id="10000" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-ice-klubnika-ays</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10000-400x400.png</picture>
+<vendorCode>hd10000</vendorCode>
+<name>Картридж Elf Bar P1 Strawberry Ice (Полуниця Айс)</name>
+</offer>
+<offer id="10001" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-ice-cream-klubnichnoe-morojnoe</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/10001-400x400.png</picture>
+<vendorCode>hd10001</vendorCode>
+<name>Картридж Elf Bar P1 Strawberry Ice Cream (Полуничне Морозиво)</name>
+</offer>
+<offer id="18325" available="true">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-tobacco-tabak</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18325-400x400.png</picture>
+<vendorCode>hd18325</vendorCode>
+<name>Картридж Elf Bar P1 Tobacco (Тютюн)</name>
+</offer>
+<offer id="18326" available="false">
+<url>https://hardsmoke.store/kartridj-elf-bar-p1-watermelon-arbuz</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18326-400x400.png</picture>
+<vendorCode>hd18326</vendorCode>
+<name>Картридж Elf Bar P1 Watermelon (Кавун)</name>
+</offer>
+<offer id="18222" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-banana-banan</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18222-400x400.png</picture>
+<vendorCode>hd18222</vendorCode>
+<name>Картридж Elfa Banana (Банан)</name>
+</offer>
+<offer id="18223" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-blueberry-cotton-candy-chernika-sladkaya-vata</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18223-400x400.png</picture>
+<vendorCode>hd18223</vendorCode>
+<name>Картридж Elfa Blueberry Cotton Candy (Чорниця солодка вата)</name>
+</offer>
+<offer id="18224" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-blueberry-sour-raspberry-chernika-kislaya-malina</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18224-400x400.png</picture>
+<vendorCode>hd18224</vendorCode>
+<name>Картридж Elfa Blueberry Sour Raspberry (Чорниця Кисла малина)</name>
+</offer>
+<offer id="18225" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-cranberry-grape-klyukva-vinograd</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18225-400x400.png</picture>
+<vendorCode>hd18225</vendorCode>
+<name>Картридж Elfa Cranberry Grape (Журавлина Виноград)</name>
+</offer>
+<offer id="18226" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-kiwi-passion-fruit-guava-kivi-marakuyya-guava</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18226-400x400.png</picture>
+<vendorCode>hd18226</vendorCode>
+<name>Картридж Elfa Kiwi Passion Fruit Guava (Ківі Маракуя Гуава)</name>
+</offer>
+<offer id="18227" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-pink-lemonade-rozovyiy-limonad</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18227-400x400.png</picture>
+<vendorCode>hd18227</vendorCode>
+<name>Картридж Elfa Pink Lemonade (Рожевий лимонад)</name>
+</offer>
+<offer id="18228" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-strawberry-kiwi-klubnika-kivi</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18228-400x400.png</picture>
+<vendorCode>hd18228</vendorCode>
+<name>Картридж Elfa Strawberry Kiwi (Полуниця ківі)</name>
+</offer>
+<offer id="18229" available="false">
+<url>https://hardsmoke.store/kartridj-elfa-watermelon-arbuz</url>
+<price>142</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/18229-400x400.png</picture>
+<vendorCode>hd18229</vendorCode>
+<name>Картридж Elfa Watermelon (Кавун)</name>
+</offer>
+<offer id="21620" available="true">
+<url>https://hardsmoke.store/kartridj-geekvape-q-cartridge-06-om</url>
+<price>94</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21620-400x400.png</picture>
+<vendorCode>hd21620</vendorCode>
+<name>Картридж Geekvape Q Cartridge 0.6 Ом</name>
+</offer>
+<offer id="21621" available="true">
+<url>https://hardsmoke.store/kartridj-geekvape-q-cartridge-08-om</url>
+<price>107</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21621-400x400.png</picture>
+<vendorCode>hd21621</vendorCode>
+<name>Картридж Geekvape Q Cartridge 0.8 Ом</name>
+</offer>
+<offer id="20119" available="true">
+<url>https://hardsmoke.store/kartridjgeekvape-sonder-u-07-om-2ml</url>
+<price>98</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20119-400x400.png</picture>
+<vendorCode>hd20119</vendorCode>
+<name>Картридж Geekvape Sonder U 0.7 Ом 2 мл</name>
+</offer>
+<offer id="20118" available="true">
+<url>https://hardsmoke.store/kartridj-geekvape-sonder-u-11-om-2-ml</url>
+<price>98</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20118-400x400.png</picture>
+<vendorCode>hd20118</vendorCode>
+<name>Картридж Geekvape Sonder U 1.1 Ом 2 мл</name>
+</offer>
+<offer id="19559" available="true">
+<url>https://hardsmoke.store/kartridj-joyetech-evio-c-2-ml</url>
+<price>79</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19559-400x400.png</picture>
+<vendorCode>hd19559</vendorCode>
+<name>Картридж Joyetech Evio C 2 мл</name>
+</offer>
+<offer id="20884" available="false">
+<url>https://hardsmoke.store/kartridj-lost-vape-ursa-nano-cartridge-06-om</url>
+<price>99</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20884-400x400.png</picture>
+<vendorCode>hd20884</vendorCode>
+<name>Картридж Lost vape Ursa Nano Cartridge 0.6 Ом</name>
+</offer>
+<offer id="20885" available="true">
+<url>https://hardsmoke.store/kartridj-lost-vape-ursa-nano-cartridge-08-om</url>
+<price>92</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20885-400x400.png</picture>
+<vendorCode>hd20885</vendorCode>
+<name>Картридж Lost vape Ursa Nano Cartridge 0.8 Ом</name>
+</offer>
+<offer id="20886" available="true">
+<url>https://hardsmoke.store/kartridj-lost-vape-ursa-nano-cartridge-10-om</url>
+<price>99</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20886-400x400.png</picture>
+<vendorCode>hd20886</vendorCode>
+<name>Картридж Lost vape Ursa Nano Cartridge 1.0 Ом</name>
+</offer>
+<offer id="23928" available="false">
+<url>https://hardsmoke.store/kartridj-lost-vape-ursa-v2-06-om-25-ml</url>
+<price>99</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/23928-400x400.png</picture>
+<vendorCode>hd23928</vendorCode>
+<name>Картридж Lost Vape Ursa V2 0.6 ом 2.5 мл</name>
+</offer>
+<offer id="26753" available="true">
+<url>https://hardsmoke.store/kartridj-lost-vape-ursa-v3-06-om-25-ml</url>
+<price>99</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26753-400x400.png</picture>
+<vendorCode>hd26753</vendorCode>
+<name>Картридж Lost Vape Ursa V3 0.6 ом 2.5 мл</name>
+</offer>
+<offer id="26048" available="true">
+<url>https://hardsmoke.store/kartridj-oxva-xlim-04-om-2-ml</url>
+<price>104</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26048-400x400.png</picture>
+<vendorCode>oxiv-0-4</vendorCode>
+<name>Картридж OXVA XLIM 0.4 Ом 2 мл</name>
+</offer>
+<offer id="25050" available="true">
+<url>https://hardsmoke.store/kartridj-oxva-xlim-06-om-2-ml</url>
+<price>112</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25050-400x400.png</picture>
+<vendorCode>oxiv-0-6</vendorCode>
+<name>Картридж OXVA XLIM 0.6 Ом 2 мл</name>
+</offer>
+<offer id="25051" available="true">
+<url>https://hardsmoke.store/kartridj-oxva-xlim-08-om-2-ml</url>
+<price>112</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25051-400x400.png</picture>
+<vendorCode>oxiv-0-8</vendorCode>
+<name>Картридж OXVA XLIM 0.8 Ом 2 мл</name>
+</offer>
+<offer id="26049" available="true">
+<url>https://hardsmoke.store/kartridj-oxva-xlim-12-om-2-ml</url>
+<price>104</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26049-400x400.png</picture>
+<vendorCode>oxiv-1-2</vendorCode>
+<name>Картридж OXVA XLIM 1.2 Ом 2 мл</name>
+</offer>
+<offer id="19764" available="true">
+<url>https://hardsmoke.store/kartridj-smok-nord-4-80w-empty-rpm-2-pod-2-5-ml</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19764-400x400.png</picture>
+<vendorCode>hd19764</vendorCode>
+<name>Картридж Smok Nord 4 Empty RPM 2 Pod 4,5 мл</name>
+</offer>
+<offer id="19763" available="true">
+<url>https://hardsmoke.store/kartridj-smok-nord-4-80w-empty-rpm-pod-1-5-ml</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19763-400x400.png</picture>
+<vendorCode>hd19763</vendorCode>
+<name>Картридж Smok Nord 4 Empty RPM Pod 4,5 мл</name>
+</offer>
+<offer id="19762" available="false">
+<url>https://hardsmoke.store/kartridj-smok-nord-5-empty-pod</url>
+<price>77</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19762-400x400.png</picture>
+<vendorCode>hd19762</vendorCode>
+<name>Картридж Smok Nord 5 Empty Pod</name>
+</offer>
+<offer id="19988" available="true">
+<url>https://hardsmoke.store/kartridj-smok-nord-4-50w-empty-rpm-2-45ml</url>
+<price>64</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19988-400x400.png</picture>
+<vendorCode>hd19988</vendorCode>
+<name>Картридж Smok Nord 50w Empty LP2 Pod</name>
+</offer>
+<offer id="22081" available="true">
+<url>https://hardsmoke.store/kartridj-smok-nord-50w-empty-nord-pod</url>
+<price>77</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/22081-400x400.png</picture>
+<vendorCode>hd22081</vendorCode>
+<name>Картридж Smok NORD 50W Empty Nord Pod</name>
+</offer>
+<offer id="19987" available="true">
+<url>https://hardsmoke.store/kartridj-smok-nord-4-50w-empty-rpm-1-45ml</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19987-400x400.png</picture>
+<vendorCode>hd19987</vendorCode>
+<name>Картридж Smok Nord 50w Empty RPM 1 4.5 мл</name>
+</offer>
+<offer id="21668" available="false">
+<url>https://hardsmoke.store/kartridj-smok-novo-2-cartridge-dc-mtl-14-om</url>
+<price>105</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21668-400x400.png</picture>
+<vendorCode>hd21668</vendorCode>
+<name>Картридж Smok Novo 2 Cartridge DC MTL 1.4 Ом</name>
+</offer>
+<offer id="19758" available="false">
+<url>https://hardsmoke.store/kartridj-smok-novo-2-clear-pod-meshed-08-om</url>
+<price>106</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19758-400x400.png</picture>
+<vendorCode>hd19758</vendorCode>
+<name>Картридж Smok Novo 2 Clear Pod Meshed 0.8 Ом</name>
+</offer>
+<offer id="19989" available="true">
+<url>https://hardsmoke.store/kartridj-smok-novo-2-clear-pod-meshed-09-om</url>
+<price>106</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19989-400x400.png</picture>
+<vendorCode>hd19989</vendorCode>
+<name>Картридж Smok Novo 2 Clear Pod Meshed 0.9 Ом</name>
+</offer>
+<offer id="23627" available="false">
+<url>https://hardsmoke.store/kartridj-smok-novo-2-pod-mesh-10</url>
+<price>101</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/23627-400x400.png</picture>
+<vendorCode>snm-10</vendorCode>
+<name>Картридж Smok Novo 2 POD Mesh 1.0</name>
+</offer>
+<offer id="19560" available="false">
+<url>https://hardsmoke.store/kartridj-smok-novo-2x-cartridge-mesh-09-om</url>
+<price>101</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19560-1-400x400.png</picture>
+<vendorCode>hd19560</vendorCode>
+<name>Картридж Smok Novo 2X Cartridge Mesh 0.9 Ом</name>
+</offer>
+<offer id="19561" available="false">
+<url>https://hardsmoke.store/kartridj-smok-novo-2x-cartridge-meshed-mtl-08-om</url>
+<price>105</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19561-400x400.png</picture>
+<vendorCode>hd19561</vendorCode>
+<name>Картридж Smok Novo 2X Cartridge Meshed MTL 0.8 Ом</name>
+</offer>
+<offer id="19694" available="false">
+<url>https://hardsmoke.store/kartridj-smok-novo-3-cartridge-mesh-08-om</url>
+<price>97</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19694-400x400.png</picture>
+<vendorCode>hd19694</vendorCode>
+<name>Картридж Smok Novo 3 Cartridge Mesh 0.8 Ом</name>
+</offer>
+<offer id="19775" available="true">
+<url>https://hardsmoke.store/kartridj-smok-novo-4-empty-pod</url>
+<price>59</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19775-400x400.png</picture>
+<vendorCode>hd19775</vendorCode>
+<name>Картридж Smok Novo 4 Empty Pod</name>
+</offer>
+<offer id="19761" available="true">
+<url>https://hardsmoke.store/kartridj-smok-novo-4-mini-empty-pod</url>
+<price>65</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19761-400x400.png</picture>
+<vendorCode>hd19761</vendorCode>
+<name>Картридж Smok Novo 4 mini Empty Pod</name>
+</offer>
+<offer id="19760" available="true">
+<url>https://hardsmoke.store/kartridj-smok-novo-5-meshed-07-om-mtl-pod</url>
+<price>109</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19760-400x400.png</picture>
+<vendorCode>hd19760</vendorCode>
+<name>Картридж Smok Novo 5 Meshed 0.7 Ом MTL Pod</name>
+</offer>
+<offer id="26308" available="true">
+<url>https://hardsmoke.store/kartridj-smok-novo-mesh-08-om</url>
+<price>112</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26308-400x400.png</picture>
+<vendorCode>snm-08</vendorCode>
+<name>Картридж Smok Novo Mesh 0.8 Ом 3 мл</name>
+</offer>
+<offer id="19693" available="true">
+<url>https://hardsmoke.store/kartridj-smok-novo-x-cartridge-dc-mtl-08-om</url>
+<price>112</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19693-400x400.png</picture>
+<vendorCode>snm-mtl-08</vendorCode>
+<name>Картридж Smok Novo X Cartridge DC MTL 0.8 Ом</name>
+</offer>
+<offer id="19759" available="true">
+<url>https://hardsmoke.store/kartridj-smok-solus-2-meshed-09-om-pod</url>
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19759-400x400.png</picture>
+<vendorCode>hd19759</vendorCode>
+<name>Картридж Smok Solus 2 Meshed 0.9 Ом Pod</name>
+</offer>
+<offer id="19562" available="true">
+<url>https://hardsmoke.store/kartridj-suorin-ace-cartridge-10-om</url>
+<price>99</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19562-400x400.png</picture>
+<vendorCode>hd19562</vendorCode>
+<name>Картридж Suorin ACE Cartridge 1.0 Ом</name>
+</offer>
+<offer id="19690" available="false">
+<url>https://hardsmoke.store/kartridj-suorin-air-mini-10-om</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19690-400x400.png</picture>
+<vendorCode>hd19690</vendorCode>
+<name>Картридж Suorin Air Mini 1.0 Ом 2 мл</name>
+</offer>
+<offer id="22924" available="true">
+<url>https://hardsmoke.store/kartridj-suorin-air-mini-10-om-27-ml</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/22924-400x400.png</picture>
+<vendorCode>hd22924</vendorCode>
+<name>Картридж Suorin Air Mini 1.0 Ом 2.7 мл</name>
+</offer>
+<offer id="20121" available="false">
+<url>https://hardsmoke.store/kartridj-suorin-air-plus-cartridge-10-om-2-ml</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20121-400x400.png</picture>
+<vendorCode>hd20121</vendorCode>
+<name>Картридж Suorin Air Plus Cartridge 1.0 Ом 2 мл</name>
+</offer>
+<offer id="19563" available="true">
+<url>https://hardsmoke.store/kartridj-suorin-air-pro-10-om</url>
+<price>124</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19563-400x400.png</picture>
+<vendorCode>hd19563</vendorCode>
+<name>Картридж Suorin Air Pro 1.0 Ом</name>
+</offer>
+<offer id="25883" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-luxe-q-mesh-06-om-3-ml</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25883-400x400.png</picture>
+<vendorCode>vrs-luxe-3-0-6</vendorCode>
+<name>Картридж Vaporesso LUXE Q Mesh 0.6 Ом 3 мл</name>
+</offer>
+<offer id="25884" available="false">
+<url>https://hardsmoke.store/kartridj-vaporesso-luxe-q-mesh-08-om-3-ml</url>
+<price>92</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25884-400x400.png</picture>
+<vendorCode>vrs-luxe-3-0-8</vendorCode>
+<name>Картридж Vaporesso LUXE Q Mesh 0.8 Ом 3 мл</name>
+</offer>
+<offer id="26775" available="false">
+<url>https://hardsmoke.store/kartridj-vaporesso-luxe-q-mesh-12-om-3-ml</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26775-400x400.png</picture>
+<vendorCode>vrs-luxe-3-1-2</vendorCode>
+<name>Картридж Vaporesso LUXE Q Mesh 1.2 Ом 3 мл</name>
+</offer>
+<offer id="20880" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-06-om</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20880-400x400.png</picture>
+<vendorCode>vrs-2-0-6</vendorCode>
+<name>Картридж Vaporesso Xros 0.6 Ом 2 мл</name>
+</offer>
+<offer id="24109" available="false">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-07-om-3-ml</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/24109-400x400.png</picture>
+<vendorCode>vrs-3-0-7</vendorCode>
+<name>Картридж Vaporesso Xros 0.7 Ом 3 мл</name>
+</offer>
+<offer id="21284" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-08-om</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/21284-400x400.png</picture>
+<vendorCode>vrs-2-0-8</vendorCode>
+<name>Картридж Vaporesso Xros 0.8 Ом 2 мл</name>
+</offer>
+<offer id="24110" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-12-om-2-ml</url>
+<price>94</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/24110-400x400.png</picture>
+<vendorCode>vrs-2-1-2</vendorCode>
+<name>Картридж Vaporesso Xros 1.2 Ом 2 мл</name>
+</offer>
+<offer id="20881" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-10-om</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20881-400x400.png</picture>
+<vendorCode>vrs-2-1-0</vendorCode>
+<name>Картридж Vaporesso XROS cartridge 1.0 Ом 2 мл</name>
+</offer>
+<offer id="20120" available="false">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-mini-cartridge-10-om-2-ml</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20120-400x400.png</picture>
+<vendorCode>vrs-2-1-0m</vendorCode>
+<name>Картридж Vaporesso XROS Mini 1.0 Ом 2 мл</name>
+</offer>
+<offer id="25726" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-20-06-om-3-ml</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25726-400x400.png</picture>
+<vendorCode>vrs-3-0-6</vendorCode>
+<name>Картридж Vaporesso Xros Series COREX 2.0 0.6 Ом 3 мл</name>
+</offer>
+<offer id="25725" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-20-08-om-3-ml</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/25725-400x400.png</picture>
+<vendorCode>vrs-3-0-8</vendorCode>
+<name>Картридж Vaporesso Xros Series COREX 2.0 0.8 Ом 3 мл</name>
+</offer>
+<offer id="24637" available="true">
+<url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-20-mesh-04-om-3-ml</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/24637-400x400.png</picture>
+<vendorCode>vrs-3-0-4</vendorCode>
+<name>Картридж Vaporesso Xros Series COREX 2.0 Mesh 0.4 Ом 3 мл</name>
+</offer>
+<offer id="20882" available="false">
+<url>https://hardsmoke.store/kartridj-vaporesso-zero-s-10-om</url>
+<price>91</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20882-400x400.png</picture>
+<vendorCode>vrs-zero-s-1-0</vendorCode>
+<name>Картридж Vaporesso ZERO S 1.0 Ом</name>
+</offer>
+<offer id="20883" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-argus-pod-07-om</url>
+<price>109</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20883-400x400.png</picture>
+<vendorCode>hd20883</vendorCode>
+<name>Картридж Voopoo Argus Pod 0.7 Ом 2 мл</name>
+</offer>
+<offer id="26768" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-argus-pod-10-om-2-ml</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26768-400x400.png</picture>
+<vendorCode>hd26768</vendorCode>
+<name>Картридж Voopoo Argus Pod 1.0 Ом 2 мл</name>
+</offer>
+<offer id="20122" available="false">
+<url>https://hardsmoke.store/kartridj-voopoo-argus-pod-12-om-2-ml</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20122-400x400.png</picture>
+<vendorCode>hd20122</vendorCode>
+<name>Картридж Voopoo Argus Pod 1.2 Ом 2 мл</name>
+</offer>
+<offer id="26767" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-argus-pod-top-filling-04-om-3-ml</url>
+<price>98</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26767-400x400.png</picture>
+<vendorCode>hd26767</vendorCode>
+<name>Картридж Voopoo Argus Pod Top Filling 0.4 Ом 3 мл</name>
+</offer>
+<offer id="26552" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-argus-pod-top-filling-07-om-3-ml</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26552-400x400.png</picture>
+<vendorCode>hd26552</vendorCode>
+<name>Картридж Voopoo Argus Pod Top Filling 0.7 Ом 3 мл</name>
+</offer>
+<offer id="26553" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-argus-pod-top-filling-10-om-3-ml</url>
+<price>89</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26553-400x400.png</picture>
+<vendorCode>hd26553</vendorCode>
+<name>Картридж Voopoo Argus Pod Top Filling 1.0 Ом 3 мл</name>
+</offer>
+<offer id="20123" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-vinci-3-empty-4ml</url>
+<price>96</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/20123-400x400.png</picture>
+<vendorCode>hd20123</vendorCode>
+<name>Картридж Voopoo Vinci 3 Empty 4 мл</name>
+</offer>
+<offer id="19691" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-vinci-series-v2-08-om</url>
+<price>104</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19691-400x400.png</picture>
+<vendorCode>hd19691</vendorCode>
+<name>Картридж Voopoo Vinci Series V2 0.8 Ом</name>
+</offer>
+<offer id="19692" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-vinci-series-v2-12-om</url>
+<price>104</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19692-400x400.png</picture>
+<vendorCode>hd19692</vendorCode>
+<name>Картридж Voopoo Vinci Series V2 1.2 Ом</name>
+</offer>
+<offer id="19564" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-vmate-v2-07-om</url>
+<price>94</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19564-400x400.png</picture>
+<vendorCode>hd19564</vendorCode>
+<name>Картридж Voopoo VMATE V2 0.7 Ом</name>
+</offer>
+<offer id="19565" available="true">
+<url>https://hardsmoke.store/kartridj-voopoo-vmate-v2-12-om</url>
+<price>94</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/19565-400x400.png</picture>
+<vendorCode>hd19565</vendorCode>
+<name>Картридж Voopoo VMATE V2 1.2 Ом</name>
+</offer>
+<offer id="26650" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-vse-bude-ukra%D1%97na</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26650-400x400.png</picture>
+<vendorCode>hd26650</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Все буде Україна</name>
+</offer>
+<offer id="26651" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-kalyann%D1%96-sili-ukra%D1%97ni</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26651-400x400.png</picture>
+<vendorCode>hd26651</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Кальянні сили України</name>
+</offer>
+<offer id="26652" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-bananas-belo-jeltyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26652-400x400.png</picture>
+<vendorCode>hd26652</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Bananas (Біло-жовтий)</name>
+</offer>
+<offer id="26653" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-black-chernyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26653-400x400.png</picture>
+<vendorCode>hd26653</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Black (Чорний)</name>
+</offer>
+<offer id="26654" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-blue-rose-siniy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26654-400x400.png</picture>
+<vendorCode>hd26654</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Blue Rose (Синій)</name>
+</offer>
+<offer id="26655" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-code-red-krasnyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26655-400x400.png</picture>
+<vendorCode>hd26655</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Code Red (Червоний)</name>
+</offer>
+<offer id="26656" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-donuts-belo-rozovyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26656-400x400.png</picture>
+<vendorCode>hd26656</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Donuts (Біло-рожевий)</name>
+</offer>
+<offer id="26657" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-fire-oranjevo-chernyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26657-400x400.png</picture>
+<vendorCode>hd26657</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Fire (Оранжево-чорний)</name>
+</offer>
+<offer id="26658" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-floral-raznotsvetnyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26658-400x400.png</picture>
+<vendorCode>hd26658</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Floral (Різнокольоровий)</name>
+</offer>
+<offer id="26659" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-gold-ornament-cherno-zolotoy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26659-400x400.png</picture>
+<vendorCode>hd26659</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Gold Ornament (Чорно-золотий)</name>
+</offer>
+<offer id="26660" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-gradient-fioletovo-rozovyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26660-400x400.png</picture>
+<vendorCode>hd26660</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Gradient (Фіолетово-рожевий)</name>
+</offer>
+<offer id="26400" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-graffiti-blue-sine-chernyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26400-400x400.png</picture>
+<vendorCode>hd26400</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Graffiti Blue (Синьо-чорний)</name>
+</offer>
+<offer id="26399" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-graffiti-red-krasno-chernyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26399-400x400.png</picture>
+<vendorCode>hd26399</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Graffiti Red (Червоно-чорний)</name>
+</offer>
+<offer id="26661" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-green-tea-zelenyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26661-400x400.png</picture>
+<vendorCode>hd26661</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Green Tea (Зелений)</name>
+</offer>
+<offer id="26405" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-hello-kitty-hellou-kitti</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26405-400x400.png</picture>
+<vendorCode>hd26405</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Hello Kitty (Хеллоу Кітті)</name>
+</offer>
+<offer id="26662" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-i%60m-ukrainian-ya-ukra%D1%97nets</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26662-400x400.png</picture>
+<vendorCode>hd26662</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka I`m ukrainian (Я українець)</name>
+</offer>
+<offer id="26663" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-lemons-jeltyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26663-400x400.png</picture>
+<vendorCode>hd26663</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Lemons (Жовтий)</name>
+</offer>
+<offer id="26664" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-palms-siniy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26664-400x400.png</picture>
+<vendorCode>hd26664</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Palms (Синій)</name>
+</offer>
+<offer id="26665" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-rick-and-morty-zelenyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26665-400x400.png</picture>
+<vendorCode>hd26665</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Rick and Morty (Зелений)</name>
+</offer>
+<offer id="26403" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-scratch-black-chernyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26403-400x400.png</picture>
+<vendorCode>hd26403</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Scratch Black (Чорний)</name>
+</offer>
+<offer id="26404" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-scratch-white-belyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26404-400x400.png</picture>
+<vendorCode>hd26404</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Scratch White (Білий)</name>
+</offer>
+<offer id="26402" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-skull-cherepa</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26402-400x400.png</picture>
+<vendorCode>hd26402</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Skull (Черепа)</name>
+</offer>
+<offer id="26666" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-space-cherno-oranjevyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26666-400x400.png</picture>
+<vendorCode>hd26666</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Space (Чорно-оранжевий)</name>
+</offer>
+<offer id="26401" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-stickers-raznotsvetnyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26401-400x400.png</picture>
+<vendorCode>hd26401</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Stickers (Різнокольоровий)</name>
+</offer>
+<offer id="26667" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-tropic-zelenyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26667-400x400.png</picture>
+<vendorCode>hd26667</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka Tropic (Зелений)</name>
+</offer>
+<offer id="26668" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-white-belyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26668-400x400.png</picture>
+<vendorCode>hd26668</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Personalka White (Білий)</name>
+</offer>
+<offer id="26669" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-scratch-blue-siniy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26669-400x400.png</picture>
+<vendorCode>hd26669</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Scratch Blue (Синій)</name>
+</offer>
+<offer id="26671" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-scratch-green-zelenyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26671-400x400.png</picture>
+<vendorCode>hd26671</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Scratch Green (Зелений)</name>
+</offer>
+<offer id="26672" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-scratch-pink-fioletovo-rozovyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26672-400x400.png</picture>
+<vendorCode>hd26672</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Scratch Pink (Фіолетово-рожевий)</name>
+</offer>
+<offer id="26670" available="true">
+<url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-scratch-yellow-jelto-krasnyiy</url>
+<price>70</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/26670-400x400.png</picture>
+<vendorCode>hd26670</vendorCode>
+<name>Стрічка для POD із силіконовим кільцем Scratch Yellow (Жовто-червоний)</name>
 </offer>
 </offers>
 </shop>
