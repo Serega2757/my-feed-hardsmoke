@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-03 12:16">
+<yml_catalog date="2025-09-03 13:16">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -19,7 +19,7 @@
 <category id="9">Kalyani</category>
 </categories>
 <offers>
-<offer id="21541" available="true">
+<offer id="21541" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-bluerazz-blyurazz-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
