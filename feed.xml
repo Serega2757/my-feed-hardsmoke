@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-03 15:16">
+<yml_catalog date="2025-09-03 16:16">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -19,7 +19,7 @@
 <category id="9">Kalyani</category>
 </categories>
 <offers>
-<offer id="21541" available="false">
+<offer id="21541" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-bluerazz-blyurazz-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -730,7 +730,7 @@
 <vendorCode>char-30-65-3</vendorCode>
 <name>Набір для самозамішування Chaser Blue Raspberry Ultra (Чорниця Малина, 65 мг, 30 мл)</name>
 </offer>
-<offer id="23290" available="false">
+<offer id="23290" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-50-mg-10-ml</url>
 <price>81</price>
 <currencyId>UAH</currencyId>
@@ -901,7 +901,7 @@
 <vendorCode>hd23312</vendorCode>
 <name>Набір для самозамішування Chaser Kiwi Ice Ultra (Ківі, 50 мг, 10 мл)</name>
 </offer>
-<offer id="23294" available="false">
+<offer id="23294" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-kiwi-balance-kivi-50-mg-10-ml</url>
 <price>81</price>
 <currencyId>UAH</currencyId>
@@ -2332,7 +2332,7 @@
 <vendorCode>hd25516</vendorCode>
 <name>Набір для самозамішування Chaser Raspberry Ultra (Малина, 50 мг, 30 мл)</name>
 </offer>
-<offer id="25696" available="true">
+<offer id="25696" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-raspberry-balance-malina-65-mg-10-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -11737,7 +11737,7 @@
 <vendorCode>hd18159</vendorCode>
 <name>Рідина Boneshaker salt Mean Machine (Мін Машин, 25 мг, 15 мл)</name>
 </offer>
-<offer id="18160" available="false">
+<offer id="18160" available="true">
 <url>https://hardsmoke.store/jidkost-boneshaker-salt-pink-slips-pink-slips-25-mg-15-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -14950,7 +14950,7 @@
 <vendorCode>hd20631</vendorCode>
 <name>Рідина Chaser Nova Red Bull&amp;Blue Raspberry (Енергетик Чорниця Малина, 65 мг, 30 мл)</name>
 </offer>
-<offer id="18931" available="true">
+<offer id="18931" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-spearmint-myata-50mg-15ml</url>
 <price></price>
 <currencyId>UAH</currencyId>
@@ -18343,7 +18343,7 @@
 <vendorCode>ws39187</vendorCode>
 <name>Рідина Elfliq Apple Peach (Яблуко Персик, 30 мл)</name>
 </offer>
-<offer id="26370" available="true">
+<offer id="26370" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-apple-pear-yabloko-grusha-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -18541,7 +18541,7 @@
 <vendorCode>ws39187-15</vendorCode>
 <name>Рідина Elfliq Cherry cola (Вишнева кола, 50 мг, 30 мл)</name>
 </offer>
-<offer id="24907" available="true">
+<offer id="24907" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-cherry-lemon-peach-vishnya-limon-persik-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -18874,7 +18874,7 @@
 <vendorCode>ws39187-19</vendorCode>
 <name>Рідина Elfliq Pina Colada (Піна Колада, 50 мг, 30 мл)</name>
 </offer>
-<offer id="26379" available="true">
+<offer id="26379" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-pineapple-colada-pina-kolada-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -18946,7 +18946,7 @@
 <vendorCode>ws39187-9</vendorCode>
 <name>Рідина Elfliq Pink Lemonade (Рожевий лимонад, 30 мл)</name>
 </offer>
-<offer id="26381" available="true">
+<offer id="26381" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-pink-lemonade-soda-rozovyiy-limonad-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -19045,7 +19045,7 @@
 <vendorCode>hd26217</vendorCode>
 <name>Рідина Elfliq Sour Watermelon Gummy (Кисла Кавунова Жуйка, 50 мг, 30 мл)</name>
 </offer>
-<offer id="19784" available="true">
+<offer id="19784" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-spearmint-myata-10ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -19189,7 +19189,7 @@
 <vendorCode>ws39187-26</vendorCode>
 <name>Рідина Elfliq Watermelon Cherry (Кавун Вишня, 50 мг, 30 мл)</name>
 </offer>
-<offer id="24487" available="false">
+<offer id="24487" available="true">
 <url>https://hardsmoke.store/jidkost-flavorlab-fl350-watermelon-lemon-limon-arbuz-50-mg-15-ml</url>
 <price>94</price>
 <currencyId>UAH</currencyId>
@@ -20782,7 +20782,7 @@
 <vendorCode>hd22282</vendorCode>
 <name>Рідина In Bottle Salt Banana Milk (Банан Молоко, 50 мг, 30 мл)</name>
 </offer>
-<offer id="21499" available="false">
+<offer id="21499" available="true">
 <url>https://hardsmoke.store/jidkost-in-bottle-salt-basilade-bazilad-50-mg-30-ml</url>
 <price>183</price>
 <currencyId>UAH</currencyId>
@@ -20962,7 +20962,7 @@
 <vendorCode>hd21488</vendorCode>
 <name>Рідина In Bottle Salt Coconut Pandan (Коконат Пандан, 50 мг, 30 мл)</name>
 </offer>
-<offer id="21498" available="false">
+<offer id="21498" available="true">
 <url>https://hardsmoke.store/jidkost-in-bottle-salt-corn-kukuruza-50-mg-30-ml</url>
 <price>183</price>
 <currencyId>UAH</currencyId>
@@ -21187,7 +21187,7 @@
 <vendorCode>hd19058</vendorCode>
 <name>Рідина In Bottle Salt Lychee (Лічі, 50 мг, 30 мл)</name>
 </offer>
-<offer id="21495" available="false">
+<offer id="21495" available="true">
 <url>https://hardsmoke.store/jidkost-in-bottle-salt-makapuno-makapuno-50-mg-30-ml</url>
 <price>183</price>
 <currencyId>UAH</currencyId>
@@ -25552,7 +25552,7 @@
 <vendorCode>vrs-2-1-2</vendorCode>
 <name>Картридж Vaporesso Xros 1.2 Ом 2 мл</name>
 </offer>
-<offer id="20881" available="true">
+<offer id="20881" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-10-om</url>
 <price>100</price>
 <currencyId>UAH</currencyId>
