@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-15 20:41">
+<yml_catalog date="2025-09-15 21:41">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -111329,7 +111329,7 @@
 <img alt="???????? Smok RPM 3 Meshed 0.23 ?? Coil" src="https://hardsmoke.store/image/cache/catalog/exist/19991-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19766" available="true">
+<offer id="19766" available="false">
 <url>https://hardsmoke.store/isparitel-voopoo-pnp-dw60-06-om</url>
 <price>96</price>
 <currencyId>UAH</currencyId>
@@ -113919,7 +113919,7 @@
 <img alt="???????? Smok Novo 5 Meshed 0.7 ?? MTL Pod" src="https://hardsmoke.store/image/cache/catalog/exist/19760-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26308" available="true">
+<offer id="26308" available="false">
 <url>https://hardsmoke.store/kartridj-smok-novo-mesh-08-om</url>
 <price>97</price>
 <currencyId>UAH</currencyId>
@@ -114479,7 +114479,7 @@
 <img alt="???????? Vaporesso LUXE Q Mesh 1.2 ?? 3 ??" src="https://hardsmoke.store/image/cache/catalog/exist/26775-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20880" available="true">
+<offer id="20880" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-06-om</url>
 <price>92</price>
 <currencyId>UAH</currencyId>
