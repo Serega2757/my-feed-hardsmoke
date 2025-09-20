@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-20 09:41">
+<yml_catalog date="2025-09-20 10:41">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -699,7 +699,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Vanilla Tobacco (Тютюн Ваніль, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21553-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21554" available="false">
+<offer id="21554" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-vero-tobacco-tabak-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -1177,7 +1177,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="26925" available="false">
+<offer id="26925" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-chereshnya-ultra-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -2096,7 +2096,7 @@
 <img alt="Набір для самозамішування Chaser Black Blue Razz Apple Ultra (Блю Разз Епл, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24845-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25332" available="true">
+<offer id="25332" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-blue-razz-apple-balance-blyu-razz-epl-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -2705,7 +2705,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="26931" available="false">
+<offer id="26931" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-multifruit-ultra-multifrukt-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -2873,7 +2873,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="26933" available="false">
+<offer id="26933" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-sour-plum-lime-ultra-multifrukt-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -3772,7 +3772,7 @@
 <img alt="Набір для самозамішування Chaser Blueberry Menthol Ultra (Чорниця Ментол, 65 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25685-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25486" available="false">
+<offer id="25486" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -4567,7 +4567,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="26921" available="false">
+<offer id="26921" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grapefruit-ultra-greypfrut-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -27856,7 +27856,7 @@
 <img alt="Набір для самозамішування Get High Berries Duet (Берріс Дует, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24054-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24055" available="true">
+<offer id="24055" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-berry-classic-berri-klassik-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -28376,7 +28376,7 @@
 <img alt="Набір для самозамішування Get High Energy Booster (Енерджі Бустер, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24064-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24065" available="true">
+<offer id="24065" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-forest-berries-yagodyi-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -28496,7 +28496,7 @@
 <img alt="Набір для самозамішування Get High Grape Mood (Грейп Муд, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24067-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24068" available="true">
+<offer id="24068" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-green-red-mix-grin-red-miks-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -35456,7 +35456,7 @@
 <img alt="Набір для самозамішування In Bottle Salt Cucumbero (Кукумберо, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23094-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23092" available="true">
+<offer id="23092" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-in-bottle-salt-dubacco-dubakko-50-mg-30-ml</url>
 <price>195</price>
 <currencyId>UAH</currencyId>
@@ -46776,7 +46776,7 @@
 <img alt="Набір для самозамішування Wick&amp;Wire salt Arctic Black V2 (Арктик блек, 25 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21984-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21985" available="false">
+<offer id="21985" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-wick-wire-salt-arctic-black-v2-arktik-blek-50-mg-30-ml</url>
 <price>144</price>
 <currencyId>UAH</currencyId>
@@ -61452,7 +61452,7 @@
 <img alt="Рідина Chaser Lux Grape Mint Balance (Виноград М'ята, 50 мг, 11 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21199-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21290" available="true">
+<offer id="21290" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-grape-mint-balance-vinograd-myata-65-mg-11-ml</url>
 <price>0</price>
 <currencyId>UAH</currencyId>
@@ -71730,7 +71730,7 @@
 <img alt="Рідина Creepy Apple (Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23271-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23258" available="true">
+<offer id="23258" available="false">
 <url>https://hardsmoke.store/jidkost-creepy-berry-halls-yagodnyiy-hols-50-mg-15-ml</url>
 <price>87</price>
 <currencyId>UAH</currencyId>
@@ -84130,7 +84130,7 @@
 <img alt="Рідина Elfliq Elfbull Ice️ (Ельфбулл Айс️, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19780-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18705" available="true">
+<offer id="18705" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-elfbull-ice%EF%B8%8F-30ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -84849,7 +84849,7 @@
 <img alt="Рідина Elfliq Peach ice (Персик Лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21069-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22927" available="false">
+<offer id="22927" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pina-colada-pina-kolada-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -84929,7 +84929,7 @@
 <img alt="Рідина Elfliq Pina Colada (Піна Колада, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23527-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26379" available="false">
+<offer id="26379" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pineapple-colada-pina-kolada-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -85089,7 +85089,7 @@
 <img alt="Рідина Elfliq Pineapple Ice (Ананас Льод, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26215-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19782" available="false">
+<offer id="19782" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pink-grapefruit-rozovyiy-greypfrut-10ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -85249,7 +85249,7 @@
 <img alt="Рідина Elfliq Pink Lemonade (Рожевий лимонад, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18708-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26381" available="false">
+<offer id="26381" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pink-lemonade-soda-rozovyiy-limonad-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -85729,7 +85729,7 @@
 <img alt="Рідина Elfliq Spearmint (М'ята, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19784-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18709" available="true">
+<offer id="18709" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-spearmint-myata-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -85969,7 +85969,7 @@
 <img alt="Рідина Elfliq Strawberry ice (Полуниця Льод, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21070-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21063" available="false">
+<offer id="21063" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-kiwi-klubnika-kivi-50-mg-10-ml</url>
 <price>117</price>
 <currencyId>UAH</currencyId>
@@ -86049,7 +86049,7 @@
 <img alt="Рідина Elfliq Strawberry kiwi (Полуниця Ківі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21072-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23529" available="true">
+<offer id="23529" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-raspberry-cherry-ice-klubnika-malina-vishnya-led-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -86169,7 +86169,7 @@
 <img alt="Рідина Elfliq Strawberry snow (Полуничне Морозиво, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21071" available="true">
+<offer id="21071" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-snow-klubnichnoe-morojenoe-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -88449,7 +88449,7 @@
 <img alt="Рідина Flip salt Tobacco (Тютюн, 25 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26032-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19597" available="false">
+<offer id="19597" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-tobacco-tabak-50mg-30ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -96969,7 +96969,7 @@
 <img alt="Рідина In Bottle Salt Sweet Rice (Солодкий рис, 30 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22271-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21491" available="true">
+<offer id="21491" available="false">
 <url>https://hardsmoke.store/jidkost-in-bottle-salt-sweet-rice-sladkiy-ris-50-mg-30-ml</url>
 <price>183</price>
 <currencyId>UAH</currencyId>
@@ -99809,7 +99809,7 @@
 <img alt="Рідина Lucky Cactus Guava Kiwi (Кактус Гуава Ківі, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22775-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22785" available="false">
+<offer id="22785" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>189</price>
 <currencyId>UAH</currencyId>
@@ -100529,7 +100529,7 @@
 <img alt="Рідина Lucky Green tea Lemonade (Зелений чай Лимонад, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26301-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25975" available="false">
+<offer id="25975" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-green-tea-lemonade-zelenyiy-chay-limonad-50-mg-30-ml</url>
 <price>189</price>
 <currencyId>UAH</currencyId>
@@ -101489,7 +101489,7 @@
 <img alt="Рідина Lucky Spearmint (М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20230-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19607" available="false">
+<offer id="19607" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-mint-myata-50mg-30ml</url>
 <price>189</price>
 <currencyId>UAH</currencyId>
@@ -101729,7 +101729,7 @@
 <img alt="Рідина Lucky Wild Berries (Дикі ягоди, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22782-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22792" available="false">
+<offer id="22792" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-wild-berries-dikie-yagodyi-50-mg-30-ml</url>
 <price>189</price>
 <currencyId>UAH</currencyId>
@@ -116507,7 +116507,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="21790" available="false">
+<offer id="21790" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-blueberry-bubble-gum-chernika-jvachka-odnorazovyiy-pod</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -116619,7 +116619,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Lychee Black Currant (Лічі Чорна Смородина) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="21792" available="false">
+<offer id="21792" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-mixed-berry-miks-yagod-odnorazovyiy-pod</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -117429,7 +117429,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Ice King 30000 Watermelon Ice (Кавун Льод) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7937" available="true">
+<offer id="7937" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-grape-vinograd-1500-zatyajek</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -117525,7 +117525,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 1500 Sour Apple (Кисле Яблуко) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7942" available="false">
+<offer id="7942" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-strawberry-energy-klubnichnyiy-energetik-1500-zatyajek</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -117573,7 +117573,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 2000 Apple Peach (Яблуко Персик) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="21648" available="true">
+<offer id="21648" available="false">
 <url>https://hardsmoke.store/elf-bar-lux-2000-blue-razz-ice-blyu-razz-ays-odnorazovyiy-pod</url>
 <price>330</price>
 <currencyId>UAH</currencyId>
@@ -117863,7 +117863,7 @@
 <name>Elf Bar Pi9000 Strawberry ice (Полуниця Лід) Одноразовий POD</name>
 <description><![CDATA[<p><img alt="Elf Bar Pi9000 Strawberry ice" class="img-responsive-left" src="https://hardsmoke.store/image/catalog/strawberry ice.jpg" title=""> Elf Bar Pi9000 Strawberry Ice (Полуниця Лід) поєднує в собі яскравий смак стиглої полуниці та освіжаючу прохолоду Ліду. Цей аромат подарує вам миті солодкої насолоди з кожним вдихом.</img></p> <h2>Легкість та зручність Elf Bar Pi9000 Strawberry Ice</h2> <p><img alt="POD-система Elf Bar Strawberry ice" class="img-responsive-right" src="https://hardsmoke.store/image/catalog/strawberry ice2.jpg" title=""> Одноразовий POD розрахований на 9000 затяжок, забезпечуючи тривале використання без турбот про підзарядку або заправку. Компактний розмір дозволяє взяти його з собою будь-куди, насолоджуючись смаком у будь-який момент.</img></p> <h2>Надійна якість Elf Bar Pi9000 Strawberry ice</h2> <p>Одноразка Elf Bar Pi9000 Strawberry Ice створена з використанням передових технологій, що гарантує насичений та стабільний смак протягом усього часу використання. Це ідеальне рішення для тих, хто цінує якість та зручність в одному пристрої.</p> <p>Замовити <a href="https://hardsmoke.store/katalog/esigareti/mnogorazovye-podsistemy/">електронні сигарети</a> та <a href="https://hardsmoke.store/katalog/kalyani">кальяни</a> ви можете у нашому інтернет-магазині <a href="https://hardsmoke.store/">Hardsmoke</a></p>]]></description>
 </offer>
-<offer id="26878" available="false">
+<offer id="26878" available="true">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-alpine-mint-alpiyskaya-myata-odnorazovyiy-pod</url>
 <price>448</price>
 <currencyId>UAH</currencyId>
@@ -117927,7 +117927,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Green Mango Guava (Зелене Манго Гуава) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26838" available="false">
+<offer id="26838" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-kiwi-watermelon-green-apple-kivi-arbuz-zelenoe-yabloko-odnorazovyiy-pod</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -117975,7 +117975,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Orange Passion Fruit (Апельсин Маракуя) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26839" available="false">
+<offer id="26839" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-peach-lime-persik-laym-odnorazovyiy-pod</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -118023,7 +118023,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Sour Strawberry Grape (Кисла Полуниця Виноград) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26837" available="false">
+<offer id="26837" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-strawberry-cherry-raspberry-klubnika-vishnya-malina-odnorazovyiy-pod</url>
 <price>283</price>
 <currencyId>UAH</currencyId>
@@ -118263,7 +118263,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar GH 23000 Watermelon Ice (Кавун Льод) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="20940" available="true">
+<offer id="20940" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-3-nano-kit-1000-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>708</price>
 <currencyId>UAH</currencyId>
