@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-30 12:41">
+<yml_catalog date="2025-09-30 13:41">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -21530,7 +21530,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Corona (Корона, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24569-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24550" available="true">
+<offer id="24550" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-imperial-imperial-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -28330,7 +28330,7 @@
 <img alt="Набір для самозамішування Get High Cherry Peach Cocktail (Вишня Персик, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26587" available="true">
+<offer id="26587" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-citrus-burst-tsitrus-berst-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -28650,7 +28650,7 @@
 <img alt="Набір для самозамішування Get High Forest Berries (Ягоди, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24065-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24066" available="true">
+<offer id="24066" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-fruity-song-fruti-song-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -47250,7 +47250,7 @@
 <img alt="Набір для самозамішування Wick&amp;Wire salt Frozen Forest V2 (Фроузен форест, 25 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21988-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21989" available="true">
+<offer id="21989" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-wick-wire-salt-frozen-forest-v2-frouzen-forest-50-mg-30-ml</url>
 <price>144</price>
 <currencyId>UAH</currencyId>
@@ -52211,7 +52211,7 @@
 </offer>
 <offer id="18476" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-banana-strawberry-banan-klubnika-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18476-400x400.png</picture>
@@ -52251,7 +52251,7 @@
 </offer>
 <offer id="18480" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-black-currant-kiwi-kivi-smorodina-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18480-400x400.png</picture>
@@ -52291,7 +52291,7 @@
 </offer>
 <offer id="18479" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-chocolate-nuts-shokolad-oreh-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18479-400x400.png</picture>
@@ -52331,7 +52331,7 @@
 </offer>
 <offer id="18483" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-grapefruit-feijoa-greypfrut-feyhoa-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18483-400x400.png</picture>
@@ -52371,7 +52371,7 @@
 </offer>
 <offer id="18481" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-green-apple-raspberry-zelenoe-yabloko-malina-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18481-400x400.png</picture>
@@ -52411,7 +52411,7 @@
 </offer>
 <offer id="18477" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-green-berry-mango-zelenyie-yagodyi-mango-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18477-400x400.png</picture>
@@ -52451,7 +52451,7 @@
 </offer>
 <offer id="18478" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-honey-melon-icecream-dyinya-morojenoe-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18478-400x400.png</picture>
@@ -52491,7 +52491,7 @@
 </offer>
 <offer id="18482" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-pear-pineapple-grusha-ananas-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18482-400x400.png</picture>
@@ -52531,7 +52531,7 @@
 </offer>
 <offer id="18484" available="false">
 <url>https://hardsmoke.store/jidkost-bevape-salt-watermelon-lemonade-arbuznyiy-limonad-30-ml</url>
-<price>130</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18484-400x400.png</picture>
@@ -52571,7 +52571,7 @@
 </offer>
 <offer id="24898" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-ambrosia-sweet-ambroziya-svit-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24898-400x400.png</picture>
@@ -52611,7 +52611,7 @@
 </offer>
 <offer id="24897" available="true">
 <url>https://hardsmoke.store/jidkost-black-tag-berry-punch-beri-panch-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24897-400x400.png</picture>
@@ -52651,7 +52651,7 @@
 </offer>
 <offer id="19172" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-bluemist-blyumist-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19172-400x400.png</picture>
@@ -52691,7 +52691,7 @@
 </offer>
 <offer id="24899" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-caribbean-vibe-karibbean-vayb-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24899-400x400.png</picture>
@@ -52731,7 +52731,7 @@
 </offer>
 <offer id="19173" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-cola-lemon-kola-limon-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19173-400x400.png</picture>
@@ -52771,7 +52771,7 @@
 </offer>
 <offer id="24904" available="true">
 <url>https://hardsmoke.store/jidkost-black-tag-cuba-libre-kuba-libre-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24904-400x400.png</picture>
@@ -52811,7 +52811,7 @@
 </offer>
 <offer id="19174" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-exotic-ekzotik-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19174-400x400.png</picture>
@@ -52851,7 +52851,7 @@
 </offer>
 <offer id="19175" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-grapefruit-lemonade-greypfrut-limonad-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19175-400x400.png</picture>
@@ -52891,7 +52891,7 @@
 </offer>
 <offer id="19176" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-green-apple-peach-zelenoe-yabloko-persik-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19176-400x400.png</picture>
@@ -52931,7 +52931,7 @@
 </offer>
 <offer id="24900" available="true">
 <url>https://hardsmoke.store/jidkost-black-tag-green-smoothie-grin-smuzi-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24900-400x400.png</picture>
@@ -52971,7 +52971,7 @@
 </offer>
 <offer id="19177" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-kiwi-guava-kivi-guava-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19177-400x400.png</picture>
@@ -53011,7 +53011,7 @@
 </offer>
 <offer id="24903" available="true">
 <url>https://hardsmoke.store/jidkost-black-tag-merry-rose-meri-rouz-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24903-400x400.png</picture>
@@ -53051,7 +53051,7 @@
 </offer>
 <offer id="19178" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-pear-lime-grapefruit-grusha-laym-greypfrut-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19178-400x400.png</picture>
@@ -53091,7 +53091,7 @@
 </offer>
 <offer id="19179" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-pink-lemonade-rozovyiy-limonad-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19179-400x400.png</picture>
@@ -53131,7 +53131,7 @@
 </offer>
 <offer id="24906" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-rasberry-red-bull-malinovyiy-energetik-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24906-400x400.png</picture>
@@ -53171,7 +53171,7 @@
 </offer>
 <offer id="19180" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-raspberry-lemon-malina-limon-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19180-400x400.png</picture>
@@ -53211,7 +53211,7 @@
 </offer>
 <offer id="19181" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-sprite-sprayt-15ml</url>
-<price>77</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19181-400x400.png</picture>
@@ -53251,7 +53251,7 @@
 </offer>
 <offer id="24902" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-tea-assorti-ti-assorti-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24902-400x400.png</picture>
@@ -53291,7 +53291,7 @@
 </offer>
 <offer id="24905" available="true">
 <url>https://hardsmoke.store/jidkost-black-tag-tropical-nectar-tropikal-nektar-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24905-400x400.png</picture>
@@ -53331,7 +53331,7 @@
 </offer>
 <offer id="24901" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-watermelon-barbaris-arbuz-barbaris-50-mg-30-ml</url>
-<price>165</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24901-400x400.png</picture>
@@ -55208,7 +55208,7 @@
 <img alt="Рідина Chaser Black Bali (Балі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20568-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="21823" available="true">
+<offer id="21823" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-bali-balance-bali-60-mg-30-ml</url>
 <price>0</price>
 <currencyId>UAH</currencyId>
@@ -70444,7 +70444,7 @@
 <img alt="Рідина Chaser Watermelon Balance (Кавун, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21224-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21906" available="true">
+<offer id="21906" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-watermelon-balance-arbuz-60-mg-10-ml</url>
 <price>156</price>
 <currencyId>UAH</currencyId>
@@ -83484,7 +83484,7 @@
 <img alt="Рідина Elfliq Blueberry Sour Raspberry (Чорниця Кисла малина, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19778-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18703" available="true">
+<offer id="18703" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-sour-raspberry-chernika-kislaya-malina-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -84444,7 +84444,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21068" available="true">
+<offer id="21068" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-vinograd-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -84764,7 +84764,7 @@
 <img alt="Рідина Elfliq Kiwi Passion Fruit Guava (Ківі Маракуя Гуава, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19781-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18706" available="true">
+<offer id="18706" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-kiwi-passion-fruit-guava-kivi-marakuyya-guava-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -85283,7 +85283,7 @@
 <img alt="Рідина Elfliq Pineapple Ice (Ананас Льод, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26380-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26215" available="true">
+<offer id="26215" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-pineapple-ice-ananas-led-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -86523,7 +86523,7 @@
 <img alt="Рідина Elfliq Watermelon (Кавун, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19785-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18710" available="true">
+<offer id="18710" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-watermelon-arbuz-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -98643,7 +98643,7 @@
 <img alt="Рідина Juni Salt Peach Apple (Персик Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20411-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20403" available="true">
+<offer id="20403" available="false">
 <url>https://hardsmoke.store/jidkost-juni-salt-strawberry-blackberries-klubnika-ejevika-50-mg-15-ml</url>
 <price>106</price>
 <currencyId>UAH</currencyId>
@@ -118453,7 +118453,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 1500 Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7603" available="true">
+<offer id="7603" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-mango-peach-watermelon-mango-persik-arbuz-1500-zatyajek</url>
 <price>276</price>
 <currencyId>UAH</currencyId>
@@ -119159,7 +119159,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Peach Berry (Персик Ягода) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26894" available="true">
+<offer id="26894" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-peach-ice-persik-led-odnorazovyiy-pod</url>
 <price>437</price>
 <currencyId>UAH</currencyId>
@@ -119255,7 +119255,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Strawberry Watermelon (Полуниця Кавун) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26900" available="true">
+<offer id="26900" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-vmt-vmt-odnorazovyiy-pod</url>
 <price>437</price>
 <currencyId>UAH</currencyId>
