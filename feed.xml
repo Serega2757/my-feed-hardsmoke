@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-02 17:43">
+<yml_catalog date="2025-10-02 18:41">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -3890,7 +3890,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="26923" available="false">
+<offer id="26923" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cactus-ultra-kaktus-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -4089,7 +4089,7 @@
 <img alt="Набір для самозамішування Chaser Cherry Menthol Ultra (Вишня Ментол, 65 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25687-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25488" available="false">
+<offer id="25488" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-menthol-balance-vishnya-mentol-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -7712,7 +7712,7 @@
 <img alt="Набір для самозамішування Chaser Mint Ultra (М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22227-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25494" available="false">
+<offer id="25494" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-65-mg-30-ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
@@ -18171,7 +18171,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Capitan black (Капітан блек, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24549-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24546" available="false">
+<offer id="24546" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-cooled-mango-mango-s-holodkom-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18211,7 +18211,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Cooled Mango (Манго з холодком, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24546-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24540" available="false">
+<offer id="24540" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-kiwi-mango-ice-kivi-mango-led-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18251,7 +18251,7 @@
 <img alt="Рідина Flavorlab Aroma MAX Kiwi mango ice (Ківі манго лід, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25119-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24544" available="false">
+<offer id="24544" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-lime-mint-melon-strawberry-klubnika-dyinya-limon-myata-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18291,7 +18291,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Lime mint melon strawberry (Полуниця диня лимон м'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24544-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24542" available="false">
+<offer id="24542" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-lime-strawberry-laym-klubnika-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18331,7 +18331,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Lime strawberry (Лайм полуниці, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24542-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24541" available="false">
+<offer id="24541" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-mango-melon-mango-dyinya-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18411,7 +18411,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Parliament (Парламент, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26369-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="24547" available="false">
+<offer id="24547" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-pineapple-lime-cherry-ananas-vishnya-laym-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18451,7 +18451,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Pineapple lime cherry (Ананас вишня лайм, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24547-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24543" available="false">
+<offer id="24543" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-strawberry-kiwi-kivi-klubnika-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18531,7 +18531,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Strong Capitan black (Капітан блек, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24745-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24548" available="false">
+<offer id="24548" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-watermelon-cherry-lemon-arbuz-vishnya-limon-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -18571,7 +18571,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Watermelon cherry lemon (Кавун вишня лимон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24548-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24545" available="false">
+<offer id="24545" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-wild-strawberry-klubnika-zemlyanika-50-mg-30-ml</url>
 <price>113</price>
 <currencyId>UAH</currencyId>
@@ -19251,7 +19251,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Grape orange cinnamon (Виноград апельсин кориця, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24497-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26355" available="false">
+<offer id="26355" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-banana-banan-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19291,7 +19291,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Banana (Банан Льод, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26355-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26360" available="false">
+<offer id="26360" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-banana-watermelon-banan-arbuz-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19371,7 +19371,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Black currant grape (Чорна смородина виноград лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26366-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26367" available="false">
+<offer id="26367" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-blueberry-garnett-chernika-granat-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19411,7 +19411,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Blueberry garnett (Чорниця гранат лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26367-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26357" available="false">
+<offer id="26357" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-blueberry-watermelon-chernika-arbuz-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19491,7 +19491,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Currant (Смородина Льод, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26364-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26361" available="false">
+<offer id="26361" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-grape-lemon-vinograd-limon-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19531,7 +19531,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Grape Lemon (Виноград лимон лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26361-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26363" available="false">
+<offer id="26363" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-grape-orange-cinnamon-vinograd-apelsin-koritsa-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19571,7 +19571,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Grape orange cinnamon (Виноград апельсин кориця лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26363-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26354" available="false">
+<offer id="26354" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-mango-peach-mango-persik-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19651,7 +19651,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Pomegranate menthol (Гранат ментол лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26359-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26365" available="false">
+<offer id="26365" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-raspberry-energy-malinovyiy-energetik-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19691,7 +19691,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Raspberry energy (Малиновий енергетик лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26365-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26358" available="false">
+<offer id="26358" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-strawberry-dragonfruit-klubnika-pitayya-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19731,7 +19731,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Strawberry Dragonfruit (Полуниця питайя лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26358-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26362" available="false">
+<offer id="26362" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-strawberry-grapes-klubnika-vinograd-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -19771,7 +19771,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 Ice Strawberry Grapes (Полуниця виноград лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26362-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26356" available="false">
+<offer id="26356" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-fl350-ice-strawberry-mango-klubnika-mango-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -21370,7 +21370,7 @@
 <img alt="Набір для самозамішування Flavorlab FL350 watermelon cherry (Кавун вишня, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24499-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24553" available="false">
+<offer id="24553" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-caesar-tsezar-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21490,7 +21490,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Commandant (Коммендант, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24552-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24569" available="false">
+<offer id="24569" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-corona-korona-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21530,7 +21530,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Corona (Корона, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24569-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24550" available="false">
+<offer id="24550" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-imperial-imperial-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21650,7 +21650,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Monarch (Монарх, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24571-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24749" available="false">
+<offer id="24749" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-strong-caesar-tsezar-65-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -22610,7 +22610,7 @@
 <img alt="Набір для самозамішування Flavorlab Lady Vodka lime (Горілка лайм, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24442-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24556" available="false">
+<offer id="24556" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-cake-apple-pie-yablochnyiy-pirog-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -22650,7 +22650,7 @@
 <img alt="Набір для самозамішування Flavorlab M-Cake Apple pie (Яблучний пиріг, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24556-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24558" available="false">
+<offer id="24558" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-cake-caramel---hazelnuts-funduk-s-karamelyu-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -22690,7 +22690,7 @@
 <img alt="Набір для самозамішування Flavorlab M-Cake Caramel &amp; Hazelnuts (Фундук з карамеллю, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24558-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24557" available="false">
+<offer id="24557" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-cake-cookie-pechene-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -22730,7 +22730,7 @@
 <img alt="Набір для самозамішування Flavorlab M-Cake Cookie (Печиво, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24557-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24554" available="false">
+<offer id="24554" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-cake-lemon-pie-limonnyiy-pirog-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -28330,7 +28330,7 @@
 <img alt="Набір для самозамішування Get High Cherry Peach Cocktail (Вишня Персик, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26587" available="false">
+<offer id="26587" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-citrus-burst-tsitrus-berst-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -28370,7 +28370,7 @@
 <img alt="Набір для самозамішування Get High Citrus Burst (Цитрус Берст, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26587-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26588" available="false">
+<offer id="26588" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-coffee-break-kofe-breyk-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -28970,7 +28970,7 @@
 <img alt="Набір для самозамішування Get High Morning Tradition (Морнінг Традишинал, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24072-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24073" available="true">
+<offer id="24073" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-mystic-tropics-mistik-tropiks-50-mg-30-ml</url>
 <price>178</price>
 <currencyId>UAH</currencyId>
@@ -84204,7 +84204,7 @@
 <img alt="Рідина Elfliq Double Apple (Подвійне яблуко, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26374-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26211" available="true">
+<offer id="26211" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-double-apple-dvoynoe-yabloko-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -86043,7 +86043,7 @@
 <img alt="Рідина Elfliq Strawberry Banana (Полуниця Банан, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/27053-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="24246" available="true">
+<offer id="24246" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-banana-klubnika-banan-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -86283,7 +86283,7 @@
 <img alt="Рідина Elfliq Strawberry kiwi (Полуниця Ківі, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21063-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21072" available="true">
+<offer id="21072" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-kiwi-klubnika-kivi-50-mg-30-ml</url>
 <price>185</price>
 <currencyId>UAH</currencyId>
@@ -96683,7 +96683,7 @@
 <img alt="Рідина In Bottle Salt Red Soda (Рід Сода, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19906-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22270" available="true">
+<offer id="22270" available="false">
 <url>https://hardsmoke.store/jidkost-in-bottle-salt-rockmelon-rokmelon-30-mg-30-ml</url>
 <price>183</price>
 <currencyId>UAH</currencyId>
@@ -99689,7 +99689,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20222-400x400.png</picture>
-<vendorCode>hd20222</vendorCode>
+<vendorCode>Lucky-15-1</vendorCode>
 <name>Рідина Lucky Apple (Яблуко, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Apple (Яблуко, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -99769,7 +99769,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20223-400x400.png</picture>
-<vendorCode>hd20223</vendorCode>
+<vendorCode>Lucky-15-2</vendorCode>
 <name>Рідина Lucky Banana (Банан, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Banana (Банан, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -99849,7 +99849,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22773-400x400.png</picture>
-<vendorCode>hd22773</vendorCode>
+<vendorCode>Lucky-15-3</vendorCode>
 <name>Рідина Lucky Berry Lemonade (Ягідний лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Berry Lemonade (Ягідний лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -99929,7 +99929,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20224-400x400.png</picture>
-<vendorCode>hd20224</vendorCode>
+<vendorCode>Lucky-15-4</vendorCode>
 <name>Рідина Lucky Blueberry (Чорниця, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Blueberry (Чорниця, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100009,7 +100009,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22774-400x400.png</picture>
-<vendorCode>hd22774</vendorCode>
+<vendorCode>Lucky-15-5</vendorCode>
 <name>Рідина Lucky Blueberry Lemonade (Чорничний лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Blueberry Lemonade (Чорничний лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100089,7 +100089,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22775-400x400.png</picture>
-<vendorCode>hd22775</vendorCode>
+<vendorCode>Lucky-15-6</vendorCode>
 <name>Рідина Lucky Cactus Guava Kiwi (Кактус Гуава Ківі, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Cactus Guava Kiwi (Кактус Гуава Ківі, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100169,7 +100169,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26298-400x400.png</picture>
-<vendorCode>hd26298</vendorCode>
+<vendorCode>Lucky-15-7</vendorCode>
 <name>Рідина Lucky Cherry Lemonade (Вишня лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Cherry Lemonade (Вишня лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100329,7 +100329,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20225-400x400.png</picture>
-<vendorCode>hd20225</vendorCode>
+<vendorCode>Lucky-15-8</vendorCode>
 <name>Рідина Lucky Cola (Кола, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Cola (Кола, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100409,7 +100409,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20226-400x400.png</picture>
-<vendorCode>hd20226</vendorCode>
+<vendorCode>Lucky-15-9</vendorCode>
 <name>Рідина Lucky Cold Mango (Крижаний Манго, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Cold Mango (Крижаний Манго, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100489,7 +100489,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26299-400x400.png</picture>
-<vendorCode>hd26299</vendorCode>
+<vendorCode>Lucky-15-10</vendorCode>
 <name>Рідина Lucky Cream Soda Lemonade (Крем Сода, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Cream Soda Lemonade (Крем Сода, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100569,7 +100569,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26300-400x400.png</picture>
-<vendorCode>hd26300</vendorCode>
+<vendorCode>Lucky-15-11</vendorCode>
 <name>Рідина Lucky Elderflowers Lemonade (Бузина Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Elderflowers Lemonade (Бузина Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100649,7 +100649,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20227-400x400.png</picture>
-<vendorCode>hd20227</vendorCode>
+<vendorCode>Lucky-15-12</vendorCode>
 <name>Рідина Lucky Gold Kiwi Strawberry (Ківі Полуниця, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Gold Kiwi Strawberry (Ківі Полуниця, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100729,7 +100729,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22777-400x400.png</picture>
-<vendorCode>hd22777</vendorCode>
+<vendorCode>Lucky-15-13</vendorCode>
 <name>Рідина Lucky Grapefruit (Грейпфрут, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Grapefruit (Грейпфрут, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100809,7 +100809,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26301-400x400.png</picture>
-<vendorCode>hd26301</vendorCode>
+<vendorCode>Lucky-15-14</vendorCode>
 <name>Рідина Lucky Green tea Lemonade (Зелений чай Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Green tea Lemonade (Зелений чай Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100889,7 +100889,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20228-400x400.png</picture>
-<vendorCode>hd20228</vendorCode>
+<vendorCode>Lucky-15-15</vendorCode>
 <name>Рідина Lucky Juicy Peach (Персик, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Juicy Peach (Персик, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -100969,7 +100969,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26302-400x400.png</picture>
-<vendorCode>hd26302</vendorCode>
+<vendorCode>Lucky-15-16</vendorCode>
 <name>Рідина Lucky Lavender Lemonade (Лаванда Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Lavender Lemonade (Лаванда Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101049,7 +101049,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26303-400x400.png</picture>
-<vendorCode>hd26303</vendorCode>
+<vendorCode>Lucky-15-17</vendorCode>
 <name>Рідина Lucky Lemon Lime Lemonade (Лимон Лайм Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Lemon Lime Lemonade (Лимон Лайм Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101129,7 +101129,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26304-400x400.png</picture>
-<vendorCode>hd26304</vendorCode>
+<vendorCode>Lucky-15-18</vendorCode>
 <name>Рідина Lucky Mango Passionfruit Lemonade (Манго Маракуя Лімонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Mango Passionfruit Lemonade (Манго Маракуя Лімонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101289,7 +101289,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22778-400x400.png</picture>
-<vendorCode>hd22778</vendorCode>
+<vendorCode>Lucky-15-19</vendorCode>
 <name>Рідина Lucky Mokko (Мокко, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Mokko (Мокко, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101369,7 +101369,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22779-400x400.png</picture>
-<vendorCode>hd22779</vendorCode>
+<vendorCode>Lucky-15-20</vendorCode>
 <name>Рідина Lucky Orange Lemonade (Апельсиновий лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Orange Lemonade (Апельсиновий лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101449,7 +101449,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22780-400x400.png</picture>
-<vendorCode>hd22780</vendorCode>
+<vendorCode>Lucky-15-21</vendorCode>
 <name>Рідина Lucky Passion Fruit Melon Mango (Маракуя Диня Манго, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Passion Fruit Melon Mango (Маракуя Диня Манго, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101529,7 +101529,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22781-400x400.png</picture>
-<vendorCode>hd22781</vendorCode>
+<vendorCode>Lucky-15-22</vendorCode>
 <name>Рідина Lucky Pear (груша, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Pear (груша, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101609,7 +101609,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20229-400x400.png</picture>
-<vendorCode>hd20229</vendorCode>
+<vendorCode>Lucky-15-23</vendorCode>
 <name>Рідина Lucky Pink Lemonade (Рожевий Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Pink Lemonade (Рожевий Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101689,7 +101689,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26306-400x400.png</picture>
-<vendorCode>hd26306</vendorCode>
+<vendorCode>Lucky-15-24</vendorCode>
 <name>Рідина Lucky Rose Lemonade (Роза Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Rose Lemonade (Роза Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101769,7 +101769,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20230-400x400.png</picture>
-<vendorCode>hd20230</vendorCode>
+<vendorCode>Lucky-15-25</vendorCode>
 <name>Рідина Lucky Spearmint (М&apos;ята, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Spearmint (М'ята, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101849,7 +101849,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20231-400x400.png</picture>
-<vendorCode>hd20231</vendorCode>
+<vendorCode>Lucky-15-26</vendorCode>
 <name>Рідина Lucky Strawberry (Полуниця, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Strawberry (Полуниця, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -101929,7 +101929,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26307-400x400.png</picture>
-<vendorCode>hd26307</vendorCode>
+<vendorCode>Lucky-15-27</vendorCode>
 <name>Рідина Lucky Watermelon Lemonade (Кавун Лимонад, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Watermelon Lemonade (Кавун Лимонад, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -102009,7 +102009,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22782-400x400.png</picture>
-<vendorCode>hd22782</vendorCode>
+<vendorCode>Lucky-15-28</vendorCode>
 <name>Рідина Lucky Wild Berries (Дикі ягоди, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Lucky Wild Berries (Дикі ягоди, 50 мг, 15 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
@@ -118485,7 +118485,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 1500 Pink Lemonade (Рожевий Лимонад) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7944" available="true">
+<offer id="7944" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-sour-apple-kisloe-yabloko-1500-zatyajek</url>
 <price>276</price>
 <currencyId>UAH</currencyId>
@@ -118967,7 +118967,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Blueberry Ice (Чорниця Лід) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26884" available="true">
+<offer id="26884" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blueberry-raspberry-chernika-malina-odnorazovyiy-pod</url>
 <price>437</price>
 <currencyId>UAH</currencyId>
