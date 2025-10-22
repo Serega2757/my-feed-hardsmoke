@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-22 13:23">
+<yml_catalog date="2025-10-22 14:23">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -115273,7 +115273,7 @@
 <img alt="Картридж Vaporesso LUXE Q Mesh 1.2 Ом 3 мл" src="https://hardsmoke.store/image/cache/catalog/exist/26775-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20880" available="false">
+<offer id="20880" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-06-om</url>
 <price>78</price>
 <currencyId>UAH</currencyId>
