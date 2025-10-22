@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-22 12:22">
+<yml_catalog date="2025-10-22 13:23">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -781,7 +781,7 @@
 </offer>
 <offer id="26466" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-jeltaya-malina-ultra-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26466-400x400.png</picture>
@@ -821,7 +821,7 @@
 </offer>
 <offer id="26533" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-jeltaya-malina-ultra-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26533-400x400.png</picture>
@@ -901,7 +901,7 @@
 </offer>
 <offer id="26467" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-jeltaya-chereshnya-ultra-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26467-400x400.png</picture>
@@ -941,7 +941,7 @@
 </offer>
 <offer id="26534" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-jeltaya-chereshnya-ultra-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26534-400x400.png</picture>
@@ -1021,7 +1021,7 @@
 </offer>
 <offer id="26468" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-jeltyiy-dragonfrut-ultra-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26468-400x400.png</picture>
@@ -1061,7 +1061,7 @@
 </offer>
 <offer id="26535" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-jeltyiy-dragonfrut-ultra-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26535-400x400.png</picture>
@@ -1140,7 +1140,7 @@
 </offer>
 <offer id="26924" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-chereshnya-ultra-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -1179,7 +1179,7 @@
 </offer>
 <offer id="26925" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-chereshnya-ultra-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -1298,7 +1298,7 @@
 </offer>
 <offer id="21572" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-apple-balance-yabloko-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21572-400x400.png</picture>
@@ -1338,7 +1338,7 @@
 </offer>
 <offer id="25481" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-apple-balance-yabloko-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25481-400x400.png</picture>
@@ -1418,7 +1418,7 @@
 </offer>
 <offer id="22226" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-banana-balance-banan-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22226-400x400.png</picture>
@@ -1498,7 +1498,7 @@
 </offer>
 <offer id="25482" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-banana-balance-banan-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25482-400x400.png</picture>
@@ -1618,7 +1618,7 @@
 </offer>
 <offer id="21573" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-berries-balance-yagodyi-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21573-400x400.png</picture>
@@ -1698,7 +1698,7 @@
 </offer>
 <offer id="25483" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-berries-balance-yagodyi-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25483-400x400.png</picture>
@@ -3334,7 +3334,7 @@
 </offer>
 <offer id="21569" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blackcurrant-menthol-balance-smorodina-mentol-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21569-400x400.png</picture>
@@ -3414,7 +3414,7 @@
 </offer>
 <offer id="25484" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blackcurrant-menthol-balance-smorodina-mentol-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25484-400x400.png</picture>
@@ -3534,7 +3534,7 @@
 </offer>
 <offer id="21561" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blue-raspberry-balance-chernika-malina-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21561-400x400.png</picture>
@@ -3614,7 +3614,7 @@
 </offer>
 <offer id="25485" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blue-raspberry-balance-chernika-malina-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25485-400x400.png</picture>
@@ -3694,7 +3694,7 @@
 </offer>
 <offer id="21571" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21571-400x400.png</picture>
@@ -3774,7 +3774,7 @@
 </offer>
 <offer id="25486" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25486-400x400.png</picture>
@@ -3853,7 +3853,7 @@
 </offer>
 <offer id="26922" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cactus-ultra-kaktus-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -3892,7 +3892,7 @@
 </offer>
 <offer id="26923" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cactus-ultra-kaktus-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -4011,7 +4011,7 @@
 </offer>
 <offer id="21564" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-menthol-balance-vishnya-mentol-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21564-400x400.png</picture>
@@ -4091,7 +4091,7 @@
 </offer>
 <offer id="25488" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-menthol-balance-vishnya-mentol-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25488-400x400.png</picture>
@@ -4171,7 +4171,7 @@
 </offer>
 <offer id="21563" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-balance-vishnya-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21563-400x400.png</picture>
@@ -4251,7 +4251,7 @@
 </offer>
 <offer id="25487" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-balance-vishnya-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25487-400x400.png</picture>
@@ -4371,7 +4371,7 @@
 </offer>
 <offer id="21562" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21562-400x400.png</picture>
@@ -4451,7 +4451,7 @@
 </offer>
 <offer id="25489" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25489-400x400.png</picture>
@@ -4530,7 +4530,7 @@
 </offer>
 <offer id="26920" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grapefruit-ultra-greypfrut-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -4569,7 +4569,7 @@
 </offer>
 <offer id="26921" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grapefruit-ultra-greypfrut-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -4688,7 +4688,7 @@
 </offer>
 <offer id="22232" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-kiwi-balance-kivi-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22232-400x400.png</picture>
@@ -4768,7 +4768,7 @@
 </offer>
 <offer id="25490" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-kiwi-balance-kivi-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25490-400x400.png</picture>
@@ -4888,7 +4888,7 @@
 </offer>
 <offer id="22233" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lemon-balance-limon-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22233-400x400.png</picture>
@@ -4968,7 +4968,7 @@
 </offer>
 <offer id="25491" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lemon-balance-limon-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25491-400x400.png</picture>
@@ -5048,7 +5048,7 @@
 </offer>
 <offer id="25517" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lime-balance-laym-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25517-400x400.png</picture>
@@ -5128,7 +5128,7 @@
 </offer>
 <offer id="25492" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lime-balance-laym-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25492-400x400.png</picture>
@@ -7277,7 +7277,7 @@
 </offer>
 <offer id="26812" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lychee-ultra-lichi-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -7316,7 +7316,7 @@
 </offer>
 <offer id="26813" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lychee-ultra-lichi-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -7394,7 +7394,7 @@
 </offer>
 <offer id="21565" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mango-balance-mango-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21565-400x400.png</picture>
@@ -7474,7 +7474,7 @@
 </offer>
 <offer id="22230" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-melon-balance-dyinya-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22230-400x400.png</picture>
@@ -7554,7 +7554,7 @@
 </offer>
 <offer id="25493" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-melon-balance-dyinya-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25493-400x400.png</picture>
@@ -7674,7 +7674,7 @@
 </offer>
 <offer id="22227" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22227-400x400.png</picture>
@@ -7714,7 +7714,7 @@
 </offer>
 <offer id="25494" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25494-400x400.png</picture>
@@ -9350,7 +9350,7 @@
 </offer>
 <offer id="26938" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-billberry-mint-golubika-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9389,7 +9389,7 @@
 </offer>
 <offer id="27037" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-billberry-mint-golubika-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9428,7 +9428,7 @@
 </offer>
 <offer id="26939" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-bubble-mint-jvachka-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9467,7 +9467,7 @@
 </offer>
 <offer id="27038" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-bubble-mint-jvachka-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9506,7 +9506,7 @@
 </offer>
 <offer id="26940" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-cranberry-mint-klyukva-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9545,7 +9545,7 @@
 </offer>
 <offer id="27039" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-cranberry-mint-klyukva-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9584,7 +9584,7 @@
 </offer>
 <offer id="26943" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-menthol-mentol-50-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9623,7 +9623,7 @@
 </offer>
 <offer id="27042" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-menthol-mentol-65-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9662,7 +9662,7 @@
 </offer>
 <offer id="26941" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-peppermint-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9701,7 +9701,7 @@
 </offer>
 <offer id="27040" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-peppermint-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9740,7 +9740,7 @@
 </offer>
 <offer id="26942" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-sweet-mint-sladkaya-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9779,7 +9779,7 @@
 </offer>
 <offer id="27041" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-my-mint-sweet-mint-sladkaya-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -9818,7 +9818,7 @@
 </offer>
 <offer id="22845" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-apple-mixed-miks-yablok-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22845-400x400.png</picture>
@@ -9858,7 +9858,7 @@
 </offer>
 <offer id="25518" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-apple-mixed-miks-yablok-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25518-400x400.png</picture>
@@ -9898,7 +9898,7 @@
 </offer>
 <offer id="22846" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-berry-mint-yagodyi-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22846-400x400.png</picture>
@@ -9938,7 +9938,7 @@
 </offer>
 <offer id="25455" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-berry-mint-yagodyi-myata-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25455-400x400.png</picture>
@@ -9978,7 +9978,7 @@
 </offer>
 <offer id="22847" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blackcurrant-grape-smorodina-vinograd-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22847-400x400.png</picture>
@@ -10018,7 +10018,7 @@
 </offer>
 <offer id="25456" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blackcurrant-grape-smorodina-vinograd-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25456-400x400.png</picture>
@@ -10058,7 +10058,7 @@
 </offer>
 <offer id="25458" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blue-razz-energy-blyu-razz-energetik-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25458-400x400.png</picture>
@@ -10098,7 +10098,7 @@
 </offer>
 <offer id="26531" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blueberry-basil-ultra-chernika-bazilik-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26531-400x400.png</picture>
@@ -10138,7 +10138,7 @@
 </offer>
 <offer id="26532" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blueberry-basil-ultra-chernika-bazilik-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26532-400x400.png</picture>
@@ -10178,7 +10178,7 @@
 </offer>
 <offer id="22848" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blueberry-currant-chernika-smorodina-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22848-400x400.png</picture>
@@ -10218,7 +10218,7 @@
 </offer>
 <offer id="25457" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-blueberry-currant-chernika-smorodina-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25457-400x400.png</picture>
@@ -10258,7 +10258,7 @@
 </offer>
 <offer id="22849" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-cola-lemon-kola-limon-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22849-400x400.png</picture>
@@ -10298,7 +10298,7 @@
 </offer>
 <offer id="25459" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-cola-lemon-kola-limon-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25459-400x400.png</picture>
@@ -10338,7 +10338,7 @@
 </offer>
 <offer id="22850" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-cranberry-mors-klyukva-mors-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22850-400x400.png</picture>
@@ -10378,7 +10378,7 @@
 </offer>
 <offer id="25460" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-cranberry-mors-klyukva-mors-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25460-400x400.png</picture>
@@ -10418,7 +10418,7 @@
 </offer>
 <offer id="22851" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-double-grape-dabl-greyp-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22851-400x400.png</picture>
@@ -10458,7 +10458,7 @@
 </offer>
 <offer id="25461" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-double-grape-dabl-greyp-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25461-400x400.png</picture>
@@ -10498,7 +10498,7 @@
 </offer>
 <offer id="22852" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-double-raspberry-dabl-raspberri-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22852-400x400.png</picture>
@@ -10538,7 +10538,7 @@
 </offer>
 <offer id="25462" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-double-raspberry-dabl-raspberri-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25462-400x400.png</picture>
@@ -10578,7 +10578,7 @@
 </offer>
 <offer id="22853" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-honeydew-papaya-papayya-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22853-400x400.png</picture>
@@ -10618,7 +10618,7 @@
 </offer>
 <offer id="22854" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-mango-peach-mango-persik-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22854-400x400.png</picture>
@@ -10658,7 +10658,7 @@
 </offer>
 <offer id="22855" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-pineapple-lemonade-ananas-limonad-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22855-400x400.png</picture>
@@ -10698,7 +10698,7 @@
 </offer>
 <offer id="25463" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-pineapple-lemonade-ananas-limonad-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25463-400x400.png</picture>
@@ -10738,7 +10738,7 @@
 </offer>
 <offer id="22856" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-red-bull-blue-raspberry-energetik-chernika-malina-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22856-400x400.png</picture>
@@ -10778,7 +10778,7 @@
 </offer>
 <offer id="22857" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-spearmint-myata-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22857-400x400.png</picture>
@@ -10818,7 +10818,7 @@
 </offer>
 <offer id="25513" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-watermelon-lychee-arbuz-lichi-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25513-400x400.png</picture>
@@ -10858,7 +10858,7 @@
 </offer>
 <offer id="25464" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-watermelon-lychee-arbuz-lichi-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25464-400x400.png</picture>
@@ -10898,7 +10898,7 @@
 </offer>
 <offer id="22858" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-watermelon-melon-arbuz-dyinya-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22858-400x400.png</picture>
@@ -10938,7 +10938,7 @@
 </offer>
 <offer id="25465" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-watermelon-melon-arbuz-dyinya-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25465-400x400.png</picture>
@@ -11058,7 +11058,7 @@
 </offer>
 <offer id="21567" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-peach-balance-persik-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21567-400x400.png</picture>
@@ -11138,7 +11138,7 @@
 </offer>
 <offer id="25495" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-peach-balance-grusha-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25495-400x400.png</picture>
@@ -11218,7 +11218,7 @@
 </offer>
 <offer id="25514" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pear-balance-grusha-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25514-400x400.png</picture>
@@ -11298,7 +11298,7 @@
 </offer>
 <offer id="25496" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pear-balance-grusha-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25496-400x400.png</picture>
@@ -11378,7 +11378,7 @@
 </offer>
 <offer id="22228" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pineapple-balance-ananas-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22228-400x400.png</picture>
@@ -11458,7 +11458,7 @@
 </offer>
 <offer id="25515" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pomegranate-balance-granat-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25515-400x400.png</picture>
@@ -11538,7 +11538,7 @@
 </offer>
 <offer id="25497" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pomegranate-balance-granat-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25497-400x400.png</picture>
@@ -11618,7 +11618,7 @@
 </offer>
 <offer id="25516" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-raspberry-balance-malina-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25516-400x400.png</picture>
@@ -11698,7 +11698,7 @@
 </offer>
 <offer id="25498" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-raspberry-balance-malina-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
@@ -13733,7 +13733,7 @@
 </offer>
 <offer id="21568" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-strawberry-balance-klubnika-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21568-400x400.png</picture>
@@ -13813,7 +13813,7 @@
 </offer>
 <offer id="25499" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-strawberry-balance-klubnika-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25499-400x400.png</picture>
@@ -13893,7 +13893,7 @@
 </offer>
 <offer id="21566" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-tangerine-balance-mandarin-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21566-400x400.png</picture>
@@ -13973,7 +13973,7 @@
 </offer>
 <offer id="21570" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-tobacco-balance-tabak-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21570-400x400.png</picture>
@@ -14053,7 +14053,7 @@
 </offer>
 <offer id="25500" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-tobacco-balance-tabak-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25500-400x400.png</picture>
@@ -14733,7 +14733,7 @@
 </offer>
 <offer id="22231" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-menthol-balance-arbuz-mentol-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22231-400x400.png</picture>
@@ -14773,7 +14773,7 @@
 </offer>
 <offer id="25502" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-menthol-balance-arbuz-mentol-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25502-400x400.png</picture>
@@ -14853,7 +14853,7 @@
 </offer>
 <offer id="22229" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-balance-arbuz-50-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22229-400x400.png</picture>
@@ -14893,7 +14893,7 @@
 </offer>
 <offer id="25501" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-balance-arbuz-65-mg-30-ml</url>
-<price>155</price>
+<price>177</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25501-400x400.png</picture>
@@ -15453,7 +15453,7 @@
 </offer>
 <offer id="23433" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-soconut-milk-kokosovoe-moloko-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23433-400x400.png</picture>
@@ -15493,7 +15493,7 @@
 </offer>
 <offer id="23434" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-apple-pear-grusha-yabloko-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23434-400x400.png</picture>
@@ -15533,7 +15533,7 @@
 </offer>
 <offer id="23437" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-frappucino-kofe-karamel-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23437-400x400.png</picture>
@@ -15573,7 +15573,7 @@
 </offer>
 <offer id="23438" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-grape-peach-vinograd-persik-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23438-400x400.png</picture>
@@ -15613,7 +15613,7 @@
 </offer>
 <offer id="23435" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-grapefruit-greypfrut-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23435-400x400.png</picture>
@@ -15653,7 +15653,7 @@
 </offer>
 <offer id="23436" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-kiwi-currant-kivi-smorodina-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23436-400x400.png</picture>
@@ -15693,7 +15693,7 @@
 </offer>
 <offer id="23432" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-love-is-jvachka-lav-iz-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23432-400x400.png</picture>
@@ -15733,7 +15733,7 @@
 </offer>
 <offer id="23441" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-raspberry-cheesecake-malinovyiy-chizkeyk-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23441-400x400.png</picture>
@@ -15773,7 +15773,7 @@
 </offer>
 <offer id="23440" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-sicilian-grape-vinograd-apelsin-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23440-400x400.png</picture>
@@ -15813,7 +15813,7 @@
 </offer>
 <offer id="23439" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-dead-horse-liquid-tobacco-vanille-tabak-vanil-50-mg-30-ml</url>
-<price>185</price>
+<price>165</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23439-400x400.png</picture>
@@ -53651,7 +53651,7 @@
 </offer>
 <offer id="18890" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-apple-yabloko-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18890-400x400.png</picture>
@@ -53731,7 +53731,7 @@
 </offer>
 <offer id="20781" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-apple-balance-yabloko-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20781-400x400.png</picture>
@@ -53851,7 +53851,7 @@
 </offer>
 <offer id="20784" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-apple-ice-balance-yabloko-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20784-400x400.png</picture>
@@ -53891,7 +53891,7 @@
 </offer>
 <offer id="19922" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-apple-ice-plus-yabloko-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19922-400x400.png</picture>
@@ -54131,7 +54131,7 @@
 </offer>
 <offer id="18875" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-bali-triple-shot-bali-tripl-shot-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18875-400x400.png</picture>
@@ -54290,7 +54290,7 @@
 </offer>
 <offer id="18877" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-banana-banan-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18877-400x400.png</picture>
@@ -54370,7 +54370,7 @@
 </offer>
 <offer id="20730" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-banana-balance-banan-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20730-400x400.png</picture>
@@ -54610,7 +54610,7 @@
 </offer>
 <offer id="18864" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-basil-mint-bazilik-myata-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18864-400x400.png</picture>
@@ -54690,7 +54690,7 @@
 </offer>
 <offer id="18891" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-berries-yagodyi-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18891-400x400.png</picture>
@@ -54770,7 +54770,7 @@
 </offer>
 <offer id="20731" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-berries-balance-yagodyi-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20731-400x400.png</picture>
@@ -54890,7 +54890,7 @@
 </offer>
 <offer id="20744" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-berries-ice-balance-yagodyi-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20744-400x400.png</picture>
@@ -54930,7 +54930,7 @@
 </offer>
 <offer id="19923" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-berries-ice-plus-yagodyi-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19923-400x400.png</picture>
@@ -55170,7 +55170,7 @@
 </offer>
 <offer id="20568" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-bali-bali-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20568-400x400.png</picture>
@@ -55290,7 +55290,7 @@
 </offer>
 <offer id="21842" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-banana-apple-limited-balance-banan-yabloko-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21842-400x400.png</picture>
@@ -55410,7 +55410,7 @@
 </offer>
 <offer id="21358" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-blackberry-sour-raspberry-balance-ejevika-kislaya-malina-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21358-400x400.png</picture>
@@ -55530,7 +55530,7 @@
 </offer>
 <offer id="21972" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-blackcurrant-peach-apple-smorodina-persik-yabloko-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21972-400x400.png</picture>
@@ -55649,7 +55649,7 @@
 </offer>
 <offer id="20569" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-bubblegum-bablgam-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20569-400x400.png</picture>
@@ -55769,7 +55769,7 @@
 </offer>
 <offer id="20570" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-energy-grape-vinogradnyiy-energetik-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20570-400x400.png</picture>
@@ -55849,7 +55849,7 @@
 </offer>
 <offer id="19932" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-energy-grape-ice-vinogradnyiy-energetik-led-50mg-30ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19932-400x400.png</picture>
@@ -55929,7 +55929,7 @@
 </offer>
 <offer id="20571" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-energy-raspberry-malinovyiy-energetik-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20571-400x400.png</picture>
@@ -56049,7 +56049,7 @@
 </offer>
 <offer id="21359" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-flirt-balance-flirt-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21359-400x400.png</picture>
@@ -56169,7 +56169,7 @@
 </offer>
 <offer id="21360" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-forest-mix-balance-forest-miks-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21360-400x400.png</picture>
@@ -56249,7 +56249,7 @@
 </offer>
 <offer id="19928" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-forest-mix-ice-forest-miks-led-50mg-30ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19928-400x400.png</picture>
@@ -56329,7 +56329,7 @@
 </offer>
 <offer id="20572" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-kiwi-wild-strawberry-kivi-zemlyanika-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20572-400x400.png</picture>
@@ -56409,7 +56409,7 @@
 </offer>
 <offer id="19931" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-kiwi-wild-strawberry-ice-kivi-zemlyanika-led-50mg-30ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19931-400x400.png</picture>
@@ -56489,7 +56489,7 @@
 </offer>
 <offer id="20573" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-lemon-mint-limon-myata-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20573-400x400.png</picture>
@@ -56569,7 +56569,7 @@
 </offer>
 <offer id="21816" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-peach-lemonade-limited-balance-persikovyiy-limonad-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21816-400x400.png</picture>
@@ -56689,7 +56689,7 @@
 </offer>
 <offer id="20574" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-pink-lemonade-rozovyiy-limonad-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20574-400x400.png</picture>
@@ -56769,7 +56769,7 @@
 </offer>
 <offer id="19929" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-pink-lemonade-ice-rozovyiy-limonad-led-50mg-30ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19929-400x400.png</picture>
@@ -56849,7 +56849,7 @@
 </offer>
 <offer id="21361" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-strawberry-blueberry-balance-klubnika-chernika-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21361-400x400.png</picture>
@@ -56929,7 +56929,7 @@
 </offer>
 <offer id="19927" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-strawberry-blueberry-ice-klubnika-chernika-led-50mg-30ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19927-400x400.png</picture>
@@ -57009,7 +57009,7 @@
 </offer>
 <offer id="20575" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-triple-berry-tripl-berri-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20575-400x400.png</picture>
@@ -57129,7 +57129,7 @@
 </offer>
 <offer id="20576" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-triple-raspberry-tripl-raspberri-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20576-400x400.png</picture>
@@ -57249,7 +57249,7 @@
 </offer>
 <offer id="21664" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-triple-sour-apple-tripl-saur-epl-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21664-400x400.png</picture>
@@ -57369,7 +57369,7 @@
 </offer>
 <offer id="20577" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-watermelon-lemon-arbuz-limon-50-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20577-400x400.png</picture>
@@ -57449,7 +57449,7 @@
 </offer>
 <offer id="19930" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-black-watermelon-lemon-ice-arbuz-limon-led-50mg-30ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19930-400x400.png</picture>
@@ -57489,7 +57489,7 @@
 </offer>
 <offer id="18870" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blackberry-jam-ejevichnyiy-djem-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18870-400x400.png</picture>
@@ -57569,7 +57569,7 @@
 </offer>
 <offer id="18887" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blackcurrant-menthol-smorodina-mentol-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18887-400x400.png</picture>
@@ -57649,7 +57649,7 @@
 </offer>
 <offer id="20732" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blackcurrant-menthol-balance-smorodina-mentol-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20732-400x400.png</picture>
@@ -57889,7 +57889,7 @@
 </offer>
 <offer id="18878" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blue-raspberry-chernika-malina-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18878-400x400.png</picture>
@@ -58009,7 +58009,7 @@
 </offer>
 <offer id="20733" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blue-raspberry-balance-chernika-malina-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20733-400x400.png</picture>
@@ -58089,7 +58089,7 @@
 </offer>
 <offer id="20745" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blue-raspberry-ice-balance-chernika-malina-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20745-400x400.png</picture>
@@ -58129,7 +58129,7 @@
 </offer>
 <offer id="19917" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blue-raspberry-ice-plus-sinnya-malina-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19917-400x400.png</picture>
@@ -58209,7 +58209,7 @@
 </offer>
 <offer id="18865" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blue-raspberry-lemonade-chernika-malina-limonad-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18865-400x400.png</picture>
@@ -58249,7 +58249,7 @@
 </offer>
 <offer id="20183" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blue-raspberry-lemonade-ice-chernika-malina-limonad-led-50-mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20183-400x400.png</picture>
@@ -58449,7 +58449,7 @@
 </offer>
 <offer id="18889" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blueberry-menthol-chernika-mentol-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18889-400x400.png</picture>
@@ -58529,7 +58529,7 @@
 </offer>
 <offer id="20734" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-blueberry-menthol-balance-chernika-mentol-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20734-400x400.png</picture>
@@ -58809,7 +58809,7 @@
 </offer>
 <offer id="18880" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-vishnya-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18880-400x400.png</picture>
@@ -58889,7 +58889,7 @@
 </offer>
 <offer id="20735" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-balance-vishnya-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20735-400x400.png</picture>
@@ -59009,7 +59009,7 @@
 </offer>
 <offer id="20782" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-ice-balance-vishnya-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20782-400x400.png</picture>
@@ -59049,7 +59049,7 @@
 </offer>
 <offer id="19918" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-ice-plus-vishnya-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19918-400x400.png</picture>
@@ -59248,7 +59248,7 @@
 </offer>
 <offer id="20779" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-menthol-balance-vishnya-mentol-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20779-400x400.png</picture>
@@ -59528,7 +59528,7 @@
 </offer>
 <offer id="18866" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cola-kola-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18866-400x400.png</picture>
@@ -59568,7 +59568,7 @@
 </offer>
 <offer id="19924" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cola-ice-plus-kola-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19924-400x400.png</picture>
@@ -59688,7 +59688,7 @@
 </offer>
 <offer id="18879" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-grape-vinograd-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18879-400x400.png</picture>
@@ -59768,7 +59768,7 @@
 </offer>
 <offer id="20736" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-grape-balance-vinograd-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20736-400x400.png</picture>
@@ -60008,7 +60008,7 @@
 </offer>
 <offer id="18867" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-guava-peach-guava-persik-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18867-400x400.png</picture>
@@ -60048,7 +60048,7 @@
 </offer>
 <offer id="19925" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-guava-peach-ice-plus-yagodyi-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19925-400x400.png</picture>
@@ -60088,7 +60088,7 @@
 </offer>
 <offer id="21888" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-kiwi-balance-kivi-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21888-400x400.png</picture>
@@ -60248,7 +60248,7 @@
 </offer>
 <offer id="18868" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lemon-cake-limonnyiy-pirog-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18868-400x400.png</picture>
@@ -60328,7 +60328,7 @@
 </offer>
 <offer id="18908" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-berry-lemonade-yagodyi-limonad-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18908-400x400.png</picture>
@@ -60408,7 +60408,7 @@
 </offer>
 <offer id="20606" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-berry-lemonade-yagodyi-limonad-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20606-400x400.png</picture>
@@ -60448,7 +60448,7 @@
 </offer>
 <offer id="21194" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-berry-lemonade-balance-yagodyi-limonad-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21194-400x400.png</picture>
@@ -60488,7 +60488,7 @@
 </offer>
 <offer id="21285" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-berry-lemonade-balance-yagodyi-limonad-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21285-400x400.png</picture>
@@ -60568,7 +60568,7 @@
 </offer>
 <offer id="18909" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-blueberry-mint-chernika-myata-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18909-400x400.png</picture>
@@ -60648,7 +60648,7 @@
 </offer>
 <offer id="20607" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-blueberry-mint-chernika-myata-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20607-400x400.png</picture>
@@ -60688,7 +60688,7 @@
 </offer>
 <offer id="21195" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-blueberry-mint-balance-chernika-myata-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21195-400x400.png</picture>
@@ -60728,7 +60728,7 @@
 </offer>
 <offer id="21286" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-blueberry-mint-balance-chernika-myata-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21286-400x400.png</picture>
@@ -60768,7 +60768,7 @@
 </offer>
 <offer id="18910" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cherry-lemon-vishnya-limon-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18910-400x400.png</picture>
@@ -60848,7 +60848,7 @@
 </offer>
 <offer id="20608" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cherry-lemon-vishnya-limon-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20608-400x400.png</picture>
@@ -60888,7 +60888,7 @@
 </offer>
 <offer id="21196" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cherry-lemon-balance-vishnya-limon-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21196-400x400.png</picture>
@@ -60928,7 +60928,7 @@
 </offer>
 <offer id="21287" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cherry-lemon-balance-vishnya-limon-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21287-400x400.png</picture>
@@ -60968,7 +60968,7 @@
 </offer>
 <offer id="21973" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cider-berry-limited-balance-yagodnyiy-sidr-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21973-400x400.png</picture>
@@ -61048,7 +61048,7 @@
 </offer>
 <offer id="21974" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cider-berry-limited-balance-yagodnyiy-sidr-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21974-400x400.png</picture>
@@ -61088,7 +61088,7 @@
 </offer>
 <offer id="18911" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-coconut-melon-kokos-limon-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18911-400x400.png</picture>
@@ -61168,7 +61168,7 @@
 </offer>
 <offer id="20609" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-coconut-melon-kokos-limon-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20609-400x400.png</picture>
@@ -61208,7 +61208,7 @@
 </offer>
 <offer id="21197" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-coconut-melon-balance-kokos-limon-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21197-400x400.png</picture>
@@ -61248,7 +61248,7 @@
 </offer>
 <offer id="21288" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-coconut-melon-balance-kokos-limon-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21288-400x400.png</picture>
@@ -61288,7 +61288,7 @@
 </offer>
 <offer id="18912" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-energetic-energetik-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18912-400x400.png</picture>
@@ -61368,7 +61368,7 @@
 </offer>
 <offer id="20610" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-energetic-energetik-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20610-400x400.png</picture>
@@ -61408,7 +61408,7 @@
 </offer>
 <offer id="21198" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-energetic-balance-energetik-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21198-400x400.png</picture>
@@ -61448,7 +61448,7 @@
 </offer>
 <offer id="21289" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-energetic-balance-energetik-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21289-400x400.png</picture>
@@ -61528,7 +61528,7 @@
 </offer>
 <offer id="18913" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-grape-mint-vinograd-myata-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18913-400x400.png</picture>
@@ -61608,7 +61608,7 @@
 </offer>
 <offer id="20611" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-grape-mint-vinograd-myata-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20611-400x400.png</picture>
@@ -61648,7 +61648,7 @@
 </offer>
 <offer id="21199" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-grape-mint-balance-vinograd-myata-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21199-400x400.png</picture>
@@ -61688,7 +61688,7 @@
 </offer>
 <offer id="21290" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-grape-mint-balance-vinograd-myata-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21290-400x400.png</picture>
@@ -61728,7 +61728,7 @@
 </offer>
 <offer id="18914" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-kiwi-passion-fruit-guava-kivi-marakuyya-guava-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18914-400x400.png</picture>
@@ -61808,7 +61808,7 @@
 </offer>
 <offer id="20612" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-kiwi-passion-fruit-guava-kivi-marakuyya-guava-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20612-400x400.png</picture>
@@ -61848,7 +61848,7 @@
 </offer>
 <offer id="21200" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-kiwi-passion-fruit-guava-balance-kivi-marakuyya-guava-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21200-400x400.png</picture>
@@ -61888,7 +61888,7 @@
 </offer>
 <offer id="21291" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-kiwi-passion-fruit-guava-balance-kivi-marakuyya-guava-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21291-400x400.png</picture>
@@ -61968,7 +61968,7 @@
 </offer>
 <offer id="18915" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-peach-tea-persikovyiy-chay-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18915-400x400.png</picture>
@@ -62048,7 +62048,7 @@
 </offer>
 <offer id="20613" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-peach-tea-persikovyiy-chay-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20613-400x400.png</picture>
@@ -62088,7 +62088,7 @@
 </offer>
 <offer id="21201" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-peach-tea-balance-persikovyiy-chay-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21201-400x400.png</picture>
@@ -62128,7 +62128,7 @@
 </offer>
 <offer id="21292" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-peach-tea-balance-persikovyiy-chay-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21292-400x400.png</picture>
@@ -62168,7 +62168,7 @@
 </offer>
 <offer id="21682" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-sangria-limited-balance-sangriya-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21682-400x400.png</picture>
@@ -62248,7 +62248,7 @@
 </offer>
 <offer id="21975" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-sangria-limited-balance-sangriya-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21975-400x400.png</picture>
@@ -62288,7 +62288,7 @@
 </offer>
 <offer id="18916" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-sour-apple-kisloe-yabloko-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18916-400x400.png</picture>
@@ -62368,7 +62368,7 @@
 </offer>
 <offer id="20614" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-sour-apple-kisloe-yabloko-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20614-400x400.png</picture>
@@ -62408,7 +62408,7 @@
 </offer>
 <offer id="21293" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-sour-apple-balance-kisloe-yabloko-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21293-400x400.png</picture>
@@ -62448,7 +62448,7 @@
 </offer>
 <offer id="21202" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-sour-apple-balance-kisloe-yabloko-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21202-400x400.png</picture>
@@ -62488,7 +62488,7 @@
 </offer>
 <offer id="18917" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-cream-klubnika-slivki-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18917-400x400.png</picture>
@@ -62568,7 +62568,7 @@
 </offer>
 <offer id="20615" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-cream-klubnika-slivki-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20615-400x400.png</picture>
@@ -62608,7 +62608,7 @@
 </offer>
 <offer id="21203" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-cream-balance-klubnika-slivki-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21203-400x400.png</picture>
@@ -62648,7 +62648,7 @@
 </offer>
 <offer id="21294" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-cream-balance-klubnika-slivki-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21294-400x400.png</picture>
@@ -62688,7 +62688,7 @@
 </offer>
 <offer id="21683" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-dragonfruit-limited-balance-klubnika-drakoniy-frukt-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21683-400x400.png</picture>
@@ -62768,7 +62768,7 @@
 </offer>
 <offer id="21976" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-dragonfruit-limited-balance-klubnika-drakoniy-frukt-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21976-400x400.png</picture>
@@ -62808,7 +62808,7 @@
 </offer>
 <offer id="18918" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-tropic-punch-tropik-panch-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18918-400x400.png</picture>
@@ -62888,7 +62888,7 @@
 </offer>
 <offer id="20616" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-tropic-punch-tropik-panch-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20616-400x400.png</picture>
@@ -62928,7 +62928,7 @@
 </offer>
 <offer id="21204" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-tropic-punch-balance-tropik-panch-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21204-400x400.png</picture>
@@ -62968,7 +62968,7 @@
 </offer>
 <offer id="21295" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-tropic-punch-balance-tropik-panch-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21295-400x400.png</picture>
@@ -63048,7 +63048,7 @@
 </offer>
 <offer id="18919" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-turbo-mint-turbo-mint-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18919-400x400.png</picture>
@@ -63128,7 +63128,7 @@
 </offer>
 <offer id="20617" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-turbo-mint-turbo-mint-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20617-400x400.png</picture>
@@ -63168,7 +63168,7 @@
 </offer>
 <offer id="21205" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-turbo-mint-balance-turbo-mint-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21205-400x400.png</picture>
@@ -63208,7 +63208,7 @@
 </offer>
 <offer id="21296" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-turbo-mint-balance-turbo-mint-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21296-400x400.png</picture>
@@ -63248,7 +63248,7 @@
 </offer>
 <offer id="18920" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-vitamin-vitamin-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18920-400x400.png</picture>
@@ -63328,7 +63328,7 @@
 </offer>
 <offer id="20618" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-vitamin-vitamin-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20618-400x400.png</picture>
@@ -63368,7 +63368,7 @@
 </offer>
 <offer id="21206" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-vitamin-balance-vitamin-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21206-400x400.png</picture>
@@ -63408,7 +63408,7 @@
 </offer>
 <offer id="21297" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-vitamin-balance-vitamin-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21297-400x400.png</picture>
@@ -63488,7 +63488,7 @@
 </offer>
 <offer id="18921" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-watermelon-raspberry-arbuz-malina-50mg-11ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18921-400x400.png</picture>
@@ -63568,7 +63568,7 @@
 </offer>
 <offer id="20619" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-watermelon-raspberry-arbuz-malina-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20619-400x400.png</picture>
@@ -63608,7 +63608,7 @@
 </offer>
 <offer id="21207" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-watermelon-raspberry-balance-arbuz-malina-50-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21207-400x400.png</picture>
@@ -63648,7 +63648,7 @@
 </offer>
 <offer id="21298" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-lux-watermelon-raspberry-balance-arbuz-malina-65-mg-11-ml</url>
-<price>0</price>
+<price>140</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21298-400x400.png</picture>
@@ -63728,7 +63728,7 @@
 </offer>
 <offer id="18882" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mango-mango-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18882-400x400.png</picture>
@@ -63808,7 +63808,7 @@
 </offer>
 <offer id="20780" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mango-balance-mango-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20780-400x400.png</picture>
@@ -63928,7 +63928,7 @@
 </offer>
 <offer id="18869" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mango-grapefruit-mango-greypfrut-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18869-400x400.png</picture>
@@ -63968,7 +63968,7 @@
 </offer>
 <offer id="18871" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mango-melon-mango-dyinya-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18871-400x400.png</picture>
@@ -64128,7 +64128,7 @@
 </offer>
 <offer id="21885" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-melon-balance-dyinya-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21885-400x400.png</picture>
@@ -64288,7 +64288,7 @@
 </offer>
 <offer id="18884" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mint-myata-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18884-400x400.png</picture>
@@ -64368,7 +64368,7 @@
 </offer>
 <offer id="20737" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mint-balance-myata-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20737-400x400.png</picture>
@@ -64608,7 +64608,7 @@
 </offer>
 <offer id="20818" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-basil-mint-balance-bazilik-myata-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20818-400x400.png</picture>
@@ -64688,7 +64688,7 @@
 </offer>
 <offer id="20825" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-blackberry-jam-balance-ejevichnyiy-djem-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20825-400x400.png</picture>
@@ -64768,7 +64768,7 @@
 </offer>
 <offer id="20820" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-blue-raspberry-lemonade-balance-chernika-malina-limonad-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20820-400x400.png</picture>
@@ -64808,7 +64808,7 @@
 </offer>
 <offer id="20829" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-blue-raspberry-lemonade-ice-balance-chernika-malina-limonad-led-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20829-400x400.png</picture>
@@ -64848,7 +64848,7 @@
 </offer>
 <offer id="21362" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-cherry-coconut-balance-klubnika-kokos-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21362-400x400.png</picture>
@@ -64928,7 +64928,7 @@
 </offer>
 <offer id="20822" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-cola-balance-kola-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20822-400x400.png</picture>
@@ -65008,7 +65008,7 @@
 </offer>
 <offer id="20830" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-cola-ice-balance-kola-led-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20830-400x400.png</picture>
@@ -65088,7 +65088,7 @@
 </offer>
 <offer id="26162" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-grapefruit-mango-plus-greypfrut-mango-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26162-400x400.png</picture>
@@ -65128,7 +65128,7 @@
 </offer>
 <offer id="20821" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-guava-peach-balance-guava-persik-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20821-400x400.png</picture>
@@ -65208,7 +65208,7 @@
 </offer>
 <offer id="20832" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-guava-peach-ice-balance-guava-persik-led-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20832-400x400.png</picture>
@@ -65248,7 +65248,7 @@
 </offer>
 <offer id="20823" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-lemon-cake-balance-limonnyiy-pirog-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20823-400x400.png</picture>
@@ -65328,7 +65328,7 @@
 </offer>
 <offer id="20824" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-mango-melon-balance-mango-dyinya-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20824-400x400.png</picture>
@@ -65408,7 +65408,7 @@
 </offer>
 <offer id="20826" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-mint-orbit-balance-myatnyiy-orbit-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20826-400x400.png</picture>
@@ -65488,7 +65488,7 @@
 </offer>
 <offer id="20827" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-strawberry-banana-balance-klubnika-banan-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20827-400x400.png</picture>
@@ -65568,7 +65568,7 @@
 </offer>
 <offer id="20828" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-strawberry-grape-balance-klubnika-vinograd-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20828-400x400.png</picture>
@@ -65648,7 +65648,7 @@
 </offer>
 <offer id="20831" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-strawberry-grape-ice-balance-yagodyi-led-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20831-400x400.png</picture>
@@ -65688,7 +65688,7 @@
 </offer>
 <offer id="20819" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-mix-watermelon-apple-arbuz-yabloko-50-mg-10-ml</url>
-<price>0</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20819-400x400.png</picture>
@@ -65888,7 +65888,7 @@
 </offer>
 <offer id="20620" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-apple-mixed-miks-yablok-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20620-400x400.png</picture>
@@ -66048,7 +66048,7 @@
 </offer>
 <offer id="20621" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-berry-mint-yagodyi-myata-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20621-400x400.png</picture>
@@ -66208,7 +66208,7 @@
 </offer>
 <offer id="20622" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-blackcurrant-grape-smorodina-vinograd-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20622-400x400.png</picture>
@@ -66408,7 +66408,7 @@
 </offer>
 <offer id="20623" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-blueberry-currant-chernika-smorodina-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20623-400x400.png</picture>
@@ -66568,7 +66568,7 @@
 </offer>
 <offer id="20624" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-cola-lemon-kola-limon-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20624-400x400.png</picture>
@@ -66728,7 +66728,7 @@
 </offer>
 <offer id="20625" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-cranberry-mors-klyukva-mors-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20625-400x400.png</picture>
@@ -66808,7 +66808,7 @@
 </offer>
 <offer id="20627" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-double-raspberry-dabl-raspberri-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20627-400x400.png</picture>
@@ -67008,7 +67008,7 @@
 </offer>
 <offer id="20626" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-double-grape-dabl-greyp-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20626-400x400.png</picture>
@@ -67208,7 +67208,7 @@
 </offer>
 <offer id="20628" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-honeydew-papaya-papayya-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20628-400x400.png</picture>
@@ -67368,7 +67368,7 @@
 </offer>
 <offer id="20629" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-mango-peach-mango-persik-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20629-400x400.png</picture>
@@ -67528,7 +67528,7 @@
 </offer>
 <offer id="20630" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-pineapple-lemonade-ananas-limonad-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20630-400x400.png</picture>
@@ -67688,7 +67688,7 @@
 </offer>
 <offer id="20631" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-red-bull-blue-raspberry-energetik-chernika-malina-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20631-400x400.png</picture>
@@ -67848,7 +67848,7 @@
 </offer>
 <offer id="20632" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-spearmint-myata-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20632-400x400.png</picture>
@@ -68008,7 +68008,7 @@
 </offer>
 <offer id="20633" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-nova-watermelon-melon-arbuz-dyinya-65-mg-30-ml</url>
-<price>0</price>
+<price>220</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20633-400x400.png</picture>
@@ -68048,7 +68048,7 @@
 </offer>
 <offer id="18872" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-orbit-orbit-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18872-400x400.png</picture>
@@ -68127,7 +68127,7 @@
 </offer>
 <offer id="18885" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-peach-persik-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18885-400x400.png</picture>
@@ -68207,7 +68207,7 @@
 </offer>
 <offer id="20738" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-peach-balance-persik-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20738-400x400.png</picture>
@@ -68327,7 +68327,7 @@
 </offer>
 <offer id="20783" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-peach-ice-balance-persik-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20783-400x400.png</picture>
@@ -68367,7 +68367,7 @@
 </offer>
 <offer id="19920" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-peach-ice-plus-persik-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19920-400x400.png</picture>
@@ -68607,7 +68607,7 @@
 </offer>
 <offer id="18876" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-pineapple-ananas-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18876-400x400.png</picture>
@@ -68687,7 +68687,7 @@
 </offer>
 <offer id="20739" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-pineapple-balance-ananas-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20739-400x400.png</picture>
@@ -69007,7 +69007,7 @@
 </offer>
 <offer id="18886" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-klubnika-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18886-400x400.png</picture>
@@ -69087,7 +69087,7 @@
 </offer>
 <offer id="20740" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-balance-klubnika-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20740-400x400.png</picture>
@@ -69207,7 +69207,7 @@
 </offer>
 <offer id="18873" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-banana-klubnika-banan-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18873-400x400.png</picture>
@@ -69247,7 +69247,7 @@
 </offer>
 <offer id="18874" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-grape-klubnika-vinograd-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18874-400x400.png</picture>
@@ -69287,7 +69287,7 @@
 </offer>
 <offer id="19926" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-grape-ice-plus-yagodyi-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19926-400x400.png</picture>
@@ -69327,7 +69327,7 @@
 </offer>
 <offer id="20746" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-ice-balance-klubnika-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20746-400x400.png</picture>
@@ -69367,7 +69367,7 @@
 </offer>
 <offer id="19921" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-strawberry-ice-plus-klubnika-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19921-400x400.png</picture>
@@ -69607,7 +69607,7 @@
 </offer>
 <offer id="18883" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-tangerine-mandarin-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18883-400x400.png</picture>
@@ -69687,7 +69687,7 @@
 </offer>
 <offer id="20741" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-tangerine-balance-mandarin-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20741-400x400.png</picture>
@@ -69967,7 +69967,7 @@
 </offer>
 <offer id="18888" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-tobacco-tabak-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18888-400x400.png</picture>
@@ -70047,7 +70047,7 @@
 </offer>
 <offer id="20742" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-tobacco-balance-tabak-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20742-400x400.png</picture>
@@ -70286,7 +70286,7 @@
 </offer>
 <offer id="18881" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-watermelon-arbuz-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18881-400x400.png</picture>
@@ -70366,7 +70366,7 @@
 </offer>
 <offer id="20743" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-watermelon-balance-arbuz-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20743-400x400.png</picture>
@@ -70486,7 +70486,7 @@
 </offer>
 <offer id="20747" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-watermelon-ice-balance-arbuz-led-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20747-400x400.png</picture>
@@ -70526,7 +70526,7 @@
 </offer>
 <offer id="19919" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-watermelon-ice-plus-arbuz-led-50mg-10ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19919-400x400.png</picture>
@@ -70606,7 +70606,7 @@
 </offer>
 <offer id="21887" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-watermelon-menthol-balance-arbuz-mentol-50-mg-10-ml</url>
-<price>156</price>
+<price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21887-400x400.png</picture>
@@ -74126,7 +74126,7 @@
 </offer>
 <offer id="26567" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-soconut-milk-kokosovoe-moloko-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26567-400x400.png</picture>
@@ -74166,7 +74166,7 @@
 </offer>
 <offer id="26568" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-apple-pear-grusha-yabloko-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26568-400x400.png</picture>
@@ -74206,7 +74206,7 @@
 </offer>
 <offer id="26581" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-coconut-melon-kokos-dyinya-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26581-400x400.png</picture>
@@ -74246,7 +74246,7 @@
 </offer>
 <offer id="26571" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-frappucino-kofe-karamel-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26571-400x400.png</picture>
@@ -74286,7 +74286,7 @@
 </offer>
 <offer id="26572" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-grape-peach-vinograd-persik-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26572-400x400.png</picture>
@@ -74326,7 +74326,7 @@
 </offer>
 <offer id="26569" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-grapefruit-greypfrut-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26569-400x400.png</picture>
@@ -74366,7 +74366,7 @@
 </offer>
 <offer id="26570" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-kiwi-currant-kivi-smorodina-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26570-400x400.png</picture>
@@ -74406,7 +74406,7 @@
 </offer>
 <offer id="26566" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-love-is-jvachka-lav-iz-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26566-400x400.png</picture>
@@ -74446,7 +74446,7 @@
 </offer>
 <offer id="26580" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-melon-mango-dyinya-mango-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26580-400x400.png</picture>
@@ -74486,7 +74486,7 @@
 </offer>
 <offer id="26578" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-menthol-mint-mentol-myata-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26578-400x400.png</picture>
@@ -74526,7 +74526,7 @@
 </offer>
 <offer id="26579" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-pink-lemonade-rozovyiy-limonad-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26579-400x400.png</picture>
@@ -74566,7 +74566,7 @@
 </offer>
 <offer id="26575" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-raspberry-cheesecake-malinovyiy-chizkeyk-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26575-400x400.png</picture>
@@ -74606,7 +74606,7 @@
 </offer>
 <offer id="26574" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-sicilian-grape-vinograd-apelsin-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26574-400x400.png</picture>
@@ -74646,7 +74646,7 @@
 </offer>
 <offer id="26577" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-sweet-mint-sladkaya-myata-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26577-400x400.png</picture>
@@ -74686,7 +74686,7 @@
 </offer>
 <offer id="26573" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-tobacco-vanille-tabak-vanil-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26573-400x400.png</picture>
@@ -74726,7 +74726,7 @@
 </offer>
 <offer id="26576" available="true">
 <url>https://hardsmoke.store/jidkost-dead-horse-liquid-triple-raspberry-malinovyiy-miks-50-mg-30-ml</url>
-<price>160</price>
+<price>145</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26576-400x400.png</picture>
@@ -112335,7 +112335,7 @@
 </offer>
 <offer id="10002" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfa-blue-razz-lemonade-blyu-razz-limonad</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10002-400x400.png</picture>
@@ -112375,7 +112375,7 @@
 </offer>
 <offer id="10003" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfa-blueberry-chernika</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10003-400x400.png</picture>
@@ -112415,7 +112415,7 @@
 </offer>
 <offer id="10004" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfa-cola-kola</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10004-400x400.png</picture>
@@ -112455,7 +112455,7 @@
 </offer>
 <offer id="10005" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfa-energy-energetik</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10005-400x400.png</picture>
@@ -112495,7 +112495,7 @@
 </offer>
 <offer id="26260" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfa-pink-lemonade-rozovyiy-limonad</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26260-400x400.png</picture>
@@ -112535,7 +112535,7 @@
 </offer>
 <offer id="10006" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfa-strawberry-ice-cream-klubnichnoe-morojenoe</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10006-400x400.png</picture>
@@ -112615,7 +112615,7 @@
 </offer>
 <offer id="25143" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-elfx-08-om-3-ml</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25143-400x400.png</picture>
@@ -112655,7 +112655,7 @@
 </offer>
 <offer id="9997" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-fb1000-3-5-ml</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9997-400x400.png</picture>
@@ -112695,7 +112695,7 @@
 </offer>
 <offer id="18489" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-banana-ice-banan-led</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18489-400x400.png</picture>
@@ -112735,7 +112735,7 @@
 </offer>
 <offer id="9998" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-blue-razz-lemonade-goluboy-limonad</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9998-400x400.png</picture>
@@ -112745,7 +112745,7 @@
 </offer>
 <offer id="9999" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-blueberry-chernika</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9999-400x400.png</picture>
@@ -112785,7 +112785,7 @@
 </offer>
 <offer id="18491" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-cool-mint-myata-led</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18491-400x400.png</picture>
@@ -112825,7 +112825,7 @@
 </offer>
 <offer id="18490" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-grape-vinograd</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18490-400x400.png</picture>
@@ -112865,7 +112865,7 @@
 </offer>
 <offer id="18488" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-kiwi-passion-fruit-guava-kivi-marakuyya-guava</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18488-400x400.png</picture>
@@ -112905,7 +112905,7 @@
 </offer>
 <offer id="18322" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-mango-mango</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18322-400x400.png</picture>
@@ -112945,7 +112945,7 @@
 </offer>
 <offer id="18323" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-peach-ice-persik-led</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18323-400x400.png</picture>
@@ -112985,7 +112985,7 @@
 </offer>
 <offer id="18487" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-pink-lemonade-rozovyiy-limonad</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18487-400x400.png</picture>
@@ -113025,7 +113025,7 @@
 </offer>
 <offer id="18324" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-banana-klubnika-banan</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18324-400x400.png</picture>
@@ -113065,7 +113065,7 @@
 </offer>
 <offer id="10000" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-ice-klubnika-ays</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10000-400x400.png</picture>
@@ -113105,7 +113105,7 @@
 </offer>
 <offer id="10001" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-ice-cream-klubnichnoe-morojnoe</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10001-400x400.png</picture>
@@ -113145,7 +113145,7 @@
 </offer>
 <offer id="18325" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-tobacco-tabak</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18325-400x400.png</picture>
@@ -113185,7 +113185,7 @@
 </offer>
 <offer id="18326" available="false">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-watermelon-arbuz</url>
-<price>43</price>
+<price>48</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18326-400x400.png</picture>
@@ -113825,7 +113825,7 @@
 </offer>
 <offer id="20886" available="true">
 <url>https://hardsmoke.store/kartridj-lost-vape-ursa-nano-cartridge-10-om</url>
-<price>94</price>
+<price>99</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20886-400x400.png</picture>
@@ -113955,7 +113955,7 @@
 </offer>
 <offer id="25050" available="true">
 <url>https://hardsmoke.store/kartridj-oxva-xlim-06-om-2-ml</url>
-<price>105</price>
+<price>101</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25050-400x400.png</picture>
@@ -113995,7 +113995,7 @@
 </offer>
 <offer id="25051" available="true">
 <url>https://hardsmoke.store/kartridj-oxva-xlim-08-om-2-ml</url>
-<price>105</price>
+<price>101</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25051-400x400.png</picture>
@@ -115035,7 +115035,7 @@
 </offer>
 <offer id="26917" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-luxe-q-06-om-2-ml</url>
-<price>87</price>
+<price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26917-400x400.png</picture>
@@ -115075,7 +115075,7 @@
 </offer>
 <offer id="26918" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-luxe-q-12-om-2-ml</url>
-<price>84</price>
+<price>78</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26918-400x400.png</picture>
@@ -115155,7 +115155,7 @@
 </offer>
 <offer id="26916" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-luxe-q-mesh-08-om-2-ml</url>
-<price>86</price>
+<price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26916-400x400.png</picture>
@@ -115275,7 +115275,7 @@
 </offer>
 <offer id="20880" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-06-om</url>
-<price>87</price>
+<price>78</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20880-400x400.png</picture>
@@ -115315,7 +115315,7 @@
 </offer>
 <offer id="24109" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-07-om-3-ml</url>
-<price>87</price>
+<price>88</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24109-400x400.png</picture>
@@ -115365,7 +115365,7 @@
 </offer>
 <offer id="24110" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-12-om-2-ml</url>
-<price>84</price>
+<price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24110-400x400.png</picture>
@@ -115485,7 +115485,7 @@
 </offer>
 <offer id="24637" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-20-mesh-04-om-3-ml</url>
-<price>90</price>
+<price>88</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24637-400x400.png</picture>
@@ -115525,7 +115525,7 @@
 </offer>
 <offer id="27050" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-06-om-3-ml</url>
-<price>87</price>
+<price>88</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27050-400x400.png</picture>
@@ -115565,7 +115565,7 @@
 </offer>
 <offer id="27051" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-08-om-3-ml</url>
-<price>87</price>
+<price>88</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27051-400x400.png</picture>
@@ -115605,7 +115605,7 @@
 </offer>
 <offer id="20882" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-zero-s-10-om</url>
-<price>90</price>
+<price>96</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20882-400x400.png</picture>
@@ -115645,7 +115645,7 @@
 </offer>
 <offer id="20883" available="true">
 <url>https://hardsmoke.store/kartridj-voopoo-argus-pod-07-om</url>
-<price>101</price>
+<price>90</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20883-400x400.png</picture>
@@ -119801,7 +119801,7 @@
 </offer>
 <offer id="26835" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-blueberry-lime-chernika-laym-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26835-400x400.png</picture>
@@ -119817,7 +119817,7 @@
 </offer>
 <offer id="26831" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-green-mango-guava-zelenoe-mango-guava-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26831-400x400.png</picture>
@@ -119833,7 +119833,7 @@
 </offer>
 <offer id="26838" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-kiwi-watermelon-green-apple-kivi-arbuz-zelenoe-yabloko-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26838-400x400.png</picture>
@@ -119849,7 +119849,7 @@
 </offer>
 <offer id="26834" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-lemon-lime-limon-laym-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26834-400x400.png</picture>
@@ -119865,7 +119865,7 @@
 </offer>
 <offer id="26832" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-orange-passion-fruit-apelsin-marakuyya-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26832-400x400.png</picture>
@@ -119881,7 +119881,7 @@
 </offer>
 <offer id="26839" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-peach-lime-persik-laym-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26839-400x400.png</picture>
@@ -119897,7 +119897,7 @@
 </offer>
 <offer id="26836" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-raspberry-pomegranate-malina-granat-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26836-400x400.png</picture>
@@ -119913,7 +119913,7 @@
 </offer>
 <offer id="26840" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-sour-strawberry-grape-kislaya-klubnika-vinograd-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26840-400x400.png</picture>
@@ -119929,7 +119929,7 @@
 </offer>
 <offer id="26837" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-strawberry-cherry-raspberry-klubnika-vishnya-malina-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26837-400x400.png</picture>
@@ -119945,7 +119945,7 @@
 </offer>
 <offer id="26833" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-watermelon-pear-orange-arbuz-grusha-apelsin-odnorazovyiy-pod</url>
-<price>299</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26833-400x400.png</picture>
@@ -121817,7 +121817,7 @@
 </offer>
 <offer id="26969" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26969-400x400.png</picture>
@@ -121833,7 +121833,7 @@
 </offer>
 <offer id="22601" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-black-mecha-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22601-400x400.png</picture>
@@ -121843,7 +121843,7 @@
 </offer>
 <offer id="22602" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-classic-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22602-400x400.png</picture>
@@ -121853,7 +121853,7 @@
 </offer>
 <offer id="23321" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-classic-brown-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23321-400x400.png</picture>
@@ -121863,7 +121863,7 @@
 </offer>
 <offer id="27030" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-gold-mecha-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27030-400x400.png</picture>
@@ -121879,7 +121879,7 @@
 </offer>
 <offer id="27028" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-iceberg-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27028-400x400.png</picture>
@@ -121895,7 +121895,7 @@
 </offer>
 <offer id="22603" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-ocean-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22603-400x400.png</picture>
@@ -121905,7 +121905,7 @@
 </offer>
 <offer id="22604" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-purple-mecha-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22604-400x400.png</picture>
@@ -121915,7 +121915,7 @@
 </offer>
 <offer id="27029" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-sakura-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27029-400x400.png</picture>
@@ -121931,7 +121931,7 @@
 </offer>
 <offer id="22605" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-2-1000-storm-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22605-400x400.png</picture>
@@ -121941,7 +121941,7 @@
 </offer>
 <offer id="23680" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-babe-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23680-400x400.png</picture>
@@ -121957,7 +121957,7 @@
 </offer>
 <offer id="23681" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-blue-carbon-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23681-400x400.png</picture>
@@ -121973,7 +121973,7 @@
 </offer>
 <offer id="23679" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-bright-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23679-400x400.png</picture>
@@ -121989,7 +121989,7 @@
 </offer>
 <offer id="23682" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-classic-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23682-400x400.png</picture>
@@ -122005,7 +122005,7 @@
 </offer>
 <offer id="23683" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-electric-violet-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23683-400x400.png</picture>
@@ -122021,7 +122021,7 @@
 </offer>
 <offer id="23684" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-iron-gray-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23684-400x400.png</picture>
@@ -122037,7 +122037,7 @@
 </offer>
 <offer id="23685" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-midnight-g-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23685-400x400.png</picture>
@@ -122053,7 +122053,7 @@
 </offer>
 <offer id="23686" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-mojito-g-zeleno-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23686-400x400.png</picture>
@@ -122069,7 +122069,7 @@
 </offer>
 <offer id="23687" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-navy-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23687-400x400.png</picture>
@@ -122085,7 +122085,7 @@
 </offer>
 <offer id="23688" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-neon-mint-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23688-400x400.png</picture>
@@ -122101,7 +122101,7 @@
 </offer>
 <offer id="23690" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-silver-carbon-g-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23690-400x400.png</picture>
@@ -122117,7 +122117,7 @@
 </offer>
 <offer id="26970" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26970-400x400.png</picture>
@@ -122133,7 +122133,7 @@
 </offer>
 <offer id="23689" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-sakura-g-zolotisto-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23689-400x400.png</picture>
@@ -122149,7 +122149,7 @@
 </offer>
 <offer id="23691" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-sunrise-g-oranjevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>594</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23691-400x400.png</picture>
@@ -122165,7 +122165,7 @@
 </offer>
 <offer id="26971" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-2-pod-kit-1000-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26971-400x400.png</picture>
@@ -122181,7 +122181,7 @@
 </offer>
 <offer id="24633" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-black-thorns-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24633-400x400.png</picture>
@@ -122197,7 +122197,7 @@
 </offer>
 <offer id="24631" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-blue-thorns-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24631-400x400.png</picture>
@@ -122213,7 +122213,7 @@
 </offer>
 <offer id="24632" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-brown-thorns-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24632-400x400.png</picture>
@@ -122229,7 +122229,7 @@
 </offer>
 <offer id="24628" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-espresso-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24628-400x400.png</picture>
@@ -122245,7 +122245,7 @@
 </offer>
 <offer id="24634" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-grey-neverfall-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24634-400x400.png</picture>
@@ -122261,7 +122261,7 @@
 </offer>
 <offer id="24630" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-lavender-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24630-400x400.png</picture>
@@ -122277,7 +122277,7 @@
 </offer>
 <offer id="24629" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-mint-myatnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24629-400x400.png</picture>
@@ -122293,7 +122293,7 @@
 </offer>
 <offer id="24636" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-pink-dauphine-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24636-400x400.png</picture>
@@ -122309,7 +122309,7 @@
 </offer>
 <offer id="24635" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-sky-delightful-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>735</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24635-400x400.png</picture>
@@ -122975,7 +122975,7 @@
 </offer>
 <offer id="26976" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26976-400x400.png</picture>
@@ -122991,7 +122991,7 @@
 </offer>
 <offer id="25126" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-black-carbon-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25126-400x400.png</picture>
@@ -123007,7 +123007,7 @@
 </offer>
 <offer id="26491" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-black-leather-chernaya-koja-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26491-400x400.png</picture>
@@ -123023,7 +123023,7 @@
 </offer>
 <offer id="26492" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-blue-leather-sinyaya-koja-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26492-400x400.png</picture>
@@ -123039,7 +123039,7 @@
 </offer>
 <offer id="25129" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-bronze-wood-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25129-400x400.png</picture>
@@ -123055,7 +123055,7 @@
 </offer>
 <offer id="26493" available="false">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-brown-leather-korichnevaya-koja-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26493-400x400.png</picture>
@@ -123071,7 +123071,7 @@
 </offer>
 <offer id="25131" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-gentle-blue-sine-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25131-400x400.png</picture>
@@ -123087,7 +123087,7 @@
 </offer>
 <offer id="25127" available="false">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-gold-carbon-cherno-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25127-400x400.png</picture>
@@ -123103,7 +123103,7 @@
 </offer>
 <offer id="26494" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-green-leather-zelenaya-koja-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26494-400x400.png</picture>
@@ -123119,7 +123119,7 @@
 </offer>
 <offer id="25128" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-gunmetal-wood-sero-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25128-400x400.png</picture>
@@ -123135,7 +123135,7 @@
 </offer>
 <offer id="25130" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-mauve-white-belo-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25130-400x400.png</picture>
@@ -123151,7 +123151,7 @@
 </offer>
 <offer id="25132" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-pastel-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25132-400x400.png</picture>
@@ -123167,7 +123167,7 @@
 </offer>
 <offer id="25133" available="true">
 <url>https://hardsmoke.store/oxva-xlim-sq-pro-kit-1200-spring-white-belo-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>776</price>
+<price>775</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25133-400x400.png</picture>
@@ -125339,7 +125339,7 @@
 </offer>
 <offer id="26988" available="true">
 <url>https://hardsmoke.store/suorin-ace-pod-kit-1000-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26988-400x400.png</picture>
@@ -125355,7 +125355,7 @@
 </offer>
 <offer id="19483" available="true">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-suorin-ace-pod-kit-black-chernyiy-s-kartridjem</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19483-400x400.png</picture>
@@ -125371,7 +125371,7 @@
 </offer>
 <offer id="19484" available="true">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-suorin-ace-pod-kit-diamond-blue-siniy-s-kartridjem</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19484-400x400.png</picture>
@@ -125387,7 +125387,7 @@
 </offer>
 <offer id="19485" available="true">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-suorin-ace-pod-kit-green-zelenyiy-s-kartridjem</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19485-400x400.png</picture>
@@ -125403,7 +125403,7 @@
 </offer>
 <offer id="19486" available="true">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-suorin-ace-pod-kit-ocean-camo-siniy-s-kartridjem</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19486-400x400.png</picture>
@@ -125419,7 +125419,7 @@
 </offer>
 <offer id="19487" available="true">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-suorin-ace-pod-kit-prism-blue-siniy-s-kartridjem</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19487-400x400.png</picture>
@@ -125435,7 +125435,7 @@
 </offer>
 <offer id="19488" available="true">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-suorin-ace-pod-kit-red-krasnyiy-s-kartridjem</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19488-400x400.png</picture>
@@ -125749,7 +125749,7 @@
 </offer>
 <offer id="26991" available="true">
 <url>https://hardsmoke.store/vaporesso-luxe-q2-1000-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26991-400x400.png</picture>
@@ -126913,7 +126913,7 @@
 </offer>
 <offer id="26999" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26999-400x400.png</picture>
@@ -126929,7 +126929,7 @@
 </offer>
 <offer id="26469" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26469-400x400.png</picture>
@@ -126945,7 +126945,7 @@
 </offer>
 <offer id="26476" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-carbon-black-chernyiy-karbon-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26476-400x400.png</picture>
@@ -126961,7 +126961,7 @@
 </offer>
 <offer id="26473" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-flowing-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26473-400x400.png</picture>
@@ -126977,7 +126977,7 @@
 </offer>
 <offer id="26474" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-flowing-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26474-400x400.png</picture>
@@ -126993,7 +126993,7 @@
 </offer>
 <offer id="26472" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-flowing-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26472-400x400.png</picture>
@@ -127009,7 +127009,7 @@
 </offer>
 <offer id="26475" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-pastel-crystal-lilovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26475-400x400.png</picture>
@@ -127025,7 +127025,7 @@
 </offer>
 <offer id="26470" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26470-400x400.png</picture>
@@ -127041,7 +127041,7 @@
 </offer>
 <offer id="26478" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-rose-red-fuksiya-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26478-400x400.png</picture>
@@ -127057,7 +127057,7 @@
 </offer>
 <offer id="26471" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-sky-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26471-400x400.png</picture>
@@ -127073,7 +127073,7 @@
 </offer>
 <offer id="26477" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-titanium-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>538</price>
+<price>543</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26477-400x400.png</picture>
@@ -127285,7 +127285,7 @@
 </offer>
 <offer id="27001" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27001-400x400.png</picture>
@@ -127301,7 +127301,7 @@
 </offer>
 <offer id="24611" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24611-400x400.png</picture>
@@ -127317,7 +127317,7 @@
 </offer>
 <offer id="24612" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24612-400x400.png</picture>
@@ -127333,7 +127333,7 @@
 </offer>
 <offer id="26563" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-champagne-gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26563-400x400.png</picture>
@@ -127349,7 +127349,7 @@
 </offer>
 <offer id="24613" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24613-400x400.png</picture>
@@ -127365,7 +127365,7 @@
 </offer>
 <offer id="24617" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-orange-oranjevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24617-400x400.png</picture>
@@ -127381,7 +127381,7 @@
 </offer>
 <offer id="24614" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24614-400x400.png</picture>
@@ -127397,7 +127397,7 @@
 </offer>
 <offer id="26564" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26564-400x400.png</picture>
@@ -127413,7 +127413,7 @@
 </offer>
 <offer id="24615" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24615-400x400.png</picture>
@@ -127429,7 +127429,7 @@
 </offer>
 <offer id="26565" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-sapphire-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26565-400x400.png</picture>
@@ -127445,7 +127445,7 @@
 </offer>
 <offer id="24616" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>851</price>
+<price>862</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24616-400x400.png</picture>
@@ -127691,7 +127691,7 @@
 </offer>
 <offer id="27004" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27004-400x400.png</picture>
@@ -127707,7 +127707,7 @@
 </offer>
 <offer id="23009" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-astral-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23009-400x400.png</picture>
@@ -127723,7 +127723,7 @@
 </offer>
 <offer id="23010" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-aurora-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23010-400x400.png</picture>
@@ -127739,7 +127739,7 @@
 </offer>
 <offer id="24592" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-carbon-fiber-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24592-400x400.png</picture>
@@ -127755,7 +127755,7 @@
 </offer>
 <offer id="23011" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-glow-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23011-400x400.png</picture>
@@ -127771,7 +127771,7 @@
 </offer>
 <offer id="23012" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-iris-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23012-400x400.png</picture>
@@ -127787,7 +127787,7 @@
 </offer>
 <offer id="24593" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-luxury-walnut-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24593-400x400.png</picture>
@@ -127803,7 +127803,7 @@
 </offer>
 <offer id="24591" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-navy-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24591-400x400.png</picture>
@@ -127819,7 +127819,7 @@
 </offer>
 <offer id="23013" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-peachy-beige-bejevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23013-400x400.png</picture>
@@ -127835,7 +127835,7 @@
 </offer>
 <offer id="23014" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-pearl-white-perlamutr-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23014-400x400.png</picture>
@@ -127851,7 +127851,7 @@
 </offer>
 <offer id="23015" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-space-grey-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23015-400x400.png</picture>
@@ -127867,7 +127867,7 @@
 </offer>
 <offer id="23016" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-pod-kit-1000-spray-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>979</price>
+<price>683</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23016-400x400.png</picture>
@@ -127883,7 +127883,7 @@
 </offer>
 <offer id="27032" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27032-400x400.png</picture>
@@ -127899,7 +127899,7 @@
 </offer>
 <offer id="27024" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-midnight-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27024-400x400.png</picture>
@@ -127915,7 +127915,7 @@
 </offer>
 <offer id="27025" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-moss-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27025-400x400.png</picture>
@@ -127931,7 +127931,7 @@
 </offer>
 <offer id="27026" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-pearl-white-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27026-400x400.png</picture>
@@ -127947,7 +127947,7 @@
 </offer>
 <offer id="27027" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-space-gray-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27027-400x400.png</picture>
@@ -127963,7 +127963,7 @@
 </offer>
 <offer id="27005" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27005-400x400.png</picture>
@@ -127979,7 +127979,7 @@
 </offer>
 <offer id="26554" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-grass-green-salatovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26554-400x400.png</picture>
@@ -127995,7 +127995,7 @@
 </offer>
 <offer id="26561" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-hot-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26561-400x400.png</picture>
@@ -128011,7 +128011,7 @@
 </offer>
 <offer id="26555" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-lilac-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26555-400x400.png</picture>
@@ -128027,7 +128027,7 @@
 </offer>
 <offer id="26556" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-midnight-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26556-400x400.png</picture>
@@ -128043,7 +128043,7 @@
 </offer>
 <offer id="26562" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-moonlight-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26562-400x400.png</picture>
@@ -128059,7 +128059,7 @@
 </offer>
 <offer id="26557" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-rose-gold-zolotisto-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26557-400x400.png</picture>
@@ -128075,7 +128075,7 @@
 </offer>
 <offer id="26560" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-scarlet-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26560-400x400.png</picture>
@@ -128091,7 +128091,7 @@
 </offer>
 <offer id="26559" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-sky-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26559-400x400.png</picture>
@@ -128107,7 +128107,7 @@
 </offer>
 <offer id="26558" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g3-mini-1350-space-grey-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>551</price>
+<price>502</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26558-400x400.png</picture>
@@ -129109,7 +129109,7 @@
 </offer>
 <offer id="22048" available="true">
 <url>https://hardsmoke.store/voopoo-vthru-pro-eternity-edition-900-aqua%C2%A0pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>823</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22048-400x400.png</picture>
@@ -129119,7 +129119,7 @@
 </offer>
 <offer id="22049" available="true">
 <url>https://hardsmoke.store/voopoo-vthru-pro-eternity-edition-900-burgundy%C2%A0red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>823</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22049-400x400.png</picture>
@@ -129129,7 +129129,7 @@
 </offer>
 <offer id="22051" available="false">
 <url>https://hardsmoke.store/voopoo-vthru-pro-eternity-edition-900-glacier%C2%A0silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>823</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22051-400x400.png</picture>
@@ -129139,7 +129139,7 @@
 </offer>
 <offer id="22050" available="true">
 <url>https://hardsmoke.store/voopoo-vthru-pro-eternity-edition-900-indigo-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>823</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22050-400x400.png</picture>
@@ -129149,7 +129149,7 @@
 </offer>
 <offer id="22052" available="true">
 <url>https://hardsmoke.store/voopoo-vthru-pro-eternity-edition-900-luxury%C2%A0gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>823</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22052-400x400.png</picture>
@@ -129621,7 +129621,7 @@
 </offer>
 <offer id="26045" available="false">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-crystal-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>351</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26045-400x400.png</picture>
@@ -129637,7 +129637,7 @@
 </offer>
 <offer id="26044" available="false">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-emerald-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>351</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26044-400x400.png</picture>
@@ -129653,7 +129653,7 @@
 </offer>
 <offer id="26046" available="true">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-glacier-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>351</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26046-400x400.png</picture>
@@ -129669,7 +129669,7 @@
 </offer>
 <offer id="26047" available="true">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-jet-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>351</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26047-400x400.png</picture>
@@ -129685,7 +129685,7 @@
 </offer>
 <offer id="26043" available="true">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-steel-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>351</price>
+<price>319</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26043-400x400.png</picture>
@@ -129811,7 +129811,7 @@
 </offer>
 <offer id="27031" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27031-400x400.png</picture>
@@ -129827,7 +129827,7 @@
 </offer>
 <offer id="27023" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-emerald-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27023-400x400.png</picture>
@@ -129843,7 +129843,7 @@
 </offer>
 <offer id="27016" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-jet-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27016-400x400.png</picture>
@@ -129859,7 +129859,7 @@
 </offer>
 <offer id="27018" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-lavender-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27018-400x400.png</picture>
@@ -129875,7 +129875,7 @@
 </offer>
 <offer id="27021" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-navy-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27021-400x400.png</picture>
@@ -129891,7 +129891,7 @@
 </offer>
 <offer id="27020" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-rose-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27020-400x400.png</picture>
@@ -129907,7 +129907,7 @@
 </offer>
 <offer id="27019" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-seashell-white-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27019-400x400.png</picture>
@@ -129923,7 +129923,7 @@
 </offer>
 <offer id="27017" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-urban-camo-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27017-400x400.png</picture>
@@ -129939,7 +129939,7 @@
 </offer>
 <offer id="27022" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-e2-1500-walnut-brown-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>784</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27022-400x400.png</picture>
@@ -129955,7 +129955,7 @@
 </offer>
 <offer id="19438" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vmate-infinity-edition-900-mach-dark-grey-seryiy-s-kartridjem</url>
-<price>537</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19438-400x400.png</picture>
@@ -129965,7 +129965,7 @@
 </offer>
 <offer id="19439" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vmate-infinity-edition-900-mach-fancy-purple-fioletovyiy-s-kartridjem</url>
-<price>537</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19439-400x400.png</picture>
@@ -129975,7 +129975,7 @@
 </offer>
 <offer id="19440" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vmate-infinity-edition-900-mach-golden-brown-korichnevyiy-s-kartridjem</url>
-<price>537</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19440-400x400.png</picture>
@@ -129985,7 +129985,7 @@
 </offer>
 <offer id="19441" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vmate-infinity-edition-900-mach-gradient-blue-siniy-s-kartridjem</url>
-<price>537</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19441-400x400.png</picture>
@@ -129995,7 +129995,7 @@
 </offer>
 <offer id="19442" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vmate-infinity-edition-900-mach-shiny-green-zelenyiy-s-kartridjem</url>
-<price>537</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19442-400x400.png</picture>
@@ -130083,7 +130083,7 @@
 </offer>
 <offer id="26490" available="true">
 <url>https://hardsmoke.store/voopoo-vmate-pro-900-power-edition-900-armor-copper-mednyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>682</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26490-400x400.png</picture>
