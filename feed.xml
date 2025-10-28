@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-28 11:22">
+<yml_catalog date="2025-10-28 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -117969,7 +117969,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26830-400x400.png</picture>
-<vendorCode>ws49648-43</vendorCode>
+<vendorCode>ws49648-3</vendorCode>
 <name>Elf Bar 1500 Ultra Coconut Melon (Кокос Диня) Одноразовий POD</name>
 <description><![CDATA[<p>Відкрийте для себе світ вейпінгу з Elf Bar 1500 Ultra Coconut Melon (Кокос Диня) Одноразовий POD — сучасною та стильною альтернативою традиційному курінню. Цей пристрій поєднує у собі елегантний дизайн, передові технології та високу функціональність. Цей варіант забезпечує чудову передачу смаку, не видає неприємного запаху та радує вейперів різноманітністю ароматів. Ось деякі з ключових переваг одноразів та вейпів:</p>
  <ul>
@@ -133645,90 +133645,6 @@
 <vendorCode>glassws73658-5</vendorCode>
 <name>InstaBar WT20000 Ананас Кокос Лід</name>
 </offer>
-<offer id="glassws62816-10" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-10</vendorCode>
-<name>Ельф CR8000 Подвійне Яблуко</name>
-</offer>
-<offer id="glassws62816-12" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-12</vendorCode>
-<name>Ельф CR8000 Морський Бріз М&apos;ята</name>
-</offer>
-<offer id="glassws62816-4" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-4</vendorCode>
-<name>Ельф CR8000 Манго Зелений Виноград</name>
-</offer>
-<offer id="glasselfdrop_cr_8000-6" available="false">
-<price>0</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glasselfdrop_cr_8000-6</vendorCode>
-<name>Ельф CR8000 Малиновий Джем з Кислинкою</name>
-</offer>
-<offer id="glassws62816-3" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-3</vendorCode>
-<name>Ельф CR8000 Лимонад</name>
-</offer>
-<offer id="glassws62816-11" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-11</vendorCode>
-<name>Ельф CR8000 Лимон Лайм(Lemon Lime)</name>
-</offer>
-<offer id="glassws62816-5" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-5</vendorCode>
-<name>Ельф CR8000 Кисла Ожина Чорниця</name>
-</offer>
-<offer id="glassws62816-6" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-6</vendorCode>
-<name>Ельф CR8000 Кавун Лід</name>
-</offer>
-<offer id="glassws62816-1" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-1</vendorCode>
-<name>Ельф CR8000 Зелене Яблуко Маракуйя Ківі</name>
-</offer>
-<offer id="glassws62816-2" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-2</vendorCode>
-<name>Ельф CR8000 Жасмин Малина</name>
-</offer>
-<offer id="glassws62816-8" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816-8</vendorCode>
-<name>Ельф CR8000 Вишня Лайм</name>
-</offer>
-<offer id="glassws62816" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>glassws62816</vendorCode>
-<name>Ельф CR8000 Виноград Лід</name>
-</offer>
 <offer id="glassws65838-2" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
@@ -138257,90 +138173,6 @@
 <categoryId>10</categoryId>
 <vendorCode>topws94498</vendorCode>
 <name>Под COMBO 25000 Яблуко &amp; Соковитий Персик</name>
-</offer>
-<offer id="topws62816" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816</vendorCode>
-<name>Под CR8000 Виноград Лід</name>
-</offer>
-<offer id="topws62816-8" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-8</vendorCode>
-<name>Под CR8000 Вишня Лайм</name>
-</offer>
-<offer id="topws62816-2" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-2</vendorCode>
-<name>Под CR8000 Жасмин Малина</name>
-</offer>
-<offer id="topws62816-1" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-1</vendorCode>
-<name>Под CR8000 Зелене Яблуко Маракуйя Ківі</name>
-</offer>
-<offer id="topws62816-6" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-6</vendorCode>
-<name>Под CR8000 Кавун Лід</name>
-</offer>
-<offer id="topws62816-5" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-5</vendorCode>
-<name>Под CR8000 Кисла Ожина Чорниця</name>
-</offer>
-<offer id="topws62816-11" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-11</vendorCode>
-<name>Под CR8000 Лимон Лайм(Lemon Lime)</name>
-</offer>
-<offer id="topws62816-3" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-3</vendorCode>
-<name>Под CR8000 Лимонад</name>
-</offer>
-<offer id="topelfdrop_cr_8000-6" available="false">
-<price>0</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topelfdrop_cr_8000-6</vendorCode>
-<name>Под CR8000 Малиновий Джем з Кислинкою</name>
-</offer>
-<offer id="topws62816-4" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-4</vendorCode>
-<name>Под CR8000 Манго Зелений Виноград</name>
-</offer>
-<offer id="topws62816-12" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-12</vendorCode>
-<name>Под CR8000 Морський Бріз М&apos;ята</name>
-</offer>
-<offer id="topws62816-10" available="false">
-<price>490</price>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<vendorCode>topws62816-10</vendorCode>
-<name>Под CR8000 Подвійне Яблуко</name>
 </offer>
 <offer id="topws52187-8" available="false">
 <price>351</price>
