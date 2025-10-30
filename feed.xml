@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-30 12:22">
+<yml_catalog date="2025-10-30 13:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -87644,7 +87644,7 @@
  <img alt="Рідина Flip Salt Cold Kiwi (Крижана Ківі, 25 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25112-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="26021" available="true">
+<offer id="26021" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-cold-kiwi-ledyanoy-kivi-25-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -94444,14 +94444,14 @@
 <img alt="Рідина In Bottle Salt Banana Milk (Банан Молоко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22282-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21499" available="true">
+<offer id="21499" available="false">
 <url>https://hardsmoke.store/jidkost-in-bottle-salt-basilade-bazilad-50-mg-30-ml</url>
 <price>183</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21499-400x400.png</picture>
 <vendorCode>hd21499</vendorCode>
-<name>Рідина In Bottle Salt Basilade (Базилад, 30 мг, 30 мл)</name>
+<name>Рідина In Bottle Salt Basilade (Базилад, 50 мг, 30 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина In Bottle Salt Basilade (Базилад, 30 мг, 30 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
 <div>
@@ -117614,7 +117614,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Blueberry Bubble gum (Чорниця Жуйка) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="9074" available="true">
+<offer id="9074" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-cherry-lemon-peach-vishnya-limon-persik-1500-zatyajek</url>
 <price>230</price>
 <currencyId>UAH</currencyId>
