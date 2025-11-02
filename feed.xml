@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-02 02:22">
+<yml_catalog date="2025-11-02 11:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7953,7 +7953,7 @@
 <img alt="Набір для самозамішування Chaser Mint Ultra (М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22227-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25494" available="true">
+<offer id="25494" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-65-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -21691,7 +21691,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Caesar (Цезар, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24553-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24551" available="true">
+<offer id="24551" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-captain-kapitan-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21851,7 +21851,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Imperial (Імперіал, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24550-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24570" available="true">
+<offer id="24570" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-monaco-monako-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21891,7 +21891,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Monaco (Монако, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24570-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24571" available="true">
+<offer id="24571" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-monarch-monarh-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21971,7 +21971,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Strong Caesar (Цезар, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24749-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24747" available="true">
+<offer id="24747" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-strong-captain-black-kapitan-blek-65-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -39251,7 +39251,7 @@
 <img alt="Набір для самозамішування Lucky Rose Lemonade (Роза Лимонад, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25935-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23081" available="true">
+<offer id="23081" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-spearmint-myata-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -41171,7 +41171,7 @@
 <img alt="Набір для самозамішування Punch Mint Lemonade (Лимонад М'ята, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25402-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26849" available="true">
+<offer id="26849" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-neon-sour-apple-kisloe-yabloko-50-mg-30-ml</url>
 <price>192</price>
 <currencyId>UAH</currencyId>
@@ -60247,7 +60247,7 @@
 <img alt="Рідина Chaser Grape Plus (Виноград, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19349-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20810" available="true">
+<offer id="20810" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-grape-balance-vinograd-50-mg-30-ml</url>
 <price>220</price>
 <currencyId>UAH</currencyId>
@@ -61207,7 +61207,7 @@
 <img alt="Рідина Chaser Lux Cherry Lemon Balance (Вишня лимон, 50 мг, 11 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21196-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21287" available="true">
+<offer id="21287" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-cherry-lemon-balance-vishnya-limon-65-mg-11-ml</url>
 <price>140</price>
 <currencyId>UAH</currencyId>
@@ -100444,7 +100444,7 @@
 <img alt="Рідина Lucky Apple (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20222-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19599" available="true">
+<offer id="19599" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-apple-yabloko-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -118536,7 +118536,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar BC3000 Energy (Енергетик) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26309" available="true">
+<offer id="26309" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-apple-pear-yabloko-grusha-odnorazovyiy-pod</url>
 <price>431</price>
 <currencyId>UAH</currencyId>
@@ -120074,7 +120074,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Watermelon Ice (Кавун Лід) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26903" available="true">
+<offer id="26903" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-watermelon-lemon-arbuz-limon-odnorazovyiy-pod</url>
 <price>414</price>
 <currencyId>UAH</currencyId>
@@ -124218,7 +124218,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Smok допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Smok Novo 2X 800 Rasta Green Cobra (Зелений, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="19720" available="true">
+<offer id="19720" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-smok-novo-2x-800-mach-silver-black-cobra-serebristo-chernyiy-s-kartridjem</url>
 <price>689</price>
 <currencyId>UAH</currencyId>
@@ -127218,7 +127218,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 5 mini 1500 Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26469" available="true">
+<offer id="26469" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>543</price>
 <currencyId>UAH</currencyId>
@@ -127314,7 +127314,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 5 mini 1500 Pastel Crystal (Ліловий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26470" available="true">
+<offer id="26470" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-mini-1500-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>543</price>
 <currencyId>UAH</currencyId>
