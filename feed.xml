@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-08 05:22">
+<yml_catalog date="2025-11-08 11:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -95851,7 +95851,7 @@
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21500-400x400.png</picture>
 <vendorCode>hd21500</vendorCode>
-<name>Рідина In Bottle Salt Guava (Гуава, 30 мг, 30 мл)</name>
+<name>Рідина In Bottle Salt Guava (Гуава, 50 мг, 30 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина In Bottle Salt Guava (Гуава, 30 мг, 30 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
 <div>
@@ -100444,7 +100444,7 @@
 <img alt="Рідина Lucky Apple (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20222-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19599" available="true">
+<offer id="19599" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-apple-yabloko-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
