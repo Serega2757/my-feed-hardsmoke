@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11 11:22">
+<yml_catalog date="2025-11-11 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -116254,7 +116254,7 @@
 <img alt="Картридж Voopoo Vinci Series V2 1.2 Ом" src="https://hardsmoke.store/image/cache/catalog/exist/19692-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19564" available="true">
+<offer id="19564" available="false">
 <url>https://hardsmoke.store/kartridj-voopoo-vmate-v2-07-om</url>
 <price>84</price>
 <currencyId>UAH</currencyId>
