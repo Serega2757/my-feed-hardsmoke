@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11 01:22">
+<yml_catalog date="2025-11-11 11:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -18739,7 +18739,7 @@
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24745-400x400.png</picture>
 <vendorCode>aroma-max-30-65-2</vendorCode>
-<name>Набір для самозамішування Flavorlab Aroma MAX Strong Capitan black (Капітан блек, 65 мг, 30 мл)</name>
+<name>Набір для самозамішування Flavorlab Aroma MAX Strong Capitan black (Капітан блек, 50 мг, 30 мл)</name>
 <description><![CDATA[<div class="additional_description">ВАЖЛИВО: Цей товар - не готова рідина для електронних сигарет, а набір ароматизаторів для самостійного приготування сумішей або "самозамісу". Інструкції зі змішування доступні <a href="/blogs/zhidkosti-blog/kak-sdelat-zhidkost-dlya-elektronnoj-sigarety">тут</a></div><h2>Огляд: Набір для самозамішування Flavorlab Aroma MAX Strong Capitan black (Капітан блек, 65 мг, 30 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
 <div>
@@ -21731,7 +21731,7 @@
 <img alt="Набір для самозамішування Flavorlab Infinity MAX Captain (Капітан, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24551-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24552" available="true">
+<offer id="24552" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-infinity-max-commandant-kommendant-50-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -21978,7 +21978,7 @@
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24747-400x400.png</picture>
 <vendorCode>hd24747</vendorCode>
-<name>Набір для самозамішування Flavorlab Infinity MAX Strong Captain Black (Капітан Блек, 65 мг, 30 мл)</name>
+<name>Набір для самозамішування Flavorlab Infinity MAX Strong Captain Black (Капітан Блек, 50 мг, 30 мл)</name>
 <description><![CDATA[<div class="additional_description">ВАЖЛИВО: Цей товар - не готова рідина для електронних сигарет, а набір ароматизаторів для самостійного приготування сумішей або "самозамісу". Інструкції зі змішування доступні <a href="/blogs/zhidkosti-blog/kak-sdelat-zhidkost-dlya-elektronnoj-sigarety">тут</a></div><h2>Огляд: Набір для самозамішування Flavorlab Infinity MAX Strong Captain Black (Капітан Блек, 65 мг, 30 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
 <div>
@@ -28411,7 +28411,7 @@
 <img alt="Набір для самозамішування Get High Berry Classic (Беррі Класік, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24055-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26586" available="true">
+<offer id="26586" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-berry-frosbite-berri-frostbayt-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -28571,7 +28571,7 @@
 <img alt="Набір для самозамішування Get High Cherry Loca (Черрі Лока, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24058-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24059" available="true">
+<offer id="24059" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-cherry-peach-cocktail-vishnya-persik-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -29411,7 +29411,7 @@
 <img alt="Набір для самозамішування Get High Pina Colada (Піна Колада, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24076-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24077" available="true">
+<offer id="24077" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-pineapple-delight-paynepl-delayt-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -29891,7 +29891,7 @@
 <img alt="Набір для самозамішування Get High Summer Bouquet (Саммер Букет, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24087-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24088" available="true">
+<offer id="24088" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-summer-trio-sammer-trio-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -37931,7 +37931,7 @@
 <img alt="Набір для самозамішування Lucky Blueberry Lemonade (Чорничний лимонад, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25746-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23074" available="true">
+<offer id="23074" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -45531,7 +45531,7 @@
 <img alt="Набір для самозамішування Webber Double Apple (Подвійне Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23233-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23234" available="true">
+<offer id="23234" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-webber-mango-papaya-mango-papayya-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -45571,7 +45571,7 @@
 <img alt="Набір для самозамішування Webber Mango Papaya (Манго Папайя, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23234-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23235" available="true">
+<offer id="23235" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-webber-mint-bubble-gum-myatnaya-jvachka-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -54729,7 +54729,7 @@
 <img alt="Рідина Chaser Banana Balance (Банан, 50мг, 15мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21209-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21891" available="true">
+<offer id="21891" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-banana-balance-banan-60-mg-10-ml</url>
 <price>100</price>
 <currencyId>UAH</currencyId>
@@ -55369,7 +55369,7 @@
 <img alt="Рідина Chaser Berries Plus (Ягоди, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19360-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20815" available="true">
+<offer id="20815" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-berries-balance-yagodyi-50-mg-30-ml</url>
 <price>220</price>
 <currencyId>UAH</currencyId>
@@ -60847,7 +60847,7 @@
 <img alt="Рідина Chaser Lux Berry Lemonade Ice (Ягоди Лімонад Лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20718-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="18909" available="true">
+<offer id="18909" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-blueberry-mint-chernika-myata-50mg-11ml</url>
 <price>140</price>
 <currencyId>UAH</currencyId>
@@ -61367,7 +61367,7 @@
 <img alt="Рідина Chaser Lux Cider Berry Limited Balance (Ягідний Сидр, 65 мг, 11 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21974-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18911" available="true">
+<offer id="18911" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-coconut-melon-kokos-limon-50mg-11ml</url>
 <price>140</price>
 <currencyId>UAH</currencyId>
@@ -63127,7 +63127,7 @@
 <img alt="Рідина Chaser Lux Tropic Punch (Тропік Панч, 50 мг, 11 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18918-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20602" available="true">
+<offer id="20602" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-tropic-punch-tropik-panch-50-mg-30-ml</url>
 <price>174</price>
 <currencyId>UAH</currencyId>
@@ -89484,7 +89484,7 @@
  <img alt="Рідина Flip salt TOBACCO (Тютюн, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18173-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19597" available="true">
+<offer id="19597" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-tobacco-tabak-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -95851,7 +95851,7 @@
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21500-400x400.png</picture>
 <vendorCode>hd21500</vendorCode>
-<name>Рідина In Bottle Salt Guava (Гуава, 50 мг, 30 мл)</name>
+<name>Рідина In Bottle Salt Guava (Гуава, 30 мг, 30 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина In Bottle Salt Guava (Гуава, 30 мг, 30 мл)</h2>
 <div class="text-block-wrap text-block-wrap-first">
 <div>
@@ -99044,7 +99044,7 @@
 <img alt="Рідина Juni Salt Fruit Gum (Фруктова Жуйка, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20407-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20399" available="true">
+<offer id="20399" available="false">
 <url>https://hardsmoke.store/jidkost-juni-salt-kiwi-stawberry-kivi-klubnika-50-mg-15-ml</url>
 <price>101</price>
 <currencyId>UAH</currencyId>
@@ -100444,7 +100444,7 @@
 <img alt="Рідина Lucky Apple (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20222-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19599" available="true">
+<offer id="19599" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-apple-yabloko-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -101164,7 +101164,7 @@
 <img alt="Рідина Lucky Cold Mango (Крижаний Манго, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20226-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19603" available="true">
+<offer id="19603" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-cold-mango-ledyanoy-mango-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -105284,7 +105284,7 @@
 <img alt="Рідина My pods salt mandarin (мандарин, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/8987-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8988" available="true">
+<offer id="8988" available="false">
 <url>https://hardsmoke.store/jidkost-my-pods-salt-mango-mango-10-ml</url>
 <price>0</price>
 <currencyId>UAH</currencyId>
@@ -117704,7 +117704,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26829" available="true">
+<offer id="26829" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-latte-ice-ays-latte-odnorazovyiy-pod</url>
 <price>230</price>
 <currencyId>UAH</currencyId>
@@ -119176,7 +119176,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 1500 Blue Razz Lemonade (Лимонад Малина Ожина) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7937" available="true">
+<offer id="7937" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-grape-vinograd-1500-zatyajek</url>
 <price>230</price>
 <currencyId>UAH</currencyId>
@@ -121164,7 +121164,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії GeekVape допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з GeekVape Sonder Q Lite Kit 500 Metallic Orange (Помаранчевий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="25657" available="true">
+<offer id="25657" available="false">
 <url>https://hardsmoke.store/geekvape-sonder-q-lite-kit-1000-metallic-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>353</price>
 <currencyId>UAH</currencyId>
@@ -121180,7 +121180,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії GeekVape допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з GeekVape Sonder Q Lite Kit 500 Metallic Purple (Фіолетовий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="25658" available="true">
+<offer id="25658" available="false">
 <url>https://hardsmoke.store/geekvape-sonder-q-lite-kit-1000-metallic-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>353</price>
 <currencyId>UAH</currencyId>
@@ -122598,7 +122598,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Lost Vape допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Lost Vape Ursa Nano S 2 Pod Kit 1000 Pink Dauphine (Рожевий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24635" available="true">
+<offer id="24635" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-sky-delightful-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>661</price>
 <currencyId>UAH</currencyId>
@@ -127404,7 +127404,7 @@
 <name>Vaporesso XROS Mini Kit 1000 Ancient Silver (Металік, з картриджем) Багаторазовий POD</name>
 <description><![CDATA[<h2>Особливості Vaporesso XROS Mini Kit Ancient Silver</h2> <p>Подік Vaporesso XROS Mini Ancient Silver — створений для тих, хто шукає максимально просте, але стильне рішення для щоденного паріння.</p> <p>Модель ідеально підходить для новачків, але й досвідчені користувачі оцінять її стабільність, надійність і гідну передачу смаку.</p> <p>Пристрій працює лише від затяжки, не потребує жодних налаштувань і при цьому оснащений ємним акумулятором на 1000 мАг — заряду вистачає на повноцінний день без підзарядки.</p> <p>Корпус пода виконаний у вишуканому бронзово-золотому кольорі, а текстурована поверхня не лише приємна на дотик, а й надає пристрою преміального вигляду.</p> <p>Усе виглядає строго та стильно, без перевантаження зайвими декоративними елементами.</p> <h2>Дизайн і зручність використання</h2> <p><img alt="POD Vaporesso XROS Mini Kit 1000 Ancient Silver" class="img-responsive-left" height="400" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Vaporesso%20XROS%20Mini%20Kit%201000/Vaporesso-XROS-Mini-Pod-Kit-1000-(3)-800x800product_popup.webp" width="400">Багаторазка XROS Mini — створена з акцентом на компактність та ергономіку.</img></p> <p>Його витягнутий, але вузький корпус зручно лягає в руку, легко поміщається в кишеню і зовсім не відчувається під час повсякденного носіння.</p> <p>Вага мінімальна, а збірка — щільна, без люфтів і скрипів.</p> <p>Модель позбавлена кнопок і екранів, що робить її максимально інтуїтивною: затягнувся — пара пішла. Такий підхід особливо подобається новачкам і тим, хто не хоче морочитися з керуванням.</p> <p>Усе, що потрібно, вже налаштовано. На корпусі знаходиться індикатор заряду, який змінює колір залежно від рівня батареї. Це зручно: не потрібно гадати, скільки ще залишилось, і коли пора підключати зарядку.</p> <h2>Продуктивність і акумулятор</h2> <p>Попри компактність, всередині пристрою прихований акумулятор на 1000 мАг — показник, гідний навіть більших моделей.</p> <p>Цього цілком вистачає на 1–2 дні помірного використання, особливо при роботі з картриджем на 0.8 Ом, який постачається в комплекті.</p> <p>Картридж XROS 0.8 Ом ідеально підходить для солевого нікотину та MTL-затяжки. Він дає збалансовану кількість пари, добре розкриває смак і не потребує високої потужності.</p> <p>При цьому заправка здійснюється зверху: просто відсуньте мундштук, залийте рідину і продовжуйте парити — зручно, чисто і швидко.</p> <p>Пристрій сумісний з усіма картриджами серії XROS — від 0.6 до 1.2 Ом, що дозволяє підібрати бажану тягу і насиченість смаку. Пара рівномірна, без "плювків", а смак залишається стабільним до самого кінця картриджа — за це відповідає технологія COREX Heating і фірмовий чипсет AXON, що забезпечує точну подачу потужності.</p> <h2>Основні технічні характеристики Vaporesso XROS Mini Ancient Silver</h2> <ol> <li>Активація: від затяжки</li> <li>Ємність батареї: 1000 мАг</li> <li>Потужність: 16 Вт</li> <li>Опір випарника: 0.8 Ом</li> <li>Регулювання затяжки: відсутнє</li> <li>Об’єм картриджа: 2 мл</li> <li>Заправка: верхня</li> <li>Матеріал корпусу: алюмінієвий сплав + пластик</li> <li>Тип зарядки: Type-C</li> <li>Колір корпусу: бронзово-золотий</li> <li>Модель: XROS Mini</li> <li>Виробник: Китай</li> <li>Бренд: Vaporesso</li> </ol> <h2>Переваги та недоліки Vaporesso XROS Mini Ancient Silver</h2> <table border="1" cellspacing="0" style="border-collapse:collapse; width:100%"> <thead> <tr> <th style="background-color:#f0f0f0; text-align:left">  Переваги</th> <th style="background-color:#f0f0f0; text-align:left">  Недоліки</th> </tr> </thead> <tbody> <tr> <td>  Мініатюрний і легкий</td> <td>  Немає регулювання затяжки</td> </tr> <tr> <td>  Зручний для новачків</td> <td>  Лише один варіант опору в комплекті</td> </tr> <tr> <td>  Швидка зарядка через Type-C</td> <td>  Без екрана та кнопок (що може не підійти досвідченим користувачам)</td> </tr> <tr> <td>  Хороша автономність</td> <td> </td> </tr> <tr> <td>  Сумісний із картриджами XROS</td> <td> </td> </tr> <tr> <td>  Висока надійність, як і у всієї серії XROS</td> <td> </td> </tr> </tbody> </table> <h2>Лінійка XROS Mini</h2> <p><img alt="багаторазова підсистема Vaporesso XROS Mini Kit 1000 Ancient Silver" class="img-responsive-right" height="400" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Vaporesso%20XROS%20Mini%20Kit%201000/Vaporesso-XROS-Mini-Pod-Kit-1000-(1)-800x800product_popup.webp" width="400">Для електронки XROS Mini підійдуть усі картриджі від серії XROS, особливо з опором 0.8 та 1.0 Ом — їх можна знайти <a href="https://hardsmoke.store/ru/katalog/kartridji-ispariteli/kartridzhi">в розділі картриджів</a>.</img></p> <h3>Усі кольори XROS Mini:</h3> <ul> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-bronze-gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Bronze Ancient Silver</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-orange-red-oranjevo-krasnyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Orange Red</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-space-grey-temno-seryiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Space Grey</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-black-chernyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Black</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-cherry-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Cherry Red</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-zelenyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Forest Green</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-sine-zelenyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Lime Green</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-grape-purple-fioletovyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Grape Purple</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-silver-serebristyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Silver</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-sakura-pink-rozovyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Sakura Pink</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-midnight-blue-siniy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Midnight Blue</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-vitality-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Vitality</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-violet-fioletovyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Violet</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-neon-rozovo-fioletovyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Neon</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-sierra-blue-biryuzovyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Sierra Blue</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-gold-zolotoy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Gold</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-aurora-oranjevo-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Aurora</a></li> </ul> <p>Рекомендуємо використовувати рідини на сольовому нікотині зі співвідношенням PG/VG 50/50 — вони забезпечать чудову передачу смаку та м’яку, насичену пару. Ознайомитися зі смаками можна <a href="https://hardsmoke.store/katalog/zhidkosti">тут</a>.</p> <h2>Комплектація Vaporesso XROS Mini Ancient Silver</h2> <ul> <li>Pod-система Vaporesso XROS Mini</li> <li>Картридж на 0.8 Ом</li> <li>Зарядний кабель Type-C</li> <li>Інструкція</li> <li>Упаковка від виробника</li> </ul> <p>Електронна сигарета Vaporesso XROS Mini Ancient Silver — це чудовий вибір для тих, хто цінує лаконічність, стабільну роботу та стильний зовнішній вигляд. Без кнопок, без складних налаштувань — тільки все найнеобхідніше: гарний смак, впевнена автономність, зручність у повсякденному використанні та низька ціна. Цей подик стане надійним супутником як для новачка, так і для тих, хто шукає простий резервний девайс. Купити та замовити вейп XROS Mini в елегантному бронзово-золотому виконанні з швидкою доставкою по Україні можна прямо зараз у магазині <a href="https://hardsmoke.store/">HardSmoke</a>.</p> <h2>FAQ</h2> <ol> <li><strong>Чим відрізняється Vaporesso XROS Mini Kit Ancient Silver від інших моделей XROS?</strong><br/> Міні-версія простіша і компактніша, без екрана та кнопок, але при цьому така ж надійна й зручна.</li> <li><strong>Які рідини можна використовувати?</strong><br/> Підтримуються рідини з сольовим нікотином. Підійдуть склади з балансом 50/50 — перейдіть до каталогу сольових рідин для ознайомлення.</li> <li><strong>Чи підходить Vaporesso XROS Mini Kit Ancient Silver для новачків?</strong><br/> Так, це одна з найкращих pod-систем для тих, хто робить перші кроки у вейпінгу.</li> <li><strong>Як часто потрібно міняти картриджі?</strong><br/> У середньому кожні 14–21 день, залежно від інтенсивності використання.</li> <li><strong>У які міста можна замовити?</strong><br/> Ми доставляємо по всій Україні: Київ, Львів, Одеса, Харків, Дніпро та інші — оформити замовлення можна на нашому сайті.</li> </ol> <p>Ми доставляємо Vaporesso XROS Mini Kit Ancient Silver по всій Україні!<br/> Замовляйте з швидкою доставкою та вигідними цінами в такі міста, як: Київ, Дніпро, Львів, Харків, Одеса, Кривий Ріг, Полтава, Миколаїв, Вінниця, Черкаси, Житомир, Хмельницький, Івано-Франківськ, Рівне, Чернігів, Суми, Тернопіль, Луцьк, Ужгород, Кропивницький, Бровари, Бориспіль, Ірпінь, Біла Церква, Обухів, Вишневе, Кам’янське, Павлоград, Новомосковськ, Нікополь, Фастів, Переяслав, Кременчук, Южноукраїнськ, Олександрія, Коломия, Вишгород, Червоноград.</p> <p>Оформляйте замовлення прямо зараз — ми надішлемо у ваше місто швидко і надійно!</p>]]></description>
 </offer>
-<offer id="21802" available="true">
+<offer id="21802" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-aurora-oranjevo-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
 <price>426</price>
 <currencyId>UAH</currencyId>
@@ -127474,7 +127474,7 @@
 <name>Vaporesso XROS Mini Kit 1000 Grape Purple (Фіолетово-синій, з картриджем) Багаторазовий POD</name>
 <description><![CDATA[<h2>Особливості Vaporesso XROS Mini Kit Grape Purple</h2> <p>Подік Vaporesso XROS Mini Grape Purple — створений для тих, хто шукає максимально просте, але стильне рішення для щоденного паріння.</p> <p>Модель ідеально підходить для новачків, але й досвідчені користувачі оцінять її стабільність, надійність і гідну передачу смаку.</p> <p>Пристрій працює лише від затяжки, не потребує жодних налаштувань і при цьому оснащений ємним акумулятором на 1000 мАг — заряду вистачає на повноцінний день без підзарядки.</p> <p>Корпус пода виконаний у вишуканому бронзово-золотому кольорі, а текстурована поверхня не лише приємна на дотик, а й надає пристрою преміального вигляду.</p> <p>Усе виглядає строго та стильно, без перевантаження зайвими декоративними елементами.</p> <h2>Дизайн і зручність використання</h2> <p><img alt="POD Vaporesso XROS Mini Kit 1000 Grape Purple" class="img-responsive-left" height="400" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Vaporesso%20XROS%20Mini%20Kit%201000/Vaporesso-XROS-Mini-Pod-Kit-1000-(3)-800x800product_popup.webp" width="400">Багаторазка XROS Mini — створена з акцентом на компактність та ергономіку.</img></p> <p>Його витягнутий, але вузький корпус зручно лягає в руку, легко поміщається в кишеню і зовсім не відчувається під час повсякденного носіння.</p> <p>Вага мінімальна, а збірка — щільна, без люфтів і скрипів.</p> <p>Модель позбавлена кнопок і екранів, що робить її максимально інтуїтивною: затягнувся — пара пішла. Такий підхід особливо подобається новачкам і тим, хто не хоче морочитися з керуванням.</p> <p>Усе, що потрібно, вже налаштовано. На корпусі знаходиться індикатор заряду, який змінює колір залежно від рівня батареї. Це зручно: не потрібно гадати, скільки ще залишилось, і коли пора підключати зарядку.</p> <h2>Продуктивність і акумулятор</h2> <p>Попри компактність, всередині пристрою прихований акумулятор на 1000 мАг — показник, гідний навіть більших моделей.</p> <p>Цього цілком вистачає на 1–2 дні помірного використання, особливо при роботі з картриджем на 0.8 Ом, який постачається в комплекті.</p> <p>Картридж XROS 0.8 Ом ідеально підходить для солевого нікотину та MTL-затяжки. Він дає збалансовану кількість пари, добре розкриває смак і не потребує високої потужності.</p> <p>При цьому заправка здійснюється зверху: просто відсуньте мундштук, залийте рідину і продовжуйте парити — зручно, чисто і швидко.</p> <p>Пристрій сумісний з усіма картриджами серії XROS — від 0.6 до 1.2 Ом, що дозволяє підібрати бажану тягу і насиченість смаку. Пара рівномірна, без "плювків", а смак залишається стабільним до самого кінця картриджа — за це відповідає технологія COREX Heating і фірмовий чипсет AXON, що забезпечує точну подачу потужності.</p> <h2>Основні технічні характеристики Vaporesso XROS Mini Grape Purple</h2> <ol> <li>Активація: від затяжки</li> <li>Ємність батареї: 1000 мАг</li> <li>Потужність: 16 Вт</li> <li>Опір випарника: 0.8 Ом</li> <li>Регулювання затяжки: відсутнє</li> <li>Об’єм картриджа: 2 мл</li> <li>Заправка: верхня</li> <li>Матеріал корпусу: алюмінієвий сплав + пластик</li> <li>Тип зарядки: Type-C</li> <li>Колір корпусу: бронзово-золотий</li> <li>Модель: XROS Mini</li> <li>Виробник: Китай</li> <li>Бренд: Vaporesso</li> </ol> <h2>Переваги та недоліки Vaporesso XROS Mini Grape Purple</h2> <table border="1" cellspacing="0" style="border-collapse:collapse; width:100%"> <thead> <tr> <th style="background-color:#f0f0f0; text-align:left">  Переваги</th> <th style="background-color:#f0f0f0; text-align:left">  Недоліки</th> </tr> </thead> <tbody> <tr> <td>  Мініатюрний і легкий</td> <td>  Немає регулювання затяжки</td> </tr> <tr> <td>  Зручний для новачків</td> <td>  Лише один варіант опору в комплекті</td> </tr> <tr> <td>  Швидка зарядка через Type-C</td> <td>  Без екрана та кнопок (що може не підійти досвідченим користувачам)</td> </tr> <tr> <td>  Хороша автономність</td> <td> </td> </tr> <tr> <td>  Сумісний із картриджами XROS</td> <td> </td> </tr> <tr> <td>  Висока надійність, як і у всієї серії XROS</td> <td> </td> </tr> </tbody> </table> <h2>Лінійка XROS Mini</h2> <p><img alt="багаторазова підсистема Vaporesso XROS Mini Kit 1000 Grape Purple" class="img-responsive-right" height="400" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Vaporesso%20XROS%20Mini%20Kit%201000/Vaporesso-XROS-Mini-Pod-Kit-1000-(1)-800x800product_popup.webp" width="400">Для електронки XROS Mini підійдуть усі картриджі від серії XROS, особливо з опором 0.8 та 1.0 Ом — їх можна знайти <a href="https://hardsmoke.store/ru/katalog/kartridji-ispariteli/kartridzhi">в розділі картриджів</a>.</img></p> <h3>Усі кольори XROS Mini:</h3> <ul> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-bronze-gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Bronze Gold</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-orange-red-oranjevo-krasnyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Orange Red</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-space-grey-temno-seryiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Space Grey</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-black-chernyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Black</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-cherry-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Cherry Red</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-zelenyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Forest Green</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-sine-zelenyiy-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Lime Green</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-silver-serebristyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Silver</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-sakura-pink-rozovyiy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Sakura Pink</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-midnight-blue-siniy-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Midnight Blue</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-vitality-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Vitality</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-violet-fioletovyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Violet</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-neon-rozovo-fioletovyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Neon</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-sierra-blue-biryuzovyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Sierra Blue</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-gold-zolotoy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Gold</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-aurora-oranjevo-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Aurora</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-mini-kit-1000-ancient-silver-metallik-s-kartridjem-mnogorazovyiy-pod">Vaporesso XROS Mini Kit 1000 Ancient Silver</a></li> </ul> <p>Рекомендуємо використовувати рідини на сольовому нікотині зі співвідношенням PG/VG 50/50 — вони забезпечать чудову передачу смаку та м’яку, насичену пару. Ознайомитися зі смаками можна <a href="https://hardsmoke.store/katalog/zhidkosti">тут</a>.</p> <h2>Комплектація Vaporesso XROS Mini Grape Purple</h2> <ul> <li>Pod-система Vaporesso XROS Mini</li> <li>Картридж на 0.8 Ом</li> <li>Зарядний кабель Type-C</li> <li>Інструкція</li> <li>Упаковка від виробника</li> </ul> <p>Електронна сигарета Vaporesso XROS Mini Grape Purple — це чудовий вибір для тих, хто цінує лаконічність, стабільну роботу та стильний зовнішній вигляд. Без кнопок, без складних налаштувань — тільки все найнеобхідніше: гарний смак, впевнена автономність, зручність у повсякденному використанні та низька ціна. Цей подик стане надійним супутником як для новачка, так і для тих, хто шукає простий резервний девайс. Купити та замовити вейп XROS Mini в елегантному бронзово-золотому виконанні з швидкою доставкою по Україні можна прямо зараз у магазині <a href="https://hardsmoke.store/">HardSmoke</a>.</p> <h2>FAQ</h2> <ol> <li><strong>Чим відрізняється Vaporesso XROS Mini Kit Grape Purple від інших моделей XROS?</strong><br/> Міні-версія простіша і компактніша, без екрана та кнопок, але при цьому така ж надійна й зручна.</li> <li><strong>Які рідини можна використовувати?</strong><br/> Підтримуються рідини з сольовим нікотином. Підійдуть склади з балансом 50/50 — перейдіть до каталогу сольових рідин для ознайомлення.</li> <li><strong>Чи підходить Vaporesso XROS Mini Kit Grape Purple для новачків?</strong><br/> Так, це одна з найкращих pod-систем для тих, хто робить перші кроки у вейпінгу.</li> <li><strong>Як часто потрібно міняти картриджі?</strong><br/> У середньому кожні 14–21 день, залежно від інтенсивності використання.</li> <li><strong>У які міста можна замовити?</strong><br/> Ми доставляємо по всій Україні: Київ, Львів, Одеса, Харків, Дніпро та інші — оформити замовлення можна на нашому сайті.</li> </ol> <p>Купити Vaporesso XROS Mini Kit Grape Purple з доставкою та за вигідними цінами можна в таких містах України, як: Київ, Дніпро, Львів, Харків, Одеса, Кривий Ріг, Миколаїв, Полтава, Черкаси, Хмельницький, Суми, Житомир, Івано-Франківськ, Рівне, Вінниця, Чернігів, Тернопіль, Кам'янське, Бровари, Біла Церква, Павлоград, Ірпінь, Бориспіль, Вишневе, Обухів, Новомосковськ, Фастів, Нікополь, Ужгород, Луцьк, Кропивницький, Южноукраїнськ, Коломия, Кременчук, Олександрія, Червоноград, Переяслав, Вишгород.</p>]]></description>
 </offer>
-<offer id="21797" available="true">
+<offer id="21797" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-sine-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>426</price>
 <currencyId>UAH</currencyId>
@@ -127852,7 +127852,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Argus G2 Mini Pod Kit 1200 Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="25672" available="true">
+<offer id="25672" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-mini-pod-kit-1200-aurora-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>513</price>
 <currencyId>UAH</currencyId>
@@ -127916,7 +127916,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Argus G2 Mini Pod Kit 1200 Spring Green (Зелений, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="25667" available="true">
+<offer id="25667" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-mini-pod-kit-1200-starry-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
 <price>513</price>
 <currencyId>UAH</currencyId>
@@ -127964,7 +127964,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Argus G2 Mini Pod Kit 1200 Violet Pink (Фіолетово-рожевий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="25668" available="true">
+<offer id="25668" available="false">
 <url>https://hardsmoke.store/voopoo-argus-g2-mini-pod-kit-1200-violet-red-fioletovo-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>513</price>
 <currencyId>UAH</currencyId>
