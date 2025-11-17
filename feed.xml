@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-17 22:22">
+<yml_catalog date="2025-11-17 23:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -138491,7 +138491,7 @@
 <name>Ельф GH23000 Ківі Ананас Лід</name>
 </offer>
 <offer id="glassws83959-19" available="false">
-<price>610</price>
+<price>445</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws83959-19</vendorCode>
@@ -139142,14 +139142,14 @@
 <name>Ельф GH 33000 PRO Виноград Лід (Grape Ice)</name>
 </offer>
 <offer id="glassws57448-14" available="false">
-<price>490</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-14</vendorCode>
 <name>Ельф GH 33000 PRO Вишня (Granny Cherry)</name>
 </offer>
 <offer id="glassws57448-2" available="false">
-<price>490</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-2</vendorCode>
@@ -139163,7 +139163,7 @@
 <name>Ельф GH 33000 PRO Гірська М&apos;ята (Mountain Mint)</name>
 </offer>
 <offer id="glassws57448-11" available="false">
-<price>490</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-11</vendorCode>
@@ -139184,21 +139184,21 @@
 <name>Ельф GH 33000 PRO Грушова Газованка (Pear Soda)</name>
 </offer>
 <offer id="glassws57448-8" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-8</vendorCode>
 <name>Ельф GH 33000 PRO Кавун Лід (Watermelon Ice)</name>
 </offer>
 <offer id="glassws57448-10" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-10</vendorCode>
 <name>Ельф GH 33000 PRO Кисла Полуниця Драгонфрут (Sour Strawberry Dragonfruit)</name>
 </offer>
 <offer id="glassws57448-5" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-5</vendorCode>
@@ -139212,7 +139212,7 @@
 <name>Ельф GH 33000 PRO Лимон Лайм (Lemon Lime)</name>
 </offer>
 <offer id="glassws57448-13" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-13</vendorCode>
@@ -139226,7 +139226,7 @@
 <name>Ельф GH 33000 PRO Хвоя Ягоди (Pine Needles)</name>
 </offer>
 <offer id="glassws57448-3" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-3</vendorCode>
@@ -140822,14 +140822,14 @@
 <name>Под GH 33000 PRO Виноград Лід (Grape Ice)</name>
 </offer>
 <offer id="topws57448-14" available="false">
-<price>490</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-14</vendorCode>
 <name>Под GH 33000 PRO Вишня (Granny Cherry)</name>
 </offer>
 <offer id="topws57448-2" available="false">
-<price>490</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-2</vendorCode>
@@ -140843,7 +140843,7 @@
 <name>Под GH 33000 PRO Гірська М&apos;ята (Mountain Mint)</name>
 </offer>
 <offer id="topws57448-11" available="false">
-<price>490</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-11</vendorCode>
@@ -140864,21 +140864,21 @@
 <name>Под GH 33000 PRO Грушова Газованка (Pear Soda)</name>
 </offer>
 <offer id="topws57448-8" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-8</vendorCode>
 <name>Под GH 33000 PRO Кавун Лід (Watermelon Ice)</name>
 </offer>
 <offer id="topws57448-10" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-10</vendorCode>
 <name>Под GH 33000 PRO Кисла Полуниця Драгонфрут (Sour Strawberry Dragonfruit)</name>
 </offer>
 <offer id="topws57448-5" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-5</vendorCode>
@@ -140899,7 +140899,7 @@
 <name>Под GH 33000 PRO Малина Грейпфрут Лимон (Raspberry Grapefruit Lemon)</name>
 </offer>
 <offer id="topws57448-13" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-13</vendorCode>
@@ -140913,7 +140913,7 @@
 <name>Под GH 33000 PRO Хвоя Ягоди (Pine Needles)</name>
 </offer>
 <offer id="topws57448-3" available="false">
-<price>495</price>
+<price>465</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-3</vendorCode>
@@ -141053,7 +141053,7 @@
 <name>Под GH23000 Кислі Кавунові Цукерки</name>
 </offer>
 <offer id="topws83959-19" available="false">
-<price>610</price>
+<price>445</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws83959-19</vendorCode>
