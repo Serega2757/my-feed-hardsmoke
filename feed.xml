@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-20 15:22">
+<yml_catalog date="2025-11-20 16:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -120492,7 +120492,7 @@
 </offer>
 <offer id="25703" available="true">
 <url>https://hardsmoke.store/elf-bar-vs4000-avocado-cream-avokado-slivki-odnorazovyiy-pod</url>
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/25703-800x800product_popup.webp</picture>
@@ -120508,7 +120508,7 @@
 </offer>
 <offer id="20315" available="true">
 <url>https://hardsmoke.store/elf-bar-vs4000-cola-kola-odnorazovyiy-pod</url>
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20315-800x800.png</picture>
@@ -120524,7 +120524,7 @@
 </offer>
 <offer id="20316" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-energy-energetik-odnorazovyiy-pod</url>
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20316-800x800.png</picture>
@@ -120540,7 +120540,7 @@
 </offer>
 <offer id="25699" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-mango-peach-mango-persik-odnorazovyiy-pod</url>
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25699-800x800.png</picture>
@@ -120556,7 +120556,7 @@
 </offer>
 <offer id="26258" available="false">
 <url>https://hardsmoke.store/elf-bar-bc10000-touch-citrus-grape-tsitrus-vinograd-odnorazovyiy-pod</url>
-<price>381</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26258-800x800.png</picture>
@@ -120572,7 +120572,7 @@
 </offer>
 <offer id="10017" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bc3000-energy-energetik-3000-zatyajek</url>
-<price>246</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10017-800x800.png</picture>
@@ -121548,7 +121548,7 @@
 </offer>
 <offer id="20282" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-berry-raspberry-malina-ejevika-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20282-800x800.png</picture>
@@ -121558,7 +121558,7 @@
 </offer>
 <offer id="20291" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-blue-razz-ice-blyu-razz-ays-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20291-800x800.png</picture>
@@ -121568,7 +121568,7 @@
 </offer>
 <offer id="20279" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-double-apple-dvoynoe-yabloko-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20279-800x800.png</picture>
@@ -121578,7 +121578,7 @@
 </offer>
 <offer id="20274" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-elfbull-ice-elfbull-ays-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20274-800x800.png</picture>
@@ -121588,7 +121588,7 @@
 </offer>
 <offer id="20277" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-grape-ice-vinograd-led-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20277-800x800.png</picture>
@@ -121598,7 +121598,7 @@
 </offer>
 <offer id="20283" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-grape-raspberry-vinograd-malina-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20283-800x800.png</picture>
@@ -121614,7 +121614,7 @@
 </offer>
 <offer id="20276" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-green-apple-zelenoe-yabloko-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20276-800x800.png</picture>
@@ -121624,7 +121624,7 @@
 </offer>
 <offer id="20272" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-lemon-mint-limon-myata-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20272-800x800.png</picture>
@@ -121634,7 +121634,7 @@
 </offer>
 <offer id="20287" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-mango-mango-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20287-800x800.png</picture>
@@ -121644,7 +121644,7 @@
 </offer>
 <offer id="20289" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-peach-ice-persik-led-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/20289-800x800product_popup.webp</picture>
@@ -121654,7 +121654,7 @@
 </offer>
 <offer id="20273" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-pink-lemon-pink-limon-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20273-800x800.png</picture>
@@ -121664,7 +121664,7 @@
 </offer>
 <offer id="20280" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-raspberry-elfbull-raspberri-elfbull-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20280-800x800.png</picture>
@@ -121674,7 +121674,7 @@
 </offer>
 <offer id="20285" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-raspberry-passion-fruit-orange-malina-marakuyya-apelsin-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20285-800x800.png</picture>
@@ -121684,7 +121684,7 @@
 </offer>
 <offer id="20290" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-strawberry-ice-klubnika-led-odnorazovyiy-pod</url>
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20290-800x800.png</picture>
@@ -122142,7 +122142,7 @@
 </offer>
 <offer id="26835" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-blueberry-lime-chernika-laym-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26835-800x800.png</picture>
@@ -122158,7 +122158,7 @@
 </offer>
 <offer id="26831" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-green-mango-guava-zelenoe-mango-guava-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26831-800x800.png</picture>
@@ -122174,7 +122174,7 @@
 </offer>
 <offer id="26838" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-kiwi-watermelon-green-apple-kivi-arbuz-zelenoe-yabloko-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26838-800x800.png</picture>
@@ -122190,7 +122190,7 @@
 </offer>
 <offer id="26834" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-lemon-lime-limon-laym-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26834-800x800.png</picture>
@@ -122206,7 +122206,7 @@
 </offer>
 <offer id="26832" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-orange-passion-fruit-apelsin-marakuyya-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26832-800x800.png</picture>
@@ -122222,7 +122222,7 @@
 </offer>
 <offer id="26839" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-peach-lime-persik-laym-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26839-800x800.png</picture>
@@ -122238,7 +122238,7 @@
 </offer>
 <offer id="26836" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-raspberry-pomegranate-malina-granat-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26836-800x800.png</picture>
@@ -122254,7 +122254,7 @@
 </offer>
 <offer id="26840" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-sour-strawberry-grape-kislaya-klubnika-vinograd-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26840-800x800.png</picture>
@@ -122270,7 +122270,7 @@
 </offer>
 <offer id="26837" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-strawberry-cherry-raspberry-klubnika-vishnya-malina-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26837-800x800.png</picture>
@@ -122286,7 +122286,7 @@
 </offer>
 <offer id="26833" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-watermelon-pear-orange-arbuz-grusha-apelsin-odnorazovyiy-pod</url>
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26833-800x800.png</picture>
@@ -122302,7 +122302,7 @@
 </offer>
 <offer id="10026" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-blue-razz-ice-goluboy-limonad-ays-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10026-800x800.png</picture>
@@ -122318,7 +122318,7 @@
 </offer>
 <offer id="10027" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-dragon-fruit-banana-berry-pitayya-banan-yagoda-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10027-800x800.png</picture>
@@ -122334,7 +122334,7 @@
 </offer>
 <offer id="10028" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-grape-honedew-vinograd-dyinya-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10028-800x800.png</picture>
@@ -122350,7 +122350,7 @@
 </offer>
 <offer id="10029" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-kiwi-dragon-fruit-berry-kivi-pitayya-yagoda-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10029-800x800.png</picture>
@@ -122366,7 +122366,7 @@
 </offer>
 <offer id="10030" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-kiwi-passion-fruit-guava-kivi-marakuyya-guava-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10030-800x800.png</picture>
@@ -122382,7 +122382,7 @@
 </offer>
 <offer id="10031" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-mint-myata-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10031-800x800.png</picture>
@@ -122398,7 +122398,7 @@
 </offer>
 <offer id="10032" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-orange-soda-apelsinovaya-sodovaya-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10032-800x800.png</picture>
@@ -122414,7 +122414,7 @@
 </offer>
 <offer id="10033" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-raspberry-watermelon-malina-arbuz-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10033-800x800.png</picture>
@@ -122430,7 +122430,7 @@
 </offer>
 <offer id="10035" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-strawberry-watermelon-bubble-gum-klubnika-arbuz-babl-gam-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10035-800x800.png</picture>
@@ -122446,7 +122446,7 @@
 </offer>
 <offer id="10036" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-strawberry-watermelon-peach-klubnika-arbuz-persik-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10036-800x800.png</picture>
@@ -122462,7 +122462,7 @@
 </offer>
 <offer id="10038" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-tropical-rainbow-blast-vzryiv-tropicheskoy-radugi-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10038-800x800.png</picture>
@@ -122478,7 +122478,7 @@
 </offer>
 <offer id="10039" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-watermelon-ice-arbuz-ays-5000-zatyajek</url>
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/10039-800x800product_popup.webp</picture>
@@ -135705,70 +135705,70 @@
 <name>Lavie Milk 7000 Виноград Лід</name>
 </offer>
 <offer id="glassws81629-15" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-15</vendorCode>
 <name>Ельф TE6000 Персик Лайм</name>
 </offer>
 <offer id="glassws81629-23" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-23</vendorCode>
 <name>Ельф TE6000 Чорниця Лайм</name>
 </offer>
 <offer id="glassws81629-19" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-19</vendorCode>
 <name>Ельф TE6000 Полуниця Вишня Малина</name>
 </offer>
 <offer id="glassws81629-20" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-20</vendorCode>
 <name>Ельф TE6000 Малина Гранат</name>
 </offer>
 <offer id="glassws81629-17" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-17</vendorCode>
 <name>Ельф TE6000 Лимон Лайм</name>
 </offer>
 <offer id="glassws81629-24" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-24</vendorCode>
 <name>Ельф TE6000 Ківі Кавун Зелене Яблуко</name>
 </offer>
 <offer id="glassws81629-21" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-21</vendorCode>
 <name>Ельф TE6000 Кисла Полуниця Виноград</name>
 </offer>
 <offer id="glassws81629-16" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-16</vendorCode>
 <name>Ельф TE6000 Кавун Груша Апельсин</name>
 </offer>
 <offer id="glassws81629-22" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-22</vendorCode>
 <name>Ельф TE6000 Зелений Манго Гуава</name>
 </offer>
 <offer id="glassws81629-18" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-18</vendorCode>
@@ -136265,35 +136265,35 @@
 <name>Ельф Pi9000 Чорниця Лід</name>
 </offer>
 <offer id="glassws51411-8" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws51411-8</vendorCode>
 <name>Ельф Pi9000 Синя Малина Лимонад</name>
 </offer>
 <offer id="glassws51411-6" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws51411-6</vendorCode>
 <name>Ельф Pi9000 Полуниця Лід</name>
 </offer>
 <offer id="glassws51411-7" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws51411-7</vendorCode>
 <name>Ельф Pi9000 Персик Лід</name>
 </offer>
 <offer id="glassws51411-2" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws51411-2</vendorCode>
 <name>Ельф Pi9000 Малина Лимон</name>
 </offer>
 <offer id="glassws51411" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws51411</vendorCode>
@@ -136307,7 +136307,7 @@
 <name>Ельф Pi9000 Кавун Лід</name>
 </offer>
 <offer id="glassws51411-5" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws51411-5</vendorCode>
@@ -136748,7 +136748,7 @@
 <name>Ельф BC10000 Touch Чорниця Кавун</name>
 </offer>
 <offer id="glassws87954-3" available="false">
-<price>381</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws87954-3</vendorCode>
@@ -139408,14 +139408,14 @@
 <name>Под BC5000 Ананас Кокос</name>
 </offer>
 <offer id="topws24965-11" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-11</vendorCode>
 <name>Под BC5000 Ultra Тропічний Вибух</name>
 </offer>
 <offer id="topws24965-1" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-1</vendorCode>
@@ -139429,7 +139429,7 @@
 <name>Под BC5000 Ultra Сине Маршмеллоу</name>
 </offer>
 <offer id="topws24965-9" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-9</vendorCode>
@@ -139443,63 +139443,63 @@
 <name>Под BC5000 Ultra Полуниця Манго</name>
 </offer>
 <offer id="topws24965-10" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-10</vendorCode>
 <name>Под BC5000 Ultra Полуниця Кавун Персик</name>
 </offer>
 <offer id="topws24965-5" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-5</vendorCode>
 <name>Под BC5000 Ultra М&apos;ята</name>
 </offer>
 <offer id="topws24965-7" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-7</vendorCode>
 <name>Под BC5000 Ultra Малина Кавун</name>
 </offer>
 <offer id="topws24965-4" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-4</vendorCode>
 <name>Под BC5000 Ultra Ківі Маракуйя Гуава</name>
 </offer>
 <offer id="topws24965-3" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-3</vendorCode>
 <name>Под BC5000 Ultra Ківі Драконівський фрукт Ягода</name>
 </offer>
 <offer id="topws24965-12" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-12</vendorCode>
 <name>Под BC5000 Ultra Кавун Лід</name>
 </offer>
 <offer id="topws24965-13" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-13</vendorCode>
 <name>Под BC5000 Ultra Драконячийфрукт Банан Ягоди</name>
 </offer>
 <offer id="topws24965-2" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-2</vendorCode>
 <name>Под BC5000 Ultra Виноград Диня</name>
 </offer>
 <offer id="topws24965-6" available="false">
-<price>327</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws24965-6</vendorCode>
@@ -139828,7 +139828,7 @@
 <name>Под BC10000 Touch Синя Малина Лимонад</name>
 </offer>
 <offer id="topws87954-3" available="false">
-<price>381</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws87954-3</vendorCode>
@@ -141872,28 +141872,28 @@
 <name>Под Pi7000 Ягідний Мікс</name>
 </offer>
 <offer id="tophd20277" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20277</vendorCode>
 <name>Под Pi9000 Виноград Лід</name>
 </offer>
 <offer id="tophd20283" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20283</vendorCode>
 <name>Под Pi9000 Виноград Малина</name>
 </offer>
 <offer id="tophd20274" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20274</vendorCode>
 <name>Под Pi9000 Енергетик Лід</name>
 </offer>
 <offer id="topws51411-5" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws51411-5</vendorCode>
@@ -141907,70 +141907,70 @@
 <name>Под Pi9000 Кавун Лід</name>
 </offer>
 <offer id="tophd20272" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20272</vendorCode>
 <name>Под Pi9000 Лимон Мʼята</name>
 </offer>
 <offer id="topws51411" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws51411</vendorCode>
 <name>Под Pi9000 Малина Енергетик</name>
 </offer>
 <offer id="topws51411-2" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws51411-2</vendorCode>
 <name>Под Pi9000 Малина Лимон</name>
 </offer>
 <offer id="tophd20285" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20285</vendorCode>
 <name>Под Pi9000 Малина Маракуя Апельсин</name>
 </offer>
 <offer id="tophd20282" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20282</vendorCode>
 <name>Под Pi9000 Малина Ожина</name>
 </offer>
 <offer id="tophd20287" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20287</vendorCode>
 <name>Под Pi9000 Манго</name>
 </offer>
 <offer id="topws51411-7" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws51411-7</vendorCode>
 <name>Под Pi9000 Персик Лід</name>
 </offer>
 <offer id="tophd20279" available="false">
-<price>640</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20279</vendorCode>
 <name>Под Pi9000 Підвійне Яблуко</name>
 </offer>
 <offer id="topws51411-6" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws51411-6</vendorCode>
 <name>Под Pi9000 Полуниця Лід</name>
 </offer>
 <offer id="topws51411-8" available="false">
-<price>430</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws51411-8</vendorCode>
@@ -142866,98 +142866,98 @@
 <name>Под Sweet King 30000 Яблуко Кавун</name>
 </offer>
 <offer id="topws81629-18" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-18</vendorCode>
 <name>Под TE6000 Апельсин Маракуя</name>
 </offer>
 <offer id="topws81629-22" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-22</vendorCode>
 <name>Под TE6000 Зелений Манго Гуава</name>
 </offer>
 <offer id="topws81629-16" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-16</vendorCode>
 <name>Под TE6000 Кавун Груша Апельсин</name>
 </offer>
 <offer id="topws81629-21" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-21</vendorCode>
 <name>Под TE6000 Кисла Полуниця Виноград</name>
 </offer>
 <offer id="topws81629-24" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-24</vendorCode>
 <name>Под TE6000 Ківі Кавун Зелене Яблуко</name>
 </offer>
 <offer id="topws81629-17" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-17</vendorCode>
 <name>Под TE6000 Лимон Лайм</name>
 </offer>
 <offer id="topws81629-20" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-20</vendorCode>
 <name>Под TE6000 Малина Гранат</name>
 </offer>
 <offer id="topws81629-15" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-15</vendorCode>
 <name>Под TE6000 Персик Лайм</name>
 </offer>
 <offer id="topws81629-19" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-19</vendorCode>
 <name>Под TE6000 Полуниця Вишня Малина</name>
 </offer>
 <offer id="topws81629-23" available="false">
-<price>314</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-23</vendorCode>
 <name>Под TE6000 Чорниця Лайм</name>
 </offer>
 <offer id="tophd25703" available="false">
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd25703</vendorCode>
 <name>Под ВС4000 Авокадо Вершки</name>
 </offer>
 <offer id="tophd20316" available="false">
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20316</vendorCode>
 <name>Под ВС4000 Енергетик</name>
 </offer>
 <offer id="tophd20315" available="false">
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd20315</vendorCode>
 <name>Под ВС4000 Кола</name>
 </offer>
 <offer id="tophd25699" available="false">
-<price>375</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>tophd25699</vendorCode>
