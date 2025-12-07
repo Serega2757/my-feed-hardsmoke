@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-07 16:22">
+<yml_catalog date="2025-12-07 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -115058,7 +115058,7 @@
 <img alt="Картридж Elf Bar P1 Blueberry (Чорниця)" src="https://hardsmoke.store/image/cache/catalog/exist/9999-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18491" available="false">
+<offer id="18491" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-cool-mint-myata-led</url>
 <price>48</price>
 <currencyId>UAH</currencyId>
@@ -115338,7 +115338,7 @@
 <img alt="Картридж Elf Bar P1 Strawberry banana (Полуниця Банан)" src="https://hardsmoke.store/image/cache/catalog/exist/18324-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="10000" available="false">
+<offer id="10000" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-ice-klubnika-ays</url>
 <price>48</price>
 <currencyId>UAH</currencyId>
