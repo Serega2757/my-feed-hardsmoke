@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-08 14:22">
+<yml_catalog date="2025-12-08 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -114398,7 +114398,7 @@
 <img alt="Випарник Smok RPM 3 Meshed 0.23 Ом Coil" src="https://hardsmoke.store/image/cache/catalog/exist/19991-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19766" available="false">
+<offer id="19766" available="true">
 <url>https://hardsmoke.store/isparitel-voopoo-pnp-dw60-06-om</url>
 <price>91</price>
 <currencyId>UAH</currencyId>
@@ -115378,7 +115378,7 @@
 <img alt="Картридж Elf Bar P1 Strawberry Ice (Полуниця Айс)" src="https://hardsmoke.store/image/cache/catalog/exist/10000-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="10001" available="false">
+<offer id="10001" available="true">
 <url>https://hardsmoke.store/kartridj-elf-bar-p1-strawberry-ice-cream-klubnichnoe-morojnoe</url>
 <price>48</price>
 <currencyId>UAH</currencyId>
