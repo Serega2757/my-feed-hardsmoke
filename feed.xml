@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-09 16:22">
+<yml_catalog date="2025-12-09 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -25127,7 +25127,7 @@
 <img alt="Набір для самозамішування Flavorlab M-Jam V2 Strong Apple (Яблуко, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24744-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24740" available="true">
+<offer id="24740" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-jam-v2-strong-blueberry-chernika-65-mg-30-ml</url>
 <price>118</price>
 <currencyId>UAH</currencyId>
@@ -30207,7 +30207,7 @@
 <img alt="Набір для самозамішування Get High Cherry Peach Cocktail (Вишня Персик, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26587" available="false">
+<offer id="26587" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-citrus-burst-tsitrus-berst-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -30887,7 +30887,7 @@
 <img alt="Набір для самозамішування Get High Mystic Tropics (Містік Тропікс, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24073-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24074" available="true">
+<offer id="24074" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-passion-beach-peshn-bich-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -30927,7 +30927,7 @@
 <img alt="Набір для самозамішування Get High Passion Beach (Пешн Біч, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24074-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24075" available="false">
+<offer id="24075" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-peach-refresh-pich-refresh-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -31367,7 +31367,7 @@
 <img alt="Набір для самозамішування Get High Strawberry Booster (Стравберрі Бустер, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24084-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24085" available="false">
+<offer id="24085" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-strawberry-wave-stravberri-veyv-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -54726,7 +54726,7 @@
 <img alt="Рідина Black Tag Ambrosia sweet (Амброзія Світ, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24898-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24897" available="true">
+<offer id="24897" available="false">
 <url>https://hardsmoke.store/jidkost-black-tag-berry-punch-beri-panch-50-mg-30-ml</url>
 <price>0</price>
 <currencyId>UAH</currencyId>
@@ -63883,7 +63883,7 @@
 <img alt="Рідина Chaser Lux Kiwi Passion Fruit Guava (Ківі Маракуя Гуава, 50 мг, 11 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18914-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20598" available="true">
+<offer id="20598" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-kiwi-passion-fruit-guava-kivi-marakuyya-guava-50-mg-30-ml</url>
 <price>174</price>
 <currencyId>UAH</currencyId>
@@ -64883,7 +64883,7 @@
 <img alt="Рідина Chaser Lux Strawberry Dragonfruit Limited Balance (Полуниця Драконів Фрукт, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26871-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21976" available="true">
+<offer id="21976" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-lux-strawberry-dragonfruit-limited-balance-klubnika-drakoniy-frukt-65-mg-11-ml</url>
 <price>140</price>
 <currencyId>UAH</currencyId>
@@ -74321,7 +74321,7 @@
 <img alt="Рідина Creepy Bubble Gum (Бабл Гам, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24298-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23262" available="true">
+<offer id="23262" available="false">
 <url>https://hardsmoke.store/jidkost-creepy-cherry-vishnya-50-mg-15-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -75681,7 +75681,7 @@
 <img alt="Рідина Creepy Orange Lemonade (Апельсиновий лимонад, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26294-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24292" available="true">
+<offer id="24292" available="false">
 <url>https://hardsmoke.store/jidkost-creepy-orbit-spearmint-orbit-myata-50-mg-15-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -77359,7 +77359,7 @@
 <img alt="Рідина Eight by Katana Banana ice (Банан Льод, 50 мг, 50 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19148-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18252" available="true">
+<offer id="18252" available="false">
 <url>https://hardsmoke.store/jidkost-eight-by-katana-banana-milk-banan-moloko-50-mg-30-ml</url>
 <price>258</price>
 <currencyId>UAH</currencyId>
@@ -85519,7 +85519,7 @@
 <img alt="Рідина Elfliq Blueberry Raspberry Pomegranate (Чорниця Маліна Гранат, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26372-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26208" available="true">
+<offer id="26208" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-raspberry-pomegranate-chernika-malina-granat-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -85599,7 +85599,7 @@
 <img alt="Рідина Elfliq Blueberry Rose Mint (Чорниця Троянда М'ята, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26373-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26209" available="true">
+<offer id="26209" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-rose-mint-chernika-roza-myata-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86639,7 +86639,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21068" available="true">
+<offer id="21068" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-vinograd-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86799,7 +86799,7 @@
 <img alt="Рідина Elfliq Green Grape Rose (Зелений Виноград Троянда, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26376-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26213" available="true">
+<offer id="26213" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-green-grape-rose-zelenyiy-vinograd-roza-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87238,7 +87238,7 @@
 <img alt="Рідина Elfliq Peach ice (Персик Лід, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21060-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21069" available="true">
+<offer id="21069" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-peach-ice-persik-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87318,7 +87318,7 @@
 <img alt="Рідина Elfliq Pina Colada (Піна Колада, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22927-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23527" available="true">
+<offer id="23527" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-pina-colada-pina-kolada-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87478,7 +87478,7 @@
 <img alt="Рідина Elfliq Pineapple Ice (Ананас Льод, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26380-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26215" available="true">
+<offer id="26215" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-pineapple-ice-ananas-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88078,7 +88078,7 @@
 <img alt="Рідина Elfliq Sour Watermelon Gummy (Кисла Кавунова Жуйка, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26383-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26217" available="true">
+<offer id="26217" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-sour-watermelon-gummy-kislaya-arbuznaya-jvachka-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88238,7 +88238,7 @@
 <img alt="Рідина Elfliq Strawberry Banana (Полуниця Банан, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/27053-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="24246" available="true">
+<offer id="24246" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-banana-klubnika-banan-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88798,7 +88798,7 @@
 <img alt="Рідина Elfliq Watermelon Cherry (Кавун Вишня, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/27052-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="26219" available="true">
+<offer id="26219" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-watermelon-cherry-arbuz-vishnya-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -117878,7 +117878,7 @@
 <img alt="Картридж Vaporesso Xros Series COREX 3.0 0.6 Ом 2 мл" src="https://hardsmoke.store/image/cache/webp/catalog/exist/27146-1-400x400product_thumb.webp"/>
 </div>]]></description>
 </offer>
-<offer id="27050" available="true">
+<offer id="27050" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-06-om-3-ml</url>
 <price>88</price>
 <currencyId>UAH</currencyId>
