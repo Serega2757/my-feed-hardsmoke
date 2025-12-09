@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-09 14:22">
+<yml_catalog date="2025-12-09 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -31447,7 +31447,7 @@
 <img alt="Набір для самозамішування Get High Strawnana Smoothie (Стравнана Смузі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24086-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24087" available="false">
+<offer id="24087" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-summer-bouquet-sammer-buket-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -85439,7 +85439,7 @@
 <img alt="Рідина Elfliq Blueberry (Чорниця, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19777-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18702" available="true">
+<offer id="18702" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-chernika-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86639,7 +86639,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21068" available="false">
+<offer id="21068" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-vinograd-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86959,7 +86959,7 @@
 <img alt="Рідина Elfliq Kiwi Passion Fruit Guava (Ківі Маракуя Гуава, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19781-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18706" available="true">
+<offer id="18706" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-kiwi-passion-fruit-guava-kivi-marakuyya-guava-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88158,7 +88158,7 @@
 <img alt="Рідина Elfliq Spearmint (М'ята, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19784-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18709" available="true">
+<offer id="18709" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-spearmint-myata-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88638,7 +88638,7 @@
 <img alt="Рідина Elfliq Strawberry snow (Полуничне Морозиво, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21071" available="true">
+<offer id="21071" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-snow-klubnichnoe-morojenoe-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -104518,7 +104518,7 @@
 <img alt="Рідина Lucky Spearmint (М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20230-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19607" available="true">
+<offer id="19607" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-mint-myata-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -112998,7 +112998,7 @@
 <img alt="Рідина Wick&amp;Wire salt Natural Explode (Натурал екплоуд, 0 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20219-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19570" available="true">
+<offer id="19570" available="false">
 <url>https://hardsmoke.store/jidkost-wick-wire-salt-natural-explode-natural-ekploud-25mg-30ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
