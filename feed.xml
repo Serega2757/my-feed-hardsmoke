@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-11 19:22">
+<yml_catalog date="2025-12-11 20:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -120203,7 +120203,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="27036" available="true">
+<offer id="27036" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-strawberry-ice-cream-klubnichnoe-morojenoe-odnorazovyiy-pod</url>
 <price>230</price>
 <currencyId>UAH</currencyId>
@@ -120482,7 +120482,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 25000 Combo Lime &amp; Pineapple (Лайм Ананас) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="25284" available="true">
+<offer id="25284" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-peach-mango---watermelon-persik-mango-arbuz-odnorazovyiy-pod</url>
 <price>409</price>
 <currencyId>UAH</currencyId>
