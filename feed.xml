@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-12 13:22">
+<yml_catalog date="2025-12-12 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -88398,7 +88398,7 @@
 <img alt="Рідина Elfliq Strawberry ice (Полуниця Льод, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21061-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21070" available="true">
+<offer id="21070" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-ice-klubnika-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
