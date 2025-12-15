@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-15 17:22">
+<yml_catalog date="2025-12-15 18:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -120074,7 +120074,7 @@
 <price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
-<picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27034-800x800.png</picture>
 <vendorCode>ws49648-45</vendorCode>
 <name>Elf Bar 1500 Ultra Pink Lemonade (Рожевий Лимонад) Одноразовий POD</name>
 <description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Pink Lemonade (Рожевий Лимонад) Одноразовий POD</h2>
@@ -120141,7 +120141,7 @@
 <price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
-<picture>https://hardsmoke.store/image/cache/placeholder-400x400.png</picture>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27035-800x800.png</picture>
 <vendorCode>hd27035</vendorCode>
 <name>Elf Bar 1500 Ultra Spearmint (М&apos;ята) Одноразовий POD</name>
 <description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Spearmint (М'ята) Одноразовий POD</h2>
@@ -130036,7 +130036,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 4 Nano 1350 Race Track (Сірий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24607" available="true">
+<offer id="24607" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-4-nano-1350-titanium-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
 <price>728</price>
 <currencyId>UAH</currencyId>
@@ -130052,7 +130052,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 4 Nano 1350 Titanium Silver (Металік, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24608" available="true">
+<offer id="24608" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-4-nano-1350-twilight-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>728</price>
 <currencyId>UAH</currencyId>
@@ -130068,7 +130068,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 4 Nano 1350 Twilight Purple (Фіолетовий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24609" available="true">
+<offer id="24609" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-4-nano-1350-word-pop-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>728</price>
 <currencyId>UAH</currencyId>
@@ -130084,7 +130084,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 4 Nano 1350 Word-pop Blue (Синій, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24610" available="true">
+<offer id="24610" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-4-nano-1350-word-pop-yellow-jeltyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>728</price>
 <currencyId>UAH</currencyId>
