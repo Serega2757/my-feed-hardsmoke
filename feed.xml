@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-15 19:22">
+<yml_catalog date="2025-12-15 20:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -85039,7 +85039,7 @@
 <img alt="Рідина Elfliq Apple Pear (Яблуко Груша, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26370-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26206" available="true">
+<offer id="26206" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-apple-pear-yabloko-grusha-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -85279,7 +85279,7 @@
 <img alt="Рідина Elfliq Blue Razz Ice (Блю Разз Айс, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26371-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26207" available="true">
+<offer id="26207" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blue-razz-ice-blyu-razz-ays-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -85359,7 +85359,7 @@
 <img alt="Рідина Elfliq Blue Razz Lemonade (Блю Разз Лимонад, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19776-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18701" available="true">
+<offer id="18701" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blue-razz-lemonade-blyu-razz-limonad-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -85839,7 +85839,7 @@
 <img alt="Рідина Elfliq Cherry cola (Вишнева кола, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21056-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21065" available="true">
+<offer id="21065" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-cherry-cola-vishnevaya-kola-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -85919,7 +85919,7 @@
 <img alt="Рідина Elfliq Cherry Lemon Peach (Вишня Лимон Персик, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24907-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26210" available="true">
+<offer id="26210" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-cherry-lemon-peach-vishnya-limon-persik-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86679,7 +86679,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21068-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26212" available="true">
+<offer id="26212" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-cherry-vinograd-vishnya-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86879,7 +86879,7 @@
 <img alt="Рідина Elfliq Jasmine Raspberry (Жасмин Малина, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26377-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26386" available="true">
+<offer id="26386" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-jasmine-raspberry-jasmin-malina-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87798,7 +87798,7 @@
 <img alt="Рідина Elfliq Raspberry Lychee (Малина Лічі, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26382-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26216" available="true">
+<offer id="26216" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-raspberry-lychee-malina-lichi-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88078,7 +88078,7 @@
 <img alt="Рідина Elfliq Sour Watermelon Gummy (Кисла Кавунова Жуйка, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26383-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26217" available="true">
+<offer id="26217" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-sour-watermelon-gummy-kislaya-arbuznaya-jvachka-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88318,7 +88318,7 @@
 <img alt="Рідина Elfliq Strawberry Cherry Lemon (Полуниця Вишня Лимон, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26384-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26218" available="true">
+<offer id="26218" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-cherry-lemon-klubnika-vishnya-limon-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88518,7 +88518,7 @@
 <img alt="Рідина Elfliq Strawberry kiwi (Полуниця Ківі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21072-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23529" available="true">
+<offer id="23529" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-raspberry-cherry-ice-klubnika-malina-vishnya-led-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
