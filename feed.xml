@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-16 11:22">
+<yml_catalog date="2025-12-16 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -139725,7 +139725,7 @@
 <name>Ельф 1500 Ultra Ківі Маракуя Гуава (Kiwi Passion Fruit Guava)</name>
 </offer>
 <offer id="glassws49648-43" available="false">
-<price>290</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws49648-43</vendorCode>
@@ -140446,7 +140446,7 @@
 <name>Под 1500 Ultra Ківі Маракуя Гуава</name>
 </offer>
 <offer id="topws49648-43" available="false">
-<price>290</price>
+<price>230</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws49648-43</vendorCode>
