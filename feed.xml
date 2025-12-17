@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-17 14:22">
+<yml_catalog date="2025-12-17 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -85359,7 +85359,7 @@
 <img alt="Рідина Elfliq Blue Razz Lemonade (Блю Разз Лимонад, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19776-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18701" available="true">
+<offer id="18701" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blue-razz-lemonade-blyu-razz-limonad-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -85999,7 +85999,7 @@
 <img alt="Рідина Elfliq Cola (Кола, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21057-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21066" available="true">
+<offer id="21066" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-cola-kola-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87158,7 +87158,7 @@
 <img alt="Рідина Elfliq P&amp;B Cloudd (Маршмеллоу, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21058-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21067" available="true">
+<offer id="21067" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-p-b-cloudd-marshmellou-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
