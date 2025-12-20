@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-20 11:22">
+<yml_catalog date="2025-12-20 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -133789,7 +133789,7 @@
 <vendorCode>hd901055</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Лохина Ментол</name>
 </offer>
-<offer id="hd901077" available="true">
+<offer id="hd901077" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -133866,7 +133866,7 @@
 <vendorCode>hd901049</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Кисле Яблуко</name>
 </offer>
-<offer id="hd901071" available="true">
+<offer id="hd901071" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -133943,7 +133943,7 @@
 <vendorCode>hd901045</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Блакитна Малина Лід</name>
 </offer>
-<offer id="hd901067" available="true">
+<offer id="hd901067" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134020,7 +134020,7 @@
 <vendorCode>hd901046</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Вишня Лимон Персик</name>
 </offer>
-<offer id="hd901068" available="true">
+<offer id="hd901068" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134097,7 +134097,7 @@
 <vendorCode>hd901047</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Кавун Лимон</name>
 </offer>
-<offer id="hd901069" available="true">
+<offer id="hd901069" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134174,7 +134174,7 @@
 <vendorCode>hd901048</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Кавуновий Сорбет</name>
 </offer>
-<offer id="hd901070" available="true">
+<offer id="hd901070" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134251,7 +134251,7 @@
 <vendorCode>hd901050</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Ківі Манго Пітайя</name>
 </offer>
-<offer id="hd901072" available="true">
+<offer id="hd901072" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134328,7 +134328,7 @@
 <vendorCode>hd901051</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Класична Кола</name>
 </offer>
-<offer id="hd901073" available="true">
+<offer id="hd901073" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134405,7 +134405,7 @@
 <vendorCode>hd901052</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Кокос Диня</name>
 </offer>
-<offer id="hd901074" available="true">
+<offer id="hd901074" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134482,7 +134482,7 @@
 <vendorCode>hd901053</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Лав66</name>
 </offer>
-<offer id="hd901075" available="true">
+<offer id="hd901075" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134559,7 +134559,7 @@
 <vendorCode>hd901054</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Лимон Лайм</name>
 </offer>
-<offer id="hd901076" available="true">
+<offer id="hd901076" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134636,7 +134636,7 @@
 <vendorCode>hd901056</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Малина Лимон Лід</name>
 </offer>
-<offer id="hd901078" available="true">
+<offer id="hd901078" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134713,7 +134713,7 @@
 <vendorCode>hd901057</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак М&apos;ята</name>
 </offer>
-<offer id="hd901079" available="true">
+<offer id="hd901079" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134790,7 +134790,7 @@
 <vendorCode>hd901058</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Полуниця Вишня Малина</name>
 </offer>
-<offer id="hd901080" available="true">
+<offer id="hd901080" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134867,7 +134867,7 @@
 <vendorCode>hd901059</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Полуничне Морозиво</name>
 </offer>
-<offer id="hd901081" available="true">
+<offer id="hd901081" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -134944,7 +134944,7 @@
 <vendorCode>hd901060</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Полуничний Мохіто</name>
 </offer>
-<offer id="hd901082" available="true">
+<offer id="hd901082" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135021,7 +135021,7 @@
 <vendorCode>hd901061</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Пончик</name>
 </offer>
-<offer id="hd901083" available="true">
+<offer id="hd901083" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135098,7 +135098,7 @@
 <vendorCode>hd901062</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Рожевий Лимонад</name>
 </offer>
-<offer id="hd901084" available="true">
+<offer id="hd901084" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135175,7 +135175,7 @@
 <vendorCode>hd901063</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Скіттлс</name>
 </offer>
-<offer id="hd901085" available="true">
+<offer id="hd901085" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135252,7 +135252,7 @@
 <vendorCode>hd901064</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Тропічний Сік</name>
 </offer>
-<offer id="hd901086" available="true">
+<offer id="hd901086" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135329,7 +135329,7 @@
 <vendorCode>hd901065</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Фрозен Форест</name>
 </offer>
-<offer id="hd901087" available="true">
+<offer id="hd901087" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135413,7 +135413,7 @@
 <vendorCode>hd901066</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Green (Зелений) та Рідина 420 смак Ягідний Морс</name>
 </offer>
-<offer id="hd901088" available="true">
+<offer id="hd901088" available="false">
 <price>509</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
