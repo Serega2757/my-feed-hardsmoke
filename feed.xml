@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-25 20:22">
+<yml_catalog date="2025-12-26 11:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -122282,7 +122282,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 2000 Kiwi Berry (Ківі Ягода) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="21649" available="true">
+<offer id="21649" available="false">
 <url>https://hardsmoke.store/elf-bar-lux-2000-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
 <price>314</price>
 <currencyId>UAH</currencyId>
