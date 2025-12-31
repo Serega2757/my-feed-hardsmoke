@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-31 13:22">
+<yml_catalog date="2025-12-31 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -85879,7 +85879,7 @@
 <img alt="Рідина Elfliq Cherry cola (Вишнева кола, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21056-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21065" available="false">
+<offer id="21065" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-cherry-cola-vishnevaya-kola-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86679,7 +86679,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21068" available="false">
+<offer id="21068" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-vinograd-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -86719,7 +86719,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21068-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26212" available="false">
+<offer id="26212" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-cherry-vinograd-vishnya-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87198,7 +87198,7 @@
 <img alt="Рідина Elfliq P&amp;B Cloudd (Маршмеллоу, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21058-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21067" available="false">
+<offer id="21067" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-p-b-cloudd-marshmellou-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87358,7 +87358,7 @@
 <img alt="Рідина Elfliq Pina Colada (Піна Колада, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22927-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23527" available="false">
+<offer id="23527" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pina-colada-pina-kolada-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87438,7 +87438,7 @@
 <img alt="Рідина Elfliq Pineapple Colada (Піна Колада, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26379-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26214" available="false">
+<offer id="26214" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pineapple-colada-pina-kolada-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -87758,7 +87758,7 @@
 <img alt="Рідина Elfliq Pink Lemonade Soda (Рожевий Лимонад, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26381-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26389" available="false">
+<offer id="26389" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-pink-lemonade-soda-rozovyiy-limonad-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88118,7 +88118,7 @@
 <img alt="Рідина Elfliq Sour Watermelon Gummy (Кисла Кавунова Жуйка, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26383-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26217" available="false">
+<offer id="26217" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-sour-watermelon-gummy-kislaya-arbuznaya-jvachka-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -88678,7 +88678,7 @@
 <img alt="Рідина Elfliq Strawberry snow (Полуничне Морозиво, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21071" available="false">
+<offer id="21071" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-snow-klubnichnoe-morojenoe-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -108278,7 +108278,7 @@
 <img alt="Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26086-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26089" available="true">
+<offer id="26089" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-coffee-tobacco-kofe-tabak-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -113758,7 +113758,7 @@
 <img alt="Рідина YUMMY Рожевий лимонад (30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19826-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19827" available="true">
+<offer id="19827" available="false">
 <url>https://hardsmoke.store/jidkost-yummy-tropicheskie-fruktyi-30ml</url>
 <price>160</price>
 <currencyId>UAH</currencyId>
