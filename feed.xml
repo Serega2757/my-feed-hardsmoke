@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-07 16:22">
+<yml_catalog date="2026-01-07 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -50446,7 +50446,7 @@
 <img alt="Рідина 420 Liquid Кокос диня (50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24977-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20909" available="false">
+<offer id="20909" available="true">
 <url>https://hardsmoke.store/jidkost-420-liquid-kokos-dyinya-50-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
