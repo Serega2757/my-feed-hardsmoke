@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-09 16:22">
+<yml_catalog date="2026-01-09 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -4610,7 +4610,7 @@
 <img alt="Набір для самозамішування Chaser Grape Ice Ultra (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23311-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23293" available="false">
+<offer id="23293" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -4690,7 +4690,7 @@
 <img alt="Набір для самозамішування Chaser Grape Ultra (Виноград, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21562-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25688" available="false">
+<offer id="25688" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-65-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -5047,7 +5047,7 @@
 <img alt="Набір для самозамішування Chaser Kiwi Ice Ultra (Ківі, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23312-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23294" available="false">
+<offer id="23294" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-kiwi-balance-kivi-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -6402,7 +6402,7 @@
 <img alt="Набір для самозамішування Chaser Lux Grape Mint Ultra (Виноград М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22153-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25870" available="false">
+<offer id="25870" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-grape-mint-balance-vinograd-myata-65-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
@@ -7079,7 +7079,7 @@
 <img alt="Набір для самозамішування Chaser Lux Sangria Limited Ultra (Сангрія, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22156-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25476" available="false">
+<offer id="25476" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-sour-apple-kisloe-yabloko-65-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
@@ -7437,7 +7437,7 @@
 <img alt="Набір для самозамішування Chaser Lux Tropic Punch Ultra (Тропік Панч, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22160-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26161" available="false">
+<offer id="26161" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-turbo-mint-balance-turbo-mint-65-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
@@ -8113,7 +8113,7 @@
 <img alt="Набір для самозамішування Chaser Mint Balance (М'ята, 65 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26016-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23298" available="false">
+<offer id="23298" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -11853,7 +11853,7 @@
 <img alt="Набір для самозамішування Chaser Peach Ultra (Персик, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21567-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25693" available="false">
+<offer id="25693" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-peach-balance-grusha-65-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -15568,7 +15568,7 @@
 <img alt="Набір для самозамішування Chaser Watermelon Menthol Ultra (Кавун Ментол, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25502-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23304" available="false">
+<offer id="23304" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-balance-arbuz-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -117958,7 +117958,7 @@
 <img alt="Картридж Vaporesso Xros Series COREX 3.0 0.6 Ом 2 мл" src="https://hardsmoke.store/image/cache/webp/catalog/exist/27146-1-400x400product_thumb.webp">
 </img></div>]]></description>
 </offer>
-<offer id="27050" available="true">
+<offer id="27050" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-06-om-3-ml</url>
 <price>88</price>
 <currencyId>UAH</currencyId>
