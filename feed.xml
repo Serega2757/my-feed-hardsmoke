@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-10 18:22">
+<yml_catalog date="2026-01-10 19:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -114078,7 +114078,7 @@
 <img alt="Випарник Elf Bar FB1000 (0,8 ОМ)" src="https://hardsmoke.store/image/cache/catalog/exist/9996-1-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19551" available="true">
+<offer id="19551" available="false">
 <url>https://hardsmoke.store/isparitel-joyetech-en-08-om-mesh-coil</url>
 <price>58</price>
 <currencyId>UAH</currencyId>
@@ -117268,7 +117268,7 @@
 <img alt="Картридж Suorin ACE Cartridge 1.0 Ом" src="https://hardsmoke.store/image/cache/catalog/exist/19562-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19690" available="true">
+<offer id="19690" available="false">
 <url>https://hardsmoke.store/kartridj-suorin-air-mini-10-om</url>
 <price>95</price>
 <currencyId>UAH</currencyId>
