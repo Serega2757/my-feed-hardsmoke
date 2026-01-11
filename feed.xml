@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-11 19:22">
+<yml_catalog date="2026-01-11 20:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -136713,70 +136713,70 @@
 <name>Lavie Milk 7000 Виноград Лід</name>
 </offer>
 <offer id="glassws81629-15" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-15</vendorCode>
 <name>Ельф TE6000 Персик Лайм</name>
 </offer>
 <offer id="glassws81629-23" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-23</vendorCode>
 <name>Ельф TE6000 Чорниця Лайм</name>
 </offer>
 <offer id="glassws81629-19" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-19</vendorCode>
 <name>Ельф TE6000 Полуниця Вишня Малина</name>
 </offer>
 <offer id="glassws81629-20" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-20</vendorCode>
 <name>Ельф TE6000 Малина Гранат</name>
 </offer>
 <offer id="glassws81629-17" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-17</vendorCode>
 <name>Ельф TE6000 Лимон Лайм</name>
 </offer>
 <offer id="glassws81629-24" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-24</vendorCode>
 <name>Ельф TE6000 Ківі Кавун Зелене Яблуко</name>
 </offer>
 <offer id="glassws81629-21" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-21</vendorCode>
 <name>Ельф TE6000 Кисла Полуниця Виноград</name>
 </offer>
 <offer id="glassws81629-16" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-16</vendorCode>
 <name>Ельф TE6000 Кавун Груша Апельсин</name>
 </offer>
 <offer id="glassws81629-22" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-22</vendorCode>
 <name>Ельф TE6000 Зелений Манго Гуава</name>
 </offer>
 <offer id="glassws81629-18" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws81629-18</vendorCode>
@@ -138148,126 +138148,126 @@
 <name>Vozol Vista 20000 Бузина Грейпфрут</name>
 </offer>
 <offer id="glassws33178-9" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-9</vendorCode>
 <name>Vozol Star 20000 Ягідний Мікс</name>
 </offer>
 <offer id="glassws33178-17" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-17</vendorCode>
 <name>Vozol Star 20000 Чорниця</name>
 </offer>
 <offer id="glassws33178-10" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-10</vendorCode>
 <name>Vozol Star 20000 Фрукти</name>
 </offer>
 <offer id="glassws33178-2" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-2</vendorCode>
 <name>Vozol Star 20000 Тропічні Фрукти</name>
 </offer>
 <offer id="glassws33178-16" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-16</vendorCode>
 <name>Vozol Star 20000 Синя Малина Лимонад</name>
 </offer>
 <offer id="glassws33178-3" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-3</vendorCode>
 <name>Vozol Star 20000 Полуниця Манго</name>
 </offer>
 <offer id="glassws33178-4" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-4</vendorCode>
 <name>Vozol Star 20000 Полуниця Ківі</name>
 </offer>
 <offer id="glassws33178-14" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-14</vendorCode>
 <name>Vozol Star 20000 Подвійне Яблуко Лід</name>
 </offer>
 <offer id="glassws33178-13" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-13</vendorCode>
 <name>Vozol Star 20000 Питая Полуниця Банан</name>
 </offer>
 <offer id="glassws33178-11" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-11</vendorCode>
 <name>Vozol Star 20000 Персик</name>
 </offer>
 <offer id="glassws33178-6" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-6</vendorCode>
 <name>Vozol Star 20000 Малина Яблуко Кавун Ананас</name>
 </offer>
 <offer id="glassws33178-5" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-5</vendorCode>
 <name>Vozol Star 20000 Малина Кавун</name>
 </offer>
 <offer id="glassws33178" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178</vendorCode>
 <name>Vozol Star 20000 Лимон Лайм</name>
 </offer>
 <offer id="glassws33178-7" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-7</vendorCode>
 <name>Vozol Star 20000 Лимон</name>
 </offer>
 <offer id="glassws33178-1" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-1</vendorCode>
 <name>Vozol Star 20000 Кавун Лід</name>
 </offer>
 <offer id="glassws33178-15" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-15</vendorCode>
 <name>Vozol Star 20000 Вишнева Кола</name>
 </offer>
 <offer id="glassws33178-12" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-12</vendorCode>
 <name>Vozol Star 20000 Виноград Лід</name>
 </offer>
 <offer id="glassws33178-8" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws33178-8</vendorCode>
@@ -139975,161 +139975,161 @@
 <name>Hello Synix 30000 Чорничний лимонад (Blueberry Razz)</name>
 </offer>
 <offer id="glassws18979-1" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-1</vendorCode>
 <name>Vozol Rave 40000 Виноград Лід</name>
 </offer>
 <offer id="glassws18979-20" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-20</vendorCode>
 <name>Vozol Rave 40000 Вишня Кола</name>
 </offer>
 <offer id="glassws18979-18" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-18</vendorCode>
 <name>Vozol Rave 40000 Вишня Полуниця</name>
 </offer>
 <offer id="glassws18979-19" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-19</vendorCode>
 <name>Vozol Rave 40000 Диня Кавун Маракуя М&apos;ята</name>
 </offer>
 <offer id="glassws18979-21" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-21</vendorCode>
 <name>Vozol Rave 40000 Драгонфрукт Банан</name>
 </offer>
 <offer id="glassws18979" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979</vendorCode>
 <name>Vozol Rave 40000 Кавун Лід</name>
 </offer>
 <offer id="glassws18979-17" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-17</vendorCode>
 <name>Vozol Rave 40000 Кавун Малина Ранчер</name>
 </offer>
 <offer id="glassws18979-14" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-14</vendorCode>
 <name>Vozol Rave 40000 Кавунова Жувагльна гумка</name>
 </offer>
 <offer id="glassws18979-22" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-22</vendorCode>
 <name>Vozol Rave 40000 Ківі Маракуя</name>
 </offer>
 <offer id="glassws18979-2" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-2</vendorCode>
 <name>Vozol Rave 40000 Манго Лід</name>
 </offer>
 <offer id="glassws18979-6" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-6</vendorCode>
 <name>Vozol Rave 40000 Манго Персик</name>
 </offer>
 <offer id="glassws18979-10" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-10</vendorCode>
 <name>Vozol Rave 40000 Персик Лід</name>
 </offer>
 <offer id="glassws18979-16" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-16</vendorCode>
 <name>Vozol Rave 40000 Персик Малина Лимонад</name>
 </offer>
 <offer id="glassws18979-13" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-13</vendorCode>
 <name>Vozol Rave 40000 Подвійне Яблуко</name>
 </offer>
 <offer id="glassws18979-7" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-7</vendorCode>
 <name>Vozol Rave 40000 Полуниця Кавун</name>
 </offer>
 <offer id="glassws18979-15" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-15</vendorCode>
 <name>Vozol Rave 40000 Полуниця Кавун Персик</name>
 </offer>
 <offer id="glassws18979-12" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-12</vendorCode>
 <name>Vozol Rave 40000 Полуниця Ківі</name>
 </offer>
 <offer id="glassws18979-3" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-3</vendorCode>
 <name>Vozol Rave 40000 Полуниця Лід</name>
 </offer>
 <offer id="glassws18979-11" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-11</vendorCode>
 <name>Vozol Rave 40000 Полуниця Манго</name>
 </offer>
 <offer id="glassws18979-8" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-8</vendorCode>
 <name>Vozol Rave 40000 Прохолодна М’ята</name>
 </offer>
 <offer id="glassws18979-9" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-9</vendorCode>
 <name>Vozol Rave 40000 Синя Малина Лід</name>
 </offer>
 <offer id="glassws18979-5" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-5</vendorCode>
 <name>Vozol Rave 40000 Чорниця Кавун</name>
 </offer>
 <offer id="glassws18979-4" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws18979-4</vendorCode>
@@ -143874,70 +143874,70 @@
 <name>Под Sweet King 30000 Яблуко Кавун</name>
 </offer>
 <offer id="topws81629-18" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-18</vendorCode>
 <name>Под TE6000 Апельсин Маракуя</name>
 </offer>
 <offer id="topws81629-22" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-22</vendorCode>
 <name>Под TE6000 Зелений Манго Гуава</name>
 </offer>
 <offer id="topws81629-16" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-16</vendorCode>
 <name>Под TE6000 Кавун Груша Апельсин</name>
 </offer>
 <offer id="topws81629-21" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-21</vendorCode>
 <name>Под TE6000 Кисла Полуниця Виноград</name>
 </offer>
 <offer id="topws81629-24" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-24</vendorCode>
 <name>Под TE6000 Ківі Кавун Зелене Яблуко</name>
 </offer>
 <offer id="topws81629-17" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-17</vendorCode>
 <name>Под TE6000 Лимон Лайм</name>
 </offer>
 <offer id="topws81629-20" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-20</vendorCode>
 <name>Под TE6000 Малина Гранат</name>
 </offer>
 <offer id="topws81629-15" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-15</vendorCode>
 <name>Под TE6000 Персик Лайм</name>
 </offer>
 <offer id="topws81629-19" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-19</vendorCode>
 <name>Под TE6000 Полуниця Вишня Малина</name>
 </offer>
 <offer id="topws81629-23" available="false">
-<price>345</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws81629-23</vendorCode>
@@ -145008,287 +145008,287 @@
 <name>ВОЗОЛ 12000 Чорниця</name>
 </offer>
 <offer id="topws18979-1" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-1</vendorCode>
 <name>ВОЗОЛ Rave 40000 Виноград Лід</name>
 </offer>
 <offer id="topws18979-20" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-20</vendorCode>
 <name>ВОЗОЛ Rave 40000 Вишня Кола</name>
 </offer>
 <offer id="topws18979-18" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-18</vendorCode>
 <name>ВОЗОЛ Rave 40000 Вишня Полуниця</name>
 </offer>
 <offer id="topws18979-19" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-19</vendorCode>
 <name>ВОЗОЛ Rave 40000 Диня Кавун Маракуя М&apos;ята</name>
 </offer>
 <offer id="topws18979-21" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-21</vendorCode>
 <name>ВОЗОЛ Rave 40000 Драгонфрукт Банан</name>
 </offer>
 <offer id="topws18979" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979</vendorCode>
 <name>ВОЗОЛ Rave 40000 Кавун Лід</name>
 </offer>
 <offer id="topws18979-17" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-17</vendorCode>
 <name>ВОЗОЛ Rave 40000 Кавун Малина Ранчер</name>
 </offer>
 <offer id="topws18979-14" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-14</vendorCode>
 <name>ВОЗОЛ Rave 40000 Кавунова Жувагльна гумка</name>
 </offer>
 <offer id="topws18979-22" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-22</vendorCode>
 <name>ВОЗОЛ Rave 40000 Ківі Маракуя</name>
 </offer>
 <offer id="topws18979-2" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-2</vendorCode>
 <name>ВОЗОЛ Rave 40000 Манго Лід</name>
 </offer>
 <offer id="topws18979-6" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-6</vendorCode>
 <name>ВОЗОЛ Rave 40000 Манго Персик</name>
 </offer>
 <offer id="topws18979-10" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-10</vendorCode>
 <name>ВОЗОЛ Rave 40000 Персик Лід</name>
 </offer>
 <offer id="topws18979-16" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-16</vendorCode>
 <name>ВОЗОЛ Rave 40000 Персик Малина Лимонад</name>
 </offer>
 <offer id="topws18979-13" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-13</vendorCode>
 <name>ВОЗОЛ Rave 40000 Подвійне Яблуко</name>
 </offer>
 <offer id="topws18979-7" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-7</vendorCode>
 <name>ВОЗОЛ Rave 40000 Полуниця Кавун</name>
 </offer>
 <offer id="topws18979-15" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-15</vendorCode>
 <name>ВОЗОЛ Rave 40000 Полуниця Кавун Персик</name>
 </offer>
 <offer id="topws18979-12" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-12</vendorCode>
 <name>ВОЗОЛ Rave 40000 Полуниця Ківі</name>
 </offer>
 <offer id="topws18979-3" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-3</vendorCode>
 <name>ВОЗОЛ Rave 40000 Полуниця Лід</name>
 </offer>
 <offer id="topws18979-11" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-11</vendorCode>
 <name>ВОЗОЛ Rave 40000 Полуниця Манго</name>
 </offer>
 <offer id="topws18979-8" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-8</vendorCode>
 <name>ВОЗОЛ Rave 40000 Прохолодна М’ята</name>
 </offer>
 <offer id="topws18979-9" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-9</vendorCode>
 <name>ВОЗОЛ Rave 40000 Синя Малина Лід</name>
 </offer>
 <offer id="topws18979-5" available="false">
-<price>550</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-5</vendorCode>
 <name>ВОЗОЛ Rave 40000 Чорниця Кавун</name>
 </offer>
 <offer id="topws18979-4" available="false">
-<price>630</price>
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws18979-4</vendorCode>
 <name>ВОЗОЛ Rave 40000 Чорниця Лід</name>
 </offer>
 <offer id="topws33178-8" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-8</vendorCode>
 <name>ВОЗОЛ Star 20000 Апельсин Ананас Лічі</name>
 </offer>
 <offer id="topws33178-12" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-12</vendorCode>
 <name>ВОЗОЛ Star 20000 Виноград Лід</name>
 </offer>
 <offer id="topws33178-15" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-15</vendorCode>
 <name>ВОЗОЛ Star 20000 Вишнева Кола</name>
 </offer>
 <offer id="topws33178-1" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-1</vendorCode>
 <name>ВОЗОЛ Star 20000 Кавун Лід</name>
 </offer>
 <offer id="topws33178-7" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-7</vendorCode>
 <name>ВОЗОЛ Star 20000 Лимон</name>
 </offer>
 <offer id="topws33178" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178</vendorCode>
 <name>ВОЗОЛ Star 20000 Лимон Лайм</name>
 </offer>
 <offer id="topws33178-5" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-5</vendorCode>
 <name>ВОЗОЛ Star 20000 Малина Кавун</name>
 </offer>
 <offer id="topws33178-6" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-6</vendorCode>
 <name>ВОЗОЛ Star 20000 Малина Яблуко Кавун Ананас</name>
 </offer>
 <offer id="topws33178-11" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-11</vendorCode>
 <name>ВОЗОЛ Star 20000 Персик</name>
 </offer>
 <offer id="topws33178-13" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-13</vendorCode>
 <name>ВОЗОЛ Star 20000 Питая Полуниця Банан</name>
 </offer>
 <offer id="topws33178-14" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-14</vendorCode>
 <name>ВОЗОЛ Star 20000 Подвійне Яблуко Лід</name>
 </offer>
 <offer id="topws33178-4" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-4</vendorCode>
 <name>ВОЗОЛ Star 20000 Полуниця Ківі</name>
 </offer>
 <offer id="topws33178-3" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-3</vendorCode>
 <name>ВОЗОЛ Star 20000 Полуниця Манго</name>
 </offer>
 <offer id="topws33178-16" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-16</vendorCode>
 <name>ВОЗОЛ Star 20000 Синя Малина Лимонад</name>
 </offer>
 <offer id="topws33178-2" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-2</vendorCode>
 <name>ВОЗОЛ Star 20000 Тропічні Фрукти</name>
 </offer>
 <offer id="topws33178-10" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-10</vendorCode>
 <name>ВОЗОЛ Star 20000 Фрукти</name>
 </offer>
 <offer id="topws33178-17" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-17</vendorCode>
 <name>ВОЗОЛ Star 20000 Чорниця</name>
 </offer>
 <offer id="topws33178-9" available="false">
-<price>510</price>
+<price>440</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws33178-9</vendorCode>
