@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12 14:22">
+<yml_catalog date="2026-01-12 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -118608,7 +118608,7 @@
 <img alt="Стрічка для POD із силіконовим кільцем Personalka Bananas (Біло-жовтий)" src="https://hardsmoke.store/image/cache/catalog/exist/26652-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26653" available="false">
+<offer id="26653" available="true">
 <url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-black-chernyiy</url>
 <price>60</price>
 <currencyId>UAH</currencyId>
@@ -119248,7 +119248,7 @@
 <img alt="Стрічка для POD із силіконовим кільцем Personalka Rick and Morty (Зелений)" src="https://hardsmoke.store/image/cache/catalog/exist/26665-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26403" available="false">
+<offer id="26403" available="true">
 <url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-scratch-black-chernyiy</url>
 <price>60</price>
 <currencyId>UAH</currencyId>
