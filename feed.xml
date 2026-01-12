@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-12 15:22">
+<yml_catalog date="2026-01-12 16:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -29407,7 +29407,7 @@
 <img alt="Набір для самозамішування Flip salt Tobacco (Тютюн, 25 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25854-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22007" available="false">
+<offer id="22007" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-tobacco-tabak-50-mg-30-ml</url>
 <price>121</price>
 <currencyId>UAH</currencyId>
@@ -39207,7 +39207,7 @@
 <img alt="Набір для самозамішування Juni Watermelon Lemon (Кавун Лимон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23221-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23069" available="false">
+<offer id="23069" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-apple-yabloko-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -39607,7 +39607,7 @@
 <img alt="Набір для самозамішування Lucky Blueberry Lemonade (Чорничний лимонад, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25746-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23074" available="false">
+<offer id="23074" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -39807,7 +39807,7 @@
 <img alt="Набір для самозамішування Lucky Coconut Melon (Кокос диня, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25748-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23076" available="false">
+<offer id="23076" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cola-kola-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -40967,7 +40967,7 @@
 <img alt="Набір для самозамішування Lucky Rose Lemonade (Роза Лимонад, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25935-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23081" available="false">
+<offer id="23081" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-spearmint-myata-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -41167,7 +41167,7 @@
 <img alt="Набір для самозамішування Lucky Watermelon Lemonade (Кавун Лимонад, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25936-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23089" available="false">
+<offer id="23089" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-wild-berries-dikie-yagodyi-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -46567,7 +46567,7 @@
 <img alt="Набір для самозамішування Troublemaker salt Kherson (Херсон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21980-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21981" available="false">
+<offer id="21981" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-troublemaker-salt-nevada-nevada-50-mg-30-ml</url>
 <price>137</price>
 <currencyId>UAH</currencyId>
@@ -55566,7 +55566,7 @@
 <img alt="Рідина Black Tag Watermelon barbaris (Кавун Барбарис, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24901-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18158" available="false">
+<offer id="18158" available="true">
 <url>https://hardsmoke.store/jidkost-boneshaker-salt-lowrider-lourayder-25-mg-15-ml</url>
 <price>73</price>
 <currencyId>UAH</currencyId>
@@ -102438,7 +102438,7 @@
 <img alt="Рідина Lucky Apple (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20222-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19599" available="false">
+<offer id="19599" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-apple-yabloko-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -102598,7 +102598,7 @@
 <img alt="Рідина Lucky Berry Lemonade (Ягідний лимонад, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22773-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22783" available="false">
+<offer id="22783" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-berry-lemonade-yagodnyiy-limonad-50-mg-30-ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -102838,7 +102838,7 @@
 <img alt="Рідина Lucky Cactus Guava Kiwi (Кактус Гуава Ківі, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22775-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22785" available="false">
+<offer id="22785" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -102918,7 +102918,7 @@
 <img alt="Рідина Lucky Cherry Lemonade (Вишня лимонад, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26298-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25972" available="false">
+<offer id="25972" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-cherry-lemonade-vishnya-limonad-50-mg-30-ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -103398,7 +103398,7 @@
 <img alt="Рідина Lucky Gold Kiwi Strawberry (Ківі Полуниця, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20227-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19604" available="false">
+<offer id="19604" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-cold-kiwi-strawberry-ledyanst-kivi-klubnika-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -104118,7 +104118,7 @@
 <img alt="Рідина Lucky Mokko (Мокко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22778-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22788" available="false">
+<offer id="22788" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-mokko-mokko-50-mg-30-ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -104598,7 +104598,7 @@
 <img alt="Рідина Lucky Spearmint (М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20230-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19607" available="false">
+<offer id="19607" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-mint-myata-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -104678,7 +104678,7 @@
 <img alt="Рідина Lucky Strawberry (Полуниця, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20231-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19608" available="false">
+<offer id="19608" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-strawberry-klubnika-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -104838,7 +104838,7 @@
 <img alt="Рідина Lucky Wild Berries (Дикі ягоди, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22782-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22792" available="false">
+<offer id="22792" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-wild-berries-dikie-yagodyi-50-mg-30-ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -112878,7 +112878,7 @@
 <img alt="Рідина Wick&amp;Wire salt Frozen Forest V2 (Фроузен форест, 0 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20218-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19569" available="false">
+<offer id="19569" available="true">
 <url>https://hardsmoke.store/jidkost-wick-wire-salt-frozen-forest-v2-frouzen-forest-25mg-30ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -113038,7 +113038,7 @@
 <img alt="Рідина Wick&amp;Wire salt Jungle Bird (Джангл Берд, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25857-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20219" available="false">
+<offer id="20219" available="true">
 <url>https://hardsmoke.store/jidkost-wick-wire-salt-natural-explode-natural-ekploud-0-mg-30-ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -113078,7 +113078,7 @@
 <img alt="Рідина Wick&amp;Wire salt Natural Explode (Натурал екплоуд, 0 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20219-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19570" available="false">
+<offer id="19570" available="true">
 <url>https://hardsmoke.store/jidkost-wick-wire-salt-natural-explode-natural-ekploud-25mg-30ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -120133,6 +120133,210 @@
 </div>
 </div>]]></description>
 </offer>
+<offer id="27402" available="true">
+<url>https://hardsmoke.store/elf-bar-1500-ultra-blue-razz-lemonade-limonad-malina-ejevika-odnorazovyiy-pod</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27402-800x800.png</picture>
+<vendorCode>hd27402</vendorCode>
+<name>Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD</name>
+<description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD</h2>
+<div class="text-block-wrap text-block-wrap-first">
+<div>
+<p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Ожина, Лимонад, Малина, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p>
+<p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p>
+<h2>Скільки коштує Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD?</h2>
+<p>Ціна на Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p>
+<p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/>
+</div>
+<h2>Основні характеристики Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD з доставкою від Hardsmoke" src="/images/odnorazki2.png"/>
+<div>
+<ul>
+<li>Смак. У кожній затяжці одноразки ви відчуєте насичений смак Ожина, Лимонад, Малина — яскравий, виразний та збалансований. Такий аромат не набридає, а навпаки — хочеться парити знову і знову.
+<li>Ресурс до 1500 затяжок. Однією електронною сигаретою вистачає надовго. Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD забезпечує стабільну подачу пари до 1500 затяжок — цього більш ніж достатньо на кілька днів активного використання, а часом і на тиждень.</li>
+<li>Нікотін. З фортецею 50 мг цей вейп дає відчутне, але комфортне насичення. Хороший вибір для тих, хто хоче контролювати споживання нікотину, але при цьому не жертвувати смаком та відчуттями.</li>
+<li>Мінімалізм та портативність. Одноразка легко поміщається в кишеню, не привертає зайвої уваги і чудово виглядає у руці. А ще — не шумить, не тече, не перегрівається. Просто надійний вейп щодня.</li>
+<li>Легкий старт. Вейп-пристрій не потрібно заряджати чи заправляти. Воно вже готове до використання: відкрив, вдихнув — та готове. Особливо зручно для новачків, які не хочуть розбиратися в налаштуваннях, катриджах та випарниках.</li>
+</li></ul>
+</div>
+</div>
+<h2>Переваги та недоліки Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<div>
+<p>Плюси:</p>
+<ul>
+<li>Повністю готова до використання відразу з коробки</li>
+<li>Компактний розмір — легко вміщується в кишеню</li>
+<li>Не вимагає обслуговування, заряджання або зміни картриджа</li>
+<li>Широка лінійка смаків, у тому числі популярна Ожина, Лимонад, Малина</li>
+<li>Підходить для курців, які шукають простий спосіб перейти на вейпінг</li>
+</ul>
+<p>Мінус:</p>
+<ul>
+<li>Одноразовий формат — розрахований лише на обмежену кількість затяжок</li>
+<li>Не підлягає перезаправленню або зарядженню</li>
+<li>При частому використанні може виявитися менш вигідною, ніж багаторазові курилки</li>
+</ul>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD недорого" src="/images/odnorazki3.jpeg"/>
+</div>
+<h2>Кому підійде Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD?</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD" src="https://hardsmoke.store/image/cache/catalog/exist/27402-400x400.png"/>
+<div>
+<p>Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD відмінно підійде тим, хто цінує простоту та мобільність. Це гарна одноразка для:</p>
+<ul>
+<li>Новичків, які тільки знайомляться з вейпінгом</li>
+<li>Людей, які переходять із традиційних сигарет</li>
+<li>Тих, хто не хоче возитися з рідинами, випарниками та зарядками</li>
+<li>Як запасний вейп на вечірки, поїздки або в дорогу</li>
+</ul>
+<p>Особливо оцінять цю модель любителі смаку Ожина, Лимонад, Малина, адже саме він робить ширяння насиченим та приємним.</p>
+<p>Elf Bar 1500 Ultra Blue Razz Lemonade (Лимонад Малина Єжевика) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
+</div>
+</div>]]></description>
+</offer>
+<offer id="27401" available="true">
+<url>https://hardsmoke.store/elf-bar-1500-ultra-blueberry-chernika-odnorazovyiy-pod</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27401-800x800.png</picture>
+<vendorCode>ws49648-42</vendorCode>
+<name>Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD</name>
+<description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD</h2>
+<div class="text-block-wrap text-block-wrap-first">
+<div>
+<p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Чорниця/Голубика, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p>
+<p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p>
+<h2>Скільки коштує Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD?</h2>
+<p>Ціна на Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p>
+<p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/>
+</div>
+<h2>Основні характеристики Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD з доставкою від Hardsmoke" src="/images/odnorazki2.png"/>
+<div>
+<ul>
+<li>Смак. У кожній затяжці одноразки ви відчуєте насичений смак Чорниця/Голубика — яскравий, виразний та збалансований. Такий аромат не набридає, а навпаки — хочеться парити знову і знову.
+<li>Ресурс до 1500 затяжок. Однією електронною сигаретою вистачає надовго. Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD забезпечує стабільну подачу пари до 1500 затяжок — цього більш ніж достатньо на кілька днів активного використання, а часом і на тиждень.</li>
+<li>Нікотін. З фортецею 50 мг цей вейп дає відчутне, але комфортне насичення. Хороший вибір для тих, хто хоче контролювати споживання нікотину, але при цьому не жертвувати смаком та відчуттями.</li>
+<li>Мінімалізм та портативність. Одноразка легко поміщається в кишеню, не привертає зайвої уваги і чудово виглядає у руці. А ще — не шумить, не тече, не перегрівається. Просто надійний вейп щодня.</li>
+<li>Легкий старт. Вейп-пристрій не потрібно заряджати чи заправляти. Воно вже готове до використання: відкрив, вдихнув — та готове. Особливо зручно для новачків, які не хочуть розбиратися в налаштуваннях, катриджах та випарниках.</li>
+</li></ul>
+</div>
+</div>
+<h2>Переваги та недоліки Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<div>
+<p>Плюси:</p>
+<ul>
+<li>Повністю готова до використання відразу з коробки</li>
+<li>Компактний розмір — легко вміщується в кишеню</li>
+<li>Не вимагає обслуговування, заряджання або зміни картриджа</li>
+<li>Широка лінійка смаків, у тому числі популярна Чорниця/Голубика</li>
+<li>Підходить для курців, які шукають простий спосіб перейти на вейпінг</li>
+</ul>
+<p>Мінус:</p>
+<ul>
+<li>Одноразовий формат — розрахований лише на обмежену кількість затяжок</li>
+<li>Не підлягає перезаправленню або зарядженню</li>
+<li>При частому використанні може виявитися менш вигідною, ніж багаторазові курилки</li>
+</ul>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD недорого" src="/images/odnorazki3.jpeg"/>
+</div>
+<h2>Кому підійде Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD?</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD" src="https://hardsmoke.store/image/cache/catalog/exist/27401-400x400.png"/>
+<div>
+<p>Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD відмінно підійде тим, хто цінує простоту та мобільність. Це гарна одноразка для:</p>
+<ul>
+<li>Новичків, які тільки знайомляться з вейпінгом</li>
+<li>Людей, які переходять із традиційних сигарет</li>
+<li>Тих, хто не хоче возитися з рідинами, випарниками та зарядками</li>
+<li>Як запасний вейп на вечірки, поїздки або в дорогу</li>
+</ul>
+<p>Особливо оцінять цю модель любителі смаку Чорниця/Голубика, адже саме він робить ширяння насиченим та приємним.</p>
+<p>Elf Bar 1500 Ultra Blueberry (Чорниця) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
+</div>
+</div>]]></description>
+</offer>
+<offer id="27400" available="true">
+<url>https://hardsmoke.store/elf-bar-1500-ultra-cherry-lemon-peach-vishnya-limon-persik-odnorazovyiy-pod</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27400-800x800.png</picture>
+<vendorCode>hd27400</vendorCode>
+<name>Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD</name>
+<description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD</h2>
+<div class="text-block-wrap text-block-wrap-first">
+<div>
+<p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Вишня/Черешня, Лимон, Персик, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p>
+<p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p>
+<h2>Скільки коштує Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD?</h2>
+<p>Ціна на Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p>
+<p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/>
+</div>
+<h2>Основні характеристики Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD з доставкою від Hardsmoke" src="/images/odnorazki2.png"/>
+<div>
+<ul>
+<li>Смак. У кожній затяжці одноразки ви відчуєте насичений смак Вишня/Черешня, Лимон, Персик — яскравий, виразний та збалансований. Такий аромат не набридає, а навпаки — хочеться парити знову і знову.
+<li>Ресурс до 1500 затяжок. Однією електронною сигаретою вистачає надовго. Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD забезпечує стабільну подачу пари до 1500 затяжок — цього більш ніж достатньо на кілька днів активного використання, а часом і на тиждень.</li>
+<li>Нікотін. З фортецею 50 мг цей вейп дає відчутне, але комфортне насичення. Хороший вибір для тих, хто хоче контролювати споживання нікотину, але при цьому не жертвувати смаком та відчуттями.</li>
+<li>Мінімалізм та портативність. Одноразка легко поміщається в кишеню, не привертає зайвої уваги і чудово виглядає у руці. А ще — не шумить, не тече, не перегрівається. Просто надійний вейп щодня.</li>
+<li>Легкий старт. Вейп-пристрій не потрібно заряджати чи заправляти. Воно вже готове до використання: відкрив, вдихнув — та готове. Особливо зручно для новачків, які не хочуть розбиратися в налаштуваннях, катриджах та випарниках.</li>
+</li></ul>
+</div>
+</div>
+<h2>Переваги та недоліки Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<div>
+<p>Плюси:</p>
+<ul>
+<li>Повністю готова до використання відразу з коробки</li>
+<li>Компактний розмір — легко вміщується в кишеню</li>
+<li>Не вимагає обслуговування, заряджання або зміни картриджа</li>
+<li>Широка лінійка смаків, у тому числі популярна Вишня/Черешня, Лимон, Персик</li>
+<li>Підходить для курців, які шукають простий спосіб перейти на вейпінг</li>
+</ul>
+<p>Мінус:</p>
+<ul>
+<li>Одноразовий формат — розрахований лише на обмежену кількість затяжок</li>
+<li>Не підлягає перезаправленню або зарядженню</li>
+<li>При частому використанні може виявитися менш вигідною, ніж багаторазові курилки</li>
+</ul>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD недорого" src="/images/odnorazki3.jpeg"/>
+</div>
+<h2>Кому підійде Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD?</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD" src="https://hardsmoke.store/image/cache/catalog/exist/27400-400x400.png"/>
+<div>
+<p>Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD відмінно підійде тим, хто цінує простоту та мобільність. Це гарна одноразка для:</p>
+<ul>
+<li>Новичків, які тільки знайомляться з вейпінгом</li>
+<li>Людей, які переходять із традиційних сигарет</li>
+<li>Тих, хто не хоче возитися з рідинами, випарниками та зарядками</li>
+<li>Як запасний вейп на вечірки, поїздки або в дорогу</li>
+</ul>
+<p>Особливо оцінять цю модель любителі смаку Вишня/Черешня, Лимон, Персик, адже саме він робить ширяння насиченим та приємним.</p>
+<p>Elf Bar 1500 Ultra Cherry Lemon Peach (Вишня Лимон Персик) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
+</div>
+</div>]]></description>
+</offer>
 <offer id="26830" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-coconut-melon-kokos-dyinya-odnorazovyiy-pod</url>
 <price>230</price>
@@ -120148,6 +120352,142 @@
  <li>Потужний акумулятор: Гарантує тривалу роботу пристрою, мінімізуючи необхідність частого заряджання.</li>
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Ultra Coconut Melon (Кокос Диня) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
+</offer>
+<offer id="27399" available="true">
+<url>https://hardsmoke.store/elf-bar-1500-ultra-grape-vinograd-odnorazovyiy-pod</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27399-800x800.png</picture>
+<vendorCode>ws49648-41</vendorCode>
+<name>Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD</name>
+<description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD</h2>
+<div class="text-block-wrap text-block-wrap-first">
+<div>
+<p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Виноград, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p>
+<p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p>
+<h2>Скільки коштує Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD?</h2>
+<p>Ціна на Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p>
+<p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/>
+</div>
+<h2>Основні характеристики Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD з доставкою від Hardsmoke" src="/images/odnorazki2.png"/>
+<div>
+<ul>
+<li>Смак. У кожній затяжці одноразки ви відчуєте насичений смак Виноград — яскравий, виразний та збалансований. Такий аромат не набридає, а навпаки — хочеться парити знову і знову.
+<li>Ресурс до 1500 затяжок. Однією електронною сигаретою вистачає надовго. Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD забезпечує стабільну подачу пари до 1500 затяжок — цього більш ніж достатньо на кілька днів активного використання, а часом і на тиждень.</li>
+<li>Нікотін. З фортецею 50 мг цей вейп дає відчутне, але комфортне насичення. Хороший вибір для тих, хто хоче контролювати споживання нікотину, але при цьому не жертвувати смаком та відчуттями.</li>
+<li>Мінімалізм та портативність. Одноразка легко поміщається в кишеню, не привертає зайвої уваги і чудово виглядає у руці. А ще — не шумить, не тече, не перегрівається. Просто надійний вейп щодня.</li>
+<li>Легкий старт. Вейп-пристрій не потрібно заряджати чи заправляти. Воно вже готове до використання: відкрив, вдихнув — та готове. Особливо зручно для новачків, які не хочуть розбиратися в налаштуваннях, катриджах та випарниках.</li>
+</li></ul>
+</div>
+</div>
+<h2>Переваги та недоліки Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<div>
+<p>Плюси:</p>
+<ul>
+<li>Повністю готова до використання відразу з коробки</li>
+<li>Компактний розмір — легко вміщується в кишеню</li>
+<li>Не вимагає обслуговування, заряджання або зміни картриджа</li>
+<li>Широка лінійка смаків, у тому числі популярна Виноград</li>
+<li>Підходить для курців, які шукають простий спосіб перейти на вейпінг</li>
+</ul>
+<p>Мінус:</p>
+<ul>
+<li>Одноразовий формат — розрахований лише на обмежену кількість затяжок</li>
+<li>Не підлягає перезаправленню або зарядженню</li>
+<li>При частому використанні може виявитися менш вигідною, ніж багаторазові курилки</li>
+</ul>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD недорого" src="/images/odnorazki3.jpeg"/>
+</div>
+<h2>Кому підійде Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD?</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD" src="https://hardsmoke.store/image/cache/catalog/exist/27399-400x400.png"/>
+<div>
+<p>Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD відмінно підійде тим, хто цінує простоту та мобільність. Це гарна одноразка для:</p>
+<ul>
+<li>Новичків, які тільки знайомляться з вейпінгом</li>
+<li>Людей, які переходять із традиційних сигарет</li>
+<li>Тих, хто не хоче возитися з рідинами, випарниками та зарядками</li>
+<li>Як запасний вейп на вечірки, поїздки або в дорогу</li>
+</ul>
+<p>Особливо оцінять цю модель любителі смаку Виноград, адже саме він робить ширяння насиченим та приємним.</p>
+<p>Elf Bar 1500 Ultra Grape (Виноград) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
+</div>
+</div>]]></description>
+</offer>
+<offer id="27398" available="true">
+<url>https://hardsmoke.store/elf-bar-1500-ultra-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27398-800x800.png</picture>
+<vendorCode>ws49648-47</vendorCode>
+<name>Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD</name>
+<description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD</h2>
+<div class="text-block-wrap text-block-wrap-first">
+<div>
+<p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Гуава, Ківі, Маракуя, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p>
+<p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p>
+<h2>Скільки коштує Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD?</h2>
+<p>Ціна на Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p>
+<p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/>
+</div>
+<h2>Основні характеристики Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD з доставкою від Hardsmoke" src="/images/odnorazki2.png"/>
+<div>
+<ul>
+<li>Смак. У кожній затяжці одноразки ви відчуєте насичений смак Гуава, Ківі, Маракуя — яскравий, виразний та збалансований. Такий аромат не набридає, а навпаки — хочеться парити знову і знову.
+<li>Ресурс до 1500 затяжок. Однією електронною сигаретою вистачає надовго. Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD забезпечує стабільну подачу пари до 1500 затяжок — цього більш ніж достатньо на кілька днів активного використання, а часом і на тиждень.</li>
+<li>Нікотін. З фортецею 50 мг цей вейп дає відчутне, але комфортне насичення. Хороший вибір для тих, хто хоче контролювати споживання нікотину, але при цьому не жертвувати смаком та відчуттями.</li>
+<li>Мінімалізм та портативність. Одноразка легко поміщається в кишеню, не привертає зайвої уваги і чудово виглядає у руці. А ще — не шумить, не тече, не перегрівається. Просто надійний вейп щодня.</li>
+<li>Легкий старт. Вейп-пристрій не потрібно заряджати чи заправляти. Воно вже готове до використання: відкрив, вдихнув — та готове. Особливо зручно для новачків, які не хочуть розбиратися в налаштуваннях, катриджах та випарниках.</li>
+</li></ul>
+</div>
+</div>
+<h2>Переваги та недоліки Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<div>
+<p>Плюси:</p>
+<ul>
+<li>Повністю готова до використання відразу з коробки</li>
+<li>Компактний розмір — легко вміщується в кишеню</li>
+<li>Не вимагає обслуговування, заряджання або зміни картриджа</li>
+<li>Широка лінійка смаків, у тому числі популярна Гуава, Ківі, Маракуя</li>
+<li>Підходить для курців, які шукають простий спосіб перейти на вейпінг</li>
+</ul>
+<p>Мінус:</p>
+<ul>
+<li>Одноразовий формат — розрахований лише на обмежену кількість затяжок</li>
+<li>Не підлягає перезаправленню або зарядженню</li>
+<li>При частому використанні може виявитися менш вигідною, ніж багаторазові курилки</li>
+</ul>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD недорого" src="/images/odnorazki3.jpeg"/>
+</div>
+<h2>Кому підійде Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD?</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD" src="https://hardsmoke.store/image/cache/catalog/exist/27398-400x400.png"/>
+<div>
+<p>Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD відмінно підійде тим, хто цінує простоту та мобільність. Це гарна одноразка для:</p>
+<ul>
+<li>Новичків, які тільки знайомляться з вейпінгом</li>
+<li>Людей, які переходять із традиційних сигарет</li>
+<li>Тих, хто не хоче возитися з рідинами, випарниками та зарядками</li>
+<li>Як запасний вейп на вечірки, поїздки або в дорогу</li>
+</ul>
+<p>Особливо оцінять цю модель любителі смаку Гуава, Ківі, Маракуя, адже саме він робить ширяння насиченим та приємним.</p>
+<p>Elf Bar 1500 Ultra Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
+</div>
+</div>]]></description>
 </offer>
 <offer id="27034" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-pink-lemonade-rozovyiy-limonad-odnorazovyiy-pod</url>
@@ -120347,6 +120687,74 @@
 </ul>
 <p>Особливо оцінять цю модель любителі смаку Полуниця, Морозиво, адже саме він робить ширяння насиченим та приємним.</p>
 <p>Elf Bar 1500 Ultra Strawberry Ice Cream (Полуничне Морозиво) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
+</div>
+</div>]]></description>
+</offer>
+<offer id="27397" available="true">
+<url>https://hardsmoke.store/elf-bar-1500-ultra-watermelon-arbuz-odnorazovyiy-pod</url>
+<price>230</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>https://hardsmoke.store/image/cache/catalog/exist/27397-800x800.png</picture>
+<vendorCode>hd27397</vendorCode>
+<name>Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</name>
+<description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</h2>
+<div class="text-block-wrap text-block-wrap-first">
+<div>
+<p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Кавун, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p>
+<p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p>
+<h2>Скільки коштує Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD?</h2>
+<p>Ціна на Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p>
+<p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/>
+</div>
+<h2>Основні характеристики Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD з доставкою від Hardsmoke" src="/images/odnorazki2.png"/>
+<div>
+<ul>
+<li>Смак. У кожній затяжці одноразки ви відчуєте насичений смак Кавун — яскравий, виразний та збалансований. Такий аромат не набридає, а навпаки — хочеться парити знову і знову.
+<li>Ресурс до 1500 затяжок. Однією електронною сигаретою вистачає надовго. Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD забезпечує стабільну подачу пари до 1500 затяжок — цього більш ніж достатньо на кілька днів активного використання, а часом і на тиждень.</li>
+<li>Нікотін. З фортецею 50 мг цей вейп дає відчутне, але комфортне насичення. Хороший вибір для тих, хто хоче контролювати споживання нікотину, але при цьому не жертвувати смаком та відчуттями.</li>
+<li>Мінімалізм та портативність. Одноразка легко поміщається в кишеню, не привертає зайвої уваги і чудово виглядає у руці. А ще — не шумить, не тече, не перегрівається. Просто надійний вейп щодня.</li>
+<li>Легкий старт. Вейп-пристрій не потрібно заряджати чи заправляти. Воно вже готове до використання: відкрив, вдихнув — та готове. Особливо зручно для новачків, які не хочуть розбиратися в налаштуваннях, катриджах та випарниках.</li>
+</li></ul>
+</div>
+</div>
+<h2>Переваги та недоліки Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</h2>
+<div class="text-block-wrap">
+<div>
+<p>Плюси:</p>
+<ul>
+<li>Повністю готова до використання відразу з коробки</li>
+<li>Компактний розмір — легко вміщується в кишеню</li>
+<li>Не вимагає обслуговування, заряджання або зміни картриджа</li>
+<li>Широка лінійка смаків, у тому числі популярна Кавун</li>
+<li>Підходить для курців, які шукають простий спосіб перейти на вейпінг</li>
+</ul>
+<p>Мінус:</p>
+<ul>
+<li>Одноразовий формат — розрахований лише на обмежену кількість затяжок</li>
+<li>Не підлягає перезаправленню або зарядженню</li>
+<li>При частому використанні може виявитися менш вигідною, ніж багаторазові курилки</li>
+</ul>
+</div>
+<img alt="Купити Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD недорого" src="/images/odnorazki3.jpeg"/>
+</div>
+<h2>Кому підійде Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD?</h2>
+<div class="text-block-wrap">
+<img alt="Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD" src="https://hardsmoke.store/image/cache/catalog/exist/27397-400x400.png"/>
+<div>
+<p>Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD відмінно підійде тим, хто цінує простоту та мобільність. Це гарна одноразка для:</p>
+<ul>
+<li>Новичків, які тільки знайомляться з вейпінгом</li>
+<li>Людей, які переходять із традиційних сигарет</li>
+<li>Тих, хто не хоче возитися з рідинами, випарниками та зарядками</li>
+<li>Як запасний вейп на вечірки, поїздки або в дорогу</li>
+</ul>
+<p>Особливо оцінять цю модель любителі смаку Кавун, адже саме він робить ширяння насиченим та приємним.</p>
+<p>Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD — це сучасний спосіб отримати задоволення від вейпу без зайвої мороки. Вибирайте свій улюблений смак та насолоджуйтесь свободою без диму та попелу.</p>
 </div>
 </div>]]></description>
 </offer>
@@ -121626,7 +122034,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar GH 23000 Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="27270" available="true">
+<offer id="27270" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-kiwi-pineapple-ice-kivi-ananas-led-odnorazovyiy-pod</url>
 <price>409</price>
 <currencyId>UAH</currencyId>
