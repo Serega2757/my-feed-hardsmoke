@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-13 17:22">
+<yml_catalog date="2026-01-13 18:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -114918,7 +114918,7 @@
 <img alt="Випарник Smok RPM 3 Meshed 0.23 Ом Coil" src="https://hardsmoke.store/image/cache/catalog/exist/19991-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19766" available="true">
+<offer id="19766" available="false">
 <url>https://hardsmoke.store/isparitel-voopoo-pnp-dw60-06-om</url>
 <price>91</price>
 <currencyId>UAH</currencyId>
@@ -118318,7 +118318,7 @@
 <img alt="Картридж Vaporesso XROS Mini 1.0 Ом 2 мл" src="https://hardsmoke.store/image/cache/catalog/exist/20120-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24637" available="false">
+<offer id="24637" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-20-mesh-04-om-3-ml</url>
 <price>88</price>
 <currencyId>UAH</currencyId>
@@ -118358,7 +118358,7 @@
 <img alt="Картридж Vaporesso Xros Series COREX 2.0 Mesh 0.4 Ом 3 мл" src="https://hardsmoke.store/image/cache/catalog/exist/24637-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="27146" available="false">
+<offer id="27146" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-06-om-2-ml</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
