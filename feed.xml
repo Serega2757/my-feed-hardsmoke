@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-18 19:22">
+<yml_catalog date="2026-01-18 20:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -140580,7 +140580,7 @@
 <name>Ельф GH23000 Полуниця Лід</name>
 </offer>
 <offer id="glassws83959-29" available="false">
-<price>485</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws83959-29</vendorCode>
@@ -140608,7 +140608,7 @@
 <name>Ельф GH23000 Подвійне Манго</name>
 </offer>
 <offer id="glassws83959-22" available="false">
-<price>440</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws83959-22</vendorCode>
@@ -140720,7 +140720,7 @@
 <name>Ельф GH23000 Кисле Яблуко Лід</name>
 </offer>
 <offer id="glassws83959-24" available="false">
-<price>485</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws83959-24</vendorCode>
@@ -140734,7 +140734,7 @@
 <name>Ельф GH23000 Кавун Лід</name>
 </offer>
 <offer id="glassws83959-25" available="false">
-<price>560</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws83959-25</vendorCode>
@@ -143226,7 +143226,7 @@
 <name>Под GH23000 Кавун Вишня</name>
 </offer>
 <offer id="topws83959-25" available="false">
-<price>560</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws83959-25</vendorCode>
@@ -143240,7 +143240,7 @@
 <name>Под GH23000 Кавун Лід</name>
 </offer>
 <offer id="topws83959-24" available="false">
-<price>485</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws83959-24</vendorCode>
@@ -143352,7 +143352,7 @@
 <name>Под GH23000 Персик Лід</name>
 </offer>
 <offer id="topws83959-22" available="false">
-<price>440</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws83959-22</vendorCode>
@@ -143380,7 +143380,7 @@
 <name>Под GH23000 Полуниця Банан</name>
 </offer>
 <offer id="topws83959-29" available="false">
-<price>485</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws83959-29</vendorCode>
