@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-20 17:22">
+<yml_catalog date="2026-01-20 18:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -105038,7 +105038,7 @@
 <img alt="Рідина Lucky Spearmint (М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20230-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19607" available="true">
+<offer id="19607" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-mint-myata-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
