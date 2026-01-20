@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-20 20:22">
+<yml_catalog date="2026-01-20 21:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -31807,7 +31807,7 @@
 <img alt="Набір для самозамішування Get High Squeezy Apple (Сквізі Епл, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24083-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24084" available="true">
+<offer id="24084" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-strawberry-booster-stravberri-buster-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -33807,7 +33807,7 @@
 <img alt="Набір для самозамішування Hype Kit Cookie (Печиво, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25811-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21719" available="true">
+<offer id="21719" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-cookie-pechene-50-mg-30-ml</url>
 <price>166</price>
 <currencyId>UAH</currencyId>
@@ -103278,7 +103278,7 @@
 <img alt="Рідина Lucky Cactus Guava Kiwi (Кактус Гуава Ківі, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22775-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22785" available="true">
+<offer id="22785" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -103518,7 +103518,7 @@
 <img alt="Рідина Lucky Cola (Кола, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20225-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19602" available="true">
+<offer id="19602" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-cola-kola-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -103838,7 +103838,7 @@
 <img alt="Рідина Lucky Gold Kiwi Strawberry (Ківі Полуниця, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20227-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19604" available="true">
+<offer id="19604" available="false">
 <url>https://hardsmoke.store/jidkost-lucky-cold-kiwi-strawberry-ledyanst-kivi-klubnika-50mg-30ml</url>
 <price>179</price>
 <currencyId>UAH</currencyId>
@@ -118188,7 +118188,7 @@
 <img alt="Картридж Vaporesso Xros 0.7 Ом 3 мл" src="https://hardsmoke.store/image/cache/catalog/exist/24109-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21284" available="false">
+<offer id="21284" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-08-om</url>
 <price>83</price>
 <currencyId>UAH</currencyId>
@@ -121554,7 +121554,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar BC3000 Energy (Енергетик) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="27275" available="true">
+<offer id="27275" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-blackberry---passionfruit-ejevika-i-marakuyya-odnorazovyiy-pod</url>
 <price>420</price>
 <currencyId>UAH</currencyId>
@@ -125166,7 +125166,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії GeekVape допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з GeekVape Sonder Q 1000 Green Purple (Зелений з фіолетовим, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="27293" available="true">
+<offer id="27293" available="false">
 <url>https://hardsmoke.store/geekvape-sonder-q-1000-mystic-nebula-fioletovyiy-s-blestkami-s-kartridjem-mnogorazovyiy-pod</url>
 <price>420</price>
 <currencyId>UAH</currencyId>
@@ -126920,7 +126920,7 @@
 <name>Lost vape Ursa Nano S 800 Stone Grey (Сірий, з картриджем) Багаторазовий POD</name>
 <description><![CDATA[<h2>Особливості POD Lost vape Ursa Nano S 800 Stone Grey</h2> <p>Багаторазова POD-система Lost Vape Ursa Nano S 800 Stone Grey — ідеальне рішення для тих, хто тільки починає знайомство з вейпінгом. Цей подік розроблено як проста у використанні електронна сигарета, яка не потребує додаткових налаштувань. Под максимально інтуїтивний і підійде як новачкам, так і тим, хто шукає компактну електронну сигарету без зайвих функцій.</p> <p>Підсистема Lost Vape Ursa Nano S 800 сірого кольору — справжній компроміс між ціною та якістю, що впевнено займає своє місце серед бюджетних моделей. Простота у використанні, зручна бічна заправка та магнітне кріплення картриджа роблять цю Pod-систему одним із фаворитів серед початківців.</p> <h2>Дизайн та ергономіка</h2> <p>Подік Ursa Nano S 800 Stone Grey виконаний у вже звичному форматі, але стильному дизайні. Зручно лежить у руці, корпус виготовлений із легких матеріалів, а вага пристрою практично не відчувається в кишені. Відсутність екрану та інших елементів керування робить підсистему візуально лаконічною та інтуїтивною в експлуатації.</p> <h2>Продуктивність та акумулятор</h2> <p>Знімний картридж об'ємом 2.5 мл розрахований на часте використання, а вбудований акумулятор на 800 мАг забезпечує стабільну роботу пристрою протягом дня. Потужність 16 Вт збалансована для комфортного паріння, а оптимальний опір випарника (0.8 та 1.0 Ом) робить вейп універсальним для більшості рідин, зокрема й солевих. Повного заряду вистачає на повноцінний день використання, що особливо зручно для новачків.</p> <p>Якщо ви ще не визначилися зі смаком — рекомендуємо звернути увагу на <a href="https://hardsmoke.store/katalog/zhidkosti">рідини</a> з асортименту нашого магазину.</p> <h2>Основні технічні характеристики POD-системи Lost vape Ursa Nano S 800 Stone Grey</h2> <ol> <li>Тип активації: від затяжки</li> <li>Об’єм картриджа: 2.5 мл</li> <li>Опір випарника: 0.8 / 1.0 Ом</li> <li>Потужність: 16 Вт</li> <li>Об’єм акумулятора: 800 мАг</li> <li>Заправка: бічна</li> <li>Регулювання тяги: відсутнє</li> <li>Дисплей: відсутній</li> <li>Кріплення: магнітне</li> <li>Колір: сірий</li> <li>Виробник: Китай</li> <li>Бренд: Lost Vape</li> </ol> <h2>Лінійка POD-систем Lost Vape</h2> <p><img alt="багаторазка Lost vape Ursa Nano S Pod 800" class="img-responsive-left" height="300" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Lost%20vape%20Ursa%20Nano%20S%20Pod%20800/lost-vape-ursa-nano-s-pod-800-1%20(2)-800x800product_popup.webp" width="300">Серія Ursa від Lost Vape включає як базові пристрої, так і просунуті рішення з екранами та налаштуваннями. Електронка Ursa Nano S 800 — найпростіша та найдоступніша модель у цій лінійці.</img></p> <p><strong>Кольори:</strong></p> <ul> <li><a href="https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-lemon-yellow-jeltyiy-s-kartridjem-mnogorazovyiy-pod">Lost vape Ursa Nano S 800 Lemon Yellow</a></li> <li><a href="https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-full-black-chernyiy-s-kartridjem-mnogorazovyiy-pod">Lost vape Ursa Nano S 800 Full Black</a></li> <li><a href="https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-mint-green-sine-zelenyiy-s-kartridjem-mnogorazovyiy-pod">Lost vape Ursa Nano S 800 Mint Green</a></li> <li><a href="https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-violet-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod">Lost vape Ursa Nano S 800 Violet Purple</a></li> <li><a href="https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-baby-blue-goluboy-s-kartridjem-mnogorazovyiy-pod">Lost vape Ursa Nano S Pod 800 Baby Blue</a></li> </ul> <p>Хочете більше налаштувань? Тоді зверніть увагу на інші багаторазові електронні сигарети з лінійки Lost Vape — вони також представлені в нашому каталозі. Якщо вам сподобалась модель підсистеми Ursa Nano S — сірий Stone Grey виглядає особливо строго та універсально, пасує до будь-якого стилю.<br/> Надійний, мінімалістичний і зручний — саме таким і має бути ваш POD. До того ж це досить недорогий под. Сучасна та проста багаторазка, яка підійде кожному.<br/> Електронки Lost Vape Ursa дуже популярні в Україні, тому ніколи не буде проблем з купівлею картриджа для поду.</p> <p> </p> <h2>Переваги та недоліки POD Lost vape Ursa Nano S 800 Stone Grey</h2> <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:100%"> <thead> <tr> <th style="text-align:left">  Переваги</th> <th style="text-align:left">  Недоліки</th> </tr> </thead> <tbody> <tr> <td>  Простота використання — без кнопок і меню</td> <td>  Немає регулювання потужності</td> </tr> <tr> <td>  Оптимальна потужність для сольових рідин</td> <td>  Не підійде для любителів великих хмар пари</td> </tr> <tr> <td>  Зручна бічна заправка</td> <td>  Лише базовий функціонал</td> </tr> <tr> <td>  Легкий і компактний корпус</td> <td> </td> </tr> <tr> <td>  Магнітне кріплення картриджа</td> <td> </td> </tr> </tbody> </table> <h3><img alt="багаторазовий POD Lost vape Ursa Nano S Pod 800" class="img-responsive-right" height="400" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Lost%20vape%20Ursa%20Nano%20S%20Pod%20800/lost-vape-ursa-nano-s-pod-4-800x800product_popup.webp" width="400">Комплектація</img></h3> <ul> <li>Електронна сигарета Lost Vape Ursa Nano S 800 Stone Grey</li> <li>Один картридж</li> <li>Інструкція</li> <li>Упаковка</li> </ul> <p>Додаткові <a href="https://hardsmoke.store/katalog/kartridji-ispariteli/kartridzhi">картриджі для подів</a> також можна замовити окремо, зокрема з різним опором. Купити Lost Vape Ursa Nano S 800 Stone Grey у магазині <a href="https://hardsmoke.store/">HardSmoke</a> — чудове рішення. Ціна низька, а якість — на висоті.</p> <h2>Поширені запитання</h2> <ol> <li><strong>Чи підійде Lost Vape Ursa Nano S 800 Stone Grey для новачків?</strong><br/> Так, це одна з найпростіших і найдоступніших підсистем, ідеально підходить для першого досвіду.</li> <li><strong>З якими рідинами сумісний Pod Lost Vape Ursa Nano S 800 Stone Grey?</strong><br/> Найкраще використовувати рідини для POD-систем на солевому нікотині, особливо із співвідношенням 50/50 PG/VG.</li> <li><strong>З яким опором працює Lost Vape Ursa Nano S 800 Stone Grey?</strong><br/> Картриджі розраховані на 0.8 та 1.0 Ом. Використання іншого опору не передбачене виробником.</li> <li><strong>Де можна замовити Ursa Nano S 800 сірого кольору?</strong><br/> Ви можете купити Ursa Nano S 800 у нашому інтернет-магазині з швидкою доставкою по всій Україні.</li> <li><strong>У які міста здійснюється доставка Lost vape Ursa Nano S 800 Stone Grey?</strong><br/> Ми надсилаємо багаторазові електронні сигарети та іншу продукцію по всій Україні: Київ, Львів, Одеса, Харків, Дніпро, Запоріжжя, Черкаси та інші.</li> </ol> <p>Купити Lost vape Ursa Nano S 800 Stone Grey (Сірий, з картриджем) Багаторазовий POD з доставкою та за вигідними цінами можна в таких містах України, як:<br/> Київ, Дніпро, Львів, Харків, Одеса, Кривий Ріг, Миколаїв, Полтава, Черкаси, Хмельницький, Суми, Житомир, Івано-Франківськ, Рівне, Вінниця, Чернігів, Тернопіль, Кам'янське, Бровари, Біла Церква, Павлоград, Ірпінь, Бориспіль, Вишневе, Обухів, Новомосковськ, Фастів, Нікополь, Ужгород, Луцьк, Кропивницький, Южноукраїнськ, Коломия, Кременчук, Олександрія, Червоноград, Переяслав, Вишгород.</p>]]></description>
 </offer>
-<offer id="23328" available="true">
+<offer id="23328" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-violet-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>364</price>
 <currencyId>UAH</currencyId>
@@ -132008,7 +132008,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS PRO 1200 Purple (Фіолетовий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24615" available="true">
+<offer id="24615" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-pro-1200-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>762</price>
 <currencyId>UAH</currencyId>
@@ -134440,7 +134440,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Vinci SE2 900 Crystal Pink (Рожевий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26044" available="true">
+<offer id="26044" available="false">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-emerald-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>276</price>
 <currencyId>UAH</currencyId>
@@ -134488,7 +134488,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Vinci SE2 900 Jet Black (Чорний, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26043" available="true">
+<offer id="26043" available="false">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-steel-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>276</price>
 <currencyId>UAH</currencyId>
