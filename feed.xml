@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-27 02:22">
+<yml_catalog date="2026-01-27 11:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -54646,7 +54646,7 @@
 <img alt="Рідина Alchemist Salt Vanilla Tobacco (Тютюн Ваніль, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19364-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19382" available="true">
+<offer id="19382" available="false">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-vanilla-tobacco-tabak-vanil-50-mg-30-ml</url>
 <price>172</price>
 <currencyId>UAH</currencyId>
@@ -86119,7 +86119,7 @@
 <img alt="Рідина Elfliq Blueberry Rose Mint (Чорниця Троянда М'ята, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26373-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26209" available="true">
+<offer id="26209" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-rose-mint-chernika-roza-myata-50-mg-30-ml</url>
 <price>190</price>
 <currencyId>UAH</currencyId>
@@ -121304,7 +121304,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 2000 Mango Peach Watermelon (Манго Персик Кавун) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="9008" available="true">
+<offer id="9008" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-pineapple-ice-ananas-led-2000-zatyajek</url>
 <price>314</price>
 <currencyId>UAH</currencyId>
