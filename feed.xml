@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-05 16:22">
+<yml_catalog date="2026-02-05 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -30767,7 +30767,7 @@
 <img alt="Набір для самозамішування Get High Citrus Burst (Цитрус Берст, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26587-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26588" available="false">
+<offer id="26588" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-coffee-break-kofe-breyk-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -30807,7 +30807,7 @@
 <img alt="Набір для самозамішування Get High Coffee Break (Кава Брейк, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26588-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24060" available="false">
+<offer id="24060" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-cola-loca-kola-loka-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -31887,7 +31887,7 @@
 <img alt="Набір для самозамішування Get High Strawberry Booster (Стравберрі Бустер, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24084-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24085" available="false">
+<offer id="24085" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-strawberry-wave-stravberri-veyv-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -32047,7 +32047,7 @@
 <img alt="Набір для самозамішування Get High Summer Trio (Саммер Тріо, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24088-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24089" available="false">
+<offer id="24089" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-sunny-cake-sanni-keyk-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
