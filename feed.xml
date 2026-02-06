@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-06 13:22">
+<yml_catalog date="2026-02-06 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -33207,7 +33207,7 @@
 <img alt="Набір для самозамішування Hype Kit Apple (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25806-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21714" available="false">
+<offer id="21714" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-apple-yabloko-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -33367,7 +33367,7 @@
 <img alt="Набір для самозамішування Hype Kit Blueberry (Чорниця, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25807-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21715" available="false">
+<offer id="21715" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-blueberry-chernika-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -33607,7 +33607,7 @@
 <img alt="Набір для самозамішування Hype Kit Cherry (Вишня, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25808-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21716" available="false">
+<offer id="21716" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-cherry-vishnya-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -33847,7 +33847,7 @@
 <img alt="Набір для самозамішування Hype Kit Cookie (Печиво, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25811-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21719" available="false">
+<offer id="21719" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-cookie-pechene-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -34047,7 +34047,7 @@
 <img alt="Набір для самозамішування Hype Kit Lemon Mint (Лимон М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25812-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21720" available="false">
+<offer id="21720" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-lemon-mint-limon-myata-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -34967,7 +34967,7 @@
 <img alt="Набір для самозамішування Hype Kit Pineapple (Ананас, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25822-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21730" available="false">
+<offer id="21730" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-pineapple-ananas-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -35567,7 +35567,7 @@
 <img alt="Набір для самозамішування Hype Kit Tropic (Тропік, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25827-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21735" available="false">
+<offer id="21735" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-tropic-tropik-50-mg-30-ml</url>
 <price>161</price>
 <currencyId>UAH</currencyId>
@@ -52206,7 +52206,7 @@
 <img alt="Рідина Alchemist Salt Cactus Basil (Кактус Базилік, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21850-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21864" available="true">
+<offer id="21864" available="false">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-cactus-basil-kaktus-bazilik-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -124300,7 +124300,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Raspberry Pomegranate (Малина Гранат) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26840" available="true">
+<offer id="26840" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-sour-strawberry-grape-kislaya-klubnika-vinograd-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
