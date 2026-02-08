@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-08 13:22">
+<yml_catalog date="2026-02-08 14:24">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -81119,7 +81119,7 @@
 <img alt="Рідина Eight by Katana Honey Whiskey (Медовий Віскі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20200-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19160" available="true">
+<offer id="19160" available="false">
 <url>https://hardsmoke.store/jidkost-eight-by-katana-honey-whiskey-medovyiy-viski-50mg-50ml</url>
 <price>101</price>
 <currencyId>UAH</currencyId>
