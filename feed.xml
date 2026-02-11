@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-10 22:22">
+<yml_catalog date="2026-02-11 11:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -1220,7 +1220,7 @@
 <img alt="Набір для самозамішування Chaser Жовта Черешня Ultra (65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26534-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26349" available="true">
+<offer id="26349" available="false">
 <url>https://hardsmoke.store/samozames-chaser-jeltyiy-dragonfrut-ultra-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -2097,7 +2097,7 @@
 <img alt="Набір для самозамішування Chaser Berries Ultra (Ягоди, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23287-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21573" available="true">
+<offer id="21573" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-berries-balance-yagodyi-50-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -2217,7 +2217,7 @@
 <img alt="Набір для самозамішування Chaser Berries Ultra (Ягоди, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25483-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22129" available="true">
+<offer id="22129" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-bali-triple-shot-balance-bali-tripl-shot-50-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -3137,7 +3137,7 @@
 <name>Набір для самозамішування Chaser Black Kiwi Wild Strawberry Ultra (Ківі Суниця, 65 мг, 30 мл)</name>
 <description><![CDATA[<div class="additional_description">ВАЖЛИВО: Цей товар - не готова рідина для електронних сигарет, а набір ароматизаторів для самостійного приготування сумішей або "самозамісу". Інструкції зі змішування доступні <a href="/blogs/zhidkosti-blog/kak-sdelat-zhidkost-dlya-elektronnoj-sigarety">тут</a></div>]]></description>
 </offer>
-<offer id="22139" available="true">
+<offer id="22139" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-lemon-mint-balance-limon-myata-50-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -3813,7 +3813,7 @@
 <name>Набір для самозамішування Chaser Black Watermelon Lemon Ultra (Кавун Лимон, 65 мг, 30 мл)</name>
 <description><![CDATA[<div class="additional_description">ВАЖЛИВО: Цей товар - не готова рідина для електронних сигарет, а набір ароматизаторів для самостійного приготування сумішей або "самозамісу". Інструкції зі змішування доступні <a href="/blogs/zhidkosti-blog/kak-sdelat-zhidkost-dlya-elektronnoj-sigarety">тут</a></div>]]></description>
 </offer>
-<offer id="26353" available="true">
+<offer id="26353" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-wild-strawberry-mint-ultra-zemlyanika-myata-50-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -3853,7 +3853,7 @@
 <img alt="Набір для самозамішування Chaser Black Wild Strawberry Mint Ultra (Суниця М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26353-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26544" available="true">
+<offer id="26544" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-wild-strawberry-mint-ultra-zemlyanika-myata-65-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -4253,7 +4253,7 @@
 <img alt="Набір для самозамішування Chaser Blue Raspberry Ultra (Чорниця Малина, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25485-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23290" available="true">
+<offer id="23290" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -4610,7 +4610,7 @@
 <img alt="Набір для самозамішування Chaser Cherry Menthol Ultra (Вишня Ментол, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23292-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21564" available="true">
+<offer id="21564" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-menthol-balance-vishnya-mentol-50-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -5090,7 +5090,7 @@
 <img alt="Набір для самозамішування Chaser Grape Ultra (Виноград, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25489-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26926" available="true">
+<offer id="26926" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grapefruit-ultra-greypfrut-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -8157,7 +8157,7 @@
 <img alt="Набір для самозамішування Chaser Lux Watermelon Raspberry Ultra (Кавун Малина, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22163-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26929" available="true">
+<offer id="26929" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lychee-ultra-lichi-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -8633,7 +8633,7 @@
 <img alt="Набір для самозамішування Chaser Mint Ultra (М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22227-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25494" available="true">
+<offer id="25494" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-65-mg-30-ml</url>
 <price>152</price>
 <currencyId>UAH</currencyId>
@@ -45407,7 +45407,7 @@
 <img alt="Набір для самозамішування Punch Tropical Lemonade (Апельсин Маракуя Холод, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25411-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="27239" available="true">
+<offer id="27239" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-tutti-frutti-tutti-frutti-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -51966,7 +51966,7 @@
 <img alt="Рідина 420 Liquid Ягідний морс (50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24969-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20901" available="true">
+<offer id="20901" available="false">
 <url>https://hardsmoke.store/jidkost-420-liquid-yagodnyiy-mors-50-mg-30-ml</url>
 <price>135</price>
 <currencyId>UAH</currencyId>
@@ -52046,7 +52046,7 @@
 <img alt="Рідина Alchemist Salt Blue Razz (Блю Разз, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21849-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21863" available="true">
+<offer id="21863" available="false">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-blue-razz-blyu-razz-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -54286,7 +54286,7 @@
 <img alt="Рідина Alchemist Salt Rich Apple (Річ Епл, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9421-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19380" available="true">
+<offer id="19380" available="false">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-rich-apple-rich-epl-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -89638,7 +89638,7 @@
  <img alt="Рідина Flip salt APPLE (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18163-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19587" available="true">
+<offer id="19587" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-apple-yabloko-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -89798,7 +89798,7 @@
  <img alt="Рідина Flip salt BANANA (Банан, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18164-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19588" available="true">
+<offer id="19588" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-banana-banan-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -90198,7 +90198,7 @@
  <img alt="Рідина Flip salt COLD KIWI (Крижана Ківі, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18166-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19590" available="true">
+<offer id="19590" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-cold-kiwi-ledyanoy-kivi-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -90358,7 +90358,7 @@
  <img alt="Рідина Flip salt COLD LEMON (Крижаний Лимон, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18167-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19591" available="true">
+<offer id="19591" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-cold-lemon-ledyanoy-limon-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -91638,7 +91638,7 @@
  <img alt="Рідина Flip salt Red Grape (Червоний Виноград, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21659-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="20322" available="true">
+<offer id="20322" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-red-grape-krasnyiy-vinograd-50-mg-30-ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -108798,7 +108798,7 @@
 <img alt="Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26086-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26089" available="true">
+<offer id="26089" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-coffee-tobacco-kofe-tabak-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -120490,7 +120490,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Pink Lemonade (Рожевий Лимонад) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="9075" available="true">
+<offer id="9075" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-siberian-forest-hvoya-1500-zatyajek</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -121586,7 +121586,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar ВС4000 Avocado Cream (Авокадо Вершки) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="20315" available="true">
+<offer id="20315" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-cola-kola-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -123226,7 +123226,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Ice King 30000 Watermelon Ice (Кавун Льод) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7945" available="true">
+<offer id="7945" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-banana-ice-ledyanoy-banan-1500-zatyajek</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -124124,7 +124124,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Strawberry Watermelon (Полуниця Кавун) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26900" available="true">
+<offer id="26900" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-vmt-vmt-odnorazovyiy-pod</url>
 <price>448</price>
 <currencyId>UAH</currencyId>
@@ -131004,7 +131004,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 4 1000 Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="24618" available="true">
+<offer id="24618" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-4-1000-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>691</price>
 <currencyId>UAH</currencyId>
@@ -134536,7 +134536,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Vinci SE 900 Whale Fall Blue (Голубий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26045" available="true">
+<offer id="26045" available="false">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-crystal-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>272</price>
 <currencyId>UAH</currencyId>
