@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11 16:25">
+<yml_catalog date="2026-02-11 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -6522,7 +6522,7 @@
 <img alt="Набір для самозамішування Chaser Lux Coconut Melon (Кокос Лимон, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25469-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22151" available="true">
+<offer id="22151" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-coconut-melon-balance-kokos-limon-50-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
@@ -123948,7 +123948,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26890" available="true">
+<offer id="26890" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-kiwi-pineapple-ice-kivi-ananas-led-odnorazovyiy-pod</url>
 <price>448</price>
 <currencyId>UAH</currencyId>
@@ -135392,7 +135392,7 @@
 <vendorCode>hd901165</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Лохина Ментол</name>
 </offer>
-<offer id="hd901187" available="true">
+<offer id="hd901187" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135469,7 +135469,7 @@
 <vendorCode>hd901159</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Кисле Яблуко</name>
 </offer>
-<offer id="hd901181" available="true">
+<offer id="hd901181" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135546,7 +135546,7 @@
 <vendorCode>hd901155</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Блакитна Малина Лід</name>
 </offer>
-<offer id="hd901177" available="true">
+<offer id="hd901177" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135623,7 +135623,7 @@
 <vendorCode>hd901156</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Вишня Лимон Персик</name>
 </offer>
-<offer id="hd901178" available="true">
+<offer id="hd901178" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135700,7 +135700,7 @@
 <vendorCode>hd901157</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Кавун Лимон</name>
 </offer>
-<offer id="hd901179" available="true">
+<offer id="hd901179" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135777,7 +135777,7 @@
 <vendorCode>hd901158</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Кавуновий Сорбет</name>
 </offer>
-<offer id="hd901180" available="true">
+<offer id="hd901180" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135854,7 +135854,7 @@
 <vendorCode>hd901160</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Ківі Манго Пітайя</name>
 </offer>
-<offer id="hd901182" available="true">
+<offer id="hd901182" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -135931,7 +135931,7 @@
 <vendorCode>hd901161</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Класична Кола</name>
 </offer>
-<offer id="hd901183" available="true">
+<offer id="hd901183" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136008,7 +136008,7 @@
 <vendorCode>hd901162</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Кокос Диня</name>
 </offer>
-<offer id="hd901184" available="true">
+<offer id="hd901184" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136085,7 +136085,7 @@
 <vendorCode>hd901163</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Лав66</name>
 </offer>
-<offer id="hd901185" available="true">
+<offer id="hd901185" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136162,7 +136162,7 @@
 <vendorCode>hd901164</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Лимон Лайм</name>
 </offer>
-<offer id="hd901186" available="true">
+<offer id="hd901186" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136239,7 +136239,7 @@
 <vendorCode>hd901166</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Малина Лимон Лід</name>
 </offer>
-<offer id="hd901188" available="true">
+<offer id="hd901188" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136316,7 +136316,7 @@
 <vendorCode>hd901167</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак М&apos;ята</name>
 </offer>
-<offer id="hd901189" available="true">
+<offer id="hd901189" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136393,7 +136393,7 @@
 <vendorCode>hd901168</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Полуниця Вишня Малина</name>
 </offer>
-<offer id="hd901190" available="true">
+<offer id="hd901190" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136470,7 +136470,7 @@
 <vendorCode>hd901169</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Полуничне Морозиво</name>
 </offer>
-<offer id="hd901191" available="true">
+<offer id="hd901191" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136547,7 +136547,7 @@
 <vendorCode>hd901170</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Полуничний Мохіто</name>
 </offer>
-<offer id="hd901192" available="true">
+<offer id="hd901192" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136624,7 +136624,7 @@
 <vendorCode>hd901171</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Пончик</name>
 </offer>
-<offer id="hd901193" available="true">
+<offer id="hd901193" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136701,7 +136701,7 @@
 <vendorCode>hd901172</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Рожевий Лимонад</name>
 </offer>
-<offer id="hd901194" available="true">
+<offer id="hd901194" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136778,7 +136778,7 @@
 <vendorCode>hd901173</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Скіттлс</name>
 </offer>
-<offer id="hd901195" available="true">
+<offer id="hd901195" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136855,7 +136855,7 @@
 <vendorCode>hd901174</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Тропічний Сік</name>
 </offer>
-<offer id="hd901196" available="true">
+<offer id="hd901196" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -136932,7 +136932,7 @@
 <vendorCode>hd901175</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Фрозен Форест</name>
 </offer>
-<offer id="hd901197" available="true">
+<offer id="hd901197" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -137016,7 +137016,7 @@
 <vendorCode>hd901176</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Violet Purple (Фіолетовий) та Рідина 420 смак Ягідний Морс</name>
 </offer>
-<offer id="hd901198" available="true">
+<offer id="hd901198" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
