@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-16 16:22">
+<yml_catalog date="2026-02-16 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -4413,7 +4413,7 @@
 <img alt="Набір для самозамішування Chaser Blueberry Menthol Ultra (Чорниця Ментол, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25486-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26927" available="true">
+<offer id="26927" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cactus-ultra-kaktus-50-mg-10-ml</url>
 <price>77</price>
 <currencyId>UAH</currencyId>
@@ -8117,7 +8117,7 @@
 <img alt="Набір для самозамішування Chaser Lux Watermelon Raspberry (Кавун Малина, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25480-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22163" available="true">
+<offer id="22163" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-watermelon-raspberry-balance-arbuz-malina-50-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
@@ -25167,7 +25167,7 @@
 <img alt="Набір для самозамішування Flavorlab M-Cake Lemon Pie (Лимонний пиріг, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24554-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24555" available="true">
+<offer id="24555" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-cake-raspberry-cheesecake-malinovyiy-chizkeyk-50-mg-30-ml</url>
 <price>112</price>
 <currencyId>UAH</currencyId>
@@ -31607,7 +31607,7 @@
 <img alt="Набір для самозамішування Get High Pineapple Dream (Пайнепп Дрім, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24078-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24079" available="true">
+<offer id="24079" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-pink-clouds-pink-klauds-50-mg-30-ml</url>
 <price>169</price>
 <currencyId>UAH</currencyId>
@@ -39647,7 +39647,7 @@
 <img alt="Набір для самозамішування Juni Watermelon Lemon (Кавун Лимон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23221-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23069" available="true">
+<offer id="23069" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-apple-yabloko-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -40047,7 +40047,7 @@
 <img alt="Набір для самозамішування Lucky Blueberry Lemonade (Чорничний лимонад, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25746-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23074" available="true">
+<offer id="23074" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -47567,7 +47567,7 @@
 <img alt="Набір для самозамішування Turbo Turbo Energy (Енергетик Ківі-Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23823-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22008" available="false">
+<offer id="22008" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-twisted-salt-applepear-eplpir-50-mg-30-ml</url>
 <price>121</price>
 <currencyId>UAH</currencyId>
@@ -47607,7 +47607,7 @@
 <img alt="Набір для самозамішування Twisted salt Applepear (Еплпір, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22008-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22009" available="false">
+<offer id="22009" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-twisted-salt-berryland-berrilend-50-mg-30-ml</url>
 <price>121</price>
 <currencyId>UAH</currencyId>
@@ -50926,7 +50926,7 @@
 <img alt="Рідина 420 Liquid Кокос диня (50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24977-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20909" available="true">
+<offer id="20909" available="false">
 <url>https://hardsmoke.store/jidkost-420-liquid-kokos-dyinya-50-mg-30-ml</url>
 <price>135</price>
 <currencyId>UAH</currencyId>
@@ -51006,7 +51006,7 @@
 <img alt="Рідина 420 Liquid Лав66 (50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24978-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24961" available="true">
+<offer id="24961" available="false">
 <url>https://hardsmoke.store/jidkost-420-liquid-lav66-50-mg-30-ml</url>
 <price>135</price>
 <currencyId>UAH</currencyId>
@@ -51206,7 +51206,7 @@
 <img alt="Рідина 420 Liquid Лохина Ментол (50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26174-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24974" available="true">
+<offer id="24974" available="false">
 <url>https://hardsmoke.store/jidkost-420-liquid-myata-50-mg-10-ml</url>
 <price>68</price>
 <currencyId>UAH</currencyId>
@@ -51366,7 +51366,7 @@
 <img alt="Рідина 420 Liquid Полуниця Вишня Малина (50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26171-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24975" available="true">
+<offer id="24975" available="false">
 <url>https://hardsmoke.store/jidkost-420-liquid-klubnichnoe-morojenoe-50-mg-10-ml</url>
 <price>68</price>
 <currencyId>UAH</currencyId>
@@ -89638,7 +89638,7 @@
  <img alt="Рідина Flip salt APPLE (Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18163-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19587" available="false">
+<offer id="19587" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-apple-yabloko-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -89798,7 +89798,7 @@
  <img alt="Рідина Flip salt BANANA (Банан, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18164-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19588" available="false">
+<offer id="19588" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-banana-banan-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -90198,7 +90198,7 @@
  <img alt="Рідина Flip salt COLD KIWI (Крижана Ківі, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18166-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19590" available="false">
+<offer id="19590" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-cold-kiwi-ledyanoy-kivi-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -90358,7 +90358,7 @@
  <img alt="Рідина Flip salt COLD LEMON (Крижаний Лимон, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18167-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19591" available="false">
+<offer id="19591" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-cold-lemon-ledyanoy-limon-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -91158,7 +91158,7 @@
  <img alt="Рідина Flip salt Melon (Диня, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21660-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="21663" available="false">
+<offer id="21663" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-melon-dyinya-50-mg-30-ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -91478,7 +91478,7 @@
  <img alt="Рідина Flip salt PEACH (Персик, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/18171-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19595" available="false">
+<offer id="19595" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-peach-persik-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -91638,7 +91638,7 @@
  <img alt="Рідина Flip salt Red Grape (Червоний Виноград, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21659-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="20322" available="false">
+<offer id="20322" available="true">
 <url>https://hardsmoke.store/jidkost-flip-salt-red-grape-krasnyiy-vinograd-50-mg-30-ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -108518,7 +108518,7 @@
 <img alt="Рідина Nectar Bubblegum (Баблгам, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23276-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22701" available="true">
+<offer id="22701" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-bubblegum-bablgam-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -109158,7 +109158,7 @@
 <img alt="Рідина Nectar Energy (Енергетик, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24015-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22811" available="true">
+<offer id="22811" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-energy-energetik-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -109638,7 +109638,7 @@
 <img alt="Рідина Nectar Lemon mint (Лимон М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23273-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22698" available="true">
+<offer id="22698" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-lemon-mint-limon-myata-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -111678,7 +111678,7 @@
 <img alt="Рідина Twisted salt Coconut Cookie (Кокосове печиво, 25 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25867-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20232" available="false">
+<offer id="20232" available="true">
 <url>https://hardsmoke.store/jidkost-twisted-salt-coconut-cookie-kokosovoe-pechene-50-mg-30-ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
@@ -119158,7 +119158,7 @@
 <img alt="Стрічка для POD із силіконовим кільцем Personalka Bananas (Біло-жовтий)" src="https://hardsmoke.store/image/cache/catalog/exist/26652-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26653" available="false">
+<offer id="26653" available="true">
 <url>https://hardsmoke.store/lenta-dlya-pod-s-silikonovyim-koltsom-personalka-black-chernyiy</url>
 <price>60</price>
 <currencyId>UAH</currencyId>
