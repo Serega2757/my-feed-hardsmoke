@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-18 13:22">
+<yml_catalog date="2026-02-18 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -39767,7 +39767,7 @@
 <img alt="Набір для самозамішування Juni Watermelon Lemon (Кавун Лимон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23221-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23069" available="false">
+<offer id="23069" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-apple-yabloko-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -39807,7 +39807,7 @@
 <img alt="Набір для самозамішування Lucky Apple (Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23069-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25742" available="false">
+<offer id="25742" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-apple-yabloko-65-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -40167,7 +40167,7 @@
 <img alt="Набір для самозамішування Lucky Blueberry Lemonade (Чорничний лимонад, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25746-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23074" available="false">
+<offer id="23074" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -40247,7 +40247,7 @@
 <img alt="Набір для самозамішування Lucky Cactus Guava Kiwi (Кактус Гуава Ківі, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25747-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25927" available="false">
+<offer id="25927" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cherry-lemonade-vishnya-limonad-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
@@ -40607,7 +40607,7 @@
 <img alt="Набір для самозамішування Lucky Elderflowers Lemonade (Бузина Лимонад, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25929-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23077" available="false">
+<offer id="23077" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-gold-kiwi-strawberry-kivi-klubnika-50-mg-30-ml</url>
 <price>176</price>
 <currencyId>UAH</currencyId>
