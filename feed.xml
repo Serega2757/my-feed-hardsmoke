@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-22 14:22">
+<yml_catalog date="2026-02-22 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -20,7 +20,7 @@
 <category id="10">Комплекти</category>
 </categories>
 <offers>
-<offer id="21541" available="true">
+<offer id="21541" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-bluerazz-blyurazz-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -60,7 +60,7 @@
 <img alt="Набір для самозамішування Alchemist Salt BlueRazz (БлюРазз, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21541-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21542" available="true">
+<offer id="21542" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-cactus-basil-kaktus-bazilik-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -100,7 +100,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Cactus&amp;Basil (Кактус Базилік, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21542-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21543" available="true">
+<offer id="21543" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-cranapple-klyukva-yabloko-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -140,7 +140,7 @@
 <img alt="Набір для самозамішування Alchemist Salt CranApple (Журавлина Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21543-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21544" available="true">
+<offer id="21544" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-cubanabanana-kubana-banana-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -180,7 +180,7 @@
 <img alt="Набір для самозамішування Alchemist Salt CubanaBanana (Кубана Банана, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21544-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21555" available="true">
+<offer id="21555" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-fl-cosmopolitan-kosmopolitan-50-mg-30-ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -220,7 +220,7 @@
 <img alt="Набір для самозамішування Alchemist Salt FL Cosmopolitan (Космополітан, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21555-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21556" available="true">
+<offer id="21556" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-fl-daiquiri-daykiri-50-mg-30-ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -260,7 +260,7 @@
 <img alt="Набір для самозамішування Alchemist Salt FL Daiquiri (Дайкірі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21556-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21557" available="true">
+<offer id="21557" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-fl-easy-peasy-izi-pizi-50-mg-30-ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -300,7 +300,7 @@
 <img alt="Набір для самозамішування Alchemist Salt FL Easy-Peasy (Ізі-Пізі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21557-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21558" available="true">
+<offer id="21558" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-fl-mojo-modjo-50-mg-30-ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -340,7 +340,7 @@
 <img alt="Набір для самозамішування Alchemist Salt FL Mojo (Моджо, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21558-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21545" available="true">
+<offer id="21545" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-frappuccino-frapuchchino-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -380,7 +380,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Frappuccino (Фрапуччино, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21545-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21546" available="true">
+<offer id="21546" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-grapefruit-greypfrut-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -420,7 +420,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Grapefruit (Грейпфрут, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21546-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21547" available="true">
+<offer id="21547" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-iceberg-mango-mango-led-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -460,7 +460,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Iceberg Mango (Манго Лід, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21547-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21548" available="true">
+<offer id="21548" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-marshmellow-marshmellou-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -500,7 +500,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Marshmellow (Маршмеллоу, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21548-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21549" available="true">
+<offer id="21549" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-pitaya-peach-pitayya-persik-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -540,7 +540,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Pitaya Peach (Пітайя Персик, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21549-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21550" available="true">
+<offer id="21550" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-rasp-basil-malina-bazilik-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -580,7 +580,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Rasp&amp;Basil (Малина Базилік, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21550-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21551" available="true">
+<offer id="21551" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-rich-apple-rich-epl-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -620,7 +620,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Rich Apple (Річ Епл, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21551-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21552" available="true">
+<offer id="21552" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-spearmint-myata-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
@@ -660,7 +660,7 @@
 <img alt="Набір для самозамішування Alchemist Salt Spearmint (М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21552-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21553" available="true">
+<offer id="21553" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-alchemist-salt-vanilla-tobacco-tabak-vanil-50-mg-30-ml</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
