@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-25 12:22">
+<yml_catalog date="2026-02-25 13:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -60925,7 +60925,7 @@
 <img alt="Рідина Chaser Berries Ice Plus (Ягоди Лід, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19923-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19916" available="false">
+<offer id="19916" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-berries-ice-plus-yagodyi-led-50mg-30ml</url>
 <price>148</price>
 <currencyId>UAH</currencyId>
@@ -123960,7 +123960,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Strawberry Kiwi (Полуниця Ківі) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="22706" available="true">
+<offer id="22706" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-strawberry-raspberry-cherry-ice-klubnika-malina-vishnya-led-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
