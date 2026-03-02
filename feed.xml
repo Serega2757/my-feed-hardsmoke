@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-02 18:23">
+<yml_catalog date="2026-03-02 19:23">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -115496,7 +115496,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar LUX 1500 Grape Energy (Виноград Енергетик) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7943" available="true">
+<offer id="7943" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-kiwi-passion-fruit-guava-kivi-marakuyya-guava-1500-zatyajek</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -142836,33 +142836,30 @@
 </offer>
 <offer id="21281" available="false">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-017-kg-12-sht-r25</url>
-<price>133</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/21281-800x800.png</picture>
 <vendorCode>hd21281</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (0,17 кг, 12 шт, р25)</name>
-<description><![CDATA[133]]></description>
 </offer>
 <offer id="19184" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-0-5kg-36sht-r25-bez-korobki</url>
-<price>133</price>
+<price>68</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/19184-800x800.png</picture>
 <vendorCode>hd19184</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (0,5 кг, 36 шт, р25, без коробки)</name>
-<description><![CDATA[133]]></description>
 </offer>
 <offer id="22649" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-1-kg-72-sht-r26-bez-korobki</url>
-<price>139</price>
+<price>121</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/22649-800x800.png</picture>
 <vendorCode>hd22649</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (1 кг, 64 шт, р26, без коробки)</name>
-<description><![CDATA[139]]></description>
 </offer>
 <offer id="22648" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-1-kg-72-sht-r26</url>
@@ -142872,17 +142869,15 @@
 <picture>https://hardsmoke.life/image/cache/catalog/exist/22648-800x800.png</picture>
 <vendorCode>hd22648</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (1 кг, 64 шт, р26)</name>
-<description><![CDATA[139]]></description>
 </offer>
 <offer id="19183" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-1kg-72sht-r25-bez-korobki</url>
-<price>133</price>
+<price>121</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/19183-800x800.png</picture>
 <vendorCode>hd19183</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (1 кг, 72 шт, р25, без коробки)</name>
-<description><![CDATA[133]]></description>
 </offer>
 <offer id="19182" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-1kg-72sht-r25</url>
@@ -142892,17 +142887,15 @@
 <picture>https://hardsmoke.life/image/cache/catalog/exist/19182-800x800.png</picture>
 <vendorCode>hd19182</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (1 кг, 72 шт, р25)</name>
-<description><![CDATA[133]]></description>
 </offer>
 <offer id="22841" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-1-kg-72-sht-segment</url>
-<price>139</price>
+<price>133</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/22841-800x800.png</picture>
 <vendorCode>hd22841</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (1 кг, 72 шт, сегмент)</name>
-<description><![CDATA[139]]></description>
 </offer>
 <offer id="21283" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-kaloud-05-kg-36-sht-segment</url>
@@ -143000,7 +142993,7 @@
 </offer>
 <offer id="9849" available="false">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-mind-0-5-kg-36-sht-r25-bez-korobki</url>
-<price>153</price>
+<price>84</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/9849-800x800.png</picture>
@@ -143141,7 +143134,7 @@
 </offer>
 <offer id="19686" available="false">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-mind-1kg-72sht-r25</url>
-<price>153</price>
+<price>172</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/19686-800x800.png</picture>
@@ -143186,7 +143179,7 @@
 <img alt="Горіхове вугілля для кальяну Mind (1 кг, 72 шт, р25)" src="https://hardsmoke.store/image/cache/catalog/exist/19686-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22606" available="false">
+<offer id="22606" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-mind-air-gap-05-kg-36-sht-r25-bez-korobki</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -143517,7 +143510,7 @@
 </offer>
 <offer id="27199" available="true">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-caliber-1-kg-72-sht-r25</url>
-<price>174</price>
+<price>185</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/27199-800x800.png</picture>
@@ -143846,7 +143839,7 @@
 </offer>
 <offer id="9470" available="false">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-eskobar-1-kg-72-sht-r25</url>
-<price>171</price>
+<price>180</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/9470-800x800.png</picture>
@@ -143940,7 +143933,7 @@
 </offer>
 <offer id="25353" available="true">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-ignis-1-kg-72-sht-r25</url>
-<price>154</price>
+<price>158</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/25353-800x800.png</picture>
@@ -143987,7 +143980,7 @@
 </offer>
 <offer id="26752" available="true">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-lagom-1-kg-60-sht-r25x30</url>
-<price>139</price>
+<price>136</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/26752-800x800.png</picture>
@@ -144081,7 +144074,7 @@
 </offer>
 <offer id="25351" available="true">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-lavart-1-kg-72-sht-r25-bez-korobki</url>
-<price>172</price>
+<price>155</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/25351-800x800.png</picture>
@@ -144359,7 +144352,7 @@
 </offer>
 <offer id="8874" available="false">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-phoenix-0-25-kg-18-sht-r25-bez-korobki</url>
-<price>190</price>
+<price>47</price>
 <currencyId>UAH</currencyId>
 <categoryId>6</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/8874-800x800.png</picture>
