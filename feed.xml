@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03 11:22">
+<yml_catalog date="2026-03-03 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -63321,7 +63321,7 @@
 <img alt="Рідина Alchemist Salt Pitaya Peach (Пітайя Персик, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21857-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21871" available="true">
+<offer id="21871" available="false">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-pitaya-peach-pitayya-persik-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -68241,7 +68241,7 @@
 <img alt="Рідина Chaser Cherry Menthol Ultra (Вишня Ментол, 50мг, 30мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21538-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20809" available="true">
+<offer id="20809" available="false">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-balance-vishnya-50-mg-30-ml</url>
 <price>148</price>
 <currencyId>UAH</currencyId>
@@ -123994,7 +123994,7 @@
 </offer>
 <offer id="27000" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27000-800x800.png</picture>
@@ -124010,7 +124010,7 @@
 </offer>
 <offer id="24841" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-ancient-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24841-800x800.png</picture>
@@ -124020,7 +124020,7 @@
 </offer>
 <offer id="21802" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-aurora-oranjevo-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21802-800x800.png</picture>
@@ -124030,7 +124030,7 @@
 </offer>
 <offer id="20724" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-black-chernyiy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20724-800x800.png</picture>
@@ -124040,7 +124040,7 @@
 </offer>
 <offer id="24842" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-bronze-gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24842-800x800.png</picture>
@@ -124050,7 +124050,7 @@
 </offer>
 <offer id="21796" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-cherry-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21796-800x800.png</picture>
@@ -124060,7 +124060,7 @@
 </offer>
 <offer id="20725" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-zelenyiy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20725-800x800.png</picture>
@@ -124070,7 +124070,7 @@
 </offer>
 <offer id="21799" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-gold-zolotoy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21799-800x800.png</picture>
@@ -124080,7 +124080,7 @@
 </offer>
 <offer id="20729" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-grape-purple-fioletovyiy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20729-800x800.png</picture>
@@ -124090,7 +124090,7 @@
 </offer>
 <offer id="21797" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-lime-green-sine-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21797-800x800.png</picture>
@@ -124100,7 +124100,7 @@
 </offer>
 <offer id="20728" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-midnight-blue-siniy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20728-800x800.png</picture>
@@ -124110,7 +124110,7 @@
 </offer>
 <offer id="21803" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-neon-rozovo-fioletovyiy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21803-800x800.png</picture>
@@ -124120,7 +124120,7 @@
 </offer>
 <offer id="21798" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-orange-red-oranjevo-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21798-800x800.png</picture>
@@ -124130,7 +124130,7 @@
 </offer>
 <offer id="20726" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-sakura-pink-rozovyiy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20726-800x800.png</picture>
@@ -124140,7 +124140,7 @@
 </offer>
 <offer id="21801" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-sierra-blue-biryuzovyiy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21801-800x800.png</picture>
@@ -124150,7 +124150,7 @@
 </offer>
 <offer id="20723" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-silver-serebristyiy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20723-800x800.png</picture>
@@ -124160,7 +124160,7 @@
 </offer>
 <offer id="20727" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-space-grey-temno-seryiy-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20727-800x800.png</picture>
@@ -124170,7 +124170,7 @@
 </offer>
 <offer id="21800" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-violet-fioletovyiy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21800-800x800.png</picture>
@@ -124180,7 +124180,7 @@
 </offer>
 <offer id="22919" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-mini-kit-1000-vitality-zelenyiy-s-kartridjem-08-om-mnogorazovyiy-pod</url>
-<price>482</price>
+<price>358</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22919-800x800.png</picture>
@@ -124916,7 +124916,7 @@
 </offer>
 <offer id="27032" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27032-800x800.png</picture>
@@ -124932,7 +124932,7 @@
 </offer>
 <offer id="27285" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-aurora-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27285-800x800.png</picture>
@@ -124948,7 +124948,7 @@
 </offer>
 <offer id="27286" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-aurora-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27286-800x800.png</picture>
@@ -124964,7 +124964,7 @@
 </offer>
 <offer id="27621" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-carbon-fiber-chernyiy-karbon-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27621-400x400.png</picture>
@@ -124980,7 +124980,7 @@
 </offer>
 <offer id="27287" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-diamond-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27287-800x800.png</picture>
@@ -124996,7 +124996,7 @@
 </offer>
 <offer id="27288" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-diamond-white-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27288-800x800.png</picture>
@@ -125012,7 +125012,7 @@
 </offer>
 <offer id="27024" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-midnight-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27024-800x800.png</picture>
@@ -125028,7 +125028,7 @@
 </offer>
 <offer id="27025" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-moss-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27025-800x800.png</picture>
@@ -125044,7 +125044,7 @@
 </offer>
 <offer id="27026" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-pearl-white-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27026-800x800.png</picture>
@@ -125060,7 +125060,7 @@
 </offer>
 <offer id="27289" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-snow-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27289-800x800.png</picture>
@@ -125076,7 +125076,7 @@
 </offer>
 <offer id="27027" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-space-gray-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>502</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27027-800x800.png</picture>
@@ -125650,7 +125650,7 @@
 </offer>
 <offer id="27629" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-black-leather-chernyiy-s-uzorom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27629-400x400.png</picture>
@@ -125666,7 +125666,7 @@
 </offer>
 <offer id="27628" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-black-limited-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27628-400x400.png</picture>
@@ -125682,7 +125682,7 @@
 </offer>
 <offer id="27632" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-blue-leather-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27632-400x400.png</picture>
@@ -125698,7 +125698,7 @@
 </offer>
 <offer id="27634" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-brown-leather-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27634-400x400.png</picture>
@@ -125714,7 +125714,7 @@
 </offer>
 <offer id="27630" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-grey-leather-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27630-400x400.png</picture>
@@ -125730,7 +125730,7 @@
 </offer>
 <offer id="27633" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-red-leather-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27633-400x400.png</picture>
@@ -125746,7 +125746,7 @@
 </offer>
 <offer id="27631" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-silver-leather-metallik-s-belyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27631-400x400.png</picture>
@@ -125762,7 +125762,7 @@
 </offer>
 <offer id="22073" available="false">
 <url>https://hardsmoke.store/voopoo-argus-pod-800-brown-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/22073-800x800product_popup.webp</picture>
@@ -125772,7 +125772,7 @@
 </offer>
 <offer id="22072" available="true">
 <url>https://hardsmoke.store/voopoo-argus-pod-800-carbon-fiber-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22072-800x800.png</picture>
@@ -125788,7 +125788,7 @@
 </offer>
 <offer id="27009" available="true">
 <url>https://hardsmoke.store/voopoo-argus-pod-kit-800-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27009-800x800.png</picture>
@@ -125804,7 +125804,7 @@
 </offer>
 <offer id="20943" available="false">
 <url>https://hardsmoke.store/voopoo-argus-pod-kit-800-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20943-800x800.png</picture>
@@ -125814,7 +125814,7 @@
 </offer>
 <offer id="20944" available="false">
 <url>https://hardsmoke.store/voopoo-argus-pod-kit-800-grey-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20944-800x800.png</picture>
@@ -125824,7 +125824,7 @@
 </offer>
 <offer id="21808" available="false">
 <url>https://hardsmoke.store/voopoo-argus-pod-kit-800-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21808-800x800.png</picture>
@@ -125834,7 +125834,7 @@
 </offer>
 <offer id="20945" available="false">
 <url>https://hardsmoke.store/voopoo-argus-pod-kit-800-sky-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>843</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20945-800x800.png</picture>
@@ -125934,7 +125934,7 @@
 </offer>
 <offer id="22074" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22074-800x800.png</picture>
@@ -125950,7 +125950,7 @@
 </offer>
 <offer id="22077" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-golden-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22077-800x800.png</picture>
@@ -125966,7 +125966,7 @@
 </offer>
 <offer id="22076" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-mint-sliver-myatnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22076-800x800.png</picture>
@@ -125982,7 +125982,7 @@
 </offer>
 <offer id="22075" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-navy-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22075-800x800.png</picture>
@@ -125998,7 +125998,7 @@
 </offer>
 <offer id="22079" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-rose-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22079-800x800.png</picture>
@@ -126014,7 +126014,7 @@
 </offer>
 <offer id="22078" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-ruby-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22078-800x800.png</picture>
@@ -126030,7 +126030,7 @@
 </offer>
 <offer id="22080" available="false">
 <url>https://hardsmoke.store/voopoo-argus-z-900-white-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>773</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22080-800x800.png</picture>
@@ -126046,7 +126046,7 @@
 </offer>
 <offer id="19418" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-800-mach-carbon-fiber-seryiy-s-kartridjem</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19418-800x800.png</picture>
@@ -126056,7 +126056,7 @@
 </offer>
 <offer id="19419" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-800-mach-classic-black-chernyiy-s-kartridjem</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19419-800x800.png</picture>
@@ -126066,7 +126066,7 @@
 </offer>
 <offer id="19420" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-800-mach-classic-red-krasnyiy-s-kartridjem</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19420-800x800.png</picture>
@@ -126076,7 +126076,7 @@
 </offer>
 <offer id="19421" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-800-mach-gull-grey-seryiy-s-kartridjem</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19421-800x800.png</picture>
@@ -126086,7 +126086,7 @@
 </offer>
 <offer id="22058" available="false">
 <url>https://hardsmoke.store/voopoo-drag-nano-2-800-orange-oranjevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22058-800x800.png</picture>
@@ -126096,7 +126096,7 @@
 </offer>
 <offer id="19422" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-800-mach-powder-blue-siniy-s-kartridjem</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19422-800x800.png</picture>
@@ -126106,7 +126106,7 @@
 </offer>
 <offer id="22059" available="false">
 <url>https://hardsmoke.store/voopoo-drag-nano-2-800-sparkle-champagne-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22059-800x800.png</picture>
@@ -126116,7 +126116,7 @@
 </offer>
 <offer id="19423" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-800-mach-tea-green-zelenyiy-s-kartridjem</url>
-<price>955</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19423-800x800.png</picture>
@@ -126126,7 +126126,7 @@
 </offer>
 <offer id="19416" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-nebula-edition-800-mach-aurora-blue-siniy-s-kartridjem</url>
-<price>682</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19416-800x800.png</picture>
@@ -126136,7 +126136,7 @@
 </offer>
 <offer id="21274" available="false">
 <url>https://hardsmoke.store/voopoo-drag-nano-2-800-neon-rose-rojeviy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>682</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21274-800x800.png</picture>
@@ -126146,7 +126146,7 @@
 </offer>
 <offer id="19417" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-nano-2-nebula-edition-800-mach-obsidian-black-chernyiy-s-kartridjem</url>
-<price>682</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/19417-800x800product_popup.webp</picture>
@@ -126156,7 +126156,7 @@
 </offer>
 <offer id="22060" available="false">
 <url>https://hardsmoke.store/voopoo-drag-nano-2-nebula-edition-800-shining-gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>682</price>
+<price>250</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22060-800x800.png</picture>
@@ -126188,7 +126188,7 @@
 </offer>
 <offer id="20096" available="false">
 <url>https://hardsmoke.store/mnogorazova-pod-sistema-voopoo-drag-x-pro-california-orange-oranjevyiy-s-kartridjem</url>
-<price>707</price>
+<price>853</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20096-800x800.png</picture>
@@ -126204,7 +126204,7 @@
 </offer>
 <offer id="20097" available="false">
 <url>https://hardsmoke.store/voopoo-drag-x-800-pro-mod-kit-carbon-fiber-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>707</price>
+<price>853</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20097-800x800.png</picture>
@@ -126220,7 +126220,7 @@
 </offer>
 <offer id="20098" available="false">
 <url>https://hardsmoke.store/mnogorazova-pod-sistema-voopoo-drag-x-progarda-blue-siniy-s-kartridjem</url>
-<price>707</price>
+<price>853</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20098-800x800.png</picture>
@@ -126236,7 +126236,7 @@
 </offer>
 <offer id="20095" available="false">
 <url>https://hardsmoke.store/mnogorazova-pod-sistema-voopoo-drag-x-pro-mod-kit-carbon-fiber-chernyiy-s-kartridjem</url>
-<price>707</price>
+<price>853</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20095-800x800.png</picture>
@@ -126252,7 +126252,7 @@
 </offer>
 <offer id="20099" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-x-pro-mystic-red-krasnyiy-s-kartridjem</url>
-<price>707</price>
+<price>853</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20099-800x800.png</picture>
@@ -126268,7 +126268,7 @@
 </offer>
 <offer id="20100" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-drag-x-pro-sapphire-blue-siniy-s-kartridjem</url>
-<price>707</price>
+<price>853</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20100-800x800.png</picture>
@@ -126660,7 +126660,7 @@
 </offer>
 <offer id="19432" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vinci-royal-edition-800-mach-gold-jazz-zolotistyiy-s-kartridjem</url>
-<price>682</price>
+<price>955</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19432-800x800.png</picture>
@@ -126676,7 +126676,7 @@
 </offer>
 <offer id="19433" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vinci-royal-edition-800-mach-gold-leaf-zolotistyiy-s-kartridjem</url>
-<price>682</price>
+<price>955</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19433-800x800.png</picture>
@@ -126692,7 +126692,7 @@
 </offer>
 <offer id="19434" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vinci-royal-edition-800-mach-silver-icon-metallik-s-kartridjem</url>
-<price>682</price>
+<price>955</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19434-800x800.png</picture>
@@ -126708,7 +126708,7 @@
 </offer>
 <offer id="19435" available="false">
 <url>https://hardsmoke.store/mnogorazovaya-pod-sistema-voopoo-vinci-royal-edition-800-mach-white-leaf-belyiy-s-kartridjem</url>
-<price>682</price>
+<price>955</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19435-800x800.png</picture>
