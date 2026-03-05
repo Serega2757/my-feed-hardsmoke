@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05 14:22">
+<yml_catalog date="2026-03-05 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -117378,7 +117378,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії GeekVape допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з GeekVape Sonder Q 1000 Rose Pink (Рожевий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="23030" available="true">
+<offer id="23030" available="false">
 <url>https://hardsmoke.store/geekvape-sonder-q-1000-sky-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>420</price>
 <currencyId>UAH</currencyId>
@@ -145482,7 +145482,7 @@
 <vendorCode>hd901011</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Лохина Ментол</name>
 </offer>
-<offer id="hd901033" available="true">
+<offer id="hd901033" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145559,7 +145559,7 @@
 <vendorCode>hd901005</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Кисле Яблуко</name>
 </offer>
-<offer id="hd901027" available="true">
+<offer id="hd901027" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145636,7 +145636,7 @@
 <vendorCode>hd901001</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Блакитна Малина Лід</name>
 </offer>
-<offer id="hd901023" available="true">
+<offer id="hd901023" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145713,7 +145713,7 @@
 <vendorCode>hd901002</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Вишня Лимон Персик</name>
 </offer>
-<offer id="hd901024" available="true">
+<offer id="hd901024" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145790,7 +145790,7 @@
 <vendorCode>hd901003</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Кавун Лимон</name>
 </offer>
-<offer id="hd901025" available="true">
+<offer id="hd901025" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145867,7 +145867,7 @@
 <vendorCode>hd901004</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Кавуновий Сорбет</name>
 </offer>
-<offer id="hd901026" available="true">
+<offer id="hd901026" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145944,7 +145944,7 @@
 <vendorCode>hd901006</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Ківі Манго Пітайя</name>
 </offer>
-<offer id="hd901028" available="true">
+<offer id="hd901028" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146021,7 +146021,7 @@
 <vendorCode>hd901007</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Класична Кола</name>
 </offer>
-<offer id="hd901029" available="true">
+<offer id="hd901029" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146098,7 +146098,7 @@
 <vendorCode>hd901008</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Кокос Диня</name>
 </offer>
-<offer id="hd901030" available="true">
+<offer id="hd901030" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146175,7 +146175,7 @@
 <vendorCode>hd901009</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Лав66</name>
 </offer>
-<offer id="hd901031" available="true">
+<offer id="hd901031" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146252,7 +146252,7 @@
 <vendorCode>hd901010</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Лимон Лайм</name>
 </offer>
-<offer id="hd901032" available="true">
+<offer id="hd901032" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146329,7 +146329,7 @@
 <vendorCode>hd901012</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Малина Лимон Лід</name>
 </offer>
-<offer id="hd901034" available="true">
+<offer id="hd901034" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146406,7 +146406,7 @@
 <vendorCode>hd901013</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак М&apos;ята</name>
 </offer>
-<offer id="hd901035" available="true">
+<offer id="hd901035" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146483,7 +146483,7 @@
 <vendorCode>hd901014</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Полуниця Вишня Малина</name>
 </offer>
-<offer id="hd901036" available="true">
+<offer id="hd901036" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146560,7 +146560,7 @@
 <vendorCode>hd901015</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Полуничне Морозиво</name>
 </offer>
-<offer id="hd901037" available="true">
+<offer id="hd901037" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146637,7 +146637,7 @@
 <vendorCode>hd901016</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Полуничний Мохіто</name>
 </offer>
-<offer id="hd901038" available="true">
+<offer id="hd901038" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146714,7 +146714,7 @@
 <vendorCode>hd901017</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Пончик</name>
 </offer>
-<offer id="hd901039" available="true">
+<offer id="hd901039" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146791,7 +146791,7 @@
 <vendorCode>hd901018</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Рожевий Лимонад</name>
 </offer>
-<offer id="hd901040" available="true">
+<offer id="hd901040" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146868,7 +146868,7 @@
 <vendorCode>hd901019</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Скіттлс</name>
 </offer>
-<offer id="hd901041" available="true">
+<offer id="hd901041" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146945,7 +146945,7 @@
 <vendorCode>hd901020</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Тропічний Сік</name>
 </offer>
-<offer id="hd901042" available="true">
+<offer id="hd901042" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -147022,7 +147022,7 @@
 <vendorCode>hd901021</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Фрозен Форест</name>
 </offer>
-<offer id="hd901043" available="true">
+<offer id="hd901043" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -147106,7 +147106,7 @@
 <vendorCode>hd901022</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 White (Білий) та Рідина 420 смак Ягідний Морс</name>
 </offer>
-<offer id="hd901044" available="true">
+<offer id="hd901044" available="false">
 <price>488</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
