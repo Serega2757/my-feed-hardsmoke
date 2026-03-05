@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-05 11:22">
+<yml_catalog date="2026-03-05 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -147989,7 +147989,7 @@
 <name>Ельф Lux 2000 Енергетик</name>
 </offer>
 <offer id="glassws69459-21-1" available="false">
-<price>314</price>
+<price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws69459-21-1</vendorCode>
@@ -153974,7 +153974,7 @@
 <name>Под LUX 2000 Виноград Енергетик</name>
 </offer>
 <offer id="topws69459-21-1" available="false">
-<price>314</price>
+<price>300</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws69459-21-1</vendorCode>
