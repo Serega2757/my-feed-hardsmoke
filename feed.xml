@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06 16:22">
+<yml_catalog date="2026-03-06 17:23">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -136109,7 +136109,7 @@
 <img alt="Тютюн 420 Light Лімончелло (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23003-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7335" available="true">
+<offer id="7335" available="false">
 <url>https://hardsmoke.store/tabak-420-light-letniy-vayb-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
