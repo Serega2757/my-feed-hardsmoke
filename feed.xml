@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-06 11:22">
+<yml_catalog date="2026-03-06 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -135189,7 +135189,7 @@
 <img alt="Тютюн 420 Light Кавун Лимон (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20208-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7327" available="true">
+<offer id="7327" available="false">
 <url>https://hardsmoke.store/tabak-420-light-arbuzno-dyinnyiy-sorbet-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -137029,7 +137029,7 @@
 <img alt="Тютюн 420 Light Рафаелло (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8848-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23001" available="false">
+<offer id="23001" available="true">
 <url>https://hardsmoke.store/tabak-420-light-red-miks-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -138317,7 +138317,7 @@
 <img alt="Тютюн 420 Light Черничний мафін (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7323-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8199" available="true">
+<offer id="8199" available="false">
 <url>https://hardsmoke.store/tabak-420-light-chernichnyiy-maffin-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
