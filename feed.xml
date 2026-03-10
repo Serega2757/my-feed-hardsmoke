@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-10 13:22">
+<yml_catalog date="2026-03-10 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -128664,7 +128664,7 @@
 <img alt="Тютюн 420 Candy Mint (М'ятні Лідяники, 40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18118-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7068" available="true">
+<offer id="7068" available="false">
 <url>https://hardsmoke.store/tabak-420-captain-baldezh-grushevyiy-limonad-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -136207,7 +136207,7 @@
 <img alt="Тютюн 420 Light Літній вайб (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8191-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23002" available="true">
+<offer id="23002" available="false">
 <url>https://hardsmoke.store/tabak-420-light-mango-persik-dyinya-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -137265,7 +137265,7 @@
 <img alt="Тютюн 420 Light Саммер Тайм (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21410-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21412" available="true">
+<offer id="21412" available="false">
 <url>https://hardsmoke.store/tabak-420-light-sammer-taym-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
