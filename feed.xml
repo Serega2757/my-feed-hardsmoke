@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-10 18:22">
+<yml_catalog date="2026-03-10 19:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -129215,7 +129215,7 @@
 <img alt="Тютюн 420 Coconut Cookies (Кокосове печиво, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7000-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7006" available="true">
+<offer id="7006" available="false">
 <url>https://hardsmoke.store/tabak-420-coconut-cookies-kokosovoe-pechene-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -133539,7 +133539,7 @@
 <img alt="Тютюн 420 Light Айс яблуко (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7333-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8209" available="true">
+<offer id="8209" available="false">
 <url>https://hardsmoke.store/tabak-420-light-ays-yabloko-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
