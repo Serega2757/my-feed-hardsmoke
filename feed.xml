@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11 13:22">
+<yml_catalog date="2026-03-11 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -138875,7 +138875,7 @@
 <img alt="Тютюн 420 Light Ягідне Морозиво (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22657-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7328" available="true">
+<offer id="7328" available="false">
 <url>https://hardsmoke.store/tabak-420-light-yagodnyiy-mors-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
