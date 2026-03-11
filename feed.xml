@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-11 15:22">
+<yml_catalog date="2026-03-11 16:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -134597,7 +134597,7 @@
 <img alt="Тютюн 420 Light Вишня Барбарис (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26462-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21756" available="true">
+<offer id="21756" available="false">
 <url>https://hardsmoke.store/tabak-420-light-greypfrut-malina-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
