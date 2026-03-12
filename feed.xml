@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-12 12:22">
+<yml_catalog date="2026-03-12 13:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -137081,7 +137081,7 @@
 <img alt="Тютюн 420 Light Ред Мікс (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23006-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7955" available="true">
+<offer id="7955" available="false">
 <url>https://hardsmoke.store/tabak-420-light-rozovyiy-limonad-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -143750,7 +143750,7 @@
 <img alt="Кокосове вугілля для кальяну Eskobar (1 кг, 64 шт, р26)" src="https://hardsmoke.store/image/cache/catalog/exist/9912-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9471" available="true">
+<offer id="9471" available="false">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-eskobar-1-kg-72-sht-r25-bez-korobki</url>
 <price>171</price>
 <currencyId>UAH</currencyId>
