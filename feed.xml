@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-12 18:22">
+<yml_catalog date="2026-03-12 19:23">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -138047,7 +138047,7 @@
 <img alt="Тютюн 420 Light Фруктова жуйка (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8860-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8850" available="true">
+<offer id="8850" available="false">
 <url>https://hardsmoke.store/tabak-420-light-fruktovaya-jvachka-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
