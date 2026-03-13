@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-13 14:22">
+<yml_catalog date="2026-03-13 15:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -4157,7 +4157,7 @@
 <img alt="Набір для самозамішування Chaser Black Compote (Компот, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24286-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25334" available="true">
+<offer id="25334" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-black-compote-kompot-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -61401,7 +61401,7 @@
 <img alt="Рідина Alchemist Salt Blue Razz (Блю Разз, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21849-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21863" available="false">
+<offer id="21863" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-blue-razz-blyu-razz-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -61481,7 +61481,7 @@
 <img alt="Рідина Alchemist Salt BlueRazz (БлюРазз, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9413-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19370" available="false">
+<offer id="19370" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-bluerazz-blyurazz-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -61561,7 +61561,7 @@
 <img alt="Рідина Alchemist Salt Cactus Basil (Кактус Базилік, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21850-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21864" available="false">
+<offer id="21864" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-cactus-basil-kaktus-bazilik-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -61641,7 +61641,7 @@
 <img alt="Рідина Alchemist Salt Cactus&amp;Basil (Кактус Базилік, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9414-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19371" available="false">
+<offer id="19371" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-cactus-basil-kaktus-bazilik-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -61761,7 +61761,7 @@
 <img alt="Рідина Alchemist Salt Cran Apple (Кран Еппл, 35 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21865-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19372" available="false">
+<offer id="19372" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-cranapple-klyukva-yabloko-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -62281,7 +62281,7 @@
 <img alt="Рідина Alchemist Salt FL Daiquiri (Дайкірі, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19367-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21969" available="false">
+<offer id="21969" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-fl-daiquiri-daykiri-50-mg-30-ml</url>
 <price>172</price>
 <currencyId>UAH</currencyId>
@@ -62441,7 +62441,7 @@
 <img alt="Рідина Alchemist Salt FL Easy-Peasy (Ізі-Пізі, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19368-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21970" available="false">
+<offer id="21970" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-fl-easy-peasy-izi-pizi-50-mg-30-ml</url>
 <price>172</price>
 <currencyId>UAH</currencyId>
@@ -62681,7 +62681,7 @@
 <img alt="Рідина Alchemist Salt Frappuccino (Фраппучіно, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21853-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21867" available="false">
+<offer id="21867" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-frappuccino-frappuchino-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -62761,7 +62761,7 @@
 <img alt="Рідина Alchemist Salt Frappuccino (Фраппучіно, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9417-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19374" available="false">
+<offer id="19374" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-frappuccino-frapuchchino-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -63001,7 +63001,7 @@
 <img alt="Рідина Alchemist Salt Iceberg Mango (Манго Лід, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21855-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21869" available="false">
+<offer id="21869" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-iceberg-mango-mango-led-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -63081,7 +63081,7 @@
 <img alt="Рідина Alchemist Salt Iceberg Mango (Манго Лід, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19362-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19376" available="false">
+<offer id="19376" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-iceberg-mango-mango-led-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -63321,7 +63321,7 @@
 <img alt="Рідина Alchemist Salt Pitaya Peach (Пітайя Персик, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21857-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21871" available="false">
+<offer id="21871" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-pitaya-peach-pitayya-persik-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -63401,7 +63401,7 @@
 <img alt="Рідина Alchemist Salt Pitaya Peach (Пітайя Персик, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9419-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19378" available="false">
+<offer id="19378" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-pitaya-peach-pitayya-persik-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -63481,7 +63481,7 @@
 <img alt="Рідина Alchemist Salt Rasp&amp;Basil (Малина базилік, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9420-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19379" available="false">
+<offer id="19379" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-rasp-basil-malina-bazilik-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -63641,7 +63641,7 @@
 <img alt="Рідина Alchemist Salt Rich Apple (Річ Епл, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/9421-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19380" available="false">
+<offer id="19380" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-rich-apple-rich-epl-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -64041,7 +64041,7 @@
 <img alt="Рідина Alchemist Salt Vanilla Tobacco (Тютюн Ваніль, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19364-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19382" available="false">
+<offer id="19382" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-vanilla-tobacco-tabak-vanil-50-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -64121,7 +64121,7 @@
 <img alt="Рідина Alchemist Salt Vero Tobacco (Тютюн, 35 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21862-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21876" available="false">
+<offer id="21876" available="true">
 <url>https://hardsmoke.store/jidkost-alchemist-salt-vero-tobacco-tabak-35-mg-30-ml</url>
 <price>164</price>
 <currencyId>UAH</currencyId>
@@ -135051,7 +135051,7 @@
 <img alt="Тютюн 420 Light Енергетичний напій (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8849-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20204" available="true">
+<offer id="20204" available="false">
 <url>https://hardsmoke.store/tabak-420-light-arbuz-limon-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137397,7 +137397,7 @@
 <img alt="Тютюн 420 Light Саммер Тайм (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/24171-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21758" available="true">
+<offer id="21758" available="false">
 <url>https://hardsmoke.store/tabak-420-light-svejie-yagodyi-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138501,7 +138501,7 @@
 <img alt="Тютюн 420 Light Чорниця м'ята (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8206-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8186" available="true">
+<offer id="8186" available="false">
 <url>https://hardsmoke.store/tabak-420-light-chernika-myata-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138777,7 +138777,7 @@
 <img alt="Тютюн 420 Light Ягідна жуйка (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8181-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21411" available="true">
+<offer id="21411" available="false">
 <url>https://hardsmoke.store/tabak-420-light-yagodnoe-morojenoe-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -143555,7 +143555,7 @@
 <img alt="Кокосове вугілля для кальяну Caliber (1 кг, 72 шт, р25)" src="https://hardsmoke.store/image/cache/catalog/exist/27199-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="2716" available="false">
+<offer id="2716" available="true">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-cocoloco-1-kg-64-sht-r26-bez-korobki</url>
 <price>252</price>
 <currencyId>UAH</currencyId>
