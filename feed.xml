@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-14 16:22">
+<yml_catalog date="2026-03-14 17:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -6887,7 +6887,7 @@
 <img alt="Набір для самозамішування Chaser Kiwi Ice Ultra (Ківі, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23312-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23294" available="true">
+<offer id="23294" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-kiwi-balance-kivi-50-mg-10-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -118838,7 +118838,7 @@
 </offer>
 <offer id="24633" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-black-thorns-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24633-800x800.png</picture>
@@ -118854,7 +118854,7 @@
 </offer>
 <offer id="24631" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-blue-thorns-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24631-800x800.png</picture>
@@ -118870,7 +118870,7 @@
 </offer>
 <offer id="24632" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-brown-thorns-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24632-800x800.png</picture>
@@ -118886,7 +118886,7 @@
 </offer>
 <offer id="24628" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-espresso-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24628-800x800.png</picture>
@@ -118902,7 +118902,7 @@
 </offer>
 <offer id="24634" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-grey-neverfall-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24634-800x800.png</picture>
@@ -118918,7 +118918,7 @@
 </offer>
 <offer id="24630" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-lavender-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24630-800x800.png</picture>
@@ -118934,7 +118934,7 @@
 </offer>
 <offer id="26971" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-2-pod-kit-1000-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26971-800x800.png</picture>
@@ -118950,7 +118950,7 @@
 </offer>
 <offer id="24629" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-mint-myatnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24629-800x800.png</picture>
@@ -118966,7 +118966,7 @@
 </offer>
 <offer id="24636" available="false">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-pink-dauphine-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24636-800x800.png</picture>
@@ -118982,7 +118982,7 @@
 </offer>
 <offer id="24635" available="true">
 <url>https://hardsmoke.store/ursa-nano-s-2-pod-kit-1000-sky-delightful-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>254</price>
+<price>661</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/24635-800x800product_popup.webp</picture>
