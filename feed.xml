@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-14 13:22">
+<yml_catalog date="2026-03-14 14:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -145435,7 +145435,7 @@
 <img alt="Кальян Yahya ZL119 Black (чорний, повний комплект)" src="https://hardsmoke.store/image/cache/catalog/exist/21520-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="hd901011" available="true">
+<offer id="hd901011" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145512,7 +145512,7 @@
 <vendorCode>hd901231</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Лохина Ментол</name>
 </offer>
-<offer id="hd901005" available="true">
+<offer id="hd901005" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145589,7 +145589,7 @@
 <vendorCode>hd901225</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Кисле Яблуко</name>
 </offer>
-<offer id="hd901001" available="true">
+<offer id="hd901001" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145666,7 +145666,7 @@
 <vendorCode>hd901221</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Блакитна Малина Лід</name>
 </offer>
-<offer id="hd901002" available="true">
+<offer id="hd901002" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145743,7 +145743,7 @@
 <vendorCode>hd901222</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Вишня Лимон Персик</name>
 </offer>
-<offer id="hd901003" available="true">
+<offer id="hd901003" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145820,7 +145820,7 @@
 <vendorCode>hd901223</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Кавун Лимон</name>
 </offer>
-<offer id="hd901004" available="true">
+<offer id="hd901004" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145897,7 +145897,7 @@
 <vendorCode>hd901224</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Кавуновий Сорбет</name>
 </offer>
-<offer id="hd901006" available="true">
+<offer id="hd901006" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -145974,7 +145974,7 @@
 <vendorCode>hd901226</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Ківі Манго Пітайя</name>
 </offer>
-<offer id="hd901007" available="true">
+<offer id="hd901007" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146051,7 +146051,7 @@
 <vendorCode>hd901227</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Класична Кола</name>
 </offer>
-<offer id="hd901008" available="true">
+<offer id="hd901008" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146128,7 +146128,7 @@
 <vendorCode>hd901228</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Кокос Диня</name>
 </offer>
-<offer id="hd901009" available="true">
+<offer id="hd901009" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146205,7 +146205,7 @@
 <vendorCode>hd901229</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Лав66</name>
 </offer>
-<offer id="hd901010" available="true">
+<offer id="hd901010" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146282,7 +146282,7 @@
 <vendorCode>hd901230</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Лимон Лайм</name>
 </offer>
-<offer id="hd901012" available="true">
+<offer id="hd901012" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146359,7 +146359,7 @@
 <vendorCode>hd901232</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Малина Лимон Лід</name>
 </offer>
-<offer id="hd901013" available="true">
+<offer id="hd901013" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146436,7 +146436,7 @@
 <vendorCode>hd901233</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак М&apos;ята</name>
 </offer>
-<offer id="hd901014" available="true">
+<offer id="hd901014" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146513,7 +146513,7 @@
 <vendorCode>hd901234</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Полуниця Вишня Малина</name>
 </offer>
-<offer id="hd901015" available="true">
+<offer id="hd901015" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146590,7 +146590,7 @@
 <vendorCode>hd901235</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Полуничне Морозиво</name>
 </offer>
-<offer id="hd901016" available="true">
+<offer id="hd901016" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146667,7 +146667,7 @@
 <vendorCode>hd901236</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Полуничний Мохіто</name>
 </offer>
-<offer id="hd901017" available="true">
+<offer id="hd901017" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146744,7 +146744,7 @@
 <vendorCode>hd901237</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Пончик</name>
 </offer>
-<offer id="hd901018" available="true">
+<offer id="hd901018" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146821,7 +146821,7 @@
 <vendorCode>hd901238</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Рожевий Лимонад</name>
 </offer>
-<offer id="hd901019" available="true">
+<offer id="hd901019" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146898,7 +146898,7 @@
 <vendorCode>hd901239</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Скіттлс</name>
 </offer>
-<offer id="hd901020" available="true">
+<offer id="hd901020" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -146975,7 +146975,7 @@
 <vendorCode>hd901240</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Тропічний Сік</name>
 </offer>
-<offer id="hd901021" available="true">
+<offer id="hd901021" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
@@ -147059,7 +147059,7 @@
 <vendorCode>hd901242</vendorCode>
 <name>Стартовий набір Geek Sonder Q 1000 Black (Чорний) та Рідина 420 смак Ягідний Морс</name>
 </offer>
-<offer id="hd901022" available="true">
+<offer id="hd901022" available="false">
 <price>490</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
