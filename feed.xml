@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-15 12:22">
+<yml_catalog date="2026-03-15 13:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -134965,7 +134965,7 @@
 <img alt="Тютюн 420 Light Енергетичний напій (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8859-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8849" available="true">
+<offer id="8849" available="false">
 <url>https://hardsmoke.store/tabak-420-light-energeticheskiy-napitok-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -135517,7 +135517,7 @@
 <img alt="Тютюн 420 Light Лав 66 (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8205-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8185" available="true">
+<offer id="8185" available="false">
 <url>https://hardsmoke.store/tabak-420-light-lav-66-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137311,7 +137311,7 @@
 <img alt="Тютюн 420 Light Саммер Тайм (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21412-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24171" available="true">
+<offer id="24171" available="false">
 <url>https://hardsmoke.store/tabak-420-light-sammer-taym-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137725,7 +137725,7 @@
 <img alt="Тютюн 420 Light Скіттлс (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8216-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8196" available="true">
+<offer id="8196" available="false">
 <url>https://hardsmoke.store/tabak-420-light-skittls-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138691,7 +138691,7 @@
 <img alt="Тютюн 420 Light Ягідна жуйка (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8201-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8181" available="true">
+<offer id="8181" available="false">
 <url>https://hardsmoke.store/tabak-420-light-yagodnaya-jvachka-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
