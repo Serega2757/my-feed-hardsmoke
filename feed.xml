@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-16 11:22">
+<yml_catalog date="2026-03-16 12:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -42850,7 +42850,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="27989" available="true">
+<offer id="27989" available="false">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-lucky-chrome-peach-gooseberry-persik-kryijovnik-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -148990,84 +148990,84 @@
 <name>Ельф Ice King 30000 Банановий Пиріг</name>
 </offer>
 <offer id="glassws56725-3" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-3</vendorCode>
 <name>GORD 4000 Чорничний Джем</name>
 </offer>
 <offer id="glassws56725-2" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-2</vendorCode>
 <name>GORD 4000 Синя Малина Лимонад</name>
 </offer>
 <offer id="glassws56725-13" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-13</vendorCode>
 <name>GORD 4000 Полуниця Лід</name>
 </offer>
 <offer id="glassws56725-12" available="false">
-<price>420</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-12</vendorCode>
 <name>GORD 4000 Полуниця Банан Лід</name>
 </offer>
 <offer id="glassws56725-8" available="false">
-<price>420</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-8</vendorCode>
 <name>GORD 4000 Персик Манго Кавун</name>
 </offer>
 <offer id="glassws56725-7" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-7</vendorCode>
 <name>GORD 4000 М&apos;ята Лід</name>
 </offer>
 <offer id="glassws56725-10" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-10</vendorCode>
 <name>GORD 4000 Малина Мохіто</name>
 </offer>
 <offer id="glassws56725-11" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-11</vendorCode>
 <name>GORD 4000 Кисле Яблуко</name>
 </offer>
 <offer id="glassws56725-15" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-15</vendorCode>
 <name>GORD 4000 Кавун Полуниця</name>
 </offer>
 <offer id="glassws56725-14" available="false">
-<price>420</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-14</vendorCode>
 <name>GORD 4000 Кавун Лід</name>
 </offer>
 <offer id="glassws56725-6" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-6</vendorCode>
 <name>GORD 4000 Желейки</name>
 </offer>
 <offer id="glassws56725-4" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-4</vendorCode>
@@ -149088,21 +149088,21 @@
 <name>GORD 4000 Виноград Зелений Чай</name>
 </offer>
 <offer id="glassws56725" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725</vendorCode>
 <name>GORD 4000 Бананово Вишневе смузі</name>
 </offer>
 <offer id="glassws56725-1" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-1</vendorCode>
 <name>GORD 4000 Банан Лід</name>
 </offer>
 <offer id="glassws56725-9" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws56725-9</vendorCode>
@@ -149221,7 +149221,7 @@
 <name>Ельф Lux 2000 Ананас</name>
 </offer>
 <offer id="glassws25441-1" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441-1</vendorCode>
@@ -149235,7 +149235,7 @@
 <name>Ельф RI3000 Полуниця Банан</name>
 </offer>
 <offer id="glassws25441-3" available="false">
-<price>266</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441-3</vendorCode>
@@ -149249,7 +149249,7 @@
 <name>Ельф RI3000 Ожина Зелене Яблуко</name>
 </offer>
 <offer id="glassws25441" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441</vendorCode>
@@ -149270,28 +149270,28 @@
 <name>Ельф RI3000 М&apos;ята Лимон</name>
 </offer>
 <offer id="glassws25441-5" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441-5</vendorCode>
 <name>Ельф RI3000 Кавун Лід</name>
 </offer>
 <offer id="glassws25441-4" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441-4</vendorCode>
 <name>Ельф RI3000 Кавун Кокос</name>
 </offer>
 <offer id="glassws25441-6" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441-6</vendorCode>
 <name>Ельф RI3000 Кавун Ківі Ягоди Лід</name>
 </offer>
 <offer id="glassws25441-2" available="false">
-<price>266</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws25441-2</vendorCode>
@@ -151671,112 +151671,112 @@
 <name>Ельф Combo 25000 Виноград &amp; Мускатний Виноград</name>
 </offer>
 <offer id="glassws23392-13" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-13</vendorCode>
 <name>Rif Bar TURBO-X 25000 Чорниця М&apos;ята</name>
 </offer>
 <offer id="glassws23392-14" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-14</vendorCode>
 <name>Rif Bar TURBO-X 25000 Чорниця</name>
 </offer>
 <offer id="glassws23392-16" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-16</vendorCode>
 <name>Rif Bar TURBO-X 25000 Чорний Лід</name>
 </offer>
 <offer id="glassws23392-6" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-6</vendorCode>
 <name>Rif Bar TURBO-X 25000 Фруктовий мікс Лід</name>
 </offer>
 <offer id="glassws23392-7" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-7</vendorCode>
 <name>Rif Bar TURBO-X 25000 Фруктовий мікс</name>
 </offer>
 <offer id="glassws23392-15" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-15</vendorCode>
 <name>Rif Bar TURBO-X 25000 Синя Малина</name>
 </offer>
 <offer id="glassws23392-3" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-3</vendorCode>
 <name>Rif Bar TURBO-X 25000 Потрійна Ягода</name>
 </offer>
 <offer id="glassws23392-4" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-4</vendorCode>
 <name>Rif Bar TURBO-X 25000 Полуниця Малина</name>
 </offer>
 <offer id="glassws23392-12" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-12</vendorCode>
 <name>Rif Bar TURBO-X 25000 Подвійне Яблуко</name>
 </offer>
 <offer id="glassws23392-8" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-8</vendorCode>
 <name>Rif Bar TURBO-X 25000 Піна Колада</name>
 </offer>
 <offer id="glassws23392-9" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-9</vendorCode>
 <name>Rif Bar TURBO-X 25000 М&apos;ята Лід</name>
 </offer>
 <offer id="glassws23392-11" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-11</vendorCode>
 <name>Rif Bar TURBO-X 25000 Лимонад</name>
 </offer>
 <offer id="glassws23392-5" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-5</vendorCode>
 <name>Rif Bar TURBO-X 25000 Кислий Виноград Солодка Вата</name>
 </offer>
 <offer id="glassws23392-2" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-2</vendorCode>
 <name>Rif Bar TURBO-X 25000 Кавунова Жувальна Гумка</name>
 </offer>
 <offer id="glassws23392-10" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392-10</vendorCode>
 <name>Rif Bar TURBO-X 25000 Кавун Лід</name>
 </offer>
 <offer id="glassws23392" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws23392</vendorCode>
@@ -152896,175 +152896,175 @@
 <name>Ельф GH 33000 PRO Яблуко Ківі Льод (Apple Kiwi Ice)</name>
 </offer>
 <offer id="topws66552-12" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-12</vendorCode>
 <name>Под BC5000 Ягоди</name>
 </offer>
 <offer id="topws66552-7" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-7</vendorCode>
 <name>Под BC5000 Червоне Мохіто</name>
 </offer>
 <offer id="topws66552-18" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-18</vendorCode>
 <name>Под BC5000 Тропічний Райдужний Вибух</name>
 </offer>
 <offer id="topws66552-5" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-5</vendorCode>
 <name>Под BC5000 Синя Малина Лимонад</name>
 </offer>
 <offer id="topws66552-9" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-9</vendorCode>
 <name>Под BC5000 Сакура Виноград</name>
 </offer>
 <offer id="topws66552-33" available="false">
-<price>285</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-33</vendorCode>
 <name>Под BC5000 Потрійний Манго</name>
 </offer>
 <offer id="topws66552-14" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-14</vendorCode>
 <name>Под BC5000 Потрійна Ягода Лід</name>
 </offer>
 <offer id="topws66552-13" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-13</vendorCode>
 <name>Под BC5000 Полунична Піна Колада</name>
 </offer>
 <offer id="topws66552-4" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-4</vendorCode>
 <name>Под BC5000 Полуниця Манго</name>
 </offer>
 <offer id="topws66552-34" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-34</vendorCode>
 <name>Под BC5000 Полуниця Лід</name>
 </offer>
 <offer id="topws66552-3" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-3</vendorCode>
 <name>Под BC5000 Полуниця Ківі</name>
 </offer>
 <offer id="topws66552-17" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-17</vendorCode>
 <name>Под BC5000 Полуниця Кавун</name>
 </offer>
 <offer id="topws66552-35" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-35</vendorCode>
 <name>Под BC5000 Полуниця Банан</name>
 </offer>
 <offer id="topws66552-10" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-10</vendorCode>
 <name>Под BC5000 Персик Манго Кавун</name>
 </offer>
 <offer id="topws66552-21" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-21</vendorCode>
 <name>Под BC5000 Персик Лід</name>
 </offer>
 <offer id="topws66552-6" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-6</vendorCode>
 <name>Под BC5000 Манго Персик</name>
 </offer>
 <offer id="topws66552-2" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-2</vendorCode>
 <name>Под BC5000 Лимон М&apos;ята</name>
 </offer>
 <offer id="topws66552-1" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-1</vendorCode>
 <name>Под BC5000 Ківі Маракуйя Гуава</name>
 </offer>
 <offer id="topws66552-20" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-20</vendorCode>
 <name>Под BC5000 Кисле Яблуко</name>
 </offer>
 <offer id="topws66552-19" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-19</vendorCode>
 <name>Под BC5000 Кавунова Жувальна Гумка</name>
 </offer>
 <offer id="topws66552" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552</vendorCode>
 <name>Под BC5000 Кавун Лід</name>
 </offer>
 <offer id="topws66552-8" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-8</vendorCode>
 <name>Под BC5000 Журавлина Виноград</name>
 </offer>
 <offer id="topws66552-11" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-11</vendorCode>
 <name>Под BC5000 Енергетик</name>
 </offer>
 <offer id="topws66552-6-1" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-6-1</vendorCode>
 <name>Под BC5000 Гуава Лід</name>
 </offer>
 <offer id="topws66552-16" available="false">
-<price>320</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws66552-16</vendorCode>
@@ -156333,28 +156333,28 @@
 <name>Под Raya D3 25000 Ягоди</name>
 </offer>
 <offer id="topws25441-2" available="false">
-<price>266</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441-2</vendorCode>
 <name>Под RI3000 Виноград Лід</name>
 </offer>
 <offer id="topws25441-6" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441-6</vendorCode>
 <name>Под RI3000 Кавун Ківі Ягоди Лід</name>
 </offer>
 <offer id="topws25441-4" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441-4</vendorCode>
 <name>Под RI3000 Кавун Кокос</name>
 </offer>
 <offer id="topws25441-5" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441-5</vendorCode>
@@ -156375,7 +156375,7 @@
 <name>Под RI3000 Ожина Апельсин</name>
 </offer>
 <offer id="topws25441" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441</vendorCode>
@@ -156389,7 +156389,7 @@
 <name>Под RI3000 Ожина Зелене Яблуко</name>
 </offer>
 <offer id="topws25441-3" available="false">
-<price>266</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441-3</vendorCode>
@@ -156410,7 +156410,7 @@
 <name>Под RI3000 Полуниця Лід</name>
 </offer>
 <offer id="topws25441-1" available="false">
-<price>310</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws25441-1</vendorCode>
@@ -156746,21 +156746,21 @@
 <name>Флонг Ультра 20000 Чорниця М&apos;ята</name>
 </offer>
 <offer id="topws56725-9" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-9</vendorCode>
 <name>GORD 4000 Ананас Кокос Молоко</name>
 </offer>
 <offer id="topws56725-1" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-1</vendorCode>
 <name>GORD 4000 Банан Лід</name>
 </offer>
 <offer id="topws56725" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725</vendorCode>
@@ -156781,84 +156781,84 @@
 <name>GORD 4000 Виноград Лід</name>
 </offer>
 <offer id="topws56725-4" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-4</vendorCode>
 <name>GORD 4000 Вишнева Кола</name>
 </offer>
 <offer id="topws56725-6" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-6</vendorCode>
 <name>GORD 4000 Желейки</name>
 </offer>
 <offer id="topws56725-14" available="false">
-<price>420</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-14</vendorCode>
 <name>GORD 4000 Кавун Лід</name>
 </offer>
 <offer id="topws56725-15" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-15</vendorCode>
 <name>GORD 4000 Кавун Полуниця</name>
 </offer>
 <offer id="topws56725-11" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-11</vendorCode>
 <name>GORD 4000 Кисле Яблуко</name>
 </offer>
 <offer id="topws56725-10" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-10</vendorCode>
 <name>GORD 4000 Малина Мохіто</name>
 </offer>
 <offer id="topws56725-7" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-7</vendorCode>
 <name>GORD 4000 М&apos;ята Лід</name>
 </offer>
 <offer id="topws56725-8" available="false">
-<price>420</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-8</vendorCode>
 <name>GORD 4000 Персик Манго Кавун</name>
 </offer>
 <offer id="topws56725-12" available="false">
-<price>420</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-12</vendorCode>
 <name>GORD 4000 Полуниця Банан Лід</name>
 </offer>
 <offer id="topws56725-13" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-13</vendorCode>
 <name>GORD 4000 Полуниця Лід</name>
 </offer>
 <offer id="topws56725-2" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-2</vendorCode>
 <name>GORD 4000 Синя Малина Лимонад</name>
 </offer>
 <offer id="topws56725-3" available="false">
-<price>200</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws56725-3</vendorCode>
@@ -157362,112 +157362,112 @@
 <name>Lost Mary OS12000 Чорниця Малина Лимонад</name>
 </offer>
 <offer id="topws23392" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392</vendorCode>
 <name>Rif Bar TURBO-X 25000 Аляска М&apos;ята</name>
 </offer>
 <offer id="topws23392-10" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-10</vendorCode>
 <name>Rif Bar TURBO-X 25000 Кавун Лід</name>
 </offer>
 <offer id="topws23392-2" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-2</vendorCode>
 <name>Rif Bar TURBO-X 25000 Кавунова Жувальна Гумка</name>
 </offer>
 <offer id="topws23392-5" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-5</vendorCode>
 <name>Rif Bar TURBO-X 25000 Кислий Виноград Солодка Вата</name>
 </offer>
 <offer id="topws23392-11" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-11</vendorCode>
 <name>Rif Bar TURBO-X 25000 Лимонад</name>
 </offer>
 <offer id="topws23392-9" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-9</vendorCode>
 <name>Rif Bar TURBO-X 25000 М&apos;ята Лід</name>
 </offer>
 <offer id="topws23392-8" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-8</vendorCode>
 <name>Rif Bar TURBO-X 25000 Піна Колада</name>
 </offer>
 <offer id="topws23392-12" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-12</vendorCode>
 <name>Rif Bar TURBO-X 25000 Подвійне Яблуко</name>
 </offer>
 <offer id="topws23392-4" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-4</vendorCode>
 <name>Rif Bar TURBO-X 25000 Полуниця Малина</name>
 </offer>
 <offer id="topws23392-3" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-3</vendorCode>
 <name>Rif Bar TURBO-X 25000 Потрійна Ягода</name>
 </offer>
 <offer id="topws23392-15" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-15</vendorCode>
 <name>Rif Bar TURBO-X 25000 Синя Малина</name>
 </offer>
 <offer id="topws23392-7" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-7</vendorCode>
 <name>Rif Bar TURBO-X 25000 Фруктовий мікс</name>
 </offer>
 <offer id="topws23392-6" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-6</vendorCode>
 <name>Rif Bar TURBO-X 25000 Фруктовий мікс Лід</name>
 </offer>
 <offer id="topws23392-16" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-16</vendorCode>
 <name>Rif Bar TURBO-X 25000 Чорний Лід</name>
 </offer>
 <offer id="topws23392-14" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-14</vendorCode>
 <name>Rif Bar TURBO-X 25000 Чорниця</name>
 </offer>
 <offer id="topws23392-13" available="false">
-<price>510</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws23392-13</vendorCode>
