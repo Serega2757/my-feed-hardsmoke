@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-16 12:22">
+<yml_catalog date="2026-03-16 13:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -91150,7 +91150,7 @@
  <img alt="Рідина Flip salt Mint (М'ята, 25 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26028-400x400.png">
  </img></div>]]></description>
 </offer>
-<offer id="19594" available="true">
+<offer id="19594" available="false">
 <url>https://hardsmoke.store/jidkost-flip-salt-mint-myata-50mg-30ml</url>
 <price>123</price>
 <currencyId>UAH</currencyId>
