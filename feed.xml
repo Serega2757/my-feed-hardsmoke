@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-17 12:22">
+<yml_catalog date="2026-03-17 13:22">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -114136,7 +114136,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Ultra Cherry Lemon (Вишня Лимон) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="27400" available="true">
+<offer id="27400" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-cherry-lemon-peach-vishnya-limon-persik-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -114673,7 +114673,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Watermelon (Кавун) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="21795" available="true">
+<offer id="21795" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-watermelon-lemon-arbuz-limon-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -130247,7 +130247,7 @@
 <img alt="Тютюн 420 Barberry Candy (Барбарисова Цукерка, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7728-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7730" available="true">
+<offer id="7730" available="false">
 <url>https://hardsmoke.store/tabak-420-barberry-candy-barbarisovaya-konfeta-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -132592,7 +132592,7 @@
 <img alt="Тютюн 420 Frost Line Banana strawberry (Полуниця Банан Лід, 250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22877-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22869" available="true">
+<offer id="22869" available="false">
 <url>https://hardsmoke.store/tabak-420-frost-line-berry-citrus-malina-apelsin-laym-led-100-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
@@ -136870,7 +136870,7 @@
 <img alt="Тютюн 420 Light Ванільна Кола (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7321" available="true">
+<offer id="7321" available="false">
 <url>https://hardsmoke.store/tabak-420-light-vinograd-myata-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137238,7 +137238,7 @@
 <img alt="Тютюн 420 Light Грейпфрут Малина (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/24170-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7953" available="true">
+<offer id="7953" available="false">
 <url>https://hardsmoke.store/tabak-420-light-grin-miks-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
