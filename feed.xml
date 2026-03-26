@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-25 19:53">
+<yml_catalog date="2026-03-26 11:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -76834,7 +76834,7 @@
 <img alt="Рідина Creepy Bubble Gum (Бабл Гам, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24298-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23262" available="true">
+<offer id="23262" available="false">
 <url>https://hardsmoke.store/jidkost-creepy-cherry-vishnya-50-mg-15-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -77474,7 +77474,7 @@
 <img alt="Рідина Creepy Exotic breakfast (Екзотик Брекфест, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26296-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23260" available="true">
+<offer id="23260" available="false">
 <url>https://hardsmoke.store/jidkost-creepy-grape-chupa-greyp-chupa-50-mg-15-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -78194,7 +78194,7 @@
 <img alt="Рідина Creepy Orange Lemonade (Апельсиновий лимонад, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26294-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24292" available="true">
+<offer id="24292" available="false">
 <url>https://hardsmoke.store/jidkost-creepy-orbit-spearmint-orbit-myata-50-mg-15-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -117918,7 +117918,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Blueberry Lime (Чорниця Лайм) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26831" available="true">
+<offer id="26831" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-green-mango-guava-zelenoe-mango-guava-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -136039,7 +136039,7 @@
 <img alt="Тютюн 420 Light Айс груша (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18217-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7322" available="true">
+<offer id="7322" available="false">
 <url>https://hardsmoke.store/tabak-420-light-ays-limon-myata-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136177,7 +136177,7 @@
 <img alt="Тютюн 420 Light Айс лимон м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8178-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9063" available="false">
+<offer id="9063" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-malina-limon-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136729,7 +136729,7 @@
 <img alt="Тютюн 420 Light Апельсин Манго (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20209-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26458" available="true">
+<offer id="26458" available="false">
 <url>https://hardsmoke.store/tabak-420-light-apelsin-klubnika-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141329,7 +141329,7 @@
 <img alt="Тютюн 420 Light Чорниця м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8186-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23000" available="true">
+<offer id="23000" available="false">
 <url>https://hardsmoke.store/tabak-420-light-yablochnyie-mishki-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -150162,84 +150162,84 @@
 <name>Ельф Raya D3 25000 Альпійська М&apos;ята</name>
 </offer>
 <offer id="glassws99274-11" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-11</vendorCode>
 <name>Ельф Moon Night 40000 Синя Малина Лимонад</name>
 </offer>
 <offer id="glassws99274-3" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-3</vendorCode>
 <name>Ельф Moon Night 40000 Персик Лід</name>
 </offer>
 <offer id="glassws99274-4" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-4</vendorCode>
 <name>Ельф Moon Night 40000 М&apos;ята</name>
 </offer>
 <offer id="glassws99274-5" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-5</vendorCode>
 <name>Ельф Moon Night 40000 Манго Персик Кавун</name>
 </offer>
 <offer id="glassws99274-7" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-7</vendorCode>
 <name>Ельф Moon Night 40000 Лимон Лайм</name>
 </offer>
 <offer id="glassws99274-6" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-6</vendorCode>
 <name>Ельф Moon Night 40000 Лайм Кола</name>
 </offer>
 <offer id="glassws99274-8" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-8</vendorCode>
 <name>Ельф Moon Night 40000 Ківі Маракуйя Гуава</name>
 </offer>
 <offer id="glassws99274-1" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-1</vendorCode>
 <name>Ельф Moon Night 40000 Кавун Лід</name>
 </offer>
 <offer id="glassws99274-2" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-2</vendorCode>
 <name>Ельф Moon Night 40000 Гранат</name>
 </offer>
 <offer id="glassws99274" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274</vendorCode>
 <name>Ельф Moon Night 40000 Вишня Кавун</name>
 </offer>
 <offer id="glassws99274-9" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-9</vendorCode>
 <name>Ельф Moon Night 40000 Виноград Малина</name>
 </offer>
 <offer id="glassws99274-10" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws99274-10</vendorCode>
@@ -153767,7 +153767,7 @@
 <name>Ельф GH23000 Кавун Лід</name>
 </offer>
 <offer id="glassws83959-25" available="false">
-<price>470</price>
+<price>495</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws83959-25</vendorCode>
@@ -154369,105 +154369,105 @@
 <name>Vozol Rave 40000 Чорниця Лід</name>
 </offer>
 <offer id="glassws57448" available="false">
-<price>495</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448</vendorCode>
 <name>Ельф GH 33000 PRO Малина Грейпфрут Лимон (Raspberry Grapefruit Lemon)</name>
 </offer>
 <offer id="glassws57448-9" available="false">
-<price>495</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-9</vendorCode>
 <name>Ельф GH 33000 PRO Виноград Лід (Grape Ice)</name>
 </offer>
 <offer id="glassws57448-14" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-14</vendorCode>
 <name>Ельф GH 33000 PRO Вишня (Granny Cherry)</name>
 </offer>
 <offer id="glassws57448-2" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-2</vendorCode>
 <name>Ельф GH 33000 PRO Вишня Гранат Ананас (Cherry Pomegranate Pineapple)</name>
 </offer>
 <offer id="glassws57448-7" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-7</vendorCode>
 <name>Ельф GH 33000 PRO Гірська М&apos;ята (Mountain Mint)</name>
 </offer>
 <offer id="glassws57448-11" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-11</vendorCode>
 <name>Ельф GH 33000 PRO Гранатовий Вибух (Pomegranate Burst)</name>
 </offer>
 <offer id="glassws57448-1" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-1</vendorCode>
 <name>Ельф GH 33000 PRO Грейпфрут Гуава (Grapefruit Passion Guava)</name>
 </offer>
 <offer id="glassws57448-12" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-12</vendorCode>
 <name>Ельф GH 33000 PRO Грушова Газованка (Pear Soda)</name>
 </offer>
 <offer id="glassws57448-8" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-8</vendorCode>
 <name>Ельф GH 33000 PRO Кавун Лід (Watermelon Ice)</name>
 </offer>
 <offer id="glassws57448-10" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-10</vendorCode>
 <name>Ельф GH 33000 PRO Кисла Полуниця Драгонфрут (Sour Strawberry Dragonfruit)</name>
 </offer>
 <offer id="glassws57448-5" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-5</vendorCode>
 <name>Ельф GH 33000 PRO Ківі Ананас Персік (Kiwi Pineapple Peach)</name>
 </offer>
 <offer id="glassws57448-6" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-6</vendorCode>
 <name>Ельф GH 33000 PRO Лимон Лайм (Lemon Lime)</name>
 </offer>
 <offer id="glassws57448-13" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-13</vendorCode>
 <name>Ельф GH 33000 PRO Синя Малина Лід (Blue Razz Ice)</name>
 </offer>
 <offer id="glassws57448-4" available="false">
-<price>495</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-4</vendorCode>
 <name>Ельф GH 33000 PRO Хвоя Ягоди (Pine Needles)</name>
 </offer>
 <offer id="glassws57448-3" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>glassws57448-3</vendorCode>
@@ -156056,105 +156056,105 @@
 <name>Под FS18000 Чорниця Малина</name>
 </offer>
 <offer id="topws57448-9" available="false">
-<price>495</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-9</vendorCode>
 <name>Под GH 33000 PRO Виноград Лід (Grape Ice)</name>
 </offer>
 <offer id="topws57448-14" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-14</vendorCode>
 <name>Под GH 33000 PRO Вишня (Granny Cherry)</name>
 </offer>
 <offer id="topws57448-2" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-2</vendorCode>
 <name>Под GH 33000 PRO Вишня Гранат Ананас (Cherry Pomegranate Pineapple)</name>
 </offer>
 <offer id="topws57448-7" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-7</vendorCode>
 <name>Под GH 33000 PRO Гірська М&apos;ята (Mountain Mint)</name>
 </offer>
 <offer id="topws57448-11" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-11</vendorCode>
 <name>Под GH 33000 PRO Гранатовий Вибух (Pomegranate Burst)</name>
 </offer>
 <offer id="topws57448-1" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-1</vendorCode>
 <name>Под GH 33000 PRO Грейпфрут Гуава (Grapefruit Passion Guava)</name>
 </offer>
 <offer id="topws57448-12" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-12</vendorCode>
 <name>Под GH 33000 PRO Грушова Газованка (Pear Soda)</name>
 </offer>
 <offer id="topws57448-8" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-8</vendorCode>
 <name>Под GH 33000 PRO Кавун Лід (Watermelon Ice)</name>
 </offer>
 <offer id="topws57448-10" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-10</vendorCode>
 <name>Под GH 33000 PRO Кисла Полуниця Драгонфрут (Sour Strawberry Dragonfruit)</name>
 </offer>
 <offer id="topws57448-5" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-5</vendorCode>
 <name>Под GH 33000 PRO Ківі Ананас Персік (Kiwi Pineapple Peach)</name>
 </offer>
 <offer id="topws57448-6" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-6</vendorCode>
 <name>Под GH 33000 PRO Лимон Лайм (Lemon Lime)</name>
 </offer>
 <offer id="topws57448" available="false">
-<price>495</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448</vendorCode>
 <name>Под GH 33000 PRO Малина Грейпфрут Лимон (Raspberry Grapefruit Lemon)</name>
 </offer>
 <offer id="topws57448-13" available="false">
-<price>465</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-13</vendorCode>
 <name>Под GH 33000 PRO Синя Малина Лід (Blue Razz Ice)</name>
 </offer>
 <offer id="topws57448-4" available="false">
-<price>495</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-4</vendorCode>
 <name>Под GH 33000 PRO Хвоя Ягоди (Pine Needles)</name>
 </offer>
 <offer id="topws57448-3" available="false">
-<price>460</price>
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws57448-3</vendorCode>
@@ -156259,7 +156259,7 @@
 <name>Под GH23000 Кавун Вишня</name>
 </offer>
 <offer id="topws83959-25" available="false">
-<price>470</price>
+<price>495</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws83959-25</vendorCode>
@@ -156861,84 +156861,84 @@
 <name>Под LUX 2000 Яблуко Персик</name>
 </offer>
 <offer id="topws99274-10" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-10</vendorCode>
 <name>Под Moon Night 40000 Виноград Лід</name>
 </offer>
 <offer id="topws99274-9" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-9</vendorCode>
 <name>Под Moon Night 40000 Виноград Малина</name>
 </offer>
 <offer id="topws99274" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274</vendorCode>
 <name>Под Moon Night 40000 Вишня Кавун</name>
 </offer>
 <offer id="topws99274-2" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-2</vendorCode>
 <name>Под Moon Night 40000 Гранат</name>
 </offer>
 <offer id="topws99274-1" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-1</vendorCode>
 <name>Под Moon Night 40000 Кавун Лід</name>
 </offer>
 <offer id="topws99274-8" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-8</vendorCode>
 <name>Под Moon Night 40000 Ківі Маракуйя Гуава</name>
 </offer>
 <offer id="topws99274-6" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-6</vendorCode>
 <name>Под Moon Night 40000 Лайм Кола</name>
 </offer>
 <offer id="topws99274-7" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-7</vendorCode>
 <name>Под Moon Night 40000 Лимон Лайм</name>
 </offer>
 <offer id="topws99274-5" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-5</vendorCode>
 <name>Под Moon Night 40000 Манго Персик Кавун</name>
 </offer>
 <offer id="topws99274-4" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-4</vendorCode>
 <name>Под Moon Night 40000 М&apos;ята</name>
 </offer>
 <offer id="topws99274-3" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-3</vendorCode>
 <name>Под Moon Night 40000 Персик Лід</name>
 </offer>
 <offer id="topws99274-11" available="false">
-<price>470</price>
+<price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>10</categoryId>
 <vendorCode>topws99274-11</vendorCode>
