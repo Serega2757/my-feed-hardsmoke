@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27 12:53">
+<yml_catalog date="2026-03-27 13:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -138897,7 +138897,7 @@
 <img alt="Тютюн 420 Light Літній вайб (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7335-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8211" available="true">
+<offer id="8211" available="false">
 <url>https://hardsmoke.store/tabak-420-light-letniy-vayb-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140277,7 +140277,7 @@
 <img alt="Тютюн 420 Light Свіжі Ягоди (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22658-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22999" available="true">
+<offer id="22999" available="false">
 <url>https://hardsmoke.store/tabak-420-light-siniy-limonad-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141657,7 +141657,7 @@
 <img alt="Тютюн 420 Light Ягідне Морозиво (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22657-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7328" available="true">
+<offer id="7328" available="false">
 <url>https://hardsmoke.store/tabak-420-light-yagodnyiy-mors-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
