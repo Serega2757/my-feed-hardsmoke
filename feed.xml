@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27 14:53">
+<yml_catalog date="2026-03-27 15:54">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -117942,7 +117942,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Orange Passion Fruit (Апельсин Маракуя) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26839" available="true">
+<offer id="26839" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-peach-lime-persik-laym-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -136275,7 +136275,7 @@
 <img alt="Тютюн 420 Light Айс малина лимон (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18216-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7333" available="true">
+<offer id="7333" available="false">
 <url>https://hardsmoke.store/tabak-420-light-ays-yabloko-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138805,7 +138805,7 @@
 <img alt="Тютюн 420 Light Лімончелло (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22998-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23003" available="true">
+<offer id="23003" available="false">
 <url>https://hardsmoke.store/tabak-420-light-limonchello-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139035,7 +139035,7 @@
 <img alt="Тютюн 420 Light Манго Персик Диня (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23002-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23007" available="true">
+<offer id="23007" available="false">
 <url>https://hardsmoke.store/tabak-420-light-mango-persik-dyinya-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
