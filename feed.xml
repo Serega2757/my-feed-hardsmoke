@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-29 22:53">
+<yml_catalog date="2026-03-30 12:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -102803,7 +102803,7 @@
 <img alt="Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26086-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26089" available="false">
+<offer id="26089" available="true">
 <url>https://hardsmoke.store/jidkost-nectar-coffee-tobacco-kofe-tabak-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
@@ -129640,7 +129640,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo Vinci SE2 900 Glacier Silver (Металік, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26047" available="true">
+<offer id="26047" available="false">
 <url>https://hardsmoke.store/voopoo-vinci-se2-900-jet-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>376</price>
 <currencyId>UAH</currencyId>
@@ -130158,7 +130158,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo VMATE PRO Power Edition 900 Whorl Gray (Сіро-чорний, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="2375" available="false">
+<offer id="2375" available="true">
 <url>https://hardsmoke.store/tabak-420-apple-squirt-yablochnyie-konfetyi-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -130526,7 +130526,7 @@
 <img alt="Тютюн 420 Barberry Candy (Барбарисова Цукерка, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7728-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7730" available="false">
+<offer id="7730" available="true">
 <url>https://hardsmoke.store/tabak-420-barberry-candy-barbarisovaya-konfeta-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -131446,7 +131446,7 @@
 <img alt="Тютюн 420 Candy Mint (М'ятні Лідяники, 40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18118-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7068" available="false">
+<offer id="7068" available="true">
 <url>https://hardsmoke.store/tabak-420-captain-baldezh-grushevyiy-limonad-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -131492,7 +131492,7 @@
 <img alt="Тютюн 420 Captain Baldezh (Грушевий Лимонад, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7068-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9078" available="false">
+<offer id="9078" available="true">
 <url>https://hardsmoke.store/tabak-420-captain-baldezh-grushevyiy-limonad-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -132917,7 +132917,7 @@
 <img alt="Тютюн 420 Frost Line Berry citrus (Малина Апельсин Лайм Лід, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22869-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22875" available="false">
+<offer id="22875" available="true">
 <url>https://hardsmoke.store/tabak-420-frost-line-berry-citrus-malina-apelsin-laym-led-250-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
@@ -134481,7 +134481,7 @@
 <img alt="Тютюн 420 Frostbite (Холодок, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/2132-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="6549" available="false">
+<offer id="6549" available="true">
 <url>https://hardsmoke.store/tabak-420-frostbite-holodok-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -135861,7 +135861,7 @@
 <img alt="Тютюн 420 Lemon Squirt (Лимон, 40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18128-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9477" available="false">
+<offer id="9477" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-grusha-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -135999,7 +135999,7 @@
 <img alt="Тютюн 420 Light Айс груша (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18217-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7322" available="false">
+<offer id="7322" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-limon-myata-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136045,7 +136045,7 @@
 <img alt="Тютюн 420 Light Айс лимон м'ята (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7322-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8198" available="false">
+<offer id="8198" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-limon-myata-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136183,7 +136183,7 @@
 <img alt="Тютюн 420 Light Айс лимон малина  (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9063-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18502" available="false">
+<offer id="18502" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-malina-limon-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136413,7 +136413,7 @@
 <img alt="Тютюн 420 Light Айс яблуко (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8189-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7954" available="false">
+<offer id="7954" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ananasovyiy-smuzi-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136459,7 +136459,7 @@
 <img alt="Тютюн 420 Light Ананасовий смузі (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7954-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8213" available="false">
+<offer id="8213" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ananasovyiy-smuzi-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136551,7 +136551,7 @@
 <img alt="Тютюн 420 Light Ананасовий смузі (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8193-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20205" available="false">
+<offer id="20205" available="true">
 <url>https://hardsmoke.store/tabak-420-light-apelsin-mango-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136597,7 +136597,7 @@
 <img alt="Тютюн 420 Light Апельсин Манго (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20205-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20207" available="false">
+<offer id="20207" available="true">
 <url>https://hardsmoke.store/tabak-420-light-apelsin-mango-250g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136689,7 +136689,7 @@
 <img alt="Тютюн 420 Light Апельсин Манго (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20209-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26458" available="false">
+<offer id="26458" available="true">
 <url>https://hardsmoke.store/tabak-420-light-apelsin-klubnika-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136735,7 +136735,7 @@
 <img alt="Тютюн 420 Light Апельсин Полуниця (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26458-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26459" available="false">
+<offer id="26459" available="true">
 <url>https://hardsmoke.store/tabak-420-light-apelsin-klubnika-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -136965,7 +136965,7 @@
 <img alt="Тютюн 420 Light Бананово-горіховий десерт (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9835-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7326" available="false">
+<offer id="7326" available="true">
 <url>https://hardsmoke.store/tabak-420-light-bananovo-klubnichnoe-morojenoe-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137011,7 +137011,7 @@
 <img alt="Тютюн 420 Light Бананово-полуничне морозиво (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7326-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8202" available="false">
+<offer id="8202" available="true">
 <url>https://hardsmoke.store/tabak-420-light-bananovo-klubnichnoe-morojenoe-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137149,7 +137149,7 @@
 <img alt="Тютюн 420 Light Ванільна Кола (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7321" available="false">
+<offer id="7321" available="true">
 <url>https://hardsmoke.store/tabak-420-light-vinograd-myata-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137195,7 +137195,7 @@
 <img alt="Тютюн 420 Light Виноград м'ята (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7321-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8197" available="false">
+<offer id="8197" available="true">
 <url>https://hardsmoke.store/tabak-420-light-vinograd-myata-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137287,7 +137287,7 @@
 <img alt="Тютюн 420 Light Виноград м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8177-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26461" available="false">
+<offer id="26461" available="true">
 <url>https://hardsmoke.store/tabak-420-light-vishnya-barbaris-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137333,7 +137333,7 @@
 <img alt="Тютюн 420 Light Вишня Барбарис (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26461-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26462" available="false">
+<offer id="26462" available="true">
 <url>https://hardsmoke.store/tabak-420-light-vishnya-barbaris-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137379,7 +137379,7 @@
 <img alt="Тютюн 420 Light Вишня Барбарис (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26462-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21756" available="false">
+<offer id="21756" available="true">
 <url>https://hardsmoke.store/tabak-420-light-greypfrut-malina-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137425,7 +137425,7 @@
 <img alt="Тютюн 420 Light Грейпфрут Малина (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21756-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21759" available="false">
+<offer id="21759" available="true">
 <url>https://hardsmoke.store/tabak-420-light-greypfrut-malina-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137793,7 +137793,7 @@
 <img alt="Тютюн 420 Light Енергетичний напій (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8849-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20204" available="false">
+<offer id="20204" available="true">
 <url>https://hardsmoke.store/tabak-420-light-arbuz-limon-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137839,7 +137839,7 @@
 <img alt="Тютюн 420 Light Кавун Лимон (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20204-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20206" available="false">
+<offer id="20206" available="true">
 <url>https://hardsmoke.store/tabak-420-light-arbuz-limon-250g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137931,7 +137931,7 @@
 <img alt="Тютюн 420 Light Кавун Лимон (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20208-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7327" available="false">
+<offer id="7327" available="true">
 <url>https://hardsmoke.store/tabak-420-light-arbuzno-dyinnyiy-sorbet-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137977,7 +137977,7 @@
 <img alt="Тютюн 420 Light Кавуново-динний сорбет (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7327-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8203" available="false">
+<offer id="8203" available="true">
 <url>https://hardsmoke.store/tabak-420-light-arbuzno-dyinnyiy-sorbet-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138069,7 +138069,7 @@
 <img alt="Тютюн 420 Light Кавуново-динний сорбет (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8183-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26455" available="false">
+<offer id="26455" available="true">
 <url>https://hardsmoke.store/tabak-420-light-kalamansi-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138115,7 +138115,7 @@
 <img alt="Тютюн 420 Light Каламансі (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26455-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26456" available="false">
+<offer id="26456" available="true">
 <url>https://hardsmoke.store/tabak-420-light-kalamansi-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138207,7 +138207,7 @@
 <img alt="Тютюн 420 Light Крюшон (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7329" available="false">
+<offer id="7329" available="true">
 <url>https://hardsmoke.store/tabak-420-light-lav-66-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138253,7 +138253,7 @@
 <img alt="Тютюн 420 Light Лав 66 (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7329-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8205" available="false">
+<offer id="8205" available="true">
 <url>https://hardsmoke.store/tabak-420-light-lav-66-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138299,7 +138299,7 @@
 <img alt="Тютюн 420 Light Лав 66 (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8205-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8185" available="true">
+<offer id="8185" available="false">
 <url>https://hardsmoke.store/tabak-420-light-lav-66-40-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138345,7 +138345,7 @@
 <img alt="Тютюн 420 Light Лав 66 (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8185-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9478" available="false">
+<offer id="9478" available="true">
 <url>https://hardsmoke.store/tabak-420-light-laym-persik-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138529,7 +138529,7 @@
 <img alt="Тютюн 420 Light Леді кілер (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8856-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8861" available="false">
+<offer id="8861" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ledi-killer-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138759,7 +138759,7 @@
 <img alt="Тютюн 420 Light Лимонно-медовий холл (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8852-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22998" available="false">
+<offer id="22998" available="true">
 <url>https://hardsmoke.store/tabak-420-light-limonchello-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138805,7 +138805,7 @@
 <img alt="Тютюн 420 Light Лімончелло (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22998-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23003" available="false">
+<offer id="23003" available="true">
 <url>https://hardsmoke.store/tabak-420-light-limonchello-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138851,7 +138851,7 @@
 <img alt="Тютюн 420 Light Лімончелло (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23003-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7335" available="false">
+<offer id="7335" available="true">
 <url>https://hardsmoke.store/tabak-420-light-letniy-vayb-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -138897,7 +138897,7 @@
 <img alt="Тютюн 420 Light Літній вайб (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7335-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8211" available="false">
+<offer id="8211" available="true">
 <url>https://hardsmoke.store/tabak-420-light-letniy-vayb-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139035,7 +139035,7 @@
 <img alt="Тютюн 420 Light Манго Персик Диня (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23002-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23007" available="false">
+<offer id="23007" available="true">
 <url>https://hardsmoke.store/tabak-420-light-mango-persik-dyinya-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139127,7 +139127,7 @@
 <img alt="Тютюн 420 Light Маршмеллоу полуничний (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9834-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7332" available="false">
+<offer id="7332" available="true">
 <url>https://hardsmoke.store/tabak-420-light-molochnoe-pechene-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139633,7 +139633,7 @@
 <img alt="Тютюн 420 Light Полуничний мільфей (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8180-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8853" available="false">
+<offer id="8853" available="true">
 <url>https://hardsmoke.store/tabak-420-light-rafaello-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139771,7 +139771,7 @@
 <img alt="Тютюн 420 Light Рафаелло (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8848-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23001" available="false">
+<offer id="23001" available="true">
 <url>https://hardsmoke.store/tabak-420-light-red-miks-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139817,7 +139817,7 @@
 <img alt="Тютюн 420 Light Ред Мікс (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23001-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23006" available="false">
+<offer id="23006" available="true">
 <url>https://hardsmoke.store/tabak-420-light-red-miks-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139863,7 +139863,7 @@
 <img alt="Тютюн 420 Light Ред Мікс (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23006-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7955" available="false">
+<offer id="7955" available="true">
 <url>https://hardsmoke.store/tabak-420-light-rozovyiy-limonad-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139909,7 +139909,7 @@
 <img alt="Тютюн 420 Light Рожевий лимонад (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7955-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8214" available="false">
+<offer id="8214" available="true">
 <url>https://hardsmoke.store/tabak-420-light-rozovyiy-limonad-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140001,7 +140001,7 @@
 <img alt="Тютюн 420 Light Рожевий лимонад (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8194-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21410" available="false">
+<offer id="21410" available="true">
 <url>https://hardsmoke.store/tabak-420-light-sammer-taym-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140047,7 +140047,7 @@
 <img alt="Тютюн 420 Light Саммер Тайм (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21410-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21412" available="false">
+<offer id="21412" available="true">
 <url>https://hardsmoke.store/tabak-420-light-sammer-taym-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140139,7 +140139,7 @@
 <img alt="Тютюн 420 Light Саммер Тайм (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/24171-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21758" available="false">
+<offer id="21758" available="true">
 <url>https://hardsmoke.store/tabak-420-light-svejie-yagodyi-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140185,7 +140185,7 @@
 <img alt="Тютюн 420 Light Свіжі Ягоди (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21758-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21761" available="false">
+<offer id="21761" available="true">
 <url>https://hardsmoke.store/tabak-420-light-svejie-yagodyi-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140277,7 +140277,7 @@
 <img alt="Тютюн 420 Light Свіжі Ягоди (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22658-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22999" available="false">
+<offer id="22999" available="true">
 <url>https://hardsmoke.store/tabak-420-light-siniy-limonad-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140323,7 +140323,7 @@
 <img alt="Тютюн 420 Light Синій Лимонад (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22999-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23004" available="false">
+<offer id="23004" available="true">
 <url>https://hardsmoke.store/tabak-420-light-siniy-limonad-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140599,7 +140599,7 @@
 <img alt="Тютюн 420 Light Сливовий чай (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9832-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7331" available="false">
+<offer id="7331" available="true">
 <url>https://hardsmoke.store/tabak-420-light-tropicheskiy-sok-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140645,7 +140645,7 @@
 <img alt="Тютюн 420 Light Тропічний сік (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7331-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8207" available="false">
+<offer id="8207" available="true">
 <url>https://hardsmoke.store/tabak-420-light-tropicheskiy-sok-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140737,7 +140737,7 @@
 <img alt="Тютюн 420 Light Тропічний сік (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8187-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8855" available="false">
+<offer id="8855" available="true">
 <url>https://hardsmoke.store/tabak-420-light-fruktovaya-jvachka-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140875,7 +140875,7 @@
 <img alt="Тютюн 420 Light Фруктова жуйка (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8850-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7334" available="false">
+<offer id="7334" available="true">
 <url>https://hardsmoke.store/tabak-420-light-tsitrusovyiy-limonad-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140921,7 +140921,7 @@
 <img alt="Тютюн 420 Light Цитрусовий лимонад (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7334-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8210" available="false">
+<offer id="8210" available="true">
 <url>https://hardsmoke.store/tabak-420-light-tsitrusovyiy-limonad-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141151,7 +141151,7 @@
 <img alt="Тютюн 420 Light Черничний мафін (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8179-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7330" available="false">
+<offer id="7330" available="true">
 <url>https://hardsmoke.store/tabak-420-light-chernika-myata-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141197,7 +141197,7 @@
 <img alt="Тютюн 420 Light Чорниця м'ята (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7330-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8206" available="false">
+<offer id="8206" available="true">
 <url>https://hardsmoke.store/tabak-420-light-chernika-myata-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141289,7 +141289,7 @@
 <img alt="Тютюн 420 Light Чорниця м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8186-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23000" available="false">
+<offer id="23000" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yablochnyie-mishki-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141381,7 +141381,7 @@
 <img alt="Тютюн 420 Light Яблучні Ведмедики (250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23005-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7325" available="false">
+<offer id="7325" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yagodnaya-jvachka-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141427,7 +141427,7 @@
 <img alt="Тютюн 420 Light Ягідна жуйка (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7325-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8201" available="false">
+<offer id="8201" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yagodnaya-jvachka-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141519,7 +141519,7 @@
 <img alt="Тютюн 420 Light Ягідна жуйка (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8181-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21411" available="false">
+<offer id="21411" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yagodnoe-morojenoe-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141565,7 +141565,7 @@
 <img alt="Тютюн 420 Light Ягідне Морозиво (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21411-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21413" available="false">
+<offer id="21413" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yagodnoe-morojenoe-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141657,7 +141657,7 @@
 <img alt="Тютюн 420 Light Ягідне Морозиво (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22657-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7328" available="false">
+<offer id="7328" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yagodnyiy-mors-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141703,7 +141703,7 @@
 <img alt="Тютюн 420 Light Ягідний морс (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7328-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8204" available="false">
+<offer id="8204" available="true">
 <url>https://hardsmoke.store/tabak-420-light-yagodnyiy-mors-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -142081,7 +142081,7 @@
 <img alt="Тютюн 420 Malvina (Малина, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/1843-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="6556" available="false">
+<offer id="6556" available="true">
 <url>https://hardsmoke.store/tabak-420-malvina-malina-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -143967,7 +143967,7 @@
 <img alt="Тютюн 420 Punk Cherry (Вишня, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/5121-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="6561" available="false">
+<offer id="6561" available="true">
 <url>https://hardsmoke.store/tabak-420-punk-cherry-vishnya-250-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
