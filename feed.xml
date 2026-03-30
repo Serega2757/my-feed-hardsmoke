@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 15:55">
+<yml_catalog date="2026-03-30 16:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -131538,7 +131538,7 @@
 <img alt="Тютюн 420 Captain Baldezh (Грушевий Лимонад, 250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9078-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18151" available="true">
+<offer id="18151" available="false">
 <url>https://hardsmoke.store/tabak-420-captain-baldezh-grushevyiy-limonad-40-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
