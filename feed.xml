@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-01 12:53">
+<yml_catalog date="2026-04-01 13:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -136137,7 +136137,7 @@
 <img alt="Тютюн 420 Light Айс лимон м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8178-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9063" available="false">
+<offer id="9063" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-malina-limon-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137563,7 +137563,7 @@
 <img alt="Тютюн 420 Light Грін Мікс (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7953-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8212" available="false">
+<offer id="8212" available="true">
 <url>https://hardsmoke.store/tabak-420-light-grin-miks-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
