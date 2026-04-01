@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-01 14:54">
+<yml_catalog date="2026-04-01 15:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -52995,7 +52995,7 @@
 <img alt="Набір для самозамішування Punch Pear lemonade (Груша Лимон, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25424-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25384" available="true">
+<offer id="25384" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-pear-lemonade-grusha-limon-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -138207,7 +138207,7 @@
 <img alt="Тютюн 420 Light Крюшон (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7329" available="true">
+<offer id="7329" available="false">
 <url>https://hardsmoke.store/tabak-420-light-lav-66-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
