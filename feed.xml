@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-06 13:53">
+<yml_catalog date="2026-04-06 14:54">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -87430,7 +87430,7 @@
 <img alt="Рідина Elfliq Elfbull Ice️ (Ельфбулл Айс️, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19780-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18705" available="true">
+<offer id="18705" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-elfbull-ice%EF%B8%8F-30ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -133739,7 +133739,7 @@
 <img alt="Тютюн 420 Frost Line Cherry lemonade (Вишня Грейпфрут Кола Лід, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22870-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22876" available="false">
+<offer id="22876" available="true">
 <url>https://hardsmoke.store/tabak-420-frost-line-cherry-lemonade-vishnya-greypfrut-kola-led-250-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
@@ -137925,7 +137925,7 @@
 <img alt="Тютюн 420 Light Виноград м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8177-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26461" available="true">
+<offer id="26461" available="false">
 <url>https://hardsmoke.store/tabak-420-light-vishnya-barbaris-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139535,7 +139535,7 @@
 <img alt="Тютюн 420 Light Літній вайб (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7335-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8211" available="true">
+<offer id="8211" available="false">
 <url>https://hardsmoke.store/tabak-420-light-letniy-vayb-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
