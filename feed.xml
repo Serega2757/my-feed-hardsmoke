@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 16:54">
+<yml_catalog date="2026-04-09 17:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -139167,7 +139167,7 @@
 <img alt="Тютюн 420 Light Леді кілер (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8856-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8861" available="true">
+<offer id="8861" available="false">
 <url>https://hardsmoke.store/tabak-420-light-ledi-killer-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140961,7 +140961,7 @@
 <img alt="Тютюн 420 Light Синій Лимонад (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22999-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23004" available="true">
+<offer id="23004" available="false">
 <url>https://hardsmoke.store/tabak-420-light-siniy-limonad-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
