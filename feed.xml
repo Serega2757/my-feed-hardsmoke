@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 13:53">
+<yml_catalog date="2026-04-09 14:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -3378,7 +3378,7 @@
 <img alt="Набір для самозамішування Chaser Banana Ultra (Банан, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25482-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="28010" available="false">
+<offer id="28010" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-artic-house-prohladnaya-myata-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3434,7 +3434,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28011" available="false">
+<offer id="28011" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-bass-berry-smorodina-malina-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3462,7 +3462,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28019" available="false">
+<offer id="28019" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-bass-berry-smorodina-malina-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3490,7 +3490,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28014" available="false">
+<offer id="28014" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-blue-ice-beat-chernichnoe-morojenoe-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3518,7 +3518,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28022" available="false">
+<offer id="28022" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-blue-ice-beat-chernichnoe-morojenoe-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3546,7 +3546,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28013" available="false">
+<offer id="28013" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-bubble-berry-tune-chernichnaya-jvachka-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3602,7 +3602,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28009" available="false">
+<offer id="28009" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-cherry-pulse-vishnevaya-kola-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3658,7 +3658,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28007" available="false">
+<offer id="28007" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-grape-cherry-vinograd-vishnya-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3686,7 +3686,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28015" available="false">
+<offer id="28015" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-grape-cherry-vinograd-vishnya-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3714,7 +3714,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28008" available="false">
+<offer id="28008" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-grape-techno-vinogradnyiy-energetik-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3742,7 +3742,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28016" available="false">
+<offer id="28016" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-grape-techno-vinogradnyiy-energetik-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3770,7 +3770,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28012" available="false">
+<offer id="28012" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-pineapple-bass-sochnyiy-ananas-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3798,7 +3798,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28020" available="false">
+<offer id="28020" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-pineapple-bass-sochnyiy-ananas-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -52553,7 +52553,7 @@
 <img alt="Набір для самозамішування Punch Neon Sour Apple (Кисле Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26849-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26859" available="true">
+<offer id="26859" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-neon-sour-apple-kisloe-yabloko-65-mg-30-ml</url>
 <price>197</price>
 <currencyId>UAH</currencyId>
@@ -53913,7 +53913,7 @@
 <img alt="Набір для самозамішування Punch Red Pleasure (Вишня Лимон Троянда, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25407-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25428" available="true">
+<offer id="25428" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-sherbet-limon-chernika-holod-50-mg-15-ml</url>
 <price>111</price>
 <currencyId>UAH</currencyId>
@@ -54033,7 +54033,7 @@
 <img alt="Набір для самозамішування Punch Sherbet (Лимон Чорниця Холод, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25408-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25429" available="true">
+<offer id="25429" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-sour-berries-kislyie-yagodyi-50-mg-15-ml</url>
 <price>111</price>
 <currencyId>UAH</currencyId>
@@ -89057,7 +89057,7 @@
 <img alt="Рідина Elfliq Spearmint (М'ята, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19784-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18709" available="true">
+<offer id="18709" available="false">
 <url>https://hardsmoke.store/jidkost-elfliq-spearmint-myata-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -105347,7 +105347,7 @@
 <img alt="Рідина Sqwiz Dr. Pepper (Д. Пеппер, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25987-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25989" available="false">
+<offer id="25989" available="true">
 <url>https://hardsmoke.store/jidkost-sqwiz-energy-shot-energetik-50-mg-30-ml</url>
 <price>115</price>
 <currencyId>UAH</currencyId>
@@ -112260,7 +112260,7 @@
 <img alt="Картридж Vaporesso Xros 0.6 Ом 2 мл" src="https://hardsmoke.store/image/cache/catalog/exist/20880-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21284" available="true">
+<offer id="21284" available="false">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-08-om</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
