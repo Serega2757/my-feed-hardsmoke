@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 12:53">
+<yml_catalog date="2026-04-09 13:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -6819,7 +6819,7 @@
 <img alt="Набір для самозамішування Chaser Cherry Ultra (Вишня, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23291-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21563" available="false">
+<offer id="21563" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-balance-vishnya-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -44873,7 +44873,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="23081" available="false">
+<offer id="23081" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-spearmint-myata-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -61152,7 +61152,7 @@
 <img alt="Рідина 420 Liquid Айс Малина Лимон (50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24976-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20908" available="false">
+<offer id="20908" available="true">
 <url>https://hardsmoke.store/jidkost-420-liquid-ays-malina-limon-50-mg-30-ml</url>
 <price>135</price>
 <currencyId>UAH</currencyId>
@@ -69752,7 +69752,7 @@
 <img alt="Рідина Chaser Cherry Menthol Ultra (Вишня Ментол, 50мг, 30мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21538-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20809" available="false">
+<offer id="20809" available="true">
 <url>https://hardsmoke.store/jidkost-chaser-cherry-balance-vishnya-50-mg-30-ml</url>
 <price>220</price>
 <currencyId>UAH</currencyId>
@@ -112260,7 +112260,7 @@
 <img alt="Картридж Vaporesso Xros 0.6 Ом 2 мл" src="https://hardsmoke.store/image/cache/catalog/exist/20880-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21284" available="false">
+<offer id="21284" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-08-om</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
@@ -112430,7 +112430,7 @@
 <img alt="Картридж Vaporesso Xros Series COREX 2.0 0.6 Ом 3 мл" src="https://hardsmoke.store/image/cache/catalog/exist/25726-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25725" available="false">
+<offer id="25725" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-20-08-om-3-ml</url>
 <price>82</price>
 <currencyId>UAH</currencyId>
@@ -112550,7 +112550,7 @@
 <img alt="Картридж Vaporesso Xros Series COREX 3.0 0.4 Ом 3 мл" src="https://hardsmoke.site/image/cache/catalog/exist/27964-1-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="27146" available="false">
+<offer id="27146" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-06-om-2-ml</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
@@ -114578,7 +114578,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Grape (Виноград) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="21645" available="false">
+<offer id="21645" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-green-apple-zelenoe-yabloko-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -118564,7 +118564,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar TE6000 Lemon Lime (Лимон Лайм) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26832" available="false">
+<offer id="26832" available="true">
 <url>https://hardsmoke.store/elf-bar-te6000-orange-passion-fruit-apelsin-marakuyya-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -139167,7 +139167,7 @@
 <img alt="Тютюн 420 Light Леді кілер (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8856-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8861" available="false">
+<offer id="8861" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ledi-killer-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -140409,7 +140409,7 @@
 <img alt="Тютюн 420 Light Рафаелло (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8848-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23001" available="true">
+<offer id="23001" available="false">
 <url>https://hardsmoke.store/tabak-420-light-red-miks-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -141099,7 +141099,7 @@
 <img alt="Тютюн 420 Light Скіттлс (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7957-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8216" available="true">
+<offer id="8216" available="false">
 <url>https://hardsmoke.store/tabak-420-light-skittls-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
