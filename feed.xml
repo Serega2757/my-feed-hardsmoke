@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 14:53">
+<yml_catalog date="2026-04-09 15:54">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -22457,7 +22457,7 @@
 <img alt="Набір для самозамішування Epix Sweet Mango (Солодке манго, 65 мг 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26432-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26673" available="true">
+<offer id="26673" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-epix-sweet-mint-sladkaya-myata-50-mg-30-ml</url>
 <price>134</price>
 <currencyId>UAH</currencyId>
@@ -23577,7 +23577,7 @@
 <img alt="Набір для самозамішування Flavorlab Aroma MAX Lime strawberry (Лайм полуниці, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24542-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24541" available="true">
+<offer id="24541" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-aroma-max-mango-melon-mango-dyinya-50-mg-30-ml</url>
 <price>109</price>
 <currencyId>UAH</currencyId>
@@ -28296,7 +28296,7 @@
 <img alt="Набір для самозамішування Flavorlab M-Jam V2 Apple (Яблуко, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24538-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24534" available="true">
+<offer id="24534" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flavorlab-m-jam-v2-blueberry-chernika-50-mg-30-ml</url>
 <price>109</price>
 <currencyId>UAH</currencyId>
@@ -44873,7 +44873,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="23081" available="true">
+<offer id="23081" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-spearmint-myata-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
