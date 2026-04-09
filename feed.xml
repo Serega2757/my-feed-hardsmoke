@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09 20:54">
+<yml_catalog date="2026-04-09 22:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -117154,7 +117154,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar GH 23000 Purple Mint (Перпл Мінт) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26316" available="true">
+<offer id="26316" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-raspberry-watermelon-lemon-malina-arbuz-limon-odnorazovyiy-pod</url>
 <price>448</price>
 <currencyId>UAH</currencyId>
