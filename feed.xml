@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-11 12:53">
+<yml_catalog date="2026-04-11 13:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -133555,7 +133555,7 @@
 <img alt="Тютюн 420 Frost Line Berry citrus (Малина Апельсин Лайм Лід, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/22869-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22875" available="true">
+<offer id="22875" available="false">
 <url>https://hardsmoke.store/tabak-420-frost-line-berry-citrus-malina-apelsin-laym-led-250-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
