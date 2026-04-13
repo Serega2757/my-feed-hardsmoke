@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13 13:53">
+<yml_catalog date="2026-04-13 14:54">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -41971,7 +41971,7 @@
 <img alt="Набір для самозамішування Juni Watermelon Lemon (Кавун Лимон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23221-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23069" available="false">
+<offer id="23069" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-apple-yabloko-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -42451,7 +42451,7 @@
 <img alt="Набір для самозамішування Lucky Blueberry Lemonade (Чорничний лимонад, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25746-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23074" available="false">
+<offer id="23074" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-cactus-guava-kiwi-kaktus-guava-kivi-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -42611,7 +42611,7 @@
 
 </div>]]></description>
 </offer>
-<offer id="27984" available="false">
+<offer id="27984" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-lucky-chrome-blueberry-blackcurrant-chernika-smorodina-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -42723,7 +42723,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="27986" available="false">
+<offer id="27986" available="true">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-lucky-chrome-green-apple-lychee-zelenoe-yabloko-lichi-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -44873,7 +44873,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="23081" available="false">
+<offer id="23081" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-lucky-spearmint-myata-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -99457,7 +99457,7 @@
 <img alt="Рідина Lucky Blue Razz (Блю Разз, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/27644-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="27645" available="false">
+<offer id="27645" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-blue-razz-blyu-razz-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -101788,7 +101788,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28151" available="false">
+<offer id="28151" available="true">
 <url>https://hardsmoke.life/jidkost-lucky-sour-pineapple-methol-kislyiy-ananas-mentol-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -101867,7 +101867,7 @@
 <img alt="Рідина Lucky Spearmint (М'ята, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/20230-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19607" available="false">
+<offer id="19607" available="true">
 <url>https://hardsmoke.store/jidkost-lucky-mint-myata-50mg-30ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -135809,7 +135809,7 @@
 <img alt="Тютюн 420 Ice Cream (Ванільне морозиво, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9498-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7246" available="false">
+<offer id="7246" available="true">
 <url>https://hardsmoke.store/tabak-420-ice-grape-berry-vinograd-yagodyi-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -140823,7 +140823,7 @@
 <img alt="Тютюн 420 Light Свіжі Ягоди (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/21758-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21761" available="true">
+<offer id="21761" available="false">
 <url>https://hardsmoke.store/tabak-420-light-svejie-yagodyi-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
