@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13 12:53">
+<yml_catalog date="2026-04-13 13:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -6699,7 +6699,7 @@
 <img alt="Набір для самозамішування Chaser Cherry Menthol Ultra (Вишня Ментол, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21564-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25687" available="true">
+<offer id="25687" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-menthol-balance-vishnya-mentol-65-mg-10-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -52033,7 +52033,7 @@
 <img alt="Набір для самозамішування Punch Green Mix (Ківі М'ята Яблуко, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25420-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25380" available="true">
+<offer id="25380" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-green-mix-kivi-myata-yabloko-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -112260,7 +112260,7 @@
 <img alt="Картридж Vaporesso Xros 0.6 Ом 2 мл" src="https://hardsmoke.store/image/cache/catalog/exist/20880-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21284" available="false">
+<offer id="21284" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-08-om</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
@@ -112310,7 +112310,7 @@
 <img alt="Картридж Vaporesso XROS cartridge 1.0 Ом 2 мл" src="https://hardsmoke.store/image/cache/catalog/exist/20881-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24110" available="false">
+<offer id="24110" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-12-om-2-ml</url>
 <price>90</price>
 <currencyId>UAH</currencyId>
@@ -112550,7 +112550,7 @@
 <img alt="Картридж Vaporesso Xros Series COREX 3.0 0.4 Ом 3 мл" src="https://hardsmoke.site/image/cache/catalog/exist/27964-1-400x400.png"/>
 </div>]]></description>
 </offer>
-<offer id="27146" available="false">
+<offer id="27146" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-series-corex-30-06-om-2-ml</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
@@ -127346,7 +127346,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Vaporesso допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Vaporesso XROS 5 NANO 1600 Orange Leatherette (Помаранчевий, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="27571" available="true">
+<offer id="27571" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-5-nano-1600-yellow-satin-metallik-s-jeltyim-s-kartridjem-mnogorazovyiy-pod</url>
 <price>880</price>
 <currencyId>UAH</currencyId>
@@ -139673,7 +139673,7 @@
 <img alt="Тютюн 420 Light Манго Персик Диня (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/23002-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="23007" available="true">
+<offer id="23007" available="false">
 <url>https://hardsmoke.store/tabak-420-light-mango-persik-dyinya-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
