@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-14 15:53">
+<yml_catalog date="2026-04-14 16:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -3906,7 +3906,7 @@
 <img alt="Набір для самозамішування Chaser Berries Ultra (Ягоди, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23287-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21573" available="true">
+<offer id="21573" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-berries-balance-yagodyi-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -13942,7 +13942,7 @@
 <img alt="Набір для самозамішування Chaser Nova Apple&amp;Mixed (Мікс Яблук, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25518-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22846" available="true">
+<offer id="22846" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-berry-mint-yagodyi-myata-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
