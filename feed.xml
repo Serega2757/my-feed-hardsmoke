@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-14 17:53">
+<yml_catalog date="2026-04-14 18:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7019,7 +7019,7 @@
 <img alt="Набір для самозамішування Chaser Grape Ultra (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23293-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21562" available="false">
+<offer id="21562" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -9809,7 +9809,7 @@
 <img alt="Набір для самозамішування Chaser Lux Peach Yogurt (Персик Йогурт, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26584-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26815" available="false">
+<offer id="26815" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-peach-yogurt-persik-yogurt-65-mg-30-ml</url>
 <price>177</price>
 <currencyId>UAH</currencyId>
@@ -77792,7 +77792,7 @@
 <img alt="Рідина Creepy Double Melon (Дабл Мелон, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24300-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25781" available="false">
+<offer id="25781" available="true">
 <url>https://hardsmoke.store/jidkost-creepy-double-mint-dvoynaya-myata-50-mg-15-ml</url>
 <price>75</price>
 <currencyId>UAH</currencyId>
@@ -112260,7 +112260,7 @@
 <img alt="Картридж Vaporesso Xros 0.6 Ом 2 мл" src="https://hardsmoke.store/image/cache/catalog/exist/20880-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21284" available="false">
+<offer id="21284" available="true">
 <url>https://hardsmoke.store/kartridj-vaporesso-xros-08-om</url>
 <price>80</price>
 <currencyId>UAH</currencyId>
@@ -117972,7 +117972,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Pi9000 Grape raspberry (Виноград Малина) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="20276" available="false">
+<offer id="20276" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-green-apple-zelenoe-yabloko-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -118132,7 +118132,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Blue Razz Ice (Синій Лимонад Лід) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26883" available="false">
+<offer id="26883" available="true">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blueberry-ice-chernika-led-odnorazovyiy-pod</url>
 <price>448</price>
 <currencyId>UAH</currencyId>
@@ -118388,7 +118388,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar Raya D3 25000 Strawberry Grape (Полуниця Виноград) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="26897" available="false">
+<offer id="26897" available="true">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-strawberry-ice-klubnika-led-odnorazovyiy-pod</url>
 <price>448</price>
 <currencyId>UAH</currencyId>
@@ -136775,7 +136775,7 @@
 <img alt="Тютюн 420 Light Айс лимон м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8178-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9063" available="false">
+<offer id="9063" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ays-malina-limon-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -139121,7 +139121,7 @@
 <img alt="Тютюн 420 Light Лайм персик (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18218-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8856" available="false">
+<offer id="8856" available="true">
 <url>https://hardsmoke.store/tabak-420-light-ledi-killer-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
