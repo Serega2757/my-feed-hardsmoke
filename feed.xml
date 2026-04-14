@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13 19:53">
+<yml_catalog date="2026-04-14 12:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -15022,7 +15022,7 @@
 <img alt="Набір для самозамішування Chaser Nova Watermelon&amp;Melon (Кавун Диня, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22858-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25465" available="true">
+<offer id="25465" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-nova-watermelon-melon-arbuz-dyinya-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -51553,7 +51553,7 @@
 <img alt="Набір для самозамішування Punch Citrus Blast (Апельсин Лимон Мандарин, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25416-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25376" available="true">
+<offer id="25376" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-citrus-blast-apelsin-limon-mandarin-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -52113,7 +52113,7 @@
 <img alt="Набір для самозамішування Punch Green Mix (Ківі М'ята Яблуко, 65 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25400-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="27242" available="true">
+<offer id="27242" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-lemongrass-chill-lemongrass-led-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -54513,7 +54513,7 @@
 <img alt="Набір для самозамішування Punch Watermelon Fresh (Кавун Лимон Холод, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25432-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25392" available="true">
+<offer id="25392" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-punch-watermelon-fresh-arbuz-limon-holod-50-mg-30-ml</url>
 <price>181</price>
 <currencyId>UAH</currencyId>
@@ -86230,7 +86230,7 @@
 <img alt="Рідина Elfliq Blue Razz Lemonade (Блю Разз Лимонад, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19776-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18701" available="false">
+<offer id="18701" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-blue-razz-lemonade-blyu-razz-limonad-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -86310,7 +86310,7 @@
 <img alt="Рідина Elfliq Blueberry (Чорниця, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19777-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18702" available="false">
+<offer id="18702" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-chernika-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -86550,7 +86550,7 @@
 <img alt="Рідина Elfliq Blueberry Sour Raspberry (Чорниця Кисла малина, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19778-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18703" available="false">
+<offer id="18703" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-blueberry-sour-raspberry-chernika-kislaya-malina-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -87430,7 +87430,7 @@
 <img alt="Рідина Elfliq Elfbull Ice️ (Ельфбулл Айс️, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19780-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18705" available="false">
+<offer id="18705" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-elfbull-ice%EF%B8%8F-30ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -87510,7 +87510,7 @@
 <img alt="Рідина Elfliq Grape (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21059-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21068" available="false">
+<offer id="21068" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-grape-vinograd-50-mg-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -87830,7 +87830,7 @@
 <img alt="Рідина Elfliq Kiwi Passion Fruit Guava (Ківі Маракуя Гуава, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19781-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18706" available="false">
+<offer id="18706" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-kiwi-passion-fruit-guava-kivi-marakuyya-guava-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -89057,7 +89057,7 @@
 <img alt="Рідина Elfliq Spearmint (М'ята, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19784-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18709" available="false">
+<offer id="18709" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-spearmint-myata-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -89537,7 +89537,7 @@
 <img alt="Рідина Elfliq Strawberry snow (Полуничне Морозиво, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/21062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21071" available="false">
+<offer id="21071" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-strawberry-snow-klubnichnoe-morojenoe-50-mg-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -89617,7 +89617,7 @@
 <img alt="Рідина Elfliq Watermelon (Кавун, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/19785-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18710" available="false">
+<offer id="18710" available="true">
 <url>https://hardsmoke.store/jidkost-elfliq-watermelon-arbuz-30-ml</url>
 <price>207</price>
 <currencyId>UAH</currencyId>
@@ -114562,7 +114562,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Cola (Кола) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="7595" available="true">
+<offer id="7595" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-grape-vinograd-1500-zatyajek</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -115850,7 +115850,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar ВС4000 Avocado Cream (Авокадо Вершки) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="20315" available="true">
+<offer id="20315" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-cola-kola-odnorazovyiy-pod</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -116270,7 +116270,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="27280" available="false">
+<offer id="27280" available="true">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-peach---triple-mango-persik-i-troynoe-mango-odnorazovyiy-pod</url>
 <price>465</price>
 <currencyId>UAH</currencyId>
@@ -116406,7 +116406,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="27282" available="false">
+<offer id="27282" available="true">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-strawberry---banana-klubnika-i-banan-odnorazovyiy-pod</url>
 <price>465</price>
 <currencyId>UAH</currencyId>
@@ -116474,7 +116474,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="27283" available="false">
+<offer id="27283" available="true">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-strawberry---grape-klubnika-i-vinograd-odnorazovyiy-pod</url>
 <price>465</price>
 <currencyId>UAH</currencyId>
@@ -118740,7 +118740,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar ULTRA BС5000 Kiwi Passion Fruit Guava (Ківі Маракуя Гуава) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="10031" available="true">
+<offer id="10031" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-mint-myata-5000-zatyajek</url>
 <price>218</price>
 <currencyId>UAH</currencyId>
@@ -126124,7 +126124,7 @@
 <name>Vaporesso XROS 3 Mini 1000 Aqua Green (Бірюзовий, з картриджем) Багаторазовий POD</name>
 <description><![CDATA[<h2>Vaporesso XROS 3 Mini 1000 Aqua Green: Багаторазова POD-система з картриджем</h2> <p><img alt="под Vaporesso XROS 3 Mini 1000 Aqua Green" class="img-responsive-right" height="400" src="https://hardsmoke.store/image/catalog/xros3_mini1.jpg" width="400">Познайомтеся з Vaporesso XROS 3 Mini 1000 у вишуканому відтінку Aqua Green (Бірюзовий, з картриджем) — ідеальне рішення для тих, хто цінує мобільність, стиль і якість. Цей мініатюрний POD пропонує унікальне поєднання інноваційних технологій і елегантного дизайну, роблячи його незамінним аксесуаром для щоденного використання.</img></p> <h2>Характеристики Vaporesso XROS 3 Mini 1000 Aqua Green:</h2> <ul> <li>Розміри: 99,2 x 13,8 x 23,6 мм</li> <li>Вага: 41 г, що робить вейп одним із найлегших у своєму класі</li> <li>Матеріал корпусу: Міцний алюмінієвий сплав</li> <li>Акумулятор: Вбудована батарея на 1000 мАг</li> <li>Ємність картриджа: 2 мл</li> <li>Опір випарника: 0,6 Ом</li> <li>Потужність: Від 11 до 16 Вт</li> <li>Захисні функції: Від низького/високого опору, перегріву, короткого замикання, перезарядження / перерозрядження</li> </ul> <h2>Переваги та особливості Pod системи XROS 3 Mini 1000 Aqua Green (Бірюзовий, з картриджем):</h2> <ul> <li>Тривала робота без підзарядки: Завдяки акумулятору на 1000 мАг, електронна сигарета Vaporesso XROS 3 Mini 1000 Aqua Green (Бірюзовий, з картриджем) гарантує до 48 годин активного використання, що ідеально підходить для тривалих поїздок і активного способу життя.</li> <li>Інноваційна система паріння: Автоматична активація при затяжці дозволяє використовувати под без необхідності натискання кнопок, що значно спрощує його використання.</li> <li>Технологія Corex: Забезпечує рівномірний і швидкий нагрів для максимально насиченого та чистого смаку на кожній затяжці.</li> <li>Легка та зручна заправка: Картриджі з верхньою заправкою та системою захисту від протікань SSS роблять процес заправки швидким і безпечним.</li> </ul> <h2>Комплектація:</h2> <ul> <li>1 x POD Vaporesso XROS 3 Mini 1000 Aqua Green</li> <li>1 x Картридж з опором 0,6 Ом (2 мл)</li> <li>1 x Кабель для зарядки Type-C</li> <li>1 x Посібник користувача</li> </ul> <h2>Простота використання Vaporesso XROS 3 Mini 1000 Aqua Green (Бірюзовий, з картриджем):</h2> <p><img alt="Pod система XROS 3 Mini 1000 Aqua Green" class="img-responsive-left" height="236" src="https://hardsmoke.store/image/cache/webp/catalog/pod-sistemu/Vaporesso%20XROS%203%20Kit%201000%20/xros3_mini2-pod-800x800product_popup.webp" width="236">Vaporesso XROS 3 Mini — це под, створене для тих, хто цінує максимальну простоту та зручність. Модель не має кнопок або налаштувань: потужність підбирається автоматично, а подача повітря фіксована, що звільняє користувача від необхідності розбиратися з параметрами. Завдяки активації по затяжці, девайс починає працювати миттєво — просто вдихніть, і все готово.</img></p> <p>Такий підхід робить XROS 3 Mini відмінним вибором для початківців вейперів. Він дозволяє зосередитися на самому процесі паріння без технічних складнощів.</p> <p>Крім того, вейп оснащений ємним акумулятором, що забезпечує тривалий час роботи. Заряджається він швидко, тож ви не будете надовго випадати з звичного ритму та не зіткнетеся з частою необхідністю підзарядки.</p> <h2>Дизайн і конструкція:</h2> <p>Pod Vaporesso XROS 3 Mini 1000 Aqua Green вирізняється своїм стильним і сучасним дизайном у яскраво-жовтому кольорі, який підкреслює елегантність і індивідуальність користувача. Компактні розміри та мінімальна вага роблять под ідеальним варіантом для носіння в кишені або сумці, а міцний алюмінієвий сплав гарантує його довговічність і надійність при щоденному використанні.</p> <h2>Порівняльна таблиця двох моделей под-систем: Vaporesso XROS 3 Mini 1000 мАг і Voopoo Argus G 1000 мАг</h2> <table border="1" cellpadding="5" cellspacing="0" style="width:100%"> <tbody> <tr> <td>  Назва</td> <td>  Vaporesso XROS 3 Mini 1000 мАг</td> <td>  Voopoo Argus G 1000 мАг</td> </tr> <tr> <td>  Вага</td> <td>  ~40 г</td> <td>  ~50 г</td> </tr> <tr> <td>  Матеріал корпусу</td> <td>  Цинковий сплав / PCTG</td> <td>  Алюмінієвий сплав / PC</td> </tr> <tr> <td>  Ємність акумулятора</td> <td>  1000 мАг</td> <td>  1000 мАг</td> </tr> <tr> <td>  Вихідна потужність</td> <td>  11–16 Вт (автоматична подача)</td> <td>  5–25 Вт (регульована)</td> </tr> <tr> <td>  Тип активації</td> <td>  Автоматична (по затяжці)</td> <td>  Автоматична (по затяжці) і кнопка</td> </tr> <tr> <td>  Регулювання обдуву</td> <td>  Ні</td> <td>  Так (повзунок)</td> </tr> <tr> <td>  Об’єм картриджа</td> <td>  2 мл</td> <td>  2 мл</td> </tr> <tr> <td>  Опір картриджа</td> <td>  0.6 Ом (у комплекті)</td> <td>  0.7 Ом і 1.2 Ом (обидва в комплекті)</td> </tr> <tr> <td>  Сумісність з картриджами</td> <td>  Усі картриджі серії XROS</td> <td>  Картриджі серії ARGUS POD (0.7 Ом / 1.2 Ом)</td> </tr> <tr> <td>  Технологія нагріву</td> <td>  COREX з Morph-Mesh (рівномірний нагрів, збільшений термін служби)</td> <td>  iCOSM CODE (чистий смак, тривалий ресурс)</td> </tr> <tr> <td>  Інтерфейс</td> <td>  Світлодіодний індикатор заряду</td> <td>  OLED-дисплей і багатофункціональна кнопка</td> </tr> <tr> <td>  Зарядка</td> <td>  USB Type-C, 5 В / 1 А</td> <td>  USB Type-C, 5 В / 1 А</td> </tr> <tr> <td>  Додаткові функції</td> <td>  SSS Leak-resistant (захист від протікань), Pulse Mode (постійна потужність), сумісність з MTL і RDL</td> <td>  Регульована потужність, OLED-дисплей, багатофункціональна кнопка, захист від протікань, сумісність з MTL і RDL</td> </tr> <tr> <td>  Комплектація</td> <td>  Пристрій, картридж 0.6 Ом, кабель USB Type-C, посібник користувача</td> <td>  Пристрій, картриджі 0.7 Ом і 1.2 Ом, кабель USB Type-C, шнурок для носіння, посібник користувача</td> </tr> <tr> <td>  Кольорові варіанти</td> <td>  Aqua Green, Lilac Purple, Rose Pink, Aqua Green, Sky Blue, Phantom Gold, Phantom Green, Icy Silver, Black, Space Grey</td> <td>  Racing Green, Space Grey, Aurora Blue, Satin Blue, Gloss Black, Glow Pink, Sand Drift Gold</td> </tr> </tbody> </table> <h2>XROS 3 Mini 1000 — ідеальне рішення для кожного:</h2> <p>Vaporesso XROS 3 Mini 1000 Aqua Green — це не просто електронка для вейпінгу, це ваш особистий аксесуар, який підкреслює стиль і додає впевненості. Воно має всі необхідні функції для забезпечення комфортного та приємного паріння, ідеально підходить як для новачків, так і для досвідчених користувачів.</p> <p>Обираючи вейп Vaporesso XROS 3 Mini 1000 Aqua Green (Бірюзовий, з картриджем), ви обираєте надійність, стиль і якість від відомого виробника, що гарантує виняткові враження від використання.</p> <h2>Також Вас може зацікавити:</h2> <ul> <li><a href="https://hardsmoke.store/mnogorazovaya-pod-sistema-vaporesso-xros-3-mini-navy-blue-siniy-s-kartridjem">Pod Vaporesso XROS 3 Mini 1000 Navy Blue (Синій, з картриджем)</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-3-mini-1000-rose-pink-rozovo-krasnyiy-s-kartridjem-mnogorazovyiy-pod">Pod XROS 3 Mini 1000 Rose Pink (Рожево-червоний, з картриджем)</a></li> <li><a href="https://hardsmoke.store/mnogorazovaya-pod-sistema-vaporesso-xros-3-mini-phantom-green-zelenyiy-s-kartridjem">Pod Vaporesso XROS 3 Mini 1000 Phantom Green (Зелений, з картриджем)</a></li> <li><a href="https://hardsmoke.store/vaporesso-xros-3-mini-1000-lemon-yellow-jeltyiy-s-kartridjem-mnogorazovyiy-pod">Pod XROS 3 Mini 1000 Lemon Yellow (Жовтий, з картриджем) </a></li> </ul> <p>Купити Vaporesso XROS 3 Mini 1000 Aqua Green з доставкою та за вигідними цінами можна в таких містах України, як: Київ, Дніпро, Львів, Харків, Одеса, Кривий Ріг, Миколаїв, Полтава, Черкаси, Хмельницький, Суми, Житомир, Івано-Франківськ, Рівне, Вінниця, Чернігів, Тернопіль, Кам’янське, Бровари, Біла Церква, Павлоград, Ірпінь, Бориспіль, Вишневе, Обухів, Новомосковськ, Фастів, Нікополь, Ужгород, Луцьк, Кропивницький, Южноукраїнськ, Коломия, Кременчук, Олександрія, Червоноград, Переяслав, Вишгород.</p>]]></description>
 </offer>
-<offer id="21806" available="true">
+<offer id="21806" available="false">
 <url>https://hardsmoke.store/vaporesso-xros-3-mini-1000-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
 <price>430</price>
 <currencyId>UAH</currencyId>
@@ -138615,7 +138615,7 @@
 <img alt="Тютюн 420 Light Кавуново-динний сорбет (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7327-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8203" available="true">
+<offer id="8203" available="false">
 <url>https://hardsmoke.store/tabak-420-light-arbuzno-dyinnyiy-sorbet-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -146250,7 +146250,7 @@
 <vendorCode>hd22648</vendorCode>
 <name>Горіхове вугілля для кальяну Gresco (1 кг, 64 шт, р26)</name>
 </offer>
-<offer id="19183" available="true">
+<offer id="19183" available="false">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-gresco-1kg-72sht-r25-bez-korobki</url>
 <price>133</price>
 <currencyId>UAH</currencyId>
