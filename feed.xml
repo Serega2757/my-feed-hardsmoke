@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15 14:53">
+<yml_catalog date="2026-04-15 15:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7019,7 +7019,7 @@
 <img alt="Набір для самозамішування Chaser Grape Ultra (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23293-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21562" available="true">
+<offer id="21562" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -15542,7 +15542,7 @@
 <img alt="Набір для самозамішування Chaser Pomegranate Ultra (Гранат, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23306-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25515" available="true">
+<offer id="25515" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pomegranate-balance-granat-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -32456,7 +32456,7 @@
 <img alt="Набір для самозамішування Get High Airy Strawberry (Айрі Стравберрі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24050-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24051" available="false">
+<offer id="24051" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-alpine-freshness-alpin-freshnes-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32536,7 +32536,7 @@
 <img alt="Набір для самозамішування Get High American Breakfast (Американ Брекфест, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24052-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24053" available="false">
+<offer id="24053" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-banana-mama-banana-mama-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32576,7 +32576,7 @@
 <img alt="Набір для самозамішування Get High Banana Mama (Банана-мама, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24053-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24054" available="false">
+<offer id="24054" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-berries-duet-berris-duet-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32616,7 +32616,7 @@
 <img alt="Набір для самозамішування Get High Berries Duet (Берріс Дует, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24054-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24055" available="false">
+<offer id="24055" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-berry-classic-berri-klassik-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32656,7 +32656,7 @@
 <img alt="Набір для самозамішування Get High Berry Classic (Беррі Класік, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24055-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26586" available="false">
+<offer id="26586" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-berry-frosbite-berri-frostbayt-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32696,7 +32696,7 @@
 <img alt="Набір для самозамішування Get High Berry Frosbite (Беррі Фростбайт, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26586-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24056" available="false">
+<offer id="24056" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-blueberry-vibe-blyuberri-vayb-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32736,7 +32736,7 @@
 <img alt="Набір для самозамішування Get High Blueberry Vibe (Блюберрі Вайб, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24056-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24057" available="false">
+<offer id="24057" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-charm-grapefruit-charm-greypfrut-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32776,7 +32776,7 @@
 <img alt="Набір для самозамішування Get High Charm Grapefruit (Чарм Грейпфрут, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24057-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24058" available="false">
+<offer id="24058" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-cherry-loca-cherri-loka-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -32816,7 +32816,7 @@
 <img alt="Набір для самозамішування Get High Cherry Loca (Черрі Лока, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24058-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24059" available="false">
+<offer id="24059" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-cherry-peach-cocktail-vishnya-persik-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33056,7 +33056,7 @@
 <img alt="Набір для самозамішування Get High Dark Berry Storm (Дарк Беррі Шторм, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24062-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24063" available="false">
+<offer id="24063" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-dragon-eye-dragon-ay-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33096,7 +33096,7 @@
 <img alt="Набір для самозамішування Get High Dragon Eye (Драгон Ай, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24063-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24064" available="false">
+<offer id="24064" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-energy-booster-enerdji-buster-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33136,7 +33136,7 @@
 <img alt="Набір для самозамішування Get High Energy Booster (Енерджі Бустер, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24064-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24065" available="false">
+<offer id="24065" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-forest-berries-yagodyi-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33176,7 +33176,7 @@
 <img alt="Набір для самозамішування Get High Forest Berries (Ягоди, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24065-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24066" available="false">
+<offer id="24066" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-fruity-song-fruti-song-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33256,7 +33256,7 @@
 <img alt="Набір для самозамішування Get High Grape Mood (Грейп Муд, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24067-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24068" available="false">
+<offer id="24068" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-green-red-mix-grin-red-miks-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33296,7 +33296,7 @@
 <img alt="Набір для самозамішування Get High Green Red Mix (Грін Ред Мікс, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24068-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24069" available="false">
+<offer id="24069" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-iced-cherry-blossom-vishnya-led-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33336,7 +33336,7 @@
 <img alt="Набір для самозамішування Get High Iced Cherry Blossom (Вишня Льод, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24069-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24070" available="false">
+<offer id="24070" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-juicy-story-djusi-stori-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33376,7 +33376,7 @@
 <img alt="Набір для самозамішування Get High Juicy Story (Джусі Сторі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24070-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26589" available="false">
+<offer id="26589" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-lemon-frost-lemon-frost-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33416,7 +33416,7 @@
 <img alt="Набір для самозамішування Get High Lemon Frost (Лемон Фрост, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/26589-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24071" available="false">
+<offer id="24071" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-mighty-mint-mayti-mint-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33536,7 +33536,7 @@
 <img alt="Набір для самозамішування Get High Mystic Tropics (Містік Тропікс, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24073-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24074" available="false">
+<offer id="24074" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-passion-beach-peshn-bich-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33576,7 +33576,7 @@
 <img alt="Набір для самозамішування Get High Passion Beach (Пешн Біч, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24074-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24075" available="false">
+<offer id="24075" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-peach-refresh-pich-refresh-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33616,7 +33616,7 @@
 <img alt="Набір для самозамішування Get High Peach Refresh (Піч Рефреш, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24075-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24076" available="false">
+<offer id="24076" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-pina-colada-pina-kolada-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33656,7 +33656,7 @@
 <img alt="Набір для самозамішування Get High Pina Colada (Піна Колада, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24076-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24077" available="false">
+<offer id="24077" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-pineapple-delight-paynepl-delayt-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33696,7 +33696,7 @@
 <img alt="Набір для самозамішування Get High Pineapple Delight (Пайнепп Делайт, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24077-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24078" available="false">
+<offer id="24078" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-pineapple-dream-paynepl-drim-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33776,7 +33776,7 @@
 <img alt="Набір для самозамішування Get High Pink Clouds (Пінк Клаудс, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24079-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26590" available="false">
+<offer id="26590" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-polar-shine-polar-shayn-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33856,7 +33856,7 @@
 <img alt="Набір для самозамішування Get High Purple Clouds (Перпл Клаудс, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24080-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24081" available="false">
+<offer id="24081" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-silky-berry-silki-berri-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -33936,7 +33936,7 @@
 <img alt="Набір для самозамішування Get High Silky Strawberry (Силки Строберрі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24082-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24083" available="false">
+<offer id="24083" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-squeezy-apple-skvizi-epl-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -34096,7 +34096,7 @@
 <img alt="Набір для самозамішування Get High Strawnana Smoothie (Стравнана Смузі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24086-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24087" available="false">
+<offer id="24087" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-summer-bouquet-sammer-buket-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -34136,7 +34136,7 @@
 <img alt="Набір для самозамішування Get High Summer Bouquet (Саммер Букет, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24087-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24088" available="false">
+<offer id="24088" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-summer-trio-sammer-trio-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -34256,7 +34256,7 @@
 <img alt="Набір для самозамішування Get High Tobacco Mousse (Тобакко Мусс, 50 ​​мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24090-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24091" available="false">
+<offer id="24091" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-tropical-melon-tropikal-melon-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -34376,7 +34376,7 @@
 <img alt="Набір для самозамішування Get High Velvet Sky (Велвет Скай, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24093-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24094" available="false">
+<offer id="24094" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-watermelon-madness-votermelon-medness-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -130796,7 +130796,7 @@
 </ul>
 <p>Електронні сигарети ПОД від компанії Voopoo допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Voopoo VMATE PRO Power Edition 900 Whorl Gray (Сіро-чорний, з картриджем) Багаторазовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="2375" available="true">
+<offer id="2375" available="false">
 <url>https://hardsmoke.store/tabak-420-apple-squirt-yablochnyie-konfetyi-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -131256,7 +131256,7 @@
 <img alt="Тютюн 420 Barberry Candy (Барбарисова Цукерка, 40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/18149-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="19973" available="true">
+<offer id="19973" available="false">
 <url>https://hardsmoke.store/tabak-420-berry-blast-yagodnyiy-miks-100g</url>
 <price>120</price>
 <currencyId>UAH</currencyId>
@@ -134153,7 +134153,7 @@
 <img alt="Тютюн 420 Frost Line Grapefruit Melons (Грейпфрут Диня Арбуз Лід, 250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/24267-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26079" available="true">
+<offer id="26079" available="false">
 <url>https://hardsmoke.store/tabak-420-frost-line-love-is-lav-iz-100-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
@@ -135809,7 +135809,7 @@
 <img alt="Тютюн 420 Ice Cream (Ванільне морозиво, 100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9498-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="7246" available="true">
+<offer id="7246" available="false">
 <url>https://hardsmoke.store/tabak-420-ice-grape-berry-vinograd-yagodyi-100-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -138707,7 +138707,7 @@
 <img alt="Тютюн 420 Light Кавуново-динний сорбет (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8183-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26455" available="true">
+<offer id="26455" available="false">
 <url>https://hardsmoke.store/tabak-420-light-kalamansi-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -146606,7 +146606,7 @@
 <img alt="Горіхове вугілля для кальяну Mind Air Gap (0,5 кг, 36 шт, р25, без коробки)" src="https://hardsmoke.store/image/cache/catalog/exist/22606-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22607" available="false">
+<offer id="22607" available="true">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-mind-air-gap-1-kg-72-sht-r25-bez-korobki</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
