@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-17 13:53">
+<yml_catalog date="2026-04-17 14:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -137235,7 +137235,7 @@
 <img alt="Тютюн 420 Light Апельсин Манго (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/20205-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="20207" available="true">
+<offer id="20207" available="false">
 <url>https://hardsmoke.store/tabak-420-light-apelsin-mango-250g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -137649,7 +137649,7 @@
 <img alt="Тютюн 420 Light Бананово-полуничне морозиво (100 г)" src="https://hardsmoke.store/image/cache/catalog/exist/7326-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="8202" available="true">
+<offer id="8202" available="false">
 <url>https://hardsmoke.store/tabak-420-light-bananovo-klubnichnoe-morojenoe-250-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
