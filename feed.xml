@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-17 15:53">
+<yml_catalog date="2026-04-17 16:54">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -134613,7 +134613,7 @@
 <img alt="Тютюн 420 Frost Line Pink berry's (Пінк Берріс, 250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26085-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24264" available="false">
+<offer id="24264" available="true">
 <url>https://hardsmoke.store/tabak-420-frost-line-red-kiwi-kivi-arbuz-klubnika-led-100-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
