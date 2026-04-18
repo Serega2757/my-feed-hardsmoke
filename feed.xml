@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-18 12:53">
+<yml_catalog date="2026-04-18 13:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -134613,7 +134613,7 @@
 <img alt="Тютюн 420 Frost Line Pink berry's (Пінк Берріс, 250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/26085-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24264" available="true">
+<offer id="24264" available="false">
 <url>https://hardsmoke.store/tabak-420-frost-line-red-kiwi-kivi-arbuz-klubnika-led-100-g</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
@@ -146888,7 +146888,7 @@
 <img alt="Кокосове вугілля для кальяну Caliber (1 кг, 72 шт, р25, без коробки)" src="https://hardsmoke.store/image/cache/webp/catalog/exist/27200-400x400product_thumb.webp"/>
 </div>]]></description>
 </offer>
-<offer id="27199" available="true">
+<offer id="27199" available="false">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-caliber-1-kg-72-sht-r25</url>
 <price>47</price>
 <currencyId>UAH</currencyId>
@@ -147029,7 +147029,7 @@
 <img alt="Кокосове вугілля для кальяну Cocoloco (1 кг, 72 шт, р25, без коробки)" src="https://hardsmoke.store/image/cache/catalog/exist/26513-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="2713" available="true">
+<offer id="2713" available="false">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-cocoloco-1-kg-72-sht-r25</url>
 <price>47</price>
 <currencyId>UAH</currencyId>
