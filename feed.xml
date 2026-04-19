@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-19 14:53">
+<yml_catalog date="2026-04-19 15:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -33896,7 +33896,7 @@
 <img alt="Набір для самозамішування Get High Silky Berry (Силки Беррі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/24081-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24082" available="true">
+<offer id="24082" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-silky-strawberry-silki-stroberri-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
