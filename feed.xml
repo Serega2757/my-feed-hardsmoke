@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-20 17:53">
+<yml_catalog date="2026-04-20 20:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -137353,7 +137353,7 @@
 <img alt="Тютюн 420 Light Виноград м'ята (40 г)" src="https://hardsmoke.store/image/cache/catalog/exist/8177-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="26461" available="true">
+<offer id="26461" available="false">
 <url>https://hardsmoke.store/tabak-420-light-vishnya-barbaris-100-g</url>
 <price>486</price>
 <currencyId>UAH</currencyId>
@@ -143803,7 +143803,7 @@
 <img alt="Тютюн 420 Pomegranate Mors (Гранатовий морс, 250 г)" src="https://hardsmoke.store/image/cache/catalog/exist/9991-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="18153" available="true">
+<offer id="18153" available="false">
 <url>https://hardsmoke.store/tabak-420-pomegranate-mors-granatovyiy-mors-40-g</url>
 <price>365</price>
 <currencyId>UAH</currencyId>
@@ -145987,7 +145987,7 @@
 <img alt="Горіхове вугілля для кальяну Mind (1 кг, 72 шт, р25)" src="https://hardsmoke.store/image/cache/catalog/exist/19686-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22606" available="true">
+<offer id="22606" available="false">
 <url>https://hardsmoke.store/orehovyiy-ugol-dlya-kalyana-mind-air-gap-05-kg-36-sht-r25-bez-korobki</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
