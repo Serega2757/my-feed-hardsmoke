@@ -28,9 +28,12 @@ def reset_log():
 
 def load_sheet(gid):
     url = f"https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/export?format=csv&gid={gid}"
+
     r = requests.get(url, timeout=30)
     r.raise_for_status()
-    return list(csv.reader(StringIO(r.text)))
+
+    text = r.content.decode("utf-8-sig")
+    return list(csv.reader(StringIO(text)))
 
 
 def clean(v):
