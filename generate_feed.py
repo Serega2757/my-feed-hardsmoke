@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 SPREADSHEET_ID = "1HhzquSfjN5t5Y_B2LRsrmWsdG5baGFtQgGnSubXSZ2I"
 
@@ -34,7 +35,7 @@ def safe(v):
 
 
 def create_xml(rows, shop_name):
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = datetime.now(ZoneInfo("Europe/Kyiv")).strftime("%Y-%m-%d %H:%M")
 
     root = ET.Element("yml_catalog", date=now)
     shop = ET.SubElement(root, "shop")
