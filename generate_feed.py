@@ -13,6 +13,18 @@ SHEETS = [
     {"gid": "601174273", "file": "drop.xml", "name": "Drop"},
 ]
 
+LOG_FILE = "debug_log.txt"
+
+
+def log(msg):
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(msg + "\n")
+
+
+def reset_log():
+    with open(LOG_FILE, "w", encoding="utf-8") as f:
+        f.write("=== DEBUG LOG ===\n")
+
 
 def load_sheet(gid):
     url = f"https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/export?format=csv&gid={gid}"
@@ -21,27 +33,17 @@ def load_sheet(gid):
     return list(csv.reader(StringIO(r.text)))
 
 
-def clean(value):
-    if value is None:
+def clean(v):
+    if v is None:
         return ""
-    return str(value).replace("\ufeff", "").strip()
+    return str(v).replace("\ufeff", "").strip()
 
-
-
-import re
 
 def available(value):
-    if value is None:
-        return ""
+    v = clean(value).lower()
 
-    v = str(value).lower().strip()
-
-    # если пусто
     if v == "":
         return ""
-
-    # убираем лишний мусор
-    v = re.sub(r"\s+", " ", v)
 
     if "да" in v:
         return "true"
@@ -50,6 +52,54 @@ def available(value):
         return "false"
 
     return ""
+
+
+def analyze_rows(rows, gid):
+    yes_count = 0
+    no_count = 0
+    empty_count = 0
+    other_count = 0
+    active_rows = 0
+    samples = []
+
+    for row in rows[1:]:
+        if len(row) < 6:
+            continue
+
+        a = clean(row[0])
+        f = clean(row[5])
+
+        if not a:
+            continue
+
+        active_rows += 1
+
+        if len(samples) < 10:
+            samples.append(f)
+
+        low = f.lower()
+
+        if low == "":
+            empty_count += 1
+        elif "да" in low:
+            yes_count += 1
+        elif "нет" in low:
+            no_count += 1
+        else:
+            other_count += 1
+
+    log("")
+    log(f"GID: {gid}")
+    log(f"Rows with A filled: {active_rows}")
+    log(f"Contains 'да': {yes_count}")
+    log(f"Contains 'нет': {no_count}")
+    log(f"Empty F: {empty_count}")
+    log(f"Other values: {other_count}")
+    log("Sample F values:")
+    for s in samples:
+        log(f"  [{s}]")
+
+
 
 def create_xml(rows, shop_name):
     now = datetime.now(ZoneInfo("Europe/Kyiv")).strftime("%Y-%m-%d %H:%M")
@@ -95,14 +145,21 @@ def create_xml(rows, shop_name):
 
 
 def main():
+    reset_log()
+    log("Start: " + datetime.now(ZoneInfo("Europe/Kyiv")).strftime("%Y-%m-%d %H:%M:%S"))
+
     for item in SHEETS:
         rows = load_sheet(item["gid"])
+        analyze_rows(rows, item["gid"])
+
         xml = create_xml(rows, item["name"])
 
         with open(item["file"], "w", encoding="utf-8") as f:
             f.write(xml)
 
-        print(f"Updated {item['file']}")
+        log(f"Created: {item['file']}")
+
+    log("Done")
 
 
 if __name__ == "__main__":
