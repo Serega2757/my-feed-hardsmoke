@@ -28,48 +28,28 @@ def clean(value):
 
 
 
+import re
+
 def available(value):
-    v = "" if value is None else str(value)
-    v = v.lower().strip()
+    if value is None:
+        return ""
 
-    # чистим лишние символы, но оставляем буквы/цифры/пробел
-    v = re.sub(r"[^a-zа-яіїє0-9\s]+", " ", v)
-    v = re.sub(r"\s+", " ", v).strip()
+    v = str(value).lower().strip()
 
-    true_markers = [
-        "да",
-        "так",
-        "yes",
-        "true",
-        "1",
-        "in stock",
-        "instock",
-        "наяв",
-        "available",
-        "є"
-    ]
+    # если пусто
+    if v == "":
+        return ""
 
-    false_markers = [
-        "нет",
-        "ні",
-        "no",
-        "false",
-        "0",
-        "out of stock",
-        "outofstock",
-        "відсут"
-    ]
+    # убираем лишний мусор
+    v = re.sub(r"\s+", " ", v)
 
-    for marker in true_markers:
-        if marker in v:
-            return "true"
+    if "да" in v:
+        return "true"
 
-    for marker in false_markers:
-        if marker in v:
-            return "false"
+    if "нет" in v:
+        return "false"
 
-    return "false"
-
+    return ""
 
 def create_xml(rows, shop_name):
     now = datetime.now(ZoneInfo("Europe/Kyiv")).strftime("%Y-%m-%d %H:%M")
