@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-21 17:53">
+<yml_catalog date="2026-04-21 19:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -32484,7 +32484,7 @@
 <img alt="Набір для самозамішування Flow Wild Berry (Вайлд Беррі, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23806-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="24050" available="false">
+<offer id="24050" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-get-high-airy-strawberry-ayri-stravberri-50-mg-30-ml</url>
 <price>168</price>
 <currencyId>UAH</currencyId>
@@ -36200,7 +36200,7 @@
 <img alt="Набір для самозамішування Hype Kit Cookie (Печиво, 50 мг, 15 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25811-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21719" available="true">
+<offer id="21719" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-hype-kit-cookie-pechene-50-mg-30-ml</url>
 <price>170</price>
 <currencyId>UAH</currencyId>
