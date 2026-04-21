@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-21 15:53">
+<yml_catalog date="2026-04-21 16:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -2938,7 +2938,7 @@
 
 </div>]]></description>
 </offer>
-<offer id="27439" available="false">
+<offer id="27439" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-yabloko-myata-limited-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3018,7 +3018,7 @@
 
 </div>]]></description>
 </offer>
-<offer id="27440" available="false">
+<offer id="27440" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-yabloko-myata-limited-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -3906,7 +3906,7 @@
 <img alt="Набір для самозамішування Chaser Berries Ultra (Ягоди, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23287-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21573" available="false">
+<offer id="21573" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-berries-balance-yagodyi-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -6182,7 +6182,7 @@
 <img alt="Набір для самозамішування Chaser Blue Raspberry Ultra (Чорниця Малина, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23289-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21561" available="false">
+<offer id="21561" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blue-raspberry-balance-chernika-malina-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -6262,7 +6262,7 @@
 <img alt="Набір для самозамішування Chaser Blue Raspberry Ultra (Чорниця Малина, 65 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25684-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25485" available="false">
+<offer id="25485" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blue-raspberry-balance-chernika-malina-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -6342,7 +6342,7 @@
 <img alt="Набір для самозамішування Chaser Blueberry Menthol Ultra (Чорниця Ментол, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23290-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21571" available="false">
+<offer id="21571" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -6422,7 +6422,7 @@
 <img alt="Набір для самозамішування Chaser Blueberry Menthol Ultra (Чорниця Ментол, 65 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/25685-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25486" available="false">
+<offer id="25486" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-blueberry-menthol-balance-chernika-mentol-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -6659,7 +6659,7 @@
 <img alt="Набір для самозамішування Chaser Cherry Menthol Ultra (Вишня Ментол, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23292-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21564" available="false">
+<offer id="21564" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-menthol-balance-vishnya-mentol-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -6819,7 +6819,7 @@
 <img alt="Набір для самозамішування Chaser Cherry Ultra (Вишня, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23291-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21563" available="false">
+<offer id="21563" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-cherry-balance-vishnya-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -7019,7 +7019,7 @@
 <img alt="Набір для самозамішування Chaser Grape Ultra (Виноград, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23293-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21562" available="false">
+<offer id="21562" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-grape-balance-vinograd-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -11082,7 +11082,7 @@
 <img alt="Набір для самозамішування Chaser Mint Ultra (М'ята, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23298-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22227" available="false">
+<offer id="22227" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -11122,7 +11122,7 @@
 <img alt="Набір для самозамішування Chaser Mint Ultra (М'ята, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22227-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25494" available="false">
+<offer id="25494" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-mint-balance-myata-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -15142,7 +15142,7 @@
 <img alt="Набір для самозамішування Chaser Peach Ultra (Персик, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23299-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21567" available="false">
+<offer id="21567" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-peach-balance-persik-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -15542,7 +15542,7 @@
 <img alt="Набір для самозамішування Chaser Pomegranate Ultra (Гранат, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23306-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25515" available="false">
+<offer id="25515" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-pomegranate-balance-granat-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -17817,7 +17817,7 @@
 <img alt="Набір для самозамішування Chaser Strawberry Ultra (Полуниця, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23301-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="21568" available="false">
+<offer id="21568" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-strawberry-balance-klubnika-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -18817,7 +18817,7 @@
 <img alt="Набір для самозамішування Chaser Watermelon Menthol Ultra (Кавун Ментол, 50 мг, 10 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/23305-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="22231" available="false">
+<offer id="22231" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-menthol-balance-arbuz-mentol-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -18857,7 +18857,7 @@
 <img alt="Набір для самозамішування Chaser Watermelon Menthol Ultra (Кавун Ментол, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22231-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25502" available="false">
+<offer id="25502" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-menthol-balance-arbuz-mentol-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
@@ -18977,7 +18977,7 @@
 <img alt="Набір для самозамішування Chaser Watermelon Ultra (Кавун, 50 мг, 30 мл)" src="https://hardsmoke.store/image/cache/catalog/exist/22229-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="25501" available="false">
+<offer id="25501" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-watermelon-balance-arbuz-65-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
