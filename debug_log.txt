@@ -1,0 +1,41 @@
+=== DEBUG LOG ===
+Start: 2026-04-21 12:27:12
+
+GID: 775578539
+Rows with A filled: 613
+Contains 'да': 0
+Contains 'нет': 0
+Empty F: 0
+Other values: 613
+Sample F values:
+  [Ð½ÐµÑ]
+  [Ð´Ð°]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð´Ð°]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+Created: pizpar.xml
+
+GID: 601174273
+Rows with A filled: 609
+Contains 'да': 0
+Contains 'нет': 0
+Empty F: 0
+Other values: 609
+Sample F values:
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+  [Ð½ÐµÑ]
+Created: drop.xml
+Done
