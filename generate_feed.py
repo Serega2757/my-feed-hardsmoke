@@ -4,6 +4,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 import csv
 from io import StringIO
+import re
 
 SPREADSHEET_ID = "1HhzquSfjN5t5Y_B2LRsrmWsdG5baGFtQgGnSubXSZ2I"
 
@@ -27,13 +28,25 @@ def clean(value):
 
 
 def available(value):
-    v = clean(value).lower()
+    v = "" if value is None else str(value)
+    v = v.lower().strip()
 
-    true_values = {"да", "yes", "true", "1", "+", "y"}
-    false_values = {"нет", "no", "false", "0", "-", "n"}
+    # убираем весь мусор кроме букв и цифр
+    v = re.sub(r"[^a-zа-яіїє0-9]+", "", v)
+
+    true_values = {
+        "да", "є", "yes", "true", "1", "instock",
+        "наявний", "наявності", "available"
+    }
+
+    false_values = {
+        "нет", "ні", "no", "false", "0",
+        "outofstock", "відсутній"
+    }
 
     if v in true_values:
         return "true"
+
     if v in false_values:
         return "false"
 
