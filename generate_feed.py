@@ -27,28 +27,46 @@ def clean(value):
     return str(value).replace("\ufeff", "").strip()
 
 
+
 def available(value):
     v = "" if value is None else str(value)
     v = v.lower().strip()
 
-    # убираем весь мусор кроме букв и цифр
-    v = re.sub(r"[^a-zа-яіїє0-9]+", "", v)
+    # чистим лишние символы, но оставляем буквы/цифры/пробел
+    v = re.sub(r"[^a-zа-яіїє0-9\s]+", " ", v)
+    v = re.sub(r"\s+", " ", v).strip()
 
-    true_values = {
-        "да", "є", "yes", "true", "1", "instock",
-        "наявний", "наявності", "available"
-    }
+    true_markers = [
+        "да",
+        "так",
+        "yes",
+        "true",
+        "1",
+        "in stock",
+        "instock",
+        "наяв",
+        "available",
+        "є"
+    ]
 
-    false_values = {
-        "нет", "ні", "no", "false", "0",
-        "outofstock", "відсутній"
-    }
+    false_markers = [
+        "нет",
+        "ні",
+        "no",
+        "false",
+        "0",
+        "out of stock",
+        "outofstock",
+        "відсут"
+    ]
 
-    if v in true_values:
-        return "true"
+    for marker in true_markers:
+        if marker in v:
+            return "true"
 
-    if v in false_values:
-        return "false"
+    for marker in false_markers:
+        if marker in v:
+            return "false"
 
     return "false"
 
