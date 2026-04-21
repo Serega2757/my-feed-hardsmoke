@@ -2,12 +2,14 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import csv
+from io import StringIO
 
 SPREADSHEET_ID = "1HhzquSfjN5t5Y_B2LRsrmWsdG5baGFtQgGnSubXSZ2I"
 
 SHEETS = [
-    {"gid": "775578539", "file": "pizpar.xml"},
-    {"gid": "601174273", "file": "drop.xml"},
+    {"gid": "775578539", "file": "pizpar.xml", "name": "Pizdatuy_par"},
+    {"gid": "601174273", "file": "drop.xml", "name": "Drop"},
 ]
 
 
@@ -15,23 +17,27 @@ def load_sheet(gid):
     url = f"https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/export?format=csv&gid={gid}"
     r = requests.get(url, timeout=30)
     r.raise_for_status()
-    return r.text.splitlines()
+    return list(csv.reader(StringIO(r.text)))
 
 
-def parse_csv(lines):
-    import csv
-    from io import StringIO
-
-    rows = list(csv.reader(StringIO("\n".join(lines))))
-    return rows
+def clean(value):
+    if value is None:
+        return ""
+    return str(value).replace("\ufeff", "").strip()
 
 
-def available(v):
-    return "true" if str(v).strip().lower() == "да" else "false"
+def available(value):
+    v = clean(value).lower()
 
+    true_values = {"да", "yes", "true", "1", "+", "y"}
+    false_values = {"нет", "no", "false", "0", "-", "n"}
 
-def safe(v):
-    return "" if v is None else str(v).strip()
+    if v in true_values:
+        return "true"
+    if v in false_values:
+        return "false"
+
+    return "false"
 
 
 def create_xml(rows, shop_name):
@@ -57,11 +63,11 @@ def create_xml(rows, shop_name):
         if len(row) < 6:
             continue
 
-        sku = safe(row[0])
-        vendor = safe(row[1])
-        name = safe(row[2])
-        price = safe(row[3]).replace(",", ".")
-        currency = safe(row[4]).upper() or "UAH"
+        sku = clean(row[0])
+        vendor = clean(row[1])
+        name = clean(row[2])
+        price = clean(row[3]).replace(",", ".")
+        currency = clean(row[4]).upper() or "UAH"
         stock = available(row[5])
 
         if not sku or not name:
@@ -74,21 +80,18 @@ def create_xml(rows, shop_name):
         ET.SubElement(offer, "vendorCode").text = vendor
         ET.SubElement(offer, "name").text = name
 
-    xml_data = ET.tostring(root, encoding="utf-8", xml_declaration=True)
-    return xml_data.decode("utf-8")
+    return ET.tostring(root, encoding="utf-8", xml_declaration=True).decode("utf-8")
 
 
 def main():
     for item in SHEETS:
-        lines = load_sheet(item["gid"])
-        rows = parse_csv(lines)
-
-        xml = create_xml(rows, item["file"].replace(".xml", ""))
+        rows = load_sheet(item["gid"])
+        xml = create_xml(rows, item["name"])
 
         with open(item["file"], "w", encoding="utf-8") as f:
             f.write(xml)
 
-        print(f"Created {item['file']}")
+        print(f"Updated {item['file']}")
 
 
 if __name__ == "__main__":
