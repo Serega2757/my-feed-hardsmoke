@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-23 20:53">
+<yml_catalog date="2026-04-24 01:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -115020,7 +115020,7 @@
  </ul>
  <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 2000 Coffee Tobacco (Кава І Тютюн) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
-<offer id="9003" available="true">
+<offer id="9003" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-grape-energy-vinogradnyiy-energetik-2000-zatyajek</url>
 <price>314</price>
 <currencyId>UAH</currencyId>
