@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-24 15:53">
+<yml_catalog date="2026-04-24 16:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -3434,7 +3434,7 @@
 </div>
 </div>]]></description>
 </offer>
-<offer id="28011" available="true">
+<offer id="28011" available="false">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-bass-berry-smorodina-malina-50-mg-30-ml</url>
 <price>153</price>
 <currencyId>UAH</currencyId>
