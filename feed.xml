@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-25 14:53">
+<yml_catalog date="2026-04-25 15:53">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -146591,7 +146591,7 @@
 <img alt="Кокосове вугілля для кальяну Eskobar (0,33 кг, 24 шт, р25, без коробки)" src="https://hardsmoke.store/image/cache/catalog/exist/9911-400x400.png">
 </img></div>]]></description>
 </offer>
-<offer id="9912" available="true">
+<offer id="9912" available="false">
 <url>https://hardsmoke.store/kokosovyiy-ugol-dlya-kalyana-eskobar-1-kg-64-sht</url>
 <price>180</price>
 <currencyId>UAH</currencyId>
