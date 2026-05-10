@@ -1,5 +1,5 @@
 === DEBUG LOG ===
-Start: 2026-05-10 11:56:26
+Start: 2026-05-10 13:19:51
 
 GID: 775578539
 Rows with A filled: 612
