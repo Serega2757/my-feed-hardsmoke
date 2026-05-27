@@ -1,10 +1,10 @@
 === DEBUG LOG ===
-Start: 2026-05-27 14:55:12
+Start: 2026-05-27 18:52:09
 
 GID: 775578539
 Rows with A filled: 611
-Contains 'да': 39
-Contains 'нет': 572
+Contains 'да': 38
+Contains 'нет': 573
 Empty F: 0
 Other values: 0
 Sample F values:
