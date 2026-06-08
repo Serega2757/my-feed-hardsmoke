@@ -2,7 +2,7 @@ name: Update XML Feeds
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,23 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      - name: Install packages
+      - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
-      - name: Generate HardSmoke Feed
-        run: |
-          python generate_hardsmoke.py
-
-      - name: Generate OneBox Feeds
+      - name: Generate XML and Logs
         run: |
           python generate_feed.py
 
@@ -40,12 +38,13 @@ jobs:
 
           git add *.xml *.txt
 
-          if ! git diff --cached --quiet; then
-            git commit -m "Update XML feeds"
-
-            git pull --rebase origin main
-
-            git push origin main
-          else
-            echo "No changes to commit"
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+            exit 0
           fi
+
+          git commit -m "Update XML feeds"
+
+          git pull --rebase origin main
+
+          git push origin main
