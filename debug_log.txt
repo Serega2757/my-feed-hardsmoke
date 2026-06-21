@@ -1,5 +1,5 @@
 === DEBUG LOG ===
-Start: 2026-06-21 10:01:19
+Start: 2026-06-21 13:40:48
 
 GID: 775578539
 Rows with A filled: 609
@@ -22,8 +22,8 @@ Created: pizpar.xml
 
 GID: 601174273
 Rows with A filled: 610
-Contains 'да': 6
-Contains 'нет': 604
+Contains 'да': 3
+Contains 'нет': 607
 Empty F: 0
 Other values: 0
 Sample F values:
