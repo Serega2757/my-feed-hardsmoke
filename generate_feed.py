@@ -11,6 +11,7 @@ SPREADSHEET_ID = "1HhzquSfjN5t5Y_B2LRsrmWsdG5baGFtQgGnSubXSZ2I"
 SHEETS = [
     {"gid": "775578539", "file": "pizpar.xml", "name": "Pizdatuy_par"},
     {"gid": "601174273", "file": "drop.xml", "name": "Drop"},
+    {"gid": "1268499113", "file": "the-crash.xml", "name": "The Crash"},
 ]
 
 LOG_FILE = "debug_log.txt"
