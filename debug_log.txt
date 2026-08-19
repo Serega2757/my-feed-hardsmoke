@@ -1,5 +1,5 @@
 === DEBUG LOG ===
-Start: 2026-08-19 14:54:41
+Start: 2026-08-19 15:48:25
 
 GID: 775578539
 Rows with A filled: 614
@@ -41,8 +41,8 @@ Created: drop.xml
 
 GID: 1268499113
 Rows with A filled: 614
-Contains 'да': 16
-Contains 'нет': 598
+Contains 'да': 15
+Contains 'нет': 599
 Empty F: 0
 Other values: 0
 Sample F values:
