@@ -38,6 +38,13 @@ SHEETS = [
     "Ugli", "Accessories", "Chashi", "Kalyani", "Комплекти",
 ]
 
+# Лист «Дубли» (артикулы вида "dub-hd21849"). Читается по gid, а не по имени,
+# чтобы переименование листа ничего не сломало.
+# Колонки: A — артикул, B — название, C — наличие ("+" / "-"), D — цена.
+# Наличие и цену на листе проставляет скрипт внутри самой таблицы.
+DUBLI_GID = os.environ.get("DUBLI_GID", "476543170")
+DUBLI_CATEGORY = "Дубли"
+
 # Предохранитель: если новый фид содержит меньше указанной доли офферов
 # от предыдущего — не перезаписывать файл и упасть с ошибкой.
 # Защищает от обнуления каталога в OneBox, если Google отдал битый ответ.
@@ -108,12 +115,18 @@ def cell(row, index):
 # ======================================================
 
 
-def load_sheet(sheet_name):
-    """Читает лист по имени через gviz-экспорт. Таблица должна быть
-    расшарена как «Всем, у кого есть ссылка — читатель»."""
+def load_sheet(sheet_name, gid=None):
+    """Читает лист через gviz-экспорт: по имени или, если задан gid, по gid.
+    Таблица должна быть расшарена как «Всем, у кого есть ссылка — читатель»."""
+    if gid:
+        # headers=1 — первая строка листа всегда считается шапкой.
+        selector = f"gid={gid}&headers=1"
+    else:
+        selector = f"sheet={urllib.parse.quote(sheet_name)}"
+
     url = (
         f"https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}"
-        f"/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(sheet_name)}"
+        f"/gviz/tq?tqx=out:csv&{selector}"
     )
 
     req = urllib.request.Request(url, headers={"User-Agent": "hardsmoke-feed/1.0"})
@@ -195,7 +208,47 @@ def collect_items():
 
         print(f"  {sheet_name}: +{len(items) - before} офферов")
 
+    collect_dubli(items, categories)
+
     return items, categories
+
+
+def collect_dubli(items, categories):
+    """Лист «Дубли»: артикул (A), название (B), наличие (C), цена (D).
+    Обрабатывается так же, как «Комплекти»."""
+    try:
+        data = load_sheet(DUBLI_CATEGORY, gid=DUBLI_GID)
+    except Exception as exc:  # noqa: BLE001
+        raise RuntimeError(f"Не удалось прочитать лист «{DUBLI_CATEGORY}»: {exc}") from exc
+
+    if len(data) < 2:
+        print(f"  {DUBLI_CATEGORY}: пусто, пропуск")
+        return
+
+    # Новая категория идёт последней: id существующих категорий не меняются.
+    category_id = len(SHEETS) + 1
+    categories[DUBLI_CATEGORY] = category_id
+    before = len(items)
+
+    for row in data[1:]:
+        sku = cell(row, 0).strip()
+        if not sku:
+            continue
+
+        items.append({
+            "sku": sku,
+            "name": cell(row, 1),
+            "price": norm_price(cell(row, 3)),
+            "availability": norm_availability(cell(row, 2)),
+            "currency": "UAH",
+            "vendorCode": sku,
+            "url": "",
+            "image_url": "",
+            "description": "",
+            "categoryId": category_id,
+        })
+
+    print(f"  {DUBLI_CATEGORY}: +{len(items) - before} офферов")
 
 
 def generate_yml(items, categories):
