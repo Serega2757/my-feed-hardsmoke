@@ -40,7 +40,8 @@ SHEETS = [
 
 # Лист «Дубли» (артикулы вида "dub-hd21849"). Читается по gid, а не по имени,
 # чтобы переименование листа ничего не сломало.
-# Колонки: A — артикул, B — название, C — наличие ("+" / "-"), D — цена.
+# Колонки: A — артикул, B — название, C — наличие ("+" / "-"), D — цена,
+# E — код поставщика (идёт в тег <supplierCode>).
 # Наличие и цену на листе проставляет скрипт внутри самой таблицы.
 DUBLI_GID = os.environ.get("DUBLI_GID", "476543170")
 DUBLI_CATEGORY = "Дубли"
@@ -214,8 +215,9 @@ def collect_items():
 
 
 def collect_dubli(items, categories):
-    """Лист «Дубли»: артикул (A), название (B), наличие (C), цена (D).
-    Обрабатывается так же, как «Комплекти»."""
+    """Лист «Дубли»: артикул (A), название (B), наличие (C), цена (D),
+    код поставщика для <supplierCode> (E).
+    В остальном обрабатывается так же, как «Комплекти»."""
     try:
         data = load_sheet(DUBLI_CATEGORY, gid=DUBLI_GID)
     except Exception as exc:  # noqa: BLE001
@@ -242,6 +244,8 @@ def collect_dubli(items, categories):
             "availability": norm_availability(cell(row, 2)),
             "currency": "UAH",
             "vendorCode": sku,
+            # Только для «Дубли»: <supplierCode> берётся из колонки E, а не из артикула
+            "supplierCode": cell(row, 4).strip(),
             "url": "",
             "image_url": "",
             "description": "",
@@ -314,7 +318,9 @@ def generate_yml(items, categories):
         # Дублируем идентификатор и наличие обычными тегами (не атрибутами):
         # OneBox некорректно читает атрибуты в секции «Постачальники».
         out.append(f'<available>{item["availability"]}</available>\n')
-        out.append(f'<supplierCode>{escape_xml(item["sku"])}</supplierCode>\n')
+        # У «Дубли» код поставщика задан отдельно (колонка E), у остальных — это sku.
+        supplier_code = item.get("supplierCode", item["sku"])
+        out.append(f'<supplierCode>{escape_xml(supplier_code)}</supplierCode>\n')
         out.append(
             f'<quantity>{"100" if item["availability"] == "true" else "0"}</quantity>\n'
         )
