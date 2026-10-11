@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 11.10.2026 10:25:23 (Europe/Kyiv) | офферів: 14944, в наявності: 6776, немає: 8168 -->
-<yml_catalog date="2026-10-11 10:25">
+<!-- Сформовано: 11.10.2026 13:15:06 (Europe/Kyiv) | офферів: 15377, в наявності: 6841, немає: 8536 -->
+<yml_catalog date="2026-10-11 13:15">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -158830,12 +158830,12 @@
 <name>Готова заливка ELFLIQ 30/50 Apple Peach</name>
 </offer>
 <offer id="dub-ws39187-56" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws39187-56</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>ws39187-56</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка ELFLIQ 30/50 Apple Pear</name>
 </offer>
@@ -159129,23 +159129,23 @@
 <quantity>0</quantity>
 <name>Готова заливка ELFLIQ 30/50 Peach Ice</name>
 </offer>
-<offer id="dub-ws39187-19" available="false">
+<offer id="dub-ws39187-19" available="true">
 <price>211</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws39187-19</vendorCode>
-<available>false</available>
-<supplierCode>23527</supplierCode>
-<quantity>0</quantity>
+<available>true</available>
+<supplierCode>26214</supplierCode>
+<quantity>100</quantity>
 <name>Готова заливка ELFLIQ 30/50 Pina Colada</name>
 </offer>
 <offer id="dub-ws39187-44" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws39187-44</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>ws39187-44</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка ELFLIQ 30/50 Pineapple Colada</name>
 </offer>
@@ -159200,12 +159200,12 @@
 <name>Готова заливка ELFLIQ 30/50 Raspberry Lychee</name>
 </offer>
 <offer id="dub-hd22935" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22935</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>hd22935</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка ELFLIQ 30/50 Rhubarb Snoow</name>
 </offer>
@@ -159250,12 +159250,12 @@
 <name>Готова заливка ELFLIQ 30/50 Sour Watermelon Gummy</name>
 </offer>
 <offer id="dub-ws39187-25" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws39187-25</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>ws39187-25</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка ELFLIQ 30/50 Sour Watermelon Gummy</name>
 </offer>
@@ -161760,302 +161760,302 @@
 <name>Готова заливка Nectar 30/50 Strawberry Ice Cream</name>
 </offer>
 <offer id="dub-cras-sol-liq-30" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Aloe Grape</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-29" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-29</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-29</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Apple Peach</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-28" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-28</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-28</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Apple Pear</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-21" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-21</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-21</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Black Ice</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-14" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-14</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-14</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blackberry Lemon</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-27" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-27</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-27</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blueberry Blackcurrant</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-22" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-22</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-22</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blueberry Bubble Gum</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-26" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-26</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-26</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blueberry Mango Coconut</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-24" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-24</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-24</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blueberry Raspberry</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-25" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-25</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-25</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blueberry Raspberry Cherry</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-23" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-23</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-23</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Blueberry Sour Raspberry</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-10" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-10</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-10</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Cactus Lemonade</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-6" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-6</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-6</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Cherry Cola</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-7" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-7</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-7</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Cherry Lemon</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-8" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-8</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-8</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Cherry Raspberry</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-5" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-5</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-5</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Cherry Watermelon</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-19" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-19</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-19</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Cool Menthol</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-3" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-3</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-3</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Grape</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-4" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-4</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-4</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Grape Mango Banana</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-2" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-2</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-2</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Orange Lemon</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-15" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-15</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-15</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Peach Ice</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-16" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-16</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-16</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Pepper Mint</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-1" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-1</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-1</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Pineapple Strawberry Lemon</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-13" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-13</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-13</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Raspberry Mentol</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-12" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-12</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-12</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Raspberry Watermelon</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-11" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-11</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-11</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Sour Apple</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-20" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-20</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-20</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Spearmint</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-18" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-18</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-18</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Strawberry Dragon Fruit</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-17" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-17</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-17</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Strawberry Raspberry Cherry Ice</name>
 </offer>
 <offer id="dub-cras-sol-liq-30-9" available="false">
-<price>0</price>
+<price>279</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-cras-sol-liq-30-9</vendorCode>
 <available>false</available>
-<supplierCode></supplierCode>
+<supplierCode>cras-sol-liq-30-9</supplierCode>
 <quantity>0</quantity>
 <name>Готова заливка Solana Liquid 30/50 Watermelon</name>
 </offer>
@@ -164879,14 +164879,14 @@
 <quantity>0</quantity>
 <name>Заливка Chaser Black 30/50 Energy Raspberry</name>
 </offer>
-<offer id="dub-char-black-30-50-12" available="false">
-<price>168</price>
+<offer id="dub-char-black-30-50-12" available="true">
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-char-black-30-50-12</vendorCode>
-<available>false</available>
-<supplierCode>24845</supplierCode>
-<quantity>0</quantity>
+<available>true</available>
+<supplierCode>22136</supplierCode>
+<quantity>100</quantity>
 <name>Заливка Chaser Black 30/50 Flirt</name>
 </offer>
 <offer id="dub-char-black-30-50-13" available="true">
@@ -169769,14 +169769,14 @@
 <quantity>100</quantity>
 <name>Заливка Flavorlab FL350 30/50 Ice Blueberry Watermelon</name>
 </offer>
-<offer id="dub-flrl-30-50-12" available="false">
+<offer id="dub-flrl-30-50-12" available="true">
 <price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-flrl-30-50-12</vendorCode>
-<available>false</available>
-<supplierCode>24500</supplierCode>
-<quantity>0</quantity>
+<available>true</available>
+<supplierCode>26364</supplierCode>
+<quantity>100</quantity>
 <name>Заливка Flavorlab FL350 30/50 Ice Currant</name>
 </offer>
 <offer id="dub-hd26361" available="true">
@@ -181048,6 +181048,4336 @@
 <supplierCode>25070</supplierCode>
 <quantity>100</quantity>
 <name>Заливка Wick&amp;Wire 30/50 Tibetan Dragon</name>
+</offer>
+<offer id="dub-ws16253" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253</vendorCode>
+<available>false</available>
+<supplierCode>ws16253</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Cherry Peach Soda</name>
+</offer>
+<offer id="dub-ws16253-14" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-14</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-14</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Pomegranate Raspberry Lime</name>
+</offer>
+<offer id="dub-ws16253-2" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-2</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Pomegranate Blast</name>
+</offer>
+<offer id="dub-ws16253-10" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-10</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-10</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Grapefruit Green Tea</name>
+</offer>
+<offer id="dub-ws16253-7" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-7</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Pear Soda</name>
+</offer>
+<offer id="dub-ws16253-3" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-3</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Watermelon Ice</name>
+</offer>
+<offer id="dub-ws16253-5" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-5</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Sour Apple Kiwi</name>
+</offer>
+<offer id="dub-ws16253-9" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-9</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Kiwi Pineapple Peach</name>
+</offer>
+<offer id="dub-ws16253-8" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-8</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Lemon Lime</name>
+</offer>
+<offer id="dub-ws16253-11" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-11</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Mint</name>
+</offer>
+<offer id="dub-ws16253-12" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-12</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-12</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Blackberry Lemonade</name>
+</offer>
+<offer id="dub-ws16253-4" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-4</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Strawberry Grapefruit</name>
+</offer>
+<offer id="dub-ws16253-13" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-13</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-13</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Blue Raspberry Ice</name>
+</offer>
+<offer id="dub-ws16253-1" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-1</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Red Raspberry Strawberry</name>
+</offer>
+<offer id="dub-ws16253-6" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16253-6</vendorCode>
+<available>false</available>
+<supplierCode>ws16253-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 45000BC Blackcurrant Grape</name>
+</offer>
+<offer id="dub-ws94498-3" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-3</vendorCode>
+<available>false</available>
+<supplierCode>25280</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Grape &amp; Muscat Grape</name>
+</offer>
+<offer id="dub-ws94498-5" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-5</vendorCode>
+<available>false</available>
+<supplierCode>25282</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Green Apple &amp; Grape</name>
+</offer>
+<offer id="dub-ws94498-9" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-9</vendorCode>
+<available>false</available>
+<supplierCode>25286</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Watermelon &amp; Strawberry</name>
+</offer>
+<offer id="dub-ws94498-6" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-6</vendorCode>
+<available>false</available>
+<supplierCode>25283</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Lime &amp; Pineapple</name>
+</offer>
+<offer id="dub-ws94498-7" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-7</vendorCode>
+<available>false</available>
+<supplierCode>25284</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Peach Mango &amp; Watermelon</name>
+</offer>
+<offer id="dub-ws94498-8" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-8</vendorCode>
+<available>false</available>
+<supplierCode>25285</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Pink Lemonade &amp; Grapefruit</name>
+</offer>
+<offer id="dub-ws94498-1" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-1</vendorCode>
+<available>false</available>
+<supplierCode>25278</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Currant Raspberry &amp; Grape</name>
+</offer>
+<offer id="dub-ws94498-2" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-2</vendorCode>
+<available>false</available>
+<supplierCode>25279</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Blueberry Sour Raspberry &amp; Cherry</name>
+</offer>
+<offer id="dub-ws94498-4" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498-4</vendorCode>
+<available>false</available>
+<supplierCode>25281</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Apple &amp; Anise Apple</name>
+</offer>
+<offer id="dub-ws94498" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws94498</vendorCode>
+<available>false</available>
+<supplierCode>25277</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 КОМБО Apple &amp; Juicy Peach</name>
+</offer>
+<offer id="dub-hd27276" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27276</vendorCode>
+<available>false</available>
+<supplierCode>27276</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Cherry &amp; Peach Lemonade</name>
+</offer>
+<offer id="dub-hd27277" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27277</vendorCode>
+<available>false</available>
+<supplierCode>27277</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Energy Drink &amp; Lime Cola</name>
+</offer>
+<offer id="dub-hd27278" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27278</vendorCode>
+<available>false</available>
+<supplierCode>27278</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Jasmine Raspberry &amp; Blueberry Ice</name>
+</offer>
+<offer id="dub-hd27284" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27284</vendorCode>
+<available>false</available>
+<supplierCode>27284</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Watermelon Ice &amp; Blueberry</name>
+</offer>
+<offer id="dub-hd27281" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27281</vendorCode>
+<available>false</available>
+<supplierCode>27281</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Sour Watermelon &amp; Pineapple</name>
+</offer>
+<offer id="dub-hd27279" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27279</vendorCode>
+<available>false</available>
+<supplierCode>27279</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Lime &amp; Blue Raspberry</name>
+</offer>
+<offer id="dub-hd27275" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27275</vendorCode>
+<available>false</available>
+<supplierCode>27275</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Blackberry &amp; Passion Fruit</name>
+</offer>
+<offer id="dub-hd27280" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27280</vendorCode>
+<available>false</available>
+<supplierCode>27280</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Peach &amp; Triple Mango</name>
+</offer>
+<offer id="dub-hd27282" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27282</vendorCode>
+<available>false</available>
+<supplierCode>27282</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Strawberry &amp; Banana</name>
+</offer>
+<offer id="dub-hd27283" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27283</vendorCode>
+<available>false</available>
+<supplierCode>27283</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 30000Pro КОМБО Strawberry &amp; Grape</name>
+</offer>
+<offer id="dub-ws36341-5" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-5</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Pineapple White Peach</name>
+</offer>
+<offer id="dub-ws36341-2" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-2</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Grape Pomegranate</name>
+</offer>
+<offer id="dub-ws36341" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341</vendorCode>
+<available>false</available>
+<supplierCode>ws36341</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Cherry</name>
+</offer>
+<offer id="dub-ws36341-1" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-1</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Cherry Lemon</name>
+</offer>
+<offer id="dub-ws36341-9" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-9</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws36341-6" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-6</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Sour Blackberry Ice</name>
+</offer>
+<offer id="dub-ws36341-7" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-7</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Sour Grape Ice</name>
+</offer>
+<offer id="dub-ws36341-3" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-3</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Lemon Lime</name>
+</offer>
+<offer id="dub-ws36341-8" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-8</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Strawberry Kiwi</name>
+</offer>
+<offer id="dub-ws36341-4" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws36341-4</vendorCode>
+<available>false</available>
+<supplierCode>ws36341-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Duke 30000 Nordic Berry</name>
+</offer>
+<offer id="dub-ws66633-9" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-9</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-9</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Pineapple Pomegranate</name>
+</offer>
+<offer id="dub-ws66633-5" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-5</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Flavorless</name>
+</offer>
+<offer id="dub-ws66633-6" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-6</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-6</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Grape</name>
+</offer>
+<offer id="dub-ws66633-17" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-17</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-17</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Winter Mint</name>
+</offer>
+<offer id="dub-ws66633-4" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-4</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-4</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Golden Berry</name>
+</offer>
+<offer id="dub-ws66633-13" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-13</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-13</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Watermelon Peach Frost</name>
+</offer>
+<offer id="dub-ws66633-14" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-14</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-14</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Sour Apple Ice</name>
+</offer>
+<offer id="dub-ws66633-10" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-10</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-10</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Sour Berry Mix</name>
+</offer>
+<offer id="dub-ws66633-1" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-1</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-1</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Raspberry Marshmallow</name>
+</offer>
+<offer id="dub-ws66633" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633</vendorCode>
+<available>true</available>
+<supplierCode>ws66633</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Blackberry Grape</name>
+</offer>
+<offer id="dub-ws66633-18" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-18</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-18</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Strawberry Kiwi</name>
+</offer>
+<offer id="dub-ws66633-11" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-11</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-11</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Strawberry Raspberry Ice</name>
+</offer>
+<offer id="dub-ws66633-12" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-12</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-12</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Strawberry Wild Strawberry</name>
+</offer>
+<offer id="dub-ws66633-15" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-15</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-15</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Triple Berry</name>
+</offer>
+<offer id="dub-ws66633-3" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-3</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-3</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Pink Lemonade</name>
+</offer>
+<offer id="dub-ws66633-19" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-19</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-19</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Blue Lemonade Ice</name>
+</offer>
+<offer id="dub-ws66633-8" available="true">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-8</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-8</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Sweet Pineapple</name>
+</offer>
+<offer id="dub-ws66633-7" available="true">
+<price>480</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-7</vendorCode>
+<available>true</available>
+<supplierCode>ws66633-7</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 40000Pro BC Tropical Baja</name>
+</offer>
+<offer id="dub-ws66633-16" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-16</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-16</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Black Mint</name>
+</offer>
+<offer id="dub-ws66633-2" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws66633-2</vendorCode>
+<available>false</available>
+<supplierCode>ws66633-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 40000Pro BC Aurora Berries</name>
+</offer>
+<offer id="dub-ws57448-9" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-9</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Grape Ice</name>
+</offer>
+<offer id="dub-ws57448-14" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-14</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-14</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Cherry</name>
+</offer>
+<offer id="dub-ws57448-2" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-2</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Cherry Pomegranate Pineapple</name>
+</offer>
+<offer id="dub-ws57448-7" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-7</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Mountain Mint</name>
+</offer>
+<offer id="dub-ws57448-11" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-11</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Pomegranate Blast</name>
+</offer>
+<offer id="dub-ws57448-1" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-1</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Grapefruit Guava</name>
+</offer>
+<offer id="dub-ws57448-12" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-12</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-12</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Pear Soda</name>
+</offer>
+<offer id="dub-ws57448-8" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-8</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Watermelon Ice</name>
+</offer>
+<offer id="dub-ws57448-10" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-10</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-10</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Sour Strawberry Dragonfruit</name>
+</offer>
+<offer id="dub-ws57448-5" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-5</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Kiwi Pineapple Peach</name>
+</offer>
+<offer id="dub-ws57448-6" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-6</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Lemon Lime</name>
+</offer>
+<offer id="dub-ws57448" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448</vendorCode>
+<available>false</available>
+<supplierCode>ws57448</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Raspberry Grapefruit Lemon</name>
+</offer>
+<offer id="dub-ws57448-13" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-13</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-13</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Blue Raspberry Ice</name>
+</offer>
+<offer id="dub-ws57448-4" available="true">
+<price>719</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-4</vendorCode>
+<available>true</available>
+<supplierCode>ws57448-4</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 33000 GH Pine &amp; Berries</name>
+</offer>
+<offer id="dub-ws57448-3" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws57448-3</vendorCode>
+<available>false</available>
+<supplierCode>ws57448-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 33000 GH Apple Kiwi Ice</name>
+</offer>
+<offer id="dub-ws83959-27" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-27</vendorCode>
+<available>false</available>
+<supplierCode>27267</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Alpine Mint</name>
+</offer>
+<offer id="dub-ws83959-48" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-48</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-48</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Pineapple Ice</name>
+</offer>
+<offer id="dub-ws83959-32" available="false">
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-32</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-32</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Banana Ice</name>
+</offer>
+<offer id="dub-ws83959-36" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-36</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-36</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Blue Sour Raspberry</name>
+</offer>
+<offer id="dub-ws83959-26" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-26</vendorCode>
+<available>false</available>
+<supplierCode>27269</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Grape Cherry</name>
+</offer>
+<offer id="dub-ws83959-3" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-3</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-3</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Grape Ice</name>
+</offer>
+<offer id="dub-ws83959-2" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-2</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-2</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Cherry Cola</name>
+</offer>
+<offer id="dub-ws83959-39" available="false">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-39</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-39</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Cherry Ice</name>
+</offer>
+<offer id="dub-ws83959-43" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-43</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-43</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Cherry Blueberry Lime Ice</name>
+</offer>
+<offer id="dub-ws83959-45" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-45</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-45</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Melon Strawberry Watermelon</name>
+</offer>
+<offer id="dub-ws83959-6" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-6</vendorCode>
+<available>false</available>
+<supplierCode>26315</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Jasmine Raspberry</name>
+</offer>
+<offer id="dub-ws83959-5" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-5</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-5</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Green Plum Sour Lime</name>
+</offer>
+<offer id="dub-ws83959-4" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-4</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-4</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Green Apple Ice</name>
+</offer>
+<offer id="dub-ws83959-13" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-13</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-13</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Watermelon Cherry</name>
+</offer>
+<offer id="dub-ws83959-25" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-25</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-25</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Watermelon Lemon</name>
+</offer>
+<offer id="dub-ws83959-14" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-14</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-14</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Watermelon Ice</name>
+</offer>
+<offer id="dub-ws83959-24" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-24</vendorCode>
+<available>false</available>
+<supplierCode>28271</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Watermelon Bubble Gum</name>
+</offer>
+<offer id="dub-ws83959-50" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-50</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-50</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Sour Apple Ice</name>
+</offer>
+<offer id="dub-ws83959-10" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-10</vendorCode>
+<available>false</available>
+<supplierCode>26317</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Sour Watermelon Candy</name>
+</offer>
+<offer id="dub-ws83959-19" available="false">
+<price>445</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-19</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-19</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Kiwi Pineapple</name>
+</offer>
+<offer id="dub-ws83959-57" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-57</vendorCode>
+<available>false</available>
+<supplierCode>27270</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Kiwi Pineapple Ice</name>
+</offer>
+<offer id="dub-ws83959-15" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-15</vendorCode>
+<available>false</available>
+<supplierCode>26720</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws83959-40" available="false">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-40</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-40</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Cola</name>
+</offer>
+<offer id="dub-ws83959-42" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-42</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-42</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Icy Mint</name>
+</offer>
+<offer id="dub-ws83959-44" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-44</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-44</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Lemon Lime</name>
+</offer>
+<offer id="dub-ws83959-9" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-9</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-9</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Raspberry Watermelon Lemon</name>
+</offer>
+<offer id="dub-ws83959-21" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-21</vendorCode>
+<available>false</available>
+<supplierCode>27271</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Mango Peach</name>
+</offer>
+<offer id="dub-ws83959-20" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-20</vendorCode>
+<available>false</available>
+<supplierCode>26721</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Mango Peach Watermelon</name>
+</offer>
+<offer id="dub-ws83959-55" available="false">
+<price>635</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-55</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-55</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Gummy Bears</name>
+</offer>
+<offer id="dub-ws83959-46" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-46</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-46</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Mixed Berries</name>
+</offer>
+<offer id="dub-ws83959-52" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-52</vendorCode>
+<available>false</available>
+<supplierCode>26719</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Peach</name>
+</offer>
+<offer id="dub-ws83959-31" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-31</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-31</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Peach Ice</name>
+</offer>
+<offer id="dub-ws83959-22" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-22</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-22</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Peach Berries</name>
+</offer>
+<offer id="dub-ws83959-18" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-18</vendorCode>
+<available>false</available>
+<supplierCode>27268</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Double Mango</name>
+</offer>
+<offer id="dub-ws83959-28" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-28</vendorCode>
+<available>false</available>
+<supplierCode>26718</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Double Apple</name>
+</offer>
+<offer id="dub-ws83959-11" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-11</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-11</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Strawberry Banana</name>
+</offer>
+<offer id="dub-ws83959-29" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-29</vendorCode>
+<available>false</available>
+<supplierCode>27939</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Strawberry Grape</name>
+</offer>
+<offer id="dub-ws83959-56" available="false">
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-56</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-56</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Strawberry Ice</name>
+</offer>
+<offer id="dub-ws83959-12" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-12</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-12</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Strawberry Watermelon Bubblegum</name>
+</offer>
+<offer id="dub-ws83959-7" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-7</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-7</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Polar Mint</name>
+</offer>
+<offer id="dub-ws83959-51" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-51</vendorCode>
+<available>false</available>
+<supplierCode>26877</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Triple Mango</name>
+</offer>
+<offer id="dub-ws83959-8" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-8</vendorCode>
+<available>false</available>
+<supplierCode>26876</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Purple Mint</name>
+</offer>
+<offer id="dub-ws83959-53" available="false">
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-53</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-53</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Pink Lemonade</name>
+</offer>
+<offer id="dub-ws83959-49" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-49</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-49</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Sakura Grape</name>
+</offer>
+<offer id="dub-ws83959-1" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-1</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-1</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Blue Raspberry Lemonade</name>
+</offer>
+<offer id="dub-ws83959-54" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-54</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-54</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Skittle</name>
+</offer>
+<offer id="dub-ws83959-33" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-33</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-33</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Black Dragon Ice</name>
+</offer>
+<offer id="dub-ws83959-34" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-34</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-34</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Black Ice</name>
+</offer>
+<offer id="dub-ws83959-37" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-37</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-37</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Blueberry Cherry Cranberry</name>
+</offer>
+<offer id="dub-ws83959-38" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-38</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-38</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Blueberry Pear</name>
+</offer>
+<offer id="dub-ws83959-16" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-16</vendorCode>
+<available>true</available>
+<supplierCode>ws83959-16</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Blueberry Ice</name>
+</offer>
+<offer id="dub-ws83959-17" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-17</vendorCode>
+<available>false</available>
+<supplierCode>26717</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Blueberry Raspberry Ice</name>
+</offer>
+<offer id="dub-ws83959-47" available="false">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-47</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-47</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Blueberry Raspberry Blackberry Ice</name>
+</offer>
+<offer id="dub-ws83959-41" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-41</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-41</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Fizzy Cherry</name>
+</offer>
+<offer id="dub-ws83959" available="true">
+<price>649</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959</vendorCode>
+<available>true</available>
+<supplierCode>ws83959</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 23000 GH Apple Pear</name>
+</offer>
+<offer id="dub-ws83959-30" available="false">
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-30</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-30</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Apple Peach</name>
+</offer>
+<offer id="dub-ws83959-23" available="false">
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws83959-23</vendorCode>
+<available>false</available>
+<supplierCode>ws83959-23</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 23000 GH Berries</name>
+</offer>
+<offer id="dub-ws24416" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416</vendorCode>
+<available>false</available>
+<supplierCode>26332</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Banana Pie</name>
+</offer>
+<offer id="dub-ws24416-5" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-5</vendorCode>
+<available>false</available>
+<supplierCode>26336</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Grape Ice</name>
+</offer>
+<offer id="dub-ws24416-3" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-3</vendorCode>
+<available>false</available>
+<supplierCode>26335</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Cherry Pomegranate Cranberry</name>
+</offer>
+<offer id="dub-ws24416-4" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-4</vendorCode>
+<available>false</available>
+<supplierCode>26346</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Energy Drink</name>
+</offer>
+<offer id="dub-ws24416-14" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-14</vendorCode>
+<available>false</available>
+<supplierCode>26345</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Watermelon</name>
+</offer>
+<offer id="dub-ws24416-6" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-6</vendorCode>
+<available>false</available>
+<supplierCode>26337</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws24416-7" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-7</vendorCode>
+<available>false</available>
+<supplierCode>26338</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Lime Cola</name>
+</offer>
+<offer id="dub-ws24416-8" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-8</vendorCode>
+<available>false</available>
+<supplierCode>26339</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Mint</name>
+</offer>
+<offer id="dub-ws24416-1" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-1</vendorCode>
+<available>false</available>
+<supplierCode>26333</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Blackberry Cranberry</name>
+</offer>
+<offer id="dub-ws24416-9" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-9</vendorCode>
+<available>false</available>
+<supplierCode>26340</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Peach Ice</name>
+</offer>
+<offer id="dub-ws24416-13" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-13</vendorCode>
+<available>false</available>
+<supplierCode>26344</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Strawberry Watermelon</name>
+</offer>
+<offer id="dub-ws24416-12" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-12</vendorCode>
+<available>false</available>
+<supplierCode>26343</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Strawberry Kiwi Ice</name>
+</offer>
+<offer id="dub-ws24416-11" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-11</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Ribena Lychee</name>
+</offer>
+<offer id="dub-ws24416-10" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-10</vendorCode>
+<available>false</available>
+<supplierCode>26341</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Pink Lemonade</name>
+</offer>
+<offer id="dub-ws24416-2" available="false">
+<price>426</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-2</vendorCode>
+<available>false</available>
+<supplierCode>26334</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Ice 30000 Blue Raspberry Lemonade</name>
+</offer>
+<offer id="dub-ws99274-10" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-10</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-10</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Grape Ice</name>
+</offer>
+<offer id="dub-ws99274-9" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-9</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Grape Raspberry</name>
+</offer>
+<offer id="dub-ws99274" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274</vendorCode>
+<available>false</available>
+<supplierCode>ws99274</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Cherry Watermelon</name>
+</offer>
+<offer id="dub-ws99274-2" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-2</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Pomegranate</name>
+</offer>
+<offer id="dub-ws99274-1" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-1</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws99274-8" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-8</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws99274-6" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-6</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Lime Cola</name>
+</offer>
+<offer id="dub-ws99274-7" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-7</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Lemon Lime</name>
+</offer>
+<offer id="dub-ws99274-5" available="false">
+<price>480</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-5</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Mango Peach Watermelon</name>
+</offer>
+<offer id="dub-ws99274-4" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-4</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Mint</name>
+</offer>
+<offer id="dub-ws99274-3" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-3</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Peach Ice</name>
+</offer>
+<offer id="dub-ws99274-11" available="false">
+<price>475</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws99274-11</vendorCode>
+<available>false</available>
+<supplierCode>ws99274-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Moon 40000 Blue Raspberry Lemonade</name>
+</offer>
+<offer id="dub-ws24416-26" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-26</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-26</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Pineapple Dragon Fruit Grapefruit</name>
+</offer>
+<offer id="dub-ws24416-22" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-22</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-22</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Grape Cranberry</name>
+</offer>
+<offer id="dub-ws24416-18" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-18</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-18</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Pomegranate</name>
+</offer>
+<offer id="dub-ws24416-27" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-27</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-27</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Pear Soda</name>
+</offer>
+<offer id="dub-ws24416-23" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-23</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-23</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Green Tea with Grapefruit</name>
+</offer>
+<offer id="dub-ws24416-25" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-25</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-25</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Watermelon Cherry</name>
+</offer>
+<offer id="dub-ws24416-28" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-28</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-28</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws24416-17" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-17</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-17</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Sour Strawberry Dragon Fruit</name>
+</offer>
+<offer id="dub-ws24416-20" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-20</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-20</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Sour Apple Watermelon</name>
+</offer>
+<offer id="dub-ws24416-60" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-60</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-60</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Sour Cherry Candy</name>
+</offer>
+<offer id="dub-ws24416-15" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-15</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-15</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Icy Freshness</name>
+</offer>
+<offer id="dub-ws24416-24" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-24</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-24</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Icy Blue Rose</name>
+</offer>
+<offer id="dub-ws24416-19" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-19</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-19</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Lime</name>
+</offer>
+<offer id="dub-ws24416-16" available="false">
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-16</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-16</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Blue Raspberry Lemonade</name>
+</offer>
+<offer id="dub-ws24416-21" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-21</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-21</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Nic 30000 Iced Tea Lemon Lime</name>
+</offer>
+<offer id="dub-ws23152" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152</vendorCode>
+<available>false</available>
+<supplierCode>26878</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Alpine Mint</name>
+</offer>
+<offer id="dub-ws23152-25" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-25</vendorCode>
+<available>false</available>
+<supplierCode>26895</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Pineapple Mango Ice</name>
+</offer>
+<offer id="dub-ws23152-5" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-5</vendorCode>
+<available>false</available>
+<supplierCode>26886</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Grape Cherry</name>
+</offer>
+<offer id="dub-ws23152-6" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-6</vendorCode>
+<available>false</available>
+<supplierCode>26887</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Grape Ice</name>
+</offer>
+<offer id="dub-ws23152-23" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-23</vendorCode>
+<available>false</available>
+<supplierCode>26888</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Grape Mint</name>
+</offer>
+<offer id="dub-ws23152-17" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-17</vendorCode>
+<available>false</available>
+<supplierCode>26903</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Watermelon Lemon</name>
+</offer>
+<offer id="dub-ws23152-16" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-16</vendorCode>
+<available>false</available>
+<supplierCode>26902</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws23152-15" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-15</vendorCode>
+<available>false</available>
+<supplierCode>26901</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Watermelon Bubble Gum</name>
+</offer>
+<offer id="dub-ws23152-8" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-8</vendorCode>
+<available>false</available>
+<supplierCode>26890</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Kiwi Pineapple Ice</name>
+</offer>
+<offer id="dub-ws23152-7" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-7</vendorCode>
+<available>false</available>
+<supplierCode>26889</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws23152-24" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-24</vendorCode>
+<available>false</available>
+<supplierCode>26891</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Lemon Lime Ice</name>
+</offer>
+<offer id="dub-ws23152-10" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-10</vendorCode>
+<available>false</available>
+<supplierCode>26904</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Mango Peach</name>
+</offer>
+<offer id="dub-ws23152-9" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-9</vendorCode>
+<available>false</available>
+<supplierCode>26892</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Mango Peach Watermelon</name>
+</offer>
+<offer id="dub-ws23152-20" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-20</vendorCode>
+<available>false</available>
+<supplierCode>26881</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Blackberry Pomegranate Cherry</name>
+</offer>
+<offer id="dub-ws23152-19" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-19</vendorCode>
+<available>false</available>
+<supplierCode>26880</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Blackberry Cranberry</name>
+</offer>
+<offer id="dub-ws23152-12" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-12</vendorCode>
+<available>false</available>
+<supplierCode>26894</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Peach Ice</name>
+</offer>
+<offer id="dub-ws23152-11" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-11</vendorCode>
+<available>false</available>
+<supplierCode>26893</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Peach Berries</name>
+</offer>
+<offer id="dub-ws23152-9-1" available="false">
+<price>575</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-9-1</vendorCode>
+<available>false</available>
+<supplierCode>ws23152-9-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Double Mango</name>
+</offer>
+<offer id="dub-ws23152-4" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-4</vendorCode>
+<available>false</available>
+<supplierCode>26885</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Double Mango</name>
+</offer>
+<offer id="dub-ws23152-3" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-3</vendorCode>
+<available>false</available>
+<supplierCode>26905</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Double Apple</name>
+</offer>
+<offer id="dub-ws23152-13" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-13</vendorCode>
+<available>false</available>
+<supplierCode>26896</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Strawberry Grape</name>
+</offer>
+<offer id="dub-ws23152-28" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-28</vendorCode>
+<available>false</available>
+<supplierCode>26899</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Strawberry Watermelon</name>
+</offer>
+<offer id="dub-ws23152-26" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-26</vendorCode>
+<available>false</available>
+<supplierCode>26897</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Strawberry Ice</name>
+</offer>
+<offer id="dub-ws23152-27" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-27</vendorCode>
+<available>false</available>
+<supplierCode>26898</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Strawberry Raspberry Cherry</name>
+</offer>
+<offer id="dub-ws23152-21" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-21</vendorCode>
+<available>false</available>
+<supplierCode>26882</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Blue Raspberry Lemonade</name>
+</offer>
+<offer id="dub-ws23152-1" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-1</vendorCode>
+<available>false</available>
+<supplierCode>26883</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Blueberry Ice</name>
+</offer>
+<offer id="dub-ws23152-2" available="false">
+<price>0</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-2</vendorCode>
+<available>false</available>
+<supplierCode>ws23152-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Blueberry Raspberry</name>
+</offer>
+<offer id="dub-ws23152-22" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-22</vendorCode>
+<available>false</available>
+<supplierCode>26884</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Blueberry Raspberry</name>
+</offer>
+<offer id="dub-ws23152-18" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-18</vendorCode>
+<available>false</available>
+<supplierCode>26879</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Apple Peach</name>
+</offer>
+<offer id="dub-ws23152-14" available="false">
+<price>437</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws23152-14</vendorCode>
+<available>false</available>
+<supplierCode>26900</supplierCode>
+<quantity>0</quantity>
+<name>Дудка D3 25000 Berries</name>
+</offer>
+<offer id="dub-ws24416-58-3" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58-3</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Kiwi Lemonade</name>
+</offer>
+<offer id="dub-ws24416-58-5" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58-5</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Raspberry Strawberry</name>
+</offer>
+<offer id="dub-ws24416-58-6" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58-6</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Strawberry Kiwi</name>
+</offer>
+<offer id="dub-ws24416-58-7" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58-7</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Triple Berry</name>
+</offer>
+<offer id="dub-ws24416-58-4" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58-4</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Lemon Lime Tea</name>
+</offer>
+<offer id="dub-ws24416-58-2" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58-2</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Blueberry Watermelon</name>
+</offer>
+<offer id="dub-ws24416-59" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-59</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-59</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Apple Pear</name>
+</offer>
+<offer id="dub-ws24416-58" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-58</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-58</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sour 30000 Apple Candy</name>
+</offer>
+<offer id="dub-ws24416-51" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-51</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-51</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Grape Ice</name>
+</offer>
+<offer id="dub-ws24416-54" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-54</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-54</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Pear Soda</name>
+</offer>
+<offer id="dub-ws24416-52" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-52</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-52</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Jasmine Raspberry</name>
+</offer>
+<offer id="dub-ws24416-57" available="false">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-57</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-57</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Watermelon Cherry</name>
+</offer>
+<offer id="dub-ws24416-53" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-53</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-53</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Kiwi Pineapple Peach</name>
+</offer>
+<offer id="dub-ws24416-55" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-55</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-55</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Mint Pine</name>
+</offer>
+<offer id="dub-ws24416-56" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-56</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-56</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Strawberry Banana</name>
+</offer>
+<offer id="dub-ws24416-50" available="false">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws24416-50</vendorCode>
+<available>false</available>
+<supplierCode>ws24416-50</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Sweet 30000 Apple Watermelon</name>
+</offer>
+<offer id="dub-ws16111-6" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-6</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Pineapple Lime</name>
+</offer>
+<offer id="dub-ws16111-10" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-10</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-10</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Orange</name>
+</offer>
+<offer id="dub-ws16111" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111</vendorCode>
+<available>false</available>
+<supplierCode>ws16111</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Grape</name>
+</offer>
+<offer id="dub-ws16111-1" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-1</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws16111-5" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-5</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Sour Strawberry Dragon Fruit</name>
+</offer>
+<offer id="dub-ws16111-7" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-7</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Sour Apple Ice</name>
+</offer>
+<offer id="dub-ws16111-8" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-8</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Peach</name>
+</offer>
+<offer id="dub-ws16111-4" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-4</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Strawberry Orange</name>
+</offer>
+<offer id="dub-ws16111-3" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-3</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Sakura Grape</name>
+</offer>
+<offer id="dub-ws16111-9" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-9</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Blue Raspberry Ice</name>
+</offer>
+<offer id="dub-ws16111-11" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-11</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Blueberry</name>
+</offer>
+<offer id="dub-ws16111-2" available="false">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws16111-2</vendorCode>
+<available>false</available>
+<supplierCode>ws16111-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Trio 40000 Berries</name>
+</offer>
+<offer id="dub-esh-12000-01" available="false">
+<price>589</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-01</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-01</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Blue Raspberry Lemonade</name>
+</offer>
+<offer id="dub-esh-12000-02" available="false">
+<price>479</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-02</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-02</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Grape Mint</name>
+</offer>
+<offer id="dub-esh-12000-03" available="false">
+<price>479</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-03</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-03</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Melon Mint</name>
+</offer>
+<offer id="dub-esh-12000-04" available="false">
+<price>479</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-04</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-04</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Watermelon Mint</name>
+</offer>
+<offer id="dub-esh-12000-06" available="false">
+<price>479</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-06</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-06</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Boyfriend</name>
+</offer>
+<offer id="dub-esh-12000-05" available="false">
+<price>479</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-05</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-05</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Lemon Mint</name>
+</offer>
+<offer id="dub-esh-12000-07" available="false">
+<price>479</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-07</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-07</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Mint Frost</name>
+</offer>
+<offer id="dub-esh-12000-08" available="false">
+<price>589</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-08</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-08</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Double Apple</name>
+</offer>
+<offer id="dub-esh-12000-09" available="false">
+<price>589</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-esh-12000-09</vendorCode>
+<available>false</available>
+<supplierCode>esh-12000-09</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Eshka 12000 Berry Mint</name>
+</offer>
+<offer id="dub-ws13748" available="false">
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748</vendorCode>
+<available>false</available>
+<supplierCode>ws13748</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Pineapple Blackcurrant</name>
+</offer>
+<offer id="dub-ws13748-13" available="false">
+<price>769</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-13</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-13</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Cherry Splash</name>
+</offer>
+<offer id="dub-ws13748-9" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-9</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Pomegranate Blast</name>
+</offer>
+<offer id="dub-ws13748-7" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-7</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Starfruit Grape</name>
+</offer>
+<offer id="dub-ws13748-16" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-16</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-16</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Watermelon Ice</name>
+</offer>
+<offer id="dub-ws13748-12" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-12</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-12</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Cactus Lime</name>
+</offer>
+<offer id="dub-ws13748-4" available="false">
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-4</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Sour Strawberry Dragon Fruit</name>
+</offer>
+<offer id="dub-ws13748-2" available="false">
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-2</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Sour Apple</name>
+</offer>
+<offer id="dub-ws13748-8" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-8</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Sour Pineapple Ice</name>
+</offer>
+<offer id="dub-ws13748-5" available="false">
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-5</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Mint</name>
+</offer>
+<offer id="dub-ws13748-6" available="false">
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-6</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Mango</name>
+</offer>
+<offer id="dub-ws13748-10" available="false">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-10</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-10</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Milk Oolong</name>
+</offer>
+<offer id="dub-ws13748-11" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-11</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Cucumber Lime</name>
+</offer>
+<offer id="dub-ws13748-1" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-1</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Blue Raspberry Ice</name>
+</offer>
+<offer id="dub-ws13748-3" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws13748-3</vendorCode>
+<available>false</available>
+<supplierCode>ws13748-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Lush 40000Pro Black Grape</name>
+</offer>
+<offer id="dub-ws26112-7" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-7</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Pineapple Watermelon</name>
+</offer>
+<offer id="dub-ws26112-6" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-6</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Pineapple Passion Fruit Baja</name>
+</offer>
+<offer id="dub-ws26112-14" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-14</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-14</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 White Peach Baja</name>
+</offer>
+<offer id="dub-ws26112-17" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-17</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-17</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Grape</name>
+</offer>
+<offer id="dub-ws26112" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112</vendorCode>
+<available>false</available>
+<supplierCode>ws26112</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Cherry Lime</name>
+</offer>
+<offer id="dub-ws26112-4" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-4</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Jasmine Raspberry</name>
+</offer>
+<offer id="dub-ws26112-3" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-3</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Green Tea with Grapefruit</name>
+</offer>
+<offer id="dub-ws26112-13" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-13</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-13</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Watermelon</name>
+</offer>
+<offer id="dub-ws26112-12" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-12</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-12</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Watermelon Cherry</name>
+</offer>
+<offer id="dub-ws26112-9" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-9</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Sour Blackberry Blueberry</name>
+</offer>
+<offer id="dub-ws26112-18" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-18</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-18</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Lemon Lime</name>
+</offer>
+<offer id="dub-ws26112-8" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-8</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Sea Breeze Mint</name>
+</offer>
+<offer id="dub-ws26112-15" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-15</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-15</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Multifruit</name>
+</offer>
+<offer id="dub-ws26112-5" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-5</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Peach</name>
+</offer>
+<offer id="dub-ws26112-1" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-1</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Double Apple</name>
+</offer>
+<offer id="dub-ws26112-2" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-2</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Double Peach Lime</name>
+</offer>
+<offer id="dub-ws26112-10" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-10</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-10</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Strawberry Peach</name>
+</offer>
+<offer id="dub-ws26112-16" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-16</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-16</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Blue Razz Lemonade</name>
+</offer>
+<offer id="dub-ws26112-11" available="false">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws26112-11</vendorCode>
+<available>false</available>
+<supplierCode>ws26112-11</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 25000 Tropical Blast</name>
+</offer>
+<offer id="dub-ws49648-44" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-44</vendorCode>
+<available>false</available>
+<supplierCode>27033</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Banana Ice</name>
+</offer>
+<offer id="dub-ws49648-41" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-41</vendorCode>
+<available>false</available>
+<supplierCode>27399</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Grape</name>
+</offer>
+<offer id="dub-ws49648-61" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-61</vendorCode>
+<available>false</available>
+<supplierCode>27579</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Grape Lime</name>
+</offer>
+<offer id="dub-ws49648-48" available="false">
+<price>279</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-48</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-48</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Grape Raspberry Ice Cream</name>
+</offer>
+<offer id="dub-ws49648-60" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-60</vendorCode>
+<available>false</available>
+<supplierCode>27577</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Cherry Lemon</name>
+</offer>
+<offer id="dub-hd27400" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27400</vendorCode>
+<available>false</available>
+<supplierCode>27400</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Cherry Lemon Peach</name>
+</offer>
+<offer id="dub-hd27397" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27397</vendorCode>
+<available>false</available>
+<supplierCode>27397</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Watermelon</name>
+</offer>
+<offer id="dub-ws49648-62" available="false">
+<price>279</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-62</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-62</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Watermelon Lemon</name>
+</offer>
+<offer id="dub-ws49648-65" available="false">
+<price>279</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-65</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-65</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Sour Watermelon Gummy</name>
+</offer>
+<offer id="dub-ws49648-47" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-47</vendorCode>
+<available>false</available>
+<supplierCode>27398</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws49648-43" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-43</vendorCode>
+<available>false</available>
+<supplierCode>26830</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Coconut Melon</name>
+</offer>
+<offer id="dub-ws49648-6-1" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-6-1</vendorCode>
+<available>false</available>
+<supplierCode>27578</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Cola</name>
+</offer>
+<offer id="dub-ws49648-46" available="false">
+<price>279</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-46</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-46</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Strawberry Kiwi</name>
+</offer>
+<offer id="dub-ws49648-45" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-45</vendorCode>
+<available>false</available>
+<supplierCode>27034</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Pink Lemonade</name>
+</offer>
+<offer id="dub-hd27576" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27576</vendorCode>
+<available>false</available>
+<supplierCode>27576</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Blue Sour Raspberry</name>
+</offer>
+<offer id="dub-hd27402" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd27402</vendorCode>
+<available>false</available>
+<supplierCode>27402</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Blue Razz Lemonade</name>
+</offer>
+<offer id="dub-ws49648-42" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-42</vendorCode>
+<available>false</available>
+<supplierCode>27401</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Blueberry</name>
+</offer>
+<offer id="dub-ws49648-64" available="false">
+<price>279</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-64</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-64</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Blueberry Sour Raspberry</name>
+</offer>
+<offer id="dub-ws49648-63" available="false">
+<price>279</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-63</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-63</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Ultra Apple Peach</name>
+</offer>
+<offer id="dub-hd26829" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd26829</vendorCode>
+<available>false</available>
+<supplierCode>26829</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Iced Latte</name>
+</offer>
+<offer id="dub-hd21646" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21646</vendorCode>
+<available>true</available>
+<supplierCode>21646</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Pineapple</name>
+</offer>
+<offer id="dub-hd7606" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7606</vendorCode>
+<available>false</available>
+<supplierCode>7606</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Banana Ice</name>
+</offer>
+<offer id="dub-hd7595" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7595</vendorCode>
+<available>true</available>
+<supplierCode>7595</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Grape</name>
+</offer>
+<offer id="dub-hd9074" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9074</vendorCode>
+<available>true</available>
+<supplierCode>9074</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Cherry Lemon Peach</name>
+</offer>
+<offer id="dub-hd21645" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21645</vendorCode>
+<available>true</available>
+<supplierCode>21645</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Green Apple</name>
+</offer>
+<offer id="dub-hd7611" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7611</vendorCode>
+<available>true</available>
+<supplierCode>7611</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Watermelon</name>
+</offer>
+<offer id="dub-hd21795" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21795</vendorCode>
+<available>true</available>
+<supplierCode>21795</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Watermelon Lemon</name>
+</offer>
+<offer id="dub-ws49648-52" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-52</vendorCode>
+<available>true</available>
+<supplierCode>7934</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws49648-3" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-3</vendorCode>
+<available>true</available>
+<supplierCode>7601</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Coconut Melon</name>
+</offer>
+<offer id="dub-hd7931" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7931</vendorCode>
+<available>true</available>
+<supplierCode>7931</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Cola</name>
+</offer>
+<offer id="dub-hd21791" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21791</vendorCode>
+<available>false</available>
+<supplierCode>21791</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Lychee Blackcurrant</name>
+</offer>
+<offer id="dub-hd21792" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21792</vendorCode>
+<available>true</available>
+<supplierCode>21792</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Mixed Berries</name>
+</offer>
+<offer id="dub-hd7613" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7613</vendorCode>
+<available>true</available>
+<supplierCode>7613</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Mint</name>
+</offer>
+<offer id="dub-hd7933" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7933</vendorCode>
+<available>true</available>
+<supplierCode>7933</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Strawberry Banana</name>
+</offer>
+<offer id="dub-hd8998" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd8998</vendorCode>
+<available>true</available>
+<supplierCode>8998</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Strawberry Kiwi</name>
+</offer>
+<offer id="dub-hd22706" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd22706</vendorCode>
+<available>true</available>
+<supplierCode>22706</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Strawberry Raspberry Cherry Ice</name>
+</offer>
+<offer id="dub-hd7597" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7597</vendorCode>
+<available>true</available>
+<supplierCode>7597</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Strawberry Ice Cream</name>
+</offer>
+<offer id="dub-hd7609" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7609</vendorCode>
+<available>true</available>
+<supplierCode>7609</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Pink Lemonade</name>
+</offer>
+<offer id="dub-ws49648-50" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-50</vendorCode>
+<available>false</available>
+<supplierCode>9075</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Siberian Forest</name>
+</offer>
+<offer id="dub-hd7607" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7607</vendorCode>
+<available>true</available>
+<supplierCode>7607</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Blue Razz Lemonade</name>
+</offer>
+<offer id="dub-ws49648-49" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-49</vendorCode>
+<available>false</available>
+<supplierCode>7596</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Fruit Mix</name>
+</offer>
+<offer id="dub-ws49648-51" available="false">
+<price>259</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws49648-51</vendorCode>
+<available>false</available>
+<supplierCode>ws49648-51</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 1500 Blueberry</name>
+</offer>
+<offer id="dub-hd21790" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21790</vendorCode>
+<available>true</available>
+<supplierCode>21790</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Blueberry Bubblegum</name>
+</offer>
+<offer id="dub-hd7608" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7608</vendorCode>
+<available>true</available>
+<supplierCode>7608</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 1500 Apple Peach</name>
+</offer>
+<offer id="dub-hd9008" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9008</vendorCode>
+<available>true</available>
+<supplierCode>9008</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 2000 Pineapple Ice</name>
+</offer>
+<offer id="dub-hd9003" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9003</vendorCode>
+<available>true</available>
+<supplierCode>9003</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 2000 Grape Energy</name>
+</offer>
+<offer id="dub-hd23715" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd23715</vendorCode>
+<available>false</available>
+<supplierCode>23715</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 2000 Coffee Tobacco</name>
+</offer>
+<offer id="dub-hd9006" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9006</vendorCode>
+<available>true</available>
+<supplierCode>9006</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 2000 Watermelon Lemon</name>
+</offer>
+<offer id="dub-hd9004" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9004</vendorCode>
+<available>false</available>
+<supplierCode>9004</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 2000 Sour Apple</name>
+</offer>
+<offer id="dub-hd9005" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9005</vendorCode>
+<available>false</available>
+<supplierCode>9005</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 2000 Mango Peach Watermelon</name>
+</offer>
+<offer id="dub-hd9007" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9007</vendorCode>
+<available>false</available>
+<supplierCode>9007</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 2000 Banana Milk</name>
+</offer>
+<offer id="dub-hd9009" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9009</vendorCode>
+<available>true</available>
+<supplierCode>9009</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 2000 Peach</name>
+</offer>
+<offer id="dub-hd9000" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd9000</vendorCode>
+<available>true</available>
+<supplierCode>9000</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 2000 Strawberry Grape</name>
+</offer>
+<offer id="dub-ws62816" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816</vendorCode>
+<available>false</available>
+<supplierCode>24233</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Grape Ice</name>
+</offer>
+<offer id="dub-ws62816-8" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-8</vendorCode>
+<available>false</available>
+<supplierCode>24231</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Cherry Lime</name>
+</offer>
+<offer id="dub-ws62816-2" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-2</vendorCode>
+<available>false</available>
+<supplierCode>24235</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Jasmine Raspberry</name>
+</offer>
+<offer id="dub-ws62816-1" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-1</vendorCode>
+<available>false</available>
+<supplierCode>24234</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Green Apple Passion Fruit Kiwi</name>
+</offer>
+<offer id="dub-ws62816-6" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-6</vendorCode>
+<available>false</available>
+<supplierCode>24242</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Watermelon Ice</name>
+</offer>
+<offer id="dub-ws62816-5" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-5</vendorCode>
+<available>false</available>
+<supplierCode>24240</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Sour Blackberry Blueberry</name>
+</offer>
+<offer id="dub-ws62816-11" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-11</vendorCode>
+<available>false</available>
+<supplierCode>24236</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Lemon Lime</name>
+</offer>
+<offer id="dub-ws62816-3" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-3</vendorCode>
+<available>false</available>
+<supplierCode>24237</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Lemonade</name>
+</offer>
+<offer id="dub-elfdrop_cr_8000-6" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-elfdrop_cr_8000-6</vendorCode>
+<available>false</available>
+<supplierCode>24241</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Tangy Raspberry Jam</name>
+</offer>
+<offer id="dub-ws62816-4" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-4</vendorCode>
+<available>false</available>
+<supplierCode>24238</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Mango Green Grape</name>
+</offer>
+<offer id="dub-ws62816-12" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-12</vendorCode>
+<available>false</available>
+<supplierCode>24239</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 8000-CR Sea Breeze Mint</name>
+</offer>
+<offer id="dub-ws62816-10" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws62816-10</vendorCode>
+<available>true</available>
+<supplierCode>24232</supplierCode>
+<quantity>100</quantity>
+<name>Дудка 8000-CR Double Apple</name>
+</offer>
+<offer id="dub-hd7945" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7945</vendorCode>
+<available>false</available>
+<supplierCode>7945</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Banana Ice</name>
+</offer>
+<offer id="dub-hd7937" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7937</vendorCode>
+<available>false</available>
+<supplierCode>7937</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Grape</name>
+</offer>
+<offer id="dub-hd25039" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd25039</vendorCode>
+<available>false</available>
+<supplierCode>25039</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Grape Energy</name>
+</offer>
+<offer id="dub-ws79919-22" available="false">
+<price>259</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws79919-22</vendorCode>
+<available>false</available>
+<supplierCode>ws79919-22</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Watermelon</name>
+</offer>
+<offer id="dub-hd7944" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7944</vendorCode>
+<available>true</available>
+<supplierCode>7944</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 1500 Sour Apple</name>
+</offer>
+<offer id="dub-hd7943" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7943</vendorCode>
+<available>false</available>
+<supplierCode>7943</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws79919-9" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws79919-9</vendorCode>
+<available>false</available>
+<supplierCode>7603</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Mango Peach Watermelon</name>
+</offer>
+<offer id="dub-ws79919-7" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws79919-7</vendorCode>
+<available>false</available>
+<supplierCode>7939</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Strawberry Banana</name>
+</offer>
+<offer id="dub-hd7612" available="true">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7612</vendorCode>
+<available>true</available>
+<supplierCode>7612</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 1500 Strawberry Grape</name>
+</offer>
+<offer id="dub-hd7942" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd7942</vendorCode>
+<available>false</available>
+<supplierCode>7942</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Strawberry Energy</name>
+</offer>
+<offer id="dub-hd18398" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd18398</vendorCode>
+<available>false</available>
+<supplierCode>18398</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Pink Lemonade</name>
+</offer>
+<offer id="dub-ws79919-105" available="false">
+<price>0</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws79919-105</vendorCode>
+<available>false</available>
+<supplierCode>ws79919-105</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Blue Razz Lemonade</name>
+</offer>
+<offer id="dub-ws79919-21" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws79919-21</vendorCode>
+<available>false</available>
+<supplierCode>7936</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Blueberry</name>
+</offer>
+<offer id="dub-ws69459-7" available="false">
+<price>315</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-7</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Pineapple</name>
+</offer>
+<offer id="dub-hd10012" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd10012</vendorCode>
+<available>false</available>
+<supplierCode>10012</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Pineapple Mango Orange</name>
+</offer>
+<offer id="dub-ws69459" available="false">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459</vendorCode>
+<available>false</available>
+<supplierCode>ws69459</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Banana Milk</name>
+</offer>
+<offer id="dub-ws69459-1" available="false">
+<price>315</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-1</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Grape Energy</name>
+</offer>
+<offer id="dub-ws69459-21-1" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-21-1</vendorCode>
+<available>true</available>
+<supplierCode>10010</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Grape Ice</name>
+</offer>
+<offer id="dub-ws69459-18" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-18</vendorCode>
+<available>true</available>
+<supplierCode>10009</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Energy</name>
+</offer>
+<offer id="dub-ws69459-4" available="false">
+<price>240</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-4</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Coffee Tobacco</name>
+</offer>
+<offer id="dub-ws69459-21" available="false">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-21</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-21</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Watermelon Lemon</name>
+</offer>
+<offer id="dub-hd21649" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd21649</vendorCode>
+<available>true</available>
+<supplierCode>21649</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Kiwi Passion Fruit Guava</name>
+</offer>
+<offer id="dub-ws69459-17" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-17</vendorCode>
+<available>true</available>
+<supplierCode>10011</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Kiwi Berry</name>
+</offer>
+<offer id="dub-hd10008" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd10008</vendorCode>
+<available>false</available>
+<supplierCode>10008</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Cola</name>
+</offer>
+<offer id="dub-ws69459-2" available="false">
+<price>315</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-2</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Mango Peach Watermelon</name>
+</offer>
+<offer id="dub-ws69459-6" available="false">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-6</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Peach</name>
+</offer>
+<offer id="dub-ws69459-3" available="false">
+<price>210</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-3</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Peach Mango Guava</name>
+</offer>
+<offer id="dub-ws69459-5" available="false">
+<price>210</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-5</vendorCode>
+<available>false</available>
+<supplierCode>ws69459-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Strawberry Grape</name>
+</offer>
+<offer id="dub-ws69459-16" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-16</vendorCode>
+<available>true</available>
+<supplierCode>10014</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Strawberry Watermelon</name>
+</offer>
+<offer id="dub-ws69459-15" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-15</vendorCode>
+<available>true</available>
+<supplierCode>21648</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Blue Razz Lemonade</name>
+</offer>
+<offer id="dub-ws69459-20" available="false">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-20</vendorCode>
+<available>false</available>
+<supplierCode>10013</supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 2000 Red Mojito</name>
+</offer>
+<offer id="dub-ws69459-19" available="true">
+<price>252</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws69459-19</vendorCode>
+<available>true</available>
+<supplierCode>10007</supplierCode>
+<quantity>100</quantity>
+<name>Дудка LUX 2000 Apple Peach</name>
+</offer>
+<offer id="dub-ws81629-18" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-18</vendorCode>
+<available>false</available>
+<supplierCode>26832</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Orange Passion Fruit</name>
+</offer>
+<offer id="dub-ws81629-22" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-22</vendorCode>
+<available>false</available>
+<supplierCode>26831</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Green Mango Guava</name>
+</offer>
+<offer id="dub-ws81629-16" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-16</vendorCode>
+<available>false</available>
+<supplierCode>26833</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Watermelon Pear Orange</name>
+</offer>
+<offer id="dub-ws81629-21" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-21</vendorCode>
+<available>false</available>
+<supplierCode>26840</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Sour Strawberry Grape</name>
+</offer>
+<offer id="dub-ws81629-24" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-24</vendorCode>
+<available>false</available>
+<supplierCode>26838</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Kiwi Watermelon Green Apple</name>
+</offer>
+<offer id="dub-ws81629-17" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-17</vendorCode>
+<available>false</available>
+<supplierCode>26834</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Lemon Lime</name>
+</offer>
+<offer id="dub-ws81629-20" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-20</vendorCode>
+<available>false</available>
+<supplierCode>26836</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Raspberry Pomegranate</name>
+</offer>
+<offer id="dub-ws81629-15" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-15</vendorCode>
+<available>false</available>
+<supplierCode>26839</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Peach Lime</name>
+</offer>
+<offer id="dub-ws81629-19" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-19</vendorCode>
+<available>false</available>
+<supplierCode>26837</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Strawberry Cherry Raspberry</name>
+</offer>
+<offer id="dub-ws81629-23" available="false">
+<price>218</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws81629-23</vendorCode>
+<available>false</available>
+<supplierCode>26835</supplierCode>
+<quantity>0</quantity>
+<name>Дудка 6000TE Blueberry Lime</name>
+</offer>
+<offer id="dub-ws42113-1" available="false">
+<price>305</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-1</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-1</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Grape Ice</name>
+</offer>
+<offer id="dub-ws42113-2" available="false">
+<price>310</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-2</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-2</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Guava Ice</name>
+</offer>
+<offer id="dub-ws42113-9" available="false">
+<price>305</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-9</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-9</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws42113" available="false">
+<price>305</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113</vendorCode>
+<available>false</available>
+<supplierCode>ws42113</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Cola Ice</name>
+</offer>
+<offer id="dub-ws42113-3" available="false">
+<price>305</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-3</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-3</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Lychee Ice</name>
+</offer>
+<offer id="dub-ws42113-4" available="false">
+<price>325</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-4</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-4</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Mango Ice</name>
+</offer>
+<offer id="dub-ws42113-5" available="false">
+<price>305</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-5</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-5</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Peach</name>
+</offer>
+<offer id="dub-ws42113-7" available="false">
+<price>305</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-7</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-7</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Strawberry Mango</name>
+</offer>
+<offer id="dub-ws42113-6" available="false">
+<price>325</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-6</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-6</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Strawberry Donut</name>
+</offer>
+<offer id="dub-ws42113-8" available="false">
+<price>310</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws42113-8</vendorCode>
+<available>false</available>
+<supplierCode>ws42113-8</supplierCode>
+<quantity>0</quantity>
+<name>Дудка Milk 7000 Taro Ice</name>
+</offer>
+<offer id="dub-ws18979-1" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-1</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-1</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Grape Ice</name>
+</offer>
+<offer id="dub-ws18979-20" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-20</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-20</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Cherry Cola</name>
+</offer>
+<offer id="dub-ws18979-18" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-18</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-18</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Cherry Strawberry</name>
+</offer>
+<offer id="dub-ws18979-19" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-19</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-19</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Melon Watermelon Passion Fruit Mint</name>
+</offer>
+<offer id="dub-ws18979-21" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-21</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-21</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Dragonfruit Banana</name>
+</offer>
+<offer id="dub-ws18979" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979</vendorCode>
+<available>false</available>
+<supplierCode>ws18979</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws18979-17" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-17</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-17</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Watermelon Raspberry Rancher</name>
+</offer>
+<offer id="dub-ws18979-14" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-14</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-14</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Watermelon Bubblegum</name>
+</offer>
+<offer id="dub-ws18979-22" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-22</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-22</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Kiwi Passion Fruit</name>
+</offer>
+<offer id="dub-ws18979-2" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-2</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-2</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Mango Ice</name>
+</offer>
+<offer id="dub-ws18979-6" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-6</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-6</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Mango Peach</name>
+</offer>
+<offer id="dub-ws18979-10" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-10</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-10</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Peach Ice</name>
+</offer>
+<offer id="dub-ws18979-16" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-16</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-16</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Peach Raspberry Lemonade</name>
+</offer>
+<offer id="dub-ws18979-13" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-13</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-13</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Double Apple</name>
+</offer>
+<offer id="dub-ws18979-7" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-7</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-7</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Watermelon</name>
+</offer>
+<offer id="dub-ws18979-15" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-15</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-15</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Watermelon Peach</name>
+</offer>
+<offer id="dub-ws18979-12" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-12</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-12</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Kiwi</name>
+</offer>
+<offer id="dub-ws18979-3" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-3</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-3</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Ice</name>
+</offer>
+<offer id="dub-ws18979-11" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-11</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-11</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Mango</name>
+</offer>
+<offer id="dub-ws18979-8" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-8</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-8</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Cool Mint</name>
+</offer>
+<offer id="dub-ws18979-9" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-9</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-9</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Blue Razz Ice</name>
+</offer>
+<offer id="dub-ws18979-5" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-5</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-5</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Blueberry Watermelon</name>
+</offer>
+<offer id="dub-ws18979-4" available="false">
+<price>500</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws18979-4</vendorCode>
+<available>false</available>
+<supplierCode>ws18979-4</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Blueberry Ice</name>
+</offer>
+<offer id="dub-ws87722-5" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-5</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-5</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Grape Ice</name>
+</offer>
+<offer id="dub-ws87722-7" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-7</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-7</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Cherry Cola</name>
+</offer>
+<offer id="dub-ws87722-18" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-18</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-18</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Melon Bubblegum</name>
+</offer>
+<offer id="dub-ws87722-14" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-14</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-14</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Watermelon Ice</name>
+</offer>
+<offer id="dub-ws87722-9" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-9</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-9</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Watermelon Bubblegum</name>
+</offer>
+<offer id="dub-ws87722-1" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-1</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-1</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Passion Fruit Raspberry Mandarin</name>
+</offer>
+<offer id="dub-ws87722" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722</vendorCode>
+<available>false</available>
+<supplierCode>ws87722</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Mixed Berries</name>
+</offer>
+<offer id="dub-ws87722-11" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-11</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-11</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Mint</name>
+</offer>
+<offer id="dub-ws87722-6" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-6</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-6</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Double Apple</name>
+</offer>
+<offer id="dub-ws87722-10" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-10</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-10</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Banana</name>
+</offer>
+<offer id="dub-ws87722-12" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-12</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-12</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Strawberry Watermelon</name>
+</offer>
+<offer id="dub-ws87722-13" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-13</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-13</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Blue Razz Ice</name>
+</offer>
+<offer id="dub-ws87722-8" available="false">
+<price>515</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-ws87722-8</vendorCode>
+<available>false</available>
+<supplierCode>ws87722-8</supplierCode>
+<quantity>0</quantity>
+<name>Воз 40000 Blueberry Ice</name>
 </offer>
 </offers>
 </shop>
