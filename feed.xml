@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 12.10.2026 05:08:04 (Europe/Kyiv) | офферів: 15377, в наявності: 6791, немає: 8586 -->
-<yml_catalog date="2026-10-12 05:08">
+<!-- Сформовано: 12.10.2026 12:30:44 (Europe/Kyiv) | офферів: 15377, в наявності: 6790, немає: 8587 -->
+<yml_catalog date="2026-10-12 12:30">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -181829,14 +181829,14 @@
 <quantity>0</quantity>
 <name>Дудка 33000 GH Blue Raspberry Ice</name>
 </offer>
-<offer id="dub-ws57448-4" available="true">
-<price>719</price>
+<offer id="dub-ws57448-4" available="false">
+<price>500</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws57448-4</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws57448-4</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 33000 GH Pine &amp; Berries</name>
 </offer>
 <offer id="dub-ws57448-3" available="false">
