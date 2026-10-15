@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 15.10.2026 09:01:39 (Europe/Kyiv) | офферів: 15377, в наявності: 6858, немає: 8519 -->
-<yml_catalog date="2026-10-15 09:01">
+<!-- Сформовано: 15.10.2026 13:52:06 (Europe/Kyiv) | офферів: 15378, в наявності: 6858, немає: 8520 -->
+<yml_catalog date="2026-10-15 13:52">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -40550,7 +40550,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7935-800x800.png</picture>
-<vendorCode>hd7935</vendorCode>
+<vendorCode>ws79919-105</vendorCode>
 <available>false</available>
 <supplierCode>7935</supplierCode>
 <quantity>0</quantity>
@@ -184610,12 +184610,12 @@
 <name>Дудка LUX 1500 Pink Lemonade</name>
 </offer>
 <offer id="dub-ws79919-105" available="false">
-<price>0</price>
+<price>218</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws79919-105</vendorCode>
 <available>false</available>
-<supplierCode>ws79919-105</supplierCode>
+<supplierCode>7935</supplierCode>
 <quantity>0</quantity>
 <name>Дудка LUX 1500 Blue Razz Lemonade</name>
 </offer>
@@ -185378,6 +185378,16 @@
 <supplierCode>ws87722-8</supplierCode>
 <quantity>0</quantity>
 <name>Воз 40000 Blueberry Ice</name>
+</offer>
+<offer id="dub-hd07599" available="false">
+<price>0</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<vendorCode>dub-hd07599</vendorCode>
+<available>false</available>
+<supplierCode></supplierCode>
+<quantity>0</quantity>
+<name>Дудка LUX 1500 Banana Milk </name>
 </offer>
 </offers>
 </shop>
