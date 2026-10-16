@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 16.10.2026 08:15:41 (Europe/Kyiv) | офферів: 15378, в наявності: 6811, немає: 8567 -->
-<yml_catalog date="2026-10-16 08:15">
+<!-- Сформовано: 16.10.2026 12:59:43 (Europe/Kyiv) | офферів: 15378, в наявності: 6810, немає: 8568 -->
+<yml_catalog date="2026-10-16 12:59">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -181499,14 +181499,14 @@
 <quantity>0</quantity>
 <name>Дудка Duke 30000 Nordic Berry</name>
 </offer>
-<offer id="dub-ws66633-9" available="true">
+<offer id="dub-ws66633-9" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-9</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-9</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Pineapple Pomegranate</name>
 </offer>
 <offer id="dub-ws66633-5" available="false">
