@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 21.10.2026 03:14:24 (Europe/Kyiv) | офферів: 15378, в наявності: 6719, немає: 8659 -->
-<yml_catalog date="2026-10-21 03:14">
+<!-- Сформовано: 21.10.2026 08:05:59 (Europe/Kyiv) | офферів: 15378, в наявності: 6707, немає: 8671 -->
+<yml_catalog date="2026-10-21 08:05">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -90581,16 +90581,16 @@
 <name>Тютюн Fusion Classic Blueberry Peach (Чорниця Персик, 100 г)</name>
 <description><![CDATA[<h2>Тютюн Fusion Classic Blueberry Peach (Чорниця Персик, 100 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Fusion Classic Blueberry Peach (Чорниця Персик, 100 г) від Fusion. Основа кальянної заправки — це тютюновий лист Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Персик, Чорниця/Голубика, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Персик, Чорниця/Голубика – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 100 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Fusion Classic Blueberry Peach (Чорниця Персик, 100 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Fusion:</h2> <div class="text-block-wrap"> <img alt="Тютюн Fusion Classic Blueberry Peach (Чорниця Персик, 100 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна х]]></description>
 </offer>
-<offer id="20912" available="true">
+<offer id="20912" available="false">
 <url>https://hardsmoke.store/tabak-fusion-classic-cherry-vishnya-100-g</url>
 <price>89</price>
 <currencyId>UAH</currencyId>
 <categoryId>5</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20912-400x400.png</picture>
 <vendorCode>hd20912</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>20912</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Тютюн Fusion Classic Cherry (Вишня, 100 г)</name>
 <description><![CDATA[<h2>Тютюн Fusion Classic Cherry (Вишня, 100 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Fusion Classic Cherry (Вишня, 100 г) від Fusion. Основа кальянної заправки — це тютюновий лист Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Вишня Черешня, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Вишня Черешня – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 100 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Fusion Classic Cherry (Вишня, 100 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Fusion:</h2> <div class="text-block-wrap"> <img alt="Тютюн Fusion Classic Cherry (Вишня, 100 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </ul> </div> </img></div> <h2>Як купити Тю]]></description>
 </offer>
@@ -176679,14 +176679,14 @@
 <quantity>100</quantity>
 <name>Заливка Octobar Black Limit 30/50 Cactus Melon</name>
 </offer>
-<offer id="dub-hd27826" available="true">
+<offer id="dub-hd27826" available="false">
 <price>118</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27826</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27826</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Octobar Black Limit 30/50 Cherry Ice</name>
 </offer>
 <offer id="dub-hd27827" available="true">
@@ -177819,14 +177819,14 @@
 <quantity>100</quantity>
 <name>Заливка Octobar NFT 30/50 Peach Papaya Lime</name>
 </offer>
-<offer id="dub-octob-30-9" available="true">
+<offer id="dub-octob-30-9" available="false">
 <price>134</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-octob-30-9</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27901</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Octobar NFT 30/50 Pear Apple</name>
 </offer>
 <offer id="dub-octob-30-10" available="false">
@@ -177869,14 +177869,14 @@
 <quantity>100</quantity>
 <name>Заливка Octobar NFT 30/50 Strawberry Ice</name>
 </offer>
-<offer id="dub-octob-30-12" available="true">
+<offer id="dub-octob-30-12" available="false">
 <price>134</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-octob-30-12</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27905</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Octobar NFT 30/50 Tropic Q</name>
 </offer>
 <offer id="dub-octob-30-65-1" available="true">
@@ -178519,14 +178519,14 @@
 <quantity>100</quantity>
 <name>Заливка Octobar Twins 30/50 Lime Strawberry</name>
 </offer>
-<offer id="dub-hd27854" available="true">
+<offer id="dub-hd27854" available="false">
 <price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27854</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27854</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Octobar Twins 30/50 Melon Cherry</name>
 </offer>
 <offer id="dub-hd27855" available="true">
@@ -178549,24 +178549,24 @@
 <quantity>100</quantity>
 <name>Заливка Octobar Twins 30/50 Menthol</name>
 </offer>
-<offer id="dub-hd27857" available="true">
+<offer id="dub-hd27857" available="false">
 <price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27857</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27857</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Octobar Twins 30/50 Top Berries</name>
 </offer>
-<offer id="dub-hd27858" available="true">
+<offer id="dub-hd27858" available="false">
 <price>109</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27858</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27858</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Octobar Twins 30/50 Tropic Aloe</name>
 </offer>
 <offer id="dub-hd27859" available="true">
@@ -179119,14 +179119,14 @@
 <quantity>0</quantity>
 <name>Заливка Punch 30/50 Banana Melon</name>
 </offer>
-<offer id="dub-hd27241" available="true">
+<offer id="dub-hd27241" available="false">
 <price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27241</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27241</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Punch 30/50 Berry Trio</name>
 </offer>
 <offer id="dub-punch-30-50-2" available="false">
@@ -179199,24 +179199,24 @@
 <quantity>0</quantity>
 <name>Заливка Punch 30/50 Lemongrass Chill</name>
 </offer>
-<offer id="dub-punch-30-50-6" available="true">
+<offer id="dub-punch-30-50-6" available="false">
 <price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-punch-30-50-6</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25381</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Punch 30/50 Love Story</name>
 </offer>
-<offer id="dub-punch-30-50-7" available="true">
+<offer id="dub-punch-30-50-7" available="false">
 <price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-punch-30-50-7</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25382</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Punch 30/50 Mint Lemonade</name>
 </offer>
 <offer id="dub-hd27243" available="false">
@@ -179609,14 +179609,14 @@
 <quantity>0</quantity>
 <name>Заливка Punch Neon 30/50 Sour Grape</name>
 </offer>
-<offer id="dub-hd26853" available="true">
+<offer id="dub-hd26853" available="false">
 <price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd26853</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26853</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Punch Neon 30/50 Sour Grapefruit</name>
 </offer>
 <offer id="dub-hd26854" available="false">
@@ -179649,14 +179649,14 @@
 <quantity>0</quantity>
 <name>Заливка Punch Neon 30/50 Sour Lime</name>
 </offer>
-<offer id="dub-hd26857" available="true">
+<offer id="dub-hd26857" available="false">
 <price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd26857</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26857</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Punch Neon 30/50 Sour Mandarin</name>
 </offer>
 <offer id="dub-hd26858" available="false">
