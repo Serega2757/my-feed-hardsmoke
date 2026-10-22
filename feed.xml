@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 22.10.2026 20:24:45 (Europe/Kyiv) | офферів: 15378, в наявності: 6693, немає: 8685 -->
-<yml_catalog date="2026-10-22 20:24">
+<!-- Сформовано: 22.10.2026 23:41:17 (Europe/Kyiv) | офферів: 15378, в наявності: 6688, немає: 8690 -->
+<yml_catalog date="2026-10-22 23:41">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -160349,24 +160349,24 @@
 <quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Cold Mango</name>
 </offer>
-<offer id="dub-lucky-15-10" available="true">
+<offer id="dub-lucky-15-10" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-lucky-15-10</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26299</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Cream Soda Lemonade</name>
 </offer>
-<offer id="dub-lucky-15-11" available="true">
+<offer id="dub-lucky-15-11" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-lucky-15-11</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26300</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Elderber-Flowers Lemonade</name>
 </offer>
 <offer id="dub-lucky-15-12" available="false">
@@ -166869,14 +166869,14 @@
 <quantity>100</quantity>
 <name>Заливка Chaser Lux 30/65 Tropic Punch</name>
 </offer>
-<offer id="dub-char-lux-30-19-2" available="true">
-<price>186</price>
+<offer id="dub-char-lux-30-19-2" available="false">
+<price>160</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-char-lux-30-19-2</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26161</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Chaser Lux 30/65 Turbo Mint</name>
 </offer>
 <offer id="dub-char-lux-30-3-2" available="true">
@@ -175389,14 +175389,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky 30/50 Rose Lemonade</name>
 </offer>
-<offer id="dub-hd28152" available="true">
+<offer id="dub-hd28152" available="false">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd28152</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>28152</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky 30/50 Sour Pineapple Methol</name>
 </offer>
 <offer id="dub-lucky-30-27" available="true">
@@ -179699,14 +179699,14 @@
 <quantity>0</quantity>
 <name>Заливка Punch Neon 30/65 Sour Cherry</name>
 </offer>
-<offer id="dub-hd26862" available="true">
+<offer id="dub-hd26862" available="false">
 <price>186</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd26862</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26862</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Punch Neon 30/65 Sour Grape</name>
 </offer>
 <offer id="dub-hd26863" available="true">
