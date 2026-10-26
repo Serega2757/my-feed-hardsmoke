@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 26.10.2026 15:29:56 (Europe/Kyiv) | офферів: 15386, в наявності: 6610, немає: 8776 -->
-<yml_catalog date="2026-10-26 15:29">
+<!-- Сформовано: 26.10.2026 21:29:00 (Europe/Kyiv) | офферів: 15386, в наявності: 6607, немає: 8779 -->
+<yml_catalog date="2026-10-26 21:29">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -181683,14 +181683,14 @@
 <quantity>0</quantity>
 <name>Дудка 40000Pro BC Sour Berry Mix</name>
 </offer>
-<offer id="dub-ws66633-1" available="true">
+<offer id="dub-ws66633-1" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-1</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-1</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Raspberry Marshmallow</name>
 </offer>
 <offer id="dub-ws66633" available="false">
@@ -181753,14 +181753,14 @@
 <quantity>100</quantity>
 <name>Дудка 40000Pro BC Pink Lemonade</name>
 </offer>
-<offer id="dub-ws66633-19" available="true">
+<offer id="dub-ws66633-19" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-19</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-19</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Blue Lemonade Ice</name>
 </offer>
 <offer id="dub-ws66633-8" available="true">
@@ -182303,14 +182303,14 @@
 <quantity>0</quantity>
 <name>Дудка 23000 GH Double Apple</name>
 </offer>
-<offer id="dub-ws83959-11" available="true">
-<price>685</price>
+<offer id="dub-ws83959-11" available="false">
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959-11</vendorCode>
-<available>true</available>
-<supplierCode>ws83959-11</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>26318</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 23000 GH Strawberry Banana</name>
 </offer>
 <offer id="dub-ws83959-29" available="false">
