@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 27.10.2026 01:16:30 (Europe/Kyiv) | офферів: 15386, в наявності: 6594, немає: 8792 -->
-<yml_catalog date="2026-10-27 01:16">
+<!-- Сформовано: 27.10.2026 04:13:19 (Europe/Kyiv) | офферів: 15386, в наявності: 6593, немає: 8793 -->
+<yml_catalog date="2026-10-27 04:13">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -42938,7 +42938,7 @@
 </offer>
 <offer id="26965" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-baby-pro-pod-kit-900-mnogorazovyiy-pod</url>
-<price>393</price>
+<price>624</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26965-800x800.png</picture>
@@ -43094,7 +43094,7 @@
 </offer>
 <offer id="26966" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-1000-mnogorazovyiy-pod</url>
-<price>627</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26966-800x800.png</picture>
@@ -43107,7 +43107,7 @@
 </offer>
 <offer id="23660" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-galaxy-star-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23660-800x800.png</picture>
@@ -43120,7 +43120,7 @@
 </offer>
 <offer id="23661" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-infinity-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23661-800x800.png</picture>
@@ -43133,7 +43133,7 @@
 </offer>
 <offer id="23659" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-joy-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23659-800x800.png</picture>
@@ -43146,7 +43146,7 @@
 </offer>
 <offer id="23662" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-joy-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23662-800x800.png</picture>
@@ -43159,7 +43159,7 @@
 </offer>
 <offer id="23663" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-mint-green-myatnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23663-800x800.png</picture>
@@ -43172,7 +43172,7 @@
 </offer>
 <offer id="23664" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-pearl-white-belyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23664-800x800.png</picture>
@@ -43185,7 +43185,7 @@
 </offer>
 <offer id="23665" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-pink-carnival-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23665-800x800.png</picture>
@@ -43198,7 +43198,7 @@
 </offer>
 <offer id="23666" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-cap-solo-charm-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>314</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23666-800x800.png</picture>
@@ -43211,7 +43211,7 @@
 </offer>
 <offer id="26967" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-1000-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26967-800x800.png</picture>
@@ -43224,7 +43224,7 @@
 </offer>
 <offer id="23668" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-arcade-era-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23668-800x800.png</picture>
@@ -43237,7 +43237,7 @@
 </offer>
 <offer id="23667" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-crush-mix-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23667-800x800.png</picture>
@@ -43250,7 +43250,7 @@
 </offer>
 <offer id="23669" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-firefly-planet-myatnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23669-800x800.png</picture>
@@ -43263,7 +43263,7 @@
 </offer>
 <offer id="23670" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-joy-club-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23670-800x800.png</picture>
@@ -43276,7 +43276,7 @@
 </offer>
 <offer id="23671" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-pulse-mix-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23671-800x800.png</picture>
@@ -43289,7 +43289,7 @@
 </offer>
 <offer id="23672" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-epoch-rasing-zone-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>784</price>
+<price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23672-800x800.png</picture>
@@ -43562,7 +43562,7 @@
 </offer>
 <offer id="25677" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-black-carbon-fiber-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25677-800x800.png</picture>
@@ -43575,7 +43575,7 @@
 </offer>
 <offer id="28170" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-chic-lavender-sirenevyiy-s-fioletovyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28170-800x800.png</picture>
@@ -43588,7 +43588,7 @@
 </offer>
 <offer id="22596" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-dark-frost-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22596-800x800.png</picture>
@@ -43601,7 +43601,7 @@
 </offer>
 <offer id="28158" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-evil-spirits-chernyiy-s-risunkom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28158-800x800.png</picture>
@@ -43614,7 +43614,7 @@
 </offer>
 <offer id="28169" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-freedom-fighter-yarko-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28169-800x800.png</picture>
@@ -43627,7 +43627,7 @@
 </offer>
 <offer id="28164" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-gold-zolotistyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28164-800x800.png</picture>
@@ -43640,7 +43640,7 @@
 </offer>
 <offer id="23320" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-gunmetal-walnut-wood-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23320-800x800.png</picture>
@@ -43653,7 +43653,7 @@
 </offer>
 <offer id="28167" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-holo-lavender-sirenevyiy-s-perelivom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28167-800x800.png</picture>
@@ -43666,7 +43666,7 @@
 </offer>
 <offer id="28172" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-jungle-green-zolotistyiy-s-zelenyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28172-800x800.png</picture>
@@ -43679,7 +43679,7 @@
 </offer>
 <offer id="28166" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-lambent-silver-metallik-s-radujnyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28166-800x800.png</picture>
@@ -43692,7 +43692,7 @@
 </offer>
 <offer id="26968" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26968-800x800.png</picture>
@@ -43705,7 +43705,7 @@
 </offer>
 <offer id="22597" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-pacific-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22597-800x800.png</picture>
@@ -43718,7 +43718,7 @@
 </offer>
 <offer id="28155" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-phantom-city-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28155-800x800.png</picture>
@@ -43731,7 +43731,7 @@
 </offer>
 <offer id="28161" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-pink-survivor-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28161-800x800.png</picture>
@@ -43744,7 +43744,7 @@
 </offer>
 <offer id="28171" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-prussian-blue-chernyiy-s-sinim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28171-800x800.png</picture>
@@ -43757,7 +43757,7 @@
 </offer>
 <offer id="28159" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-red-sandalwood-chernyiy-s-korichnevyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28159-800x800.png</picture>
@@ -43770,7 +43770,7 @@
 </offer>
 <offer id="28156" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-rock-the-party-krasnyiy-s-risunkom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28156-800x800.png</picture>
@@ -43783,7 +43783,7 @@
 </offer>
 <offer id="28168" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-rose-pink-rozovyiy-s-perelivom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28168-800x800.png</picture>
@@ -43796,7 +43796,7 @@
 </offer>
 <offer id="28162" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-royal-blue-sine-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28162-800x800.png</picture>
@@ -43809,7 +43809,7 @@
 </offer>
 <offer id="28163" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-sakura-pink-goluboy-s-rozovyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28163-800x800.png</picture>
@@ -43822,7 +43822,7 @@
 </offer>
 <offer id="28165" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-silver-frost-metallik-s-uzorom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28165-800x800.png</picture>
@@ -43835,7 +43835,7 @@
 </offer>
 <offer id="28157" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-skull-roses-metallik-s-risunkom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28157-800x800.png</picture>
@@ -43848,7 +43848,7 @@
 </offer>
 <offer id="28160" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-ss-carbon-fiber-metallik-karbon-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28160-800x800.png</picture>
@@ -43861,7 +43861,7 @@
 </offer>
 <offer id="22598" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-twill-green-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22598-800x800.png</picture>
@@ -43874,7 +43874,7 @@
 </offer>
 <offer id="22599" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-twill-silver-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22599-800x800.png</picture>
@@ -43887,7 +43887,7 @@
 </offer>
 <offer id="28173" available="true">
 <url>https://hardsmoke.life/lost-vape-ursa-nano-800-velvet-silver-metallik-s-razvodami-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28173-800x800.png</picture>
@@ -43900,7 +43900,7 @@
 </offer>
 <offer id="22600" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-wave-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22600-800x800.png</picture>
@@ -43913,7 +43913,7 @@
 </offer>
 <offer id="25675" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-wave-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25675-800x800.png</picture>
@@ -43926,7 +43926,7 @@
 </offer>
 <offer id="25674" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-wave-cyan-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25674-800x800.png</picture>
@@ -43939,7 +43939,7 @@
 </offer>
 <offer id="25676" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-wave-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25676-800x800.png</picture>
@@ -43952,7 +43952,7 @@
 </offer>
 <offer id="25673" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-800-wave-red-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>410</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25673-800x800.png</picture>
@@ -43965,7 +43965,7 @@
 </offer>
 <offer id="20894" available="true">
 <url>https://hardsmoke.store/ursa-nano-air-800-indigo-fioletovyiy-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>493</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20894-800x800.png</picture>
@@ -43978,7 +43978,7 @@
 </offer>
 <offer id="20895" available="false">
 <url>https://hardsmoke.store/ursa-nano-air-800-matte-black-chernyiy-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>493</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20895-800x800.png</picture>
@@ -43991,7 +43991,7 @@
 </offer>
 <offer id="20896" available="false">
 <url>https://hardsmoke.store/ursa-nano-air-800-pale-blue-goluboy-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>493</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20896-800x800.png</picture>
@@ -44134,7 +44134,7 @@
 </offer>
 <offer id="23680" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-babe-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23680-800x800.png</picture>
@@ -44147,7 +44147,7 @@
 </offer>
 <offer id="23681" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-blue-carbon-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23681-800x800.png</picture>
@@ -44160,7 +44160,7 @@
 </offer>
 <offer id="23679" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-bright-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23679-800x800.png</picture>
@@ -44173,7 +44173,7 @@
 </offer>
 <offer id="23682" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-classic-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23682-800x800.png</picture>
@@ -44186,7 +44186,7 @@
 </offer>
 <offer id="23683" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-electric-violet-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23683-800x800.png</picture>
@@ -44199,7 +44199,7 @@
 </offer>
 <offer id="23684" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-iron-gray-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23684-800x800.png</picture>
@@ -44212,7 +44212,7 @@
 </offer>
 <offer id="23685" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-midnight-g-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23685-800x800.png</picture>
@@ -44225,7 +44225,7 @@
 </offer>
 <offer id="23686" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-mojito-g-zeleno-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23686-800x800.png</picture>
@@ -44238,7 +44238,7 @@
 </offer>
 <offer id="23687" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-navy-blue-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23687-800x800.png</picture>
@@ -44251,7 +44251,7 @@
 </offer>
 <offer id="23688" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-neon-mint-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23688-800x800.png</picture>
@@ -44264,7 +44264,7 @@
 </offer>
 <offer id="23690" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-pro-pod-kit-silver-carbon-g-metallik-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23690-800x800.png</picture>
@@ -44446,7 +44446,7 @@
 </offer>
 <offer id="21618" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-berry-blue-krasno-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21618-800x800.png</picture>
@@ -44459,7 +44459,7 @@
 </offer>
 <offer id="21616" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-coral-pink-rozovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21616-800x800.png</picture>
@@ -44472,7 +44472,7 @@
 </offer>
 <offer id="23323" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-cyan-orange-oranjevo-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23323-800x800.png</picture>
@@ -44485,7 +44485,7 @@
 </offer>
 <offer id="21615" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-full-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21615-800x800.png</picture>
@@ -44498,7 +44498,7 @@
 </offer>
 <offer id="23324" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-lemon-yellow-jeltyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23324-800x800.png</picture>
@@ -44511,7 +44511,7 @@
 </offer>
 <offer id="23325" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-mint-green-sine-zelenyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23325-800x800.png</picture>
@@ -44524,7 +44524,7 @@
 </offer>
 <offer id="23326" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-rose-red-rozovo-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23326-800x800.png</picture>
@@ -44537,7 +44537,7 @@
 </offer>
 <offer id="23327" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-stone-grey-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23327-800x800.png</picture>
@@ -44550,7 +44550,7 @@
 </offer>
 <offer id="23328" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-violet-purple-fioletovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23328-800x800.png</picture>
@@ -44563,7 +44563,7 @@
 </offer>
 <offer id="21617" available="false">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-baby-blue-goluboy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21617-800x800.png</picture>
@@ -44576,7 +44576,7 @@
 </offer>
 <offer id="26972" available="true">
 <url>https://hardsmoke.store/lost-vape-ursa-nano-s-pod-800-mnogorazovyiy-pod</url>
-<price>531</price>
+<price>364</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26972-800x800.png</picture>
@@ -48242,7 +48242,7 @@
 </offer>
 <offer id="26991" available="true">
 <url>https://hardsmoke.store/vaporesso-luxe-q2-1000-mnogorazovyiy-pod</url>
-<price>627</price>
+<price>728</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26991-800x800.png</picture>
@@ -49230,7 +49230,7 @@
 </offer>
 <offer id="27428" available="true">
 <url>https://hardsmoke.store/vaporesso-xros-4-nano-1350-kong-limited-bronzovyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>871</price>
+<price>795</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27428-400x400.png</picture>
@@ -51115,7 +51115,7 @@
 </offer>
 <offer id="27032" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>896</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27032-800x800.png</picture>
@@ -51128,7 +51128,7 @@
 </offer>
 <offer id="27024" available="true">
 <url>https://hardsmoke.store/voopoo-argus-g3-1500-midnight-black-chernyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>896</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27024-800x800.png</picture>
@@ -51739,7 +51739,7 @@
 </offer>
 <offer id="27629" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-black-leather-chernyiy-s-uzorom-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>942</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27629-400x400.png</picture>
@@ -51765,7 +51765,7 @@
 </offer>
 <offer id="27632" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-blue-leather-siniy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>942</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27632-400x400.png</picture>
@@ -51778,7 +51778,7 @@
 </offer>
 <offer id="27634" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-brown-leather-korichnevyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>942</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27634-400x400.png</picture>
@@ -51791,7 +51791,7 @@
 </offer>
 <offer id="27630" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-grey-leather-seryiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>942</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27630-400x400.png</picture>
@@ -51804,7 +51804,7 @@
 </offer>
 <offer id="27633" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-red-leather-krasnyiy-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>942</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27633-400x400.png</picture>
@@ -51817,7 +51817,7 @@
 </offer>
 <offer id="27631" available="true">
 <url>https://hardsmoke.store/voopoo-argus-p3-1500-silver-leather-metallik-s-belyim-s-kartridjem-mnogorazovyiy-pod</url>
-<price>1137</price>
+<price>942</price>
 <currencyId>UAH</currencyId>
 <categoryId>4</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27631-400x400.png</picture>
@@ -75709,16 +75709,16 @@
 <name>Тютюн Black&amp;White W30 Rum (ром, 40 г)</name>
 <description><![CDATA[<h2>Тютюн Black&amp;White W30 Rum (ром, 40 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Black&amp;White W30 Rum (ром, 40 г) від Black&amp;White. Основа кальянної заправки — це тютюновий лист Virginia високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Ром, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Легкий — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Ром – для гурманів кальянокуріння;</li> <li>Жаростійкість: Середня — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 40 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Black&amp;White W30 Rum (ром, 40 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Black&amp;White:</h2> <div class="text-block-wrap"> <img alt="Тютюн Black&amp;White W30 Rum (ром, 40 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Virginia гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </ul> </div> </img></div> <h2>Як купити Тютю]]></description>
 </offer>
-<offer id="9880" available="true">
+<offer id="9880" available="false">
 <url>https://hardsmoke.store/tabak-black-white-green-parrot-multifrukt-40-g</url>
 <price>68</price>
 <currencyId>UAH</currencyId>
 <categoryId>5</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9880-400x400.png</picture>
 <vendorCode>hd9880</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>9880</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Тютюн Black&amp;White W31 Green Parrot (мультифрукт, 40 г)</name>
 <description><![CDATA[<h2>Тютюн Black&amp;White W31 Green Parrot (мультифрукт, 40 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Black&amp;White W31 Green Parrot (мультифрукт, 40 г) від Black&amp;White. Основа кальянної заправки — це тютюновий лист Virginia високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Мультифрукт, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Легкий — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Мультифрукт – для гурманів кальянокуріння;</li> <li>Жаростійкість: Середня — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 40 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Black&amp;White W31 Green Parrot (мультифрукт, 40 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Black&amp;White:</h2> <div class="text-block-wrap"> <img alt="Тютюн Black&amp;White W31 Green Parrot (мультифрукт, 40 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Virginia гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, щ]]></description>
 </offer>
