@@ -202,8 +202,8 @@ def collect_items():
                     "description": cell(row, 5),
                     "availability": norm_availability(cell(row, 6)),
                     "vendorCode": cell(row, 7),
-                    # Для ElfBar цена из колонки J, для остальных — из I
-                    "price": norm_price(cell(row, 9) if sheet_name == "ElfBar" else cell(row, 8)),
+                    # Закупочная цена — колонка I на всех листах, ElfBar больше не исключение.
+                    "price": norm_price(cell(row, 8)),
                     "categoryId": category_id,
                 })
 
