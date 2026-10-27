@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 27.10.2026 10:06:39 (Europe/Kyiv) | офферів: 15386, в наявності: 6593, немає: 8793 -->
-<yml_catalog date="2026-10-27 10:06">
+<!-- Сформовано: 27.10.2026 16:43:56 (Europe/Kyiv) | офферів: 15386, в наявності: 6588, немає: 8798 -->
+<yml_catalog date="2026-10-27 16:43">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -20160,16 +20160,16 @@
 <name>Набір для самозамішування Twisted salt Coconut Cookie (Кокосове печиво, 50 мг, 30 мл)</name>
 <description><![CDATA[<div class="additional_description">ВАЖЛИВО: Цей товар - не готова рідина для електронних сигарет, а набір ароматизаторів для самостійного приготування сумішей або "самозамісу". Інструкції зі змішування доступні <a href="/blogs/zhidkosti-blog/kak-sdelat-zhidkost-dlya-elektronnoj-sigarety">тут</a></div><h2>Огляд: Набір для самозамішування Twisted salt Coconut Cookie (Кокосове печиво, 50 мг, 30 мл)</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p><b>Набір для самозамішування Twisted salt Coconut Cookie (Кокосове печиво, 50 мг, 30 мл)</b> надає вейперам унікальні смакові відчуття. Ця жижа ідеально підходить для багаторазових вейпів завдяки своїй оптимальній густоті, безпечному складу та приємному аромату, відкриваючи нові грані смаку.</p> <p>Оптимальний баланс компонентів гарантує стабільне пароутворення та рівномірне розкриття смаку. Відмінний вибір для щоденного паріння. </p> <p>Гарантія якості та сертифікований склад – ключові переваги рідин, представлених у нашій наявності. </p> </div> <img alt="Купити Набір для самозамішування Twisted salt Coconut Cookie (Кокосове печиво, 50 мг, 30 мл) недорого" src="/images/zhidkost_1.JPG"> </img></div> <h2>Склад рідини</h2> <div class="text-block-wrap"> <img alt="Набір для самозамішування Twisted salt Coconut Cookie (Кокосове печиво, 50 мг, 30 мл) з доставкою від Hardsmoke" src="/images/zhidkost_2.JPG"> <div> <p>Жижа від <b>Twisted</b> складається з натуральних компонентів, які мінімально впливають на здоров'я користувача]]></description>
 </offer>
-<offer id="" available="true">
+<offer id="" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-twisted-salt-desperado-cactus-desperado-kaktus-50-mg-30-ml</url>
 <price>121</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22010-800x800.png</picture>
 <vendorCode>hd22010</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode></supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Набір для самозамішування Twisted salt Desperado Cactus (Десперадо Кактус, 50 ​​мг, 30 мл)</name>
 <description><![CDATA[<div class="additional_description">ВАЖЛИВО: Цей товар - не готова рідина для електронних сигарет, а набір ароматизаторів для самостійного приготування сумішей або "самозамісу". Інструкції зі змішування доступні <a href="/blogs/zhidkosti-blog/kak-sdelat-zhidkost-dlya-elektronnoj-sigarety">тут</a></div><h2>Огляд: Набір для самозамішування Twisted salt Desperado Cactus (Десперадо Кактус, 50 ​​мг, 30 мл)</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p><b>Набір для самозамішування Twisted salt Desperado Cactus (Десперадо Кактус, 50 ​​мг, 30 мл)</b> надає вейперам унікальні смакові відчуття. Ця жижа ідеально підходить для багаторазових вейпів завдяки своїй оптимальній густоті, безпечному складу та приємному аромату, відкриваючи нові грані смаку.</p> <p>Оптимальний баланс компонентів гарантує стабільне пароутворення та рівномірне розкриття смаку. Відмінний вибір для щоденного паріння. </p> <p>Гарантія якості та сертифікований склад – ключові переваги рідин, представлених у нашій наявності. </p> </div> <img alt="Купити Набір для самозамішування Twisted salt Desperado Cactus (Десперадо Кактус, 50 ​​мг, 30 мл) недорого" src="/images/zhidkost_1.JPG"> </img></div> <h2>Склад рідини</h2> <div class="text-block-wrap"> <img alt="Набір для самозамішування Twisted salt Desperado Cactus (Десперадо Кактус, 50 ​​мг, 30 мл) з доставкою від Hardsmoke" src="/images/zhidkost_2.JPG"> <div> <p>Жижа від <b>Twisted</b> складається з натуральних компонентів, які мінімально впливають на ]]></description>
 </offer>
@@ -38778,7 +38778,7 @@
 </offer>
 <offer id="7608" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-apple-peach-yabloko-i-persik-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7608-800x800.png</picture>
@@ -38791,7 +38791,7 @@
 </offer>
 <offer id="7606" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-banana-ice-ledyanoy-banan-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7606-800x800.png</picture>
@@ -38804,7 +38804,7 @@
 </offer>
 <offer id="7607" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-blue-razz-lemonade-limonad-malina-ejevika-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7607-800x800.png</picture>
@@ -38817,7 +38817,7 @@
 </offer>
 <offer id="7610" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-blueberry-chernika-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7610-800x800.png</picture>
@@ -38830,7 +38830,7 @@
 </offer>
 <offer id="21790" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-blueberry-bubble-gum-chernika-jvachka-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21790-800x800.png</picture>
@@ -38843,7 +38843,7 @@
 </offer>
 <offer id="9074" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-cherry-lemon-peach-vishnya-limon-persik-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9074-800x800.png</picture>
@@ -38856,7 +38856,7 @@
 </offer>
 <offer id="7601" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-coconut-melon-kokos-i-dyinya-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7601-800x800.png</picture>
@@ -38869,7 +38869,7 @@
 </offer>
 <offer id="7931" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-cola-kola-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7931-800x800.png</picture>
@@ -38882,7 +38882,7 @@
 </offer>
 <offer id="7595" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-grape-vinograd-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7595-800x800.png</picture>
@@ -38895,7 +38895,7 @@
 </offer>
 <offer id="21645" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-green-apple-zelenoe-yabloko-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21645-800x800.png</picture>
@@ -38908,7 +38908,7 @@
 </offer>
 <offer id="7934" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-kiwi-passion-fruit-guava-kivi-marakuyya-guava-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7934-800x800.png</picture>
@@ -38921,7 +38921,7 @@
 </offer>
 <offer id="26829" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-latte-ice-ays-latte-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26829-800x800.png</picture>
@@ -38934,7 +38934,7 @@
 </offer>
 <offer id="21791" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-lychee-black-currant-lichi-chernaya-smorodina-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21791-800x800.png</picture>
@@ -38947,7 +38947,7 @@
 </offer>
 <offer id="21792" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-mixed-berry-miks-yagod-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21792-800x800.png</picture>
@@ -38960,7 +38960,7 @@
 </offer>
 <offer id="7596" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-neon-rain-neonovyiy-dojd-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7596-800x800.png</picture>
@@ -38973,7 +38973,7 @@
 </offer>
 <offer id="21646" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-pineapple-ananas-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/21646-800x800product_popup.webp</picture>
@@ -38986,7 +38986,7 @@
 </offer>
 <offer id="7605" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-pineapple-peach-mango-ananas-persik-mango-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7605-800x800.png</picture>
@@ -38999,7 +38999,7 @@
 </offer>
 <offer id="7609" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-pink-lemonade-rozovyiy-limonad-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7609-800x800.png</picture>
@@ -39012,7 +39012,7 @@
 </offer>
 <offer id="9075" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-siberian-forest-hvoya-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9075-800x800.png</picture>
@@ -39025,7 +39025,7 @@
 </offer>
 <offer id="7613" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-spearmint-myata-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7613-800x800.png</picture>
@@ -39038,7 +39038,7 @@
 </offer>
 <offer id="7933" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-strawberry-banana-klubnika-banan-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7933-800x800.png</picture>
@@ -39051,7 +39051,7 @@
 </offer>
 <offer id="7597" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-strawberry-ice-cream-klubnichnoe-morojenoe-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7597-800x800.png</picture>
@@ -39064,7 +39064,7 @@
 </offer>
 <offer id="8998" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-strawberry-kiwi-klubnika-kivi-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/8998-800x800.png</picture>
@@ -39077,7 +39077,7 @@
 </offer>
 <offer id="22706" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-strawberry-raspberry-cherry-ice-klubnika-malina-vishnya-led-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22706-800x800.png</picture>
@@ -39090,7 +39090,7 @@
 </offer>
 <offer id="27033" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-banana-ice-banan-led-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27033-800x800.png</picture>
@@ -39103,7 +39103,7 @@
 </offer>
 <offer id="27402" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-blue-razz-lemonade-limonad-malina-ejevika-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27402-800x800.png</picture>
@@ -39116,7 +39116,7 @@
 </offer>
 <offer id="27576" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-blue-sour-raspberry-sinyaya-kislaya-malina-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27576-400x400.png</picture>
@@ -39129,7 +39129,7 @@
 </offer>
 <offer id="27401" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-blueberry-chernika-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27401-800x800.png</picture>
@@ -39142,7 +39142,7 @@
 </offer>
 <offer id="27577" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-cherry-lemon-vishnya-limon-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27577-400x400.png</picture>
@@ -39155,7 +39155,7 @@
 </offer>
 <offer id="27400" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-cherry-lemon-peach-vishnya-limon-persik-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27400-800x800.png</picture>
@@ -39168,7 +39168,7 @@
 </offer>
 <offer id="26830" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-coconut-melon-kokos-dyinya-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26830-800x800.png</picture>
@@ -39181,7 +39181,7 @@
 </offer>
 <offer id="27578" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-cola-kola-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27578-400x400.png</picture>
@@ -39194,7 +39194,7 @@
 </offer>
 <offer id="27399" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-grape-vinograd-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27399-800x800.png</picture>
@@ -39207,7 +39207,7 @@
 </offer>
 <offer id="27579" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-grape-lime-vinograd-laym-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27579-400x400.png</picture>
@@ -39220,7 +39220,7 @@
 </offer>
 <offer id="27398" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27398-800x800.png</picture>
@@ -39233,7 +39233,7 @@
 </offer>
 <offer id="27034" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-pink-lemonade-rozovyiy-limonad-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27034-800x800.png</picture>
@@ -39246,7 +39246,7 @@
 </offer>
 <offer id="27035" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-spearmint-myata-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27035-800x800.png</picture>
@@ -39259,7 +39259,7 @@
 </offer>
 <offer id="27036" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-strawberry-ice-cream-klubnichnoe-morojenoe-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27036-800x800.png</picture>
@@ -39272,7 +39272,7 @@
 </offer>
 <offer id="27397" available="false">
 <url>https://hardsmoke.store/elf-bar-1500-ultra-watermelon-arbuz-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27397-800x800.png</picture>
@@ -39285,7 +39285,7 @@
 </offer>
 <offer id="7611" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-watermelon-arbuz-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7611-800x800.png</picture>
@@ -39298,7 +39298,7 @@
 </offer>
 <offer id="21795" available="true">
 <url>https://hardsmoke.store/elf-bar-1500-watermelon-lemon-arbuz-limon-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21795-800x800.png</picture>
@@ -39311,7 +39311,7 @@
 </offer>
 <offer id="9007" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-banana-milk-molochnyiy-banan-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9007-800x800.png</picture>
@@ -39324,7 +39324,7 @@
 </offer>
 <offer id="23715" available="false">
 <url>https://hardsmoke.store/elf-bar-2000-coffee-tobacco-kofe-i-tabak-odnorazovyiy-pod</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23715-800x800.png</picture>
@@ -39337,7 +39337,7 @@
 </offer>
 <offer id="9003" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-grape-energy-vinogradnyiy-energetik-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9003-800x800.png</picture>
@@ -39350,7 +39350,7 @@
 </offer>
 <offer id="9009" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-juicy-peach-persik-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9009-800x800.png</picture>
@@ -39363,7 +39363,7 @@
 </offer>
 <offer id="9005" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-mango-peach-watermelon-mango-persik-arbuz-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9005-800x800.png</picture>
@@ -39376,7 +39376,7 @@
 </offer>
 <offer id="9008" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-pineapple-ice-ananas-led-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9008-800x800.png</picture>
@@ -39389,7 +39389,7 @@
 </offer>
 <offer id="9004" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-sour-apple-kisloe-yabloko-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9004-800x800.png</picture>
@@ -39402,7 +39402,7 @@
 </offer>
 <offer id="9000" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-strawberry-grape-klubnika-vinograd-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9000-800x800.png</picture>
@@ -39415,7 +39415,7 @@
 </offer>
 <offer id="9006" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-watermelon-lemon-arbuz-limon-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9006-800x800.png</picture>
@@ -39428,7 +39428,7 @@
 </offer>
 <offer id="25277" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-apple---juicy-peach-yabloko-persik-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25277-800x800.png</picture>
@@ -39441,7 +39441,7 @@
 </offer>
 <offer id="25278" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-blackcurrant-raspberry---grape-chernaya-smorodina-malina-vinograd-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25278-800x800.png</picture>
@@ -39454,7 +39454,7 @@
 </offer>
 <offer id="25279" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-blueberry-sour-raspberry---cherry-chernika-ejevika-vishnya-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25279-800x800.png</picture>
@@ -39467,7 +39467,7 @@
 </offer>
 <offer id="25280" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-grape---mary-power-vinogradnyiy-miks-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25280-800x800.png</picture>
@@ -39480,7 +39480,7 @@
 </offer>
 <offer id="25281" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-green-apple---double-apple-shisha-zelenoe-i-dvoynoe-yabloko--odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25281-800x800.png</picture>
@@ -39493,7 +39493,7 @@
 </offer>
 <offer id="25282" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-green-grape---grape-zelenyiy-i-temnyiy-vinograd-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25282-800x800.png</picture>
@@ -39506,7 +39506,7 @@
 </offer>
 <offer id="25283" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-lime---pineapple-laym-ananas-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25283-800x800.png</picture>
@@ -39519,7 +39519,7 @@
 </offer>
 <offer id="25284" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-peach-mango---watermelon-persik-mango-arbuz-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25284-800x800.png</picture>
@@ -39532,7 +39532,7 @@
 </offer>
 <offer id="25285" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-pink-lemonade---grapefruit-rozovyiy-limonad-greypfrut-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/25285-800x800product_popup.webp</picture>
@@ -39545,7 +39545,7 @@
 </offer>
 <offer id="25286" available="false">
 <url>https://hardsmoke.store/elf-bar-25000-combo-watermelon---strawberry-arbuz-klubnika-odnorazovyiy-pod</url>
-<price>775</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25286-800x800.png</picture>
@@ -39558,7 +39558,7 @@
 </offer>
 <offer id="25703" available="true">
 <url>https://hardsmoke.store/elf-bar-vs4000-avocado-cream-avokado-slivki-odnorazovyiy-pod</url>
-<price>440</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/25703-800x800product_popup.webp</picture>
@@ -39571,7 +39571,7 @@
 </offer>
 <offer id="20315" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-cola-kola-odnorazovyiy-pod</url>
-<price>440</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20315-800x800.png</picture>
@@ -39584,7 +39584,7 @@
 </offer>
 <offer id="20316" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-energy-energetik-odnorazovyiy-pod</url>
-<price>440</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20316-800x800.png</picture>
@@ -39597,7 +39597,7 @@
 </offer>
 <offer id="25699" available="false">
 <url>https://hardsmoke.store/elf-bar-vs4000-mango-peach-mango-persik-odnorazovyiy-pod</url>
-<price>440</price>
+<price>375</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25699-800x800.png</picture>
@@ -39610,7 +39610,7 @@
 </offer>
 <offer id="26258" available="false">
 <url>https://hardsmoke.store/elf-bar-bc10000-touch-citrus-grape-tsitrus-vinograd-odnorazovyiy-pod</url>
-<price>690</price>
+<price>381</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26258-800x800.png</picture>
@@ -39623,7 +39623,7 @@
 </offer>
 <offer id="10017" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bc3000-energy-energetik-3000-zatyajek</url>
-<price>390</price>
+<price>246</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10017-800x800.png</picture>
@@ -39636,7 +39636,7 @@
 </offer>
 <offer id="27275" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-blackberry---passionfruit-ejevika-i-marakuyya-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27275-800x800.png</picture>
@@ -39649,7 +39649,7 @@
 </offer>
 <offer id="27276" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-cherry---peach-lemonade-vishnya-i-persik-limonad-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27276-800x800.png</picture>
@@ -39662,7 +39662,7 @@
 </offer>
 <offer id="27277" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-elf-bull---lime-cola-elf-bul-i-laym-kola-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27277-800x800.png</picture>
@@ -39675,7 +39675,7 @@
 </offer>
 <offer id="27278" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-jasmine-raspberry---blueberry-ice-jasmin-malina-i-chernika-ays-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27278-800x800.png</picture>
@@ -39688,7 +39688,7 @@
 </offer>
 <offer id="27279" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-lime---blue-razz-laym-i-blyu-razz-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27279-800x800.png</picture>
@@ -39701,7 +39701,7 @@
 </offer>
 <offer id="27280" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-peach---triple-mango-persik-i-troynoe-mango-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27280-800x800.png</picture>
@@ -39714,7 +39714,7 @@
 </offer>
 <offer id="27281" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-sour-watermelon---pineapple-kislyiy-arbuz-i-ananas-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27281-800x800.png</picture>
@@ -39727,7 +39727,7 @@
 </offer>
 <offer id="27282" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-strawberry---banana-klubnika-i-banan-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27282-800x800.png</picture>
@@ -39740,7 +39740,7 @@
 </offer>
 <offer id="27283" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-strawberry---grape-klubnika-i-vinograd-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27283-800x800.png</picture>
@@ -39753,7 +39753,7 @@
 </offer>
 <offer id="27284" available="false">
 <url>https://hardsmoke.store/elf-bar-combo-pro-30000-watermelon-ice--%C2%A0blueberry-arbuz-ays-i-chernika-odnorazovyiy-pod</url>
-<price>785</price>
+<price>437</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27284-800x800.png</picture>
@@ -39766,7 +39766,7 @@
 </offer>
 <offer id="24231" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-cherry-lime-vishnya-laym-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24231-800x800.png</picture>
@@ -39779,7 +39779,7 @@
 </offer>
 <offer id="24232" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-double-apple-dvoynoe-yabloko-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24232-800x800.png</picture>
@@ -39792,7 +39792,7 @@
 </offer>
 <offer id="24233" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-grape-ice-vinograd-led-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24233-800x800.png</picture>
@@ -39805,7 +39805,7 @@
 </offer>
 <offer id="24234" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-green-apple-passion-fruit-kiwi-zelenoe-yabloko-marakuyya-kivi-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/24234-800x800product_popup.webp</picture>
@@ -39818,7 +39818,7 @@
 </offer>
 <offer id="24235" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-jasmine-raspberry-jasmin-malina-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/24235-800x800product_popup.webp</picture>
@@ -39831,7 +39831,7 @@
 </offer>
 <offer id="24236" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-lemon-lime-limon-laym-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24236-800x800.png</picture>
@@ -39844,7 +39844,7 @@
 </offer>
 <offer id="24237" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-lemonade-limonad-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24237-800x800.png</picture>
@@ -39857,7 +39857,7 @@
 </offer>
 <offer id="24238" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-mango-green-grape-mango-zelenyiy-vinograd-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24238-800x800.png</picture>
@@ -39870,7 +39870,7 @@
 </offer>
 <offer id="24239" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-sea-breeze-mint-si-briz-mint-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24239-800x800.png</picture>
@@ -39883,7 +39883,7 @@
 </offer>
 <offer id="24240" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-sour-blackberry-blueberry-kislaya-ejevika-chernika-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24240-800x800.png</picture>
@@ -39896,7 +39896,7 @@
 </offer>
 <offer id="24241" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-sour-raspberry-jam-kislaya-malina-djem-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24241-800x800.png</picture>
@@ -39909,7 +39909,7 @@
 </offer>
 <offer id="24242" available="false">
 <url>https://hardsmoke.store/elf-bar-cr8000-watermelon-ice-arbuz-led-odnorazovyiy-pod</url>
-<price>600</price>
+<price>336</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24242-800x800.png</picture>
@@ -39922,7 +39922,7 @@
 </offer>
 <offer id="27267" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-alpine-mint-myata-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27267-800x800.png</picture>
@@ -39935,7 +39935,7 @@
 </offer>
 <offer id="26309" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-apple-pear-yabloko-grusha-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26309-800x800.png</picture>
@@ -39948,7 +39948,7 @@
 </offer>
 <offer id="26310" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-blue-razz-ice-blyu-razz-ays-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26310-800x800.png</picture>
@@ -39961,7 +39961,7 @@
 </offer>
 <offer id="26716" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-blueberry-ice-chernika-led-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26716-800x800.png</picture>
@@ -39974,7 +39974,7 @@
 </offer>
 <offer id="26717" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-blueberry-raspberry-chernika-malina-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26717-800x800.png</picture>
@@ -39987,7 +39987,7 @@
 </offer>
 <offer id="26311" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-cherry-cola-vishnevaya-kola-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26311-800x800.png</picture>
@@ -40000,7 +40000,7 @@
 </offer>
 <offer id="26718" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-double-apple-dvoynoe-yabloko-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26718-800x800.png</picture>
@@ -40013,7 +40013,7 @@
 </offer>
 <offer id="27268" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-double-mango-dvoynoy-mango-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27268-800x800.png</picture>
@@ -40026,7 +40026,7 @@
 </offer>
 <offer id="27269" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-grape-cherry-vinograd-vishnya-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27269-800x800.png</picture>
@@ -40039,7 +40039,7 @@
 </offer>
 <offer id="26312" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-grape-ice-vinograd-led-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26312-800x800.png</picture>
@@ -40052,7 +40052,7 @@
 </offer>
 <offer id="26313" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-green-apple-ice-yabloko-led-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26313-800x800.png</picture>
@@ -40065,7 +40065,7 @@
 </offer>
 <offer id="26314" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-green-plum-sour-lime-sliva-laym-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26314-800x800.png</picture>
@@ -40078,7 +40078,7 @@
 </offer>
 <offer id="26315" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-jasmine-raspberry-jasmin-malina-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26315-800x800.png</picture>
@@ -40091,7 +40091,7 @@
 </offer>
 <offer id="26719" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-juice-peach-persikovyiy-sok-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26719-800x800.png</picture>
@@ -40104,7 +40104,7 @@
 </offer>
 <offer id="26720" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26720-800x800.png</picture>
@@ -40117,7 +40117,7 @@
 </offer>
 <offer id="27270" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-kiwi-pineapple-ice-kivi-ananas-led-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27270-800x800.png</picture>
@@ -40130,7 +40130,7 @@
 </offer>
 <offer id="27271" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-mango-peach-mango-persik-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27271-800x800.png</picture>
@@ -40143,7 +40143,7 @@
 </offer>
 <offer id="26721" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-mango-peach-watermelon-mango-persik-arbuz-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26721-800x800.png</picture>
@@ -40156,7 +40156,7 @@
 </offer>
 <offer id="27940" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-peach-berry-persik-yagodyi-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27940-400x400.png</picture>
@@ -40169,7 +40169,7 @@
 </offer>
 <offer id="26722" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-peach-ice-persik-led-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26722-800x800.png</picture>
@@ -40182,7 +40182,7 @@
 </offer>
 <offer id="26875" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-polar-mint-led-myata-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26875-800x800.png</picture>
@@ -40195,7 +40195,7 @@
 </offer>
 <offer id="26876" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-purple-mint-perpl-mint-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26876-800x800.png</picture>
@@ -40208,7 +40208,7 @@
 </offer>
 <offer id="26316" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-raspberry-watermelon-lemon-malina-arbuz-limon-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26316-800x800.png</picture>
@@ -40221,7 +40221,7 @@
 </offer>
 <offer id="26317" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-sour-watermelon-candy-kislyie-arbuznyie-konfetyi-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26317-800x800.png</picture>
@@ -40234,7 +40234,7 @@
 </offer>
 <offer id="26318" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-strawberry-banana-klubnika-banan-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26318-800x800.png</picture>
@@ -40247,7 +40247,7 @@
 </offer>
 <offer id="27939" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-strawberry-grape-klubnika-vinograd-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27939-400x400.png</picture>
@@ -40260,7 +40260,7 @@
 </offer>
 <offer id="26319" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-strawberry-watermelon-bubble-gum-klubnika-arbuz-jvachka-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26319-800x800.png</picture>
@@ -40273,7 +40273,7 @@
 </offer>
 <offer id="26877" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-tripe-mango-troynoe-mango-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26877-800x800.png</picture>
@@ -40286,7 +40286,7 @@
 </offer>
 <offer id="28271" available="false">
 <url>https://hardsmoke.life/elf-bar-gh-23000-watermelon-bubble-gum-arbuz-bablgam-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26319-800x800.png</picture>
@@ -40299,7 +40299,7 @@
 </offer>
 <offer id="26320" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-watermelon-cherry-arbuz-vishnya-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26320-800x800.png</picture>
@@ -40312,7 +40312,7 @@
 </offer>
 <offer id="26321" available="false">
 <url>https://hardsmoke.store/elf-bar-gh-23000-watermelon-ice-arbuz-led-odnorazovyiy-pod</url>
-<price>950</price>
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26321-800x800.png</picture>
@@ -40325,7 +40325,7 @@
 </offer>
 <offer id="26332" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-banana-cake-bananovyiy-pirog-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26332-800x800.png</picture>
@@ -40338,7 +40338,7 @@
 </offer>
 <offer id="26333" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-blackberry-cranberry-ejevika-klyukva-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26333-800x800.png</picture>
@@ -40351,7 +40351,7 @@
 </offer>
 <offer id="26334" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-blue-razz-ice-blyu-razz-ays-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26334-800x800.png</picture>
@@ -40364,7 +40364,7 @@
 </offer>
 <offer id="26335" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-cherry-pomegranate-cranberry-vishnya-granat-klyukva-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26335-800x800.png</picture>
@@ -40377,7 +40377,7 @@
 </offer>
 <offer id="26346" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-elf-bull-energetik-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26346-800x800.png</picture>
@@ -40390,7 +40390,7 @@
 </offer>
 <offer id="26336" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-grape-ice-vinograd-led-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26336-800x800.png</picture>
@@ -40403,7 +40403,7 @@
 </offer>
 <offer id="26337" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26337-800x800.png</picture>
@@ -40416,7 +40416,7 @@
 </offer>
 <offer id="26338" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-lime-cola-laym-kola-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26338-800x800.png</picture>
@@ -40429,7 +40429,7 @@
 </offer>
 <offer id="26339" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-miami-mint-mayami-mint-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26339-800x800.png</picture>
@@ -40442,7 +40442,7 @@
 </offer>
 <offer id="26340" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-peach-ice-persik-led-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26340-800x800.png</picture>
@@ -40455,7 +40455,7 @@
 </offer>
 <offer id="26341" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-pink-lemonade-rozovyiy-limonad-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26341-800x800.png</picture>
@@ -40468,7 +40468,7 @@
 </offer>
 <offer id="26342" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-ribena-lychee-ribena-lichi-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26342-800x800.png</picture>
@@ -40481,7 +40481,7 @@
 </offer>
 <offer id="26343" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-strawberry-kiwi-ice-klubnika-kivi-led-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26343-800x800.png</picture>
@@ -40494,7 +40494,7 @@
 </offer>
 <offer id="26344" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-strawberry-watermelon-klubnika-arbuz-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26344-800x800.png</picture>
@@ -40507,7 +40507,7 @@
 </offer>
 <offer id="26345" available="false">
 <url>https://hardsmoke.store/elf-bar-ice-king-30000-watermelon-ice-arbuz-led-odnorazovyiy-pod</url>
-<price>785</price>
+<price>426</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26345-800x800.png</picture>
@@ -40520,7 +40520,7 @@
 </offer>
 <offer id="7945" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-banana-ice-ledyanoy-banan-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7945-800x800.png</picture>
@@ -40533,7 +40533,7 @@
 </offer>
 <offer id="7599" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-banana-milk-bananovoe-moloko-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7599-800x800.png</picture>
@@ -40546,7 +40546,7 @@
 </offer>
 <offer id="7935" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-blue-razz-lemonade-limonad-malina-ejevika-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7935-800x800.png</picture>
@@ -40559,7 +40559,7 @@
 </offer>
 <offer id="7936" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-blueberry-chernika-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7936-800x800.png</picture>
@@ -40572,7 +40572,7 @@
 </offer>
 <offer id="7937" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-grape-vinograd-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7937-800x800.png</picture>
@@ -40585,7 +40585,7 @@
 </offer>
 <offer id="25039" available="false">
 <url>https://hardsmoke.store/elf-bar-lux-1500-grape-energy-vinograd-energetik-odnorazovyiy-pod</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/25039-800x800.png</picture>
@@ -40598,7 +40598,7 @@
 </offer>
 <offer id="7943" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-kiwi-passion-fruit-guava-kivi-marakuyya-guava-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7943-800x800.png</picture>
@@ -40611,7 +40611,7 @@
 </offer>
 <offer id="7603" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-mango-peach-watermelon-mango-persik-arbuz-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7603-800x800.png</picture>
@@ -40624,7 +40624,7 @@
 </offer>
 <offer id="18398" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-pink-lemonade-rozovyiy-limonad-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/18398-800x800.png</picture>
@@ -40637,7 +40637,7 @@
 </offer>
 <offer id="7944" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-sour-apple-kisloe-yabloko-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7944-800x800.png</picture>
@@ -40650,7 +40650,7 @@
 </offer>
 <offer id="7939" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-strawberry-banana-klubnika-banan-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7939-800x800.png</picture>
@@ -40663,7 +40663,7 @@
 </offer>
 <offer id="7942" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-strawberry-energy-klubnichnyiy-energetik-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7942-800x800.png</picture>
@@ -40676,7 +40676,7 @@
 </offer>
 <offer id="7612" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-strawberry-grape-klubnika-vinograd-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7612-800x800.png</picture>
@@ -40689,7 +40689,7 @@
 </offer>
 <offer id="7940" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-watermelon-arbuz-1500-zatyajek</url>
-<price>360</price>
+<price>287</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7940-800x800.png</picture>
@@ -40702,7 +40702,7 @@
 </offer>
 <offer id="10007" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-apple-peach-yabloko-persik-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10007-800x800.png</picture>
@@ -40715,7 +40715,7 @@
 </offer>
 <offer id="21648" available="true">
 <url>https://hardsmoke.store/elf-bar-lux-2000-blue-razz-ice-blyu-razz-ays-odnorazovyiy-pod</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21648-800x800.png</picture>
@@ -40728,7 +40728,7 @@
 </offer>
 <offer id="10008" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-cola-kola-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10008-800x800.png</picture>
@@ -40741,7 +40741,7 @@
 </offer>
 <offer id="10009" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-energy-ice-energetik-so-ldom-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10009-800x800.png</picture>
@@ -40754,7 +40754,7 @@
 </offer>
 <offer id="10010" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-grape-ice-vinograd-ays-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10010-800x800.png</picture>
@@ -40767,7 +40767,7 @@
 </offer>
 <offer id="10011" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-kiwi-berry-kivi-yagoda-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10011-800x800.png</picture>
@@ -40780,7 +40780,7 @@
 </offer>
 <offer id="21649" available="true">
 <url>https://hardsmoke.store/elf-bar-lux-2000-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21649-800x800.png</picture>
@@ -40793,7 +40793,7 @@
 </offer>
 <offer id="10012" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-pineapple-mango-orange-ananas-mango-apelsin-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10012-800x800.png</picture>
@@ -40806,7 +40806,7 @@
 </offer>
 <offer id="10013" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-red-mojito-yagodnyiy-mohito-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10013-800x800.png</picture>
@@ -40819,7 +40819,7 @@
 </offer>
 <offer id="10014" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-lux-strawberry-watermelon-klubnika-arbuz-2000-zatyajek</url>
-<price>490</price>
+<price>330</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10014-800x800.png</picture>
@@ -40832,7 +40832,7 @@
 </offer>
 <offer id="20302" available="false">
 <url>https://hardsmoke.store/elf-bar-nc1800-blue-razz-lemonade-blyu-razz-limonad-odnorazovyiy-pod</url>
-<price>280</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20302-800x800.png</picture>
@@ -40845,7 +40845,7 @@
 </offer>
 <offer id="20282" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-berry-raspberry-malina-ejevika-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20282-800x800.png</picture>
@@ -40858,7 +40858,7 @@
 </offer>
 <offer id="20291" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-blue-razz-ice-blyu-razz-ays-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20291-800x800.png</picture>
@@ -40871,7 +40871,7 @@
 </offer>
 <offer id="20279" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-double-apple-dvoynoe-yabloko-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20279-800x800.png</picture>
@@ -40884,7 +40884,7 @@
 </offer>
 <offer id="20274" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-elfbull-ice-elfbull-ays-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20274-800x800.png</picture>
@@ -40897,7 +40897,7 @@
 </offer>
 <offer id="20277" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-grape-ice-vinograd-led-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20277-800x800.png</picture>
@@ -40910,7 +40910,7 @@
 </offer>
 <offer id="20283" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-grape-raspberry-vinograd-malina-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20283-800x800.png</picture>
@@ -40923,7 +40923,7 @@
 </offer>
 <offer id="20276" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-green-apple-zelenoe-yabloko-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20276-800x800.png</picture>
@@ -40936,7 +40936,7 @@
 </offer>
 <offer id="20272" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-lemon-mint-limon-myata-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20272-800x800.png</picture>
@@ -40949,7 +40949,7 @@
 </offer>
 <offer id="20287" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-mango-mango-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20287-800x800.png</picture>
@@ -40962,7 +40962,7 @@
 </offer>
 <offer id="20289" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-peach-ice-persik-led-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/20289-800x800product_popup.webp</picture>
@@ -40975,7 +40975,7 @@
 </offer>
 <offer id="20273" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-pink-lemon-pink-limon-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20273-800x800.png</picture>
@@ -40988,7 +40988,7 @@
 </offer>
 <offer id="20280" available="false">
 <url>https://hardsmoke.store/elf-bar-pi9000-raspberry-elfbull-raspberri-elfbull-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20280-800x800.png</picture>
@@ -41001,7 +41001,7 @@
 </offer>
 <offer id="20285" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-raspberry-passion-fruit-orange-malina-marakuyya-apelsin-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20285-800x800.png</picture>
@@ -41014,7 +41014,7 @@
 </offer>
 <offer id="20290" available="true">
 <url>https://hardsmoke.store/elf-bar-pi9000-strawberry-ice-klubnika-led-odnorazovyiy-pod</url>
-<price>783</price>
+<price>0</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/20290-800x800.png</picture>
@@ -41027,7 +41027,7 @@
 </offer>
 <offer id="26878" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-alpine-mint-alpiyskaya-myata-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26878-800x800.png</picture>
@@ -41040,7 +41040,7 @@
 </offer>
 <offer id="26879" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-apple-peach-yabloko-persik-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26879-800x800.png</picture>
@@ -41053,7 +41053,7 @@
 </offer>
 <offer id="26880" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blackberry-cranberry-ejevika-klyukva-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26880-800x800.png</picture>
@@ -41066,7 +41066,7 @@
 </offer>
 <offer id="26881" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blackberry-pomegranate-cherry-ejevika-granat-vishnya-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26881-800x800.png</picture>
@@ -41079,7 +41079,7 @@
 </offer>
 <offer id="26882" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blue-razz-ice-siniy-limonad-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26882-800x800.png</picture>
@@ -41092,7 +41092,7 @@
 </offer>
 <offer id="26883" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blueberry-ice-chernika-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26883-800x800.png</picture>
@@ -41105,7 +41105,7 @@
 </offer>
 <offer id="26884" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-blueberry-raspberry-chernika-malina-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26884-800x800.png</picture>
@@ -41118,7 +41118,7 @@
 </offer>
 <offer id="26905" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-double-apple-dvoynoe-yabloko-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26905-800x800.png</picture>
@@ -41131,7 +41131,7 @@
 </offer>
 <offer id="26885" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-double-mango-dvoynoe-mango-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26885-800x800.png</picture>
@@ -41144,7 +41144,7 @@
 </offer>
 <offer id="26886" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-grape-cherry-vinograd-vishnya-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26886-800x800.png</picture>
@@ -41157,7 +41157,7 @@
 </offer>
 <offer id="26887" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-grape-ice-vinograd-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26887-800x800.png</picture>
@@ -41170,7 +41170,7 @@
 </offer>
 <offer id="26888" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-grape-mint-vinograd-myata-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26888-800x800.png</picture>
@@ -41183,7 +41183,7 @@
 </offer>
 <offer id="26889" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-kiwi-passion-fruit-guava-kivi-marakuyya-guava-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26889-800x800.png</picture>
@@ -41196,7 +41196,7 @@
 </offer>
 <offer id="26890" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-kiwi-pineapple-ice-kivi-ananas-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26890-800x800.png</picture>
@@ -41209,7 +41209,7 @@
 </offer>
 <offer id="26891" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-lemon-lime-ice-limon-laym-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26891-800x800.png</picture>
@@ -41222,7 +41222,7 @@
 </offer>
 <offer id="26904" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-mango-peach-mango-persik-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26904-800x800.png</picture>
@@ -41235,7 +41235,7 @@
 </offer>
 <offer id="26892" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-mango-peach-watermelon-mango-persik-arbuz-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/26892-800x800product_popup.webp</picture>
@@ -41248,7 +41248,7 @@
 </offer>
 <offer id="26893" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-peach-berry-persik-yagoda-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26893-800x800.png</picture>
@@ -41261,7 +41261,7 @@
 </offer>
 <offer id="26894" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-peach-ice-persik-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26894-800x800.png</picture>
@@ -41274,7 +41274,7 @@
 </offer>
 <offer id="26895" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-pineapple-mango-ice-ananas-mango-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26895-800x800.png</picture>
@@ -41287,7 +41287,7 @@
 </offer>
 <offer id="26896" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-strawberry-grape-klubnika-vinograd-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26896-800x800.png</picture>
@@ -41300,7 +41300,7 @@
 </offer>
 <offer id="26897" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-strawberry-ice-klubnika-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26897-800x800.png</picture>
@@ -41313,7 +41313,7 @@
 </offer>
 <offer id="26898" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-strawberry-raspberry-cherry-klubnika-malina-vishnya-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26898-800x800.png</picture>
@@ -41326,7 +41326,7 @@
 </offer>
 <offer id="26899" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-strawberry-watermelon-klubnika-arbuz-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26899-800x800.png</picture>
@@ -41339,7 +41339,7 @@
 </offer>
 <offer id="26900" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-vmt-vmt-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26900-800x800.png</picture>
@@ -41352,7 +41352,7 @@
 </offer>
 <offer id="26901" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-watermelon-bubble-gum-arbuz-jvachka-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26901-800x800.png</picture>
@@ -41365,7 +41365,7 @@
 </offer>
 <offer id="26902" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-watermelon-ice-arbuz-led-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26902-800x800.png</picture>
@@ -41378,7 +41378,7 @@
 </offer>
 <offer id="26903" available="false">
 <url>https://hardsmoke.store/elf-bar-raya-d3-25000-watermelon-lemon-arbuz-limon-odnorazovyiy-pod</url>
-<price>775</price>
+<price>498</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/26903-800x800product_popup.webp</picture>
@@ -41391,7 +41391,7 @@
 </offer>
 <offer id="26835" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-blueberry-lime-chernika-laym-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26835-800x800.png</picture>
@@ -41404,7 +41404,7 @@
 </offer>
 <offer id="26831" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-green-mango-guava-zelenoe-mango-guava-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26831-800x800.png</picture>
@@ -41417,7 +41417,7 @@
 </offer>
 <offer id="26838" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-kiwi-watermelon-green-apple-kivi-arbuz-zelenoe-yabloko-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26838-800x800.png</picture>
@@ -41430,7 +41430,7 @@
 </offer>
 <offer id="26834" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-lemon-lime-limon-laym-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26834-800x800.png</picture>
@@ -41443,7 +41443,7 @@
 </offer>
 <offer id="26832" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-orange-passion-fruit-apelsin-marakuyya-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26832-800x800.png</picture>
@@ -41456,7 +41456,7 @@
 </offer>
 <offer id="26839" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-peach-lime-persik-laym-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26839-800x800.png</picture>
@@ -41469,7 +41469,7 @@
 </offer>
 <offer id="26836" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-raspberry-pomegranate-malina-granat-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26836-800x800.png</picture>
@@ -41482,7 +41482,7 @@
 </offer>
 <offer id="26840" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-sour-strawberry-grape-kislaya-klubnika-vinograd-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26840-800x800.png</picture>
@@ -41495,7 +41495,7 @@
 </offer>
 <offer id="26837" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-strawberry-cherry-raspberry-klubnika-vishnya-malina-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26837-800x800.png</picture>
@@ -41508,7 +41508,7 @@
 </offer>
 <offer id="26833" available="false">
 <url>https://hardsmoke.store/elf-bar-te6000-watermelon-pear-orange-arbuz-grusha-apelsin-odnorazovyiy-pod</url>
-<price>470</price>
+<price>302</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26833-800x800.png</picture>
@@ -41521,7 +41521,7 @@
 </offer>
 <offer id="10026" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-blue-razz-ice-goluboy-limonad-ays-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10026-800x800.png</picture>
@@ -41534,7 +41534,7 @@
 </offer>
 <offer id="10027" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-dragon-fruit-banana-berry-pitayya-banan-yagoda-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10027-800x800.png</picture>
@@ -41547,7 +41547,7 @@
 </offer>
 <offer id="10028" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-grape-honedew-vinograd-dyinya-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10028-800x800.png</picture>
@@ -41560,7 +41560,7 @@
 </offer>
 <offer id="10029" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-kiwi-dragon-fruit-berry-kivi-pitayya-yagoda-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10029-800x800.png</picture>
@@ -41573,7 +41573,7 @@
 </offer>
 <offer id="10030" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-kiwi-passion-fruit-guava-kivi-marakuyya-guava-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10030-800x800.png</picture>
@@ -41586,7 +41586,7 @@
 </offer>
 <offer id="10031" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-mint-myata-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10031-800x800.png</picture>
@@ -41599,7 +41599,7 @@
 </offer>
 <offer id="10032" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-orange-soda-apelsinovaya-sodovaya-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10032-800x800.png</picture>
@@ -41612,7 +41612,7 @@
 </offer>
 <offer id="10033" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-raspberry-watermelon-malina-arbuz-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10033-800x800.png</picture>
@@ -41625,7 +41625,7 @@
 </offer>
 <offer id="10035" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-strawberry-watermelon-bubble-gum-klubnika-arbuz-babl-gam-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10035-800x800.png</picture>
@@ -41638,7 +41638,7 @@
 </offer>
 <offer id="10036" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-strawberry-watermelon-peach-klubnika-arbuz-persik-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10036-800x800.png</picture>
@@ -41651,7 +41651,7 @@
 </offer>
 <offer id="10038" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-tropical-rainbow-blast-vzryiv-tropicheskoy-radugi-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/10038-800x800.png</picture>
@@ -41664,7 +41664,7 @@
 </offer>
 <offer id="10039" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-bs5000-ultra-watermelon-ice-arbuz-ays-5000-zatyajek</url>
-<price>610</price>
+<price>327</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/webp/catalog/exist/10039-800x800product_popup.webp</picture>
@@ -60018,16 +60018,16 @@
 <name>Табір Azure Black Cairo crypt tonight (Каїр крипт тунайт, 100 г)</name>
 <description><![CDATA[<h2>Табір Azure Black Cairo crypt tonight (Каїр крипт тунайт, 100 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Табір Azure Black Cairo crypt tonight (Каїр крипт тунайт, 100 г) від Azure. Основа кальянної заправки — це тютюновий лист Virginia, Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Вишня/Черешня, М'ята, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Вишня/Черешня, М'ята – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 100 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Табір Azure Black Cairo crypt tonight (Каїр крипт тунайт, 100 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Azure:</h2> <div class="text-block-wrap"> <img alt="Табір Azure Black Cairo crypt tonight (Каїр крипт тунайт, 100 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Virginia, Burley гарантує високу якість куріння.</li> <li>Густий дим: При ]]></description>
 </offer>
-<offer id="2375" available="true">
+<offer id="2375" available="false">
 <url>https://hardsmoke.store/tabak-420-apple-squirt-yablochnyie-konfetyi-100-g</url>
 <price>225</price>
 <currencyId>UAH</currencyId>
 <categoryId>5</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/2375-400x400.png</picture>
 <vendorCode>hd2375</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>2375</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Тютюн 420 Apple Squirt (Яблучні Цукерки, 100 г)</name>
 <description><![CDATA[<h2>Тютюн 420 Apple Squirt (Яблучні Цукерки, 100 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн 420 Apple Squirt (Яблучні Цукерки, 100 г) від 420. Основа кальянної заправки — це тютюновий лист Virginia, Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Цукерки, Яблуко, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Середній — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Цукерки, Яблуко – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 100 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн 420 Apple Squirt (Яблучні Цукерки, 100 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від 420:</h2> <div class="text-block-wrap"> <img alt="Тютюн 420 Apple Squirt (Яблучні Цукерки, 100 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Virginia, Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </]]></description>
 </offer>
@@ -180513,14 +180513,14 @@
 <quantity>100</quantity>
 <name>Заливка Twisted 30/50 Coconut Cookie</name>
 </offer>
-<offer id="dub-hd22010" available="true">
+<offer id="dub-hd22010" available="false">
 <price>121</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22010</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>22010</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Twisted 30/50 Desperado Cactus</name>
 </offer>
 <offer id="dub-hd22011" available="false">
@@ -181623,14 +181623,14 @@
 <quantity>0</quantity>
 <name>Дудка 40000Pro BC Flavorless</name>
 </offer>
-<offer id="dub-ws66633-6" available="true">
+<offer id="dub-ws66633-6" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-6</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-6</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Grape</name>
 </offer>
 <offer id="dub-ws66633-17" available="false">
@@ -181743,14 +181743,14 @@
 <quantity>0</quantity>
 <name>Дудка 40000Pro BC Triple Berry</name>
 </offer>
-<offer id="dub-ws66633-3" available="true">
+<offer id="dub-ws66633-3" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-3</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-3</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Pink Lemonade</name>
 </offer>
 <offer id="dub-ws66633-19" available="false">
