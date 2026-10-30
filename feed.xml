@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 30.10.2026 12:09:00 (Europe/Kyiv) | офферів: 15451, в наявності: 6841, немає: 8610 -->
-<yml_catalog date="2026-10-30 12:09">
+<!-- Сформовано: 30.10.2026 12:33:31 (Europe/Kyiv) | офферів: 15451, в наявності: 6840, немає: 8611 -->
+<yml_catalog date="2026-10-30 12:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -182858,14 +182858,14 @@
 <quantity>100</quantity>
 <name>Дудка 23000 GH Grape Ice</name>
 </offer>
-<offer id="dub-ws83959-2" available="true">
-<price>685</price>
+<offer id="dub-ws83959-2" available="false">
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959-2</vendorCode>
-<available>true</available>
-<supplierCode>ws83959-2</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>26311</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 23000 GH Cherry Cola</name>
 </offer>
 <offer id="dub-ws83959-39" available="false">
