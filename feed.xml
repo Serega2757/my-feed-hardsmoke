@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 31.10.2026 12:04:06 (Europe/Kyiv) | офферів: 15451, в наявності: 6778, немає: 8673 -->
-<yml_catalog date="2026-10-31 12:04">
+<!-- Сформовано: 31.10.2026 12:33:34 (Europe/Kyiv) | офферів: 15451, в наявності: 6778, немає: 8673 -->
+<yml_catalog date="2026-10-31 12:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -11348,7 +11348,7 @@
 </offer>
 <offer id="" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-mint-myata-50-mg-30-ml</url>
-<price>105</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22003-800x800.png</picture>
@@ -20006,7 +20006,7 @@
 </offer>
 <offer id="28281" available="false">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-punch-x-sex-on-the-beach-seks-na-plyaje-65-mg-30-ml</url>
-<price>196</price>
+<price>186</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28281-800x800.png</picture>
@@ -173349,7 +173349,7 @@
 <name>Заливка Flip 30/50 Melon</name>
 </offer>
 <offer id="dub-hd22003" available="false">
-<price>105</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22003</vendorCode>
@@ -181129,7 +181129,7 @@
 <name>Заливка Punch X 30/65 Plum Bitter</name>
 </offer>
 <offer id="dub-hd28281" available="false">
-<price>196</price>
+<price>186</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd28281</vendorCode>
