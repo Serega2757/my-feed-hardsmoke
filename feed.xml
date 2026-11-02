@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 02.11.2026 20:03:54 (Europe/Kyiv) | офферів: 15451, в наявності: 6717, немає: 8734 -->
-<yml_catalog date="2026-11-02 20:03">
+<!-- Сформовано: 02.11.2026 20:34:25 (Europe/Kyiv) | офферів: 15451, в наявності: 6719, немає: 8732 -->
+<yml_catalog date="2026-11-02 20:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -40037,16 +40037,16 @@
 <name>Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</name>
 <description><![CDATA[<h2>Огляд Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Якщо ви шукаєте стильний та зручний вейп, який не потрібно заряджати, заправляти чи обслуговувати — зверніть увагу на Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD від Elf Bar. Це одноразова електронна сигарета з насиченим смаком Кавун, оптимальною міцністю нікотину 50 мг та запасом до 1500 затяжок. Відмінний вибір як на кожен день, так і як запасний пристрій «на вихід».</p> <p>Готова для використання відразу після розкриття упаковки. Просто розпакуйте та насолоджуйтесь — все вже передбачено.</p> <h2>Скільки коштує Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD?</h2> <p>Ціна на Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD залежить від обсягу акумулятора, кількості затяжок та загальної популярності смаку. У середньому вартість такої одноразки знаходиться в доступному ціновому сегменті, особливо якщо порівнювати із витратами на класичні багаторазові поди та рідини.</p> <p>У нашому магазині ви можете купити Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD за вигідною ціною з гарантією оригінальності. А при купівлі кількох штук — діють знижки та акційні пропозиції.</p> </div> <img alt="Купити Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD недорого" src="/images/odnorazki1.jpeg"/> </div> <h2>Основні характеристики Elf Bar 1500 Ultra Watermelon (Кавун) Одноразовий POD</h2> <div class="text-block-wrap"> <img alt="Elf Ba]]></description>
 </offer>
-<offer id="7611" available="false">
+<offer id="7611" available="true">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-watermelon-arbuz-1500-zatyajek</url>
 <price>291</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7611-800x800.png</picture>
 <vendorCode>hd7611</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>7611</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Elf Bar 1500 Watermelon (Кавун) Одноразовий POD</name>
 <description><![CDATA[<p>Відкрийте для себе світ вейпінгу з Elf Bar 1500 Watermelon (Кавун) Одноразовий POD — сучасною та стильною альтернативою традиційному курінню. Цей пристрій поєднує у собі елегантний дизайн, передові технології та високу функціональність. Цей варіант забезпечує чудову передачу смаку, не видає неприємного запаху та радує вейперів різноманітністю ароматів. Ось деякі з ключових переваг одноразів та вейпів:</p> <ul> <li>Міцний корпус: Виготовлений з якісних матеріалів, забезпечує довговічність та стійкість до пошкоджень.</li> <li>Інтуїтивна активація: Працює від затягування, забезпечуючи легкість використання</li> <li>Потужний акумулятор: Гарантує тривалу роботу пристрою, мінімізуючи необхідність частого заряджання.</li> </ul> <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Watermelon (Кавун) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
@@ -185048,14 +185048,14 @@
 <quantity>100</quantity>
 <name>Дудка 1500 Green Apple</name>
 </offer>
-<offer id="dub-hd7611" available="false">
+<offer id="dub-hd7611" available="true">
 <price>291</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd7611</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>7611</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Дудка 1500 Watermelon</name>
 </offer>
 <offer id="dub-hd21795" available="true">
