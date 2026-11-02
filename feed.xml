@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 02.11.2026 09:05:41 (Europe/Kyiv) | офферів: 15451, в наявності: 6721, немає: 8730 -->
-<yml_catalog date="2026-11-02 09:05">
+<!-- Сформовано: 02.11.2026 09:33:51 (Europe/Kyiv) | офферів: 15451, в наявності: 6719, немає: 8732 -->
+<yml_catalog date="2026-11-02 09:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -183048,14 +183048,14 @@
 <quantity>0</quantity>
 <name>Дудка 23000 GH Lemon Lime</name>
 </offer>
-<offer id="dub-ws83959-9" available="true">
-<price>685</price>
+<offer id="dub-ws83959-9" available="false">
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959-9</vendorCode>
-<available>true</available>
-<supplierCode>ws83959-9</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>26316</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 23000 GH Raspberry Watermelon Lemon</name>
 </offer>
 <offer id="dub-ws83959-21" available="false">
@@ -183518,14 +183518,14 @@
 <quantity>0</quantity>
 <name>Дудка Ice 30000 Blue Raspberry Lemonade</name>
 </offer>
-<offer id="dub-ws99274-10" available="true">
+<offer id="dub-ws99274-10" available="false">
 <price>495</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws99274-10</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws99274-10</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка Moon 40000 Grape Ice</name>
 </offer>
 <offer id="dub-ws99274-9" available="false">
