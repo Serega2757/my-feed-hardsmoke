@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 03.11.2026 18:04:33 (Europe/Kyiv) | офферів: 15451, в наявності: 6730, немає: 8721 -->
-<yml_catalog date="2026-11-03 18:04">
+<!-- Сформовано: 03.11.2026 18:33:34 (Europe/Kyiv) | офферів: 15451, в наявності: 6730, немає: 8721 -->
+<yml_catalog date="2026-11-03 18:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -4263,7 +4263,7 @@
 </offer>
 <offer id="" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-chaser-lux-tropic-punch-balance-tropik-panch-50-mg-30-ml</url>
-<price>186</price>
+<price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22160-800x800.png</picture>
@@ -167459,7 +167459,7 @@
 <name>Заливка Chaser Lux 30/50 Tropic Punch</name>
 </offer>
 <offer id="dub-char-lux-30-18" available="false">
-<price>186</price>
+<price>176</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-char-lux-30-18</vendorCode>
