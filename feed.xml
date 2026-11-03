@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 03.11.2026 13:05:03 (Europe/Kyiv) | офферів: 15451, в наявності: 6745, немає: 8706 -->
-<yml_catalog date="2026-11-03 13:05">
+<!-- Сформовано: 03.11.2026 13:34:29 (Europe/Kyiv) | офферів: 15451, в наявності: 6744, немає: 8707 -->
+<yml_catalog date="2026-11-03 13:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -183108,14 +183108,14 @@
 <quantity>0</quantity>
 <name>Дудка 23000 GH Peach</name>
 </offer>
-<offer id="dub-ws83959-31" available="true">
-<price>685</price>
+<offer id="dub-ws83959-31" available="false">
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959-31</vendorCode>
-<available>true</available>
-<supplierCode>ws83959-31</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>26722</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 23000 GH Peach Ice</name>
 </offer>
 <offer id="dub-ws83959-22" available="true">
