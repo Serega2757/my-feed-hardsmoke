@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 03.11.2026 14:35:25 (Europe/Kyiv) | офферів: 15451, в наявності: 6754, немає: 8697 -->
-<yml_catalog date="2026-11-03 14:35">
+<!-- Сформовано: 03.11.2026 15:03:26 (Europe/Kyiv) | офферів: 15451, в наявності: 6751, немає: 8700 -->
+<yml_catalog date="2026-11-03 15:03">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -164088,14 +164088,14 @@
 <quantity>100</quantity>
 <name>Готова заливка 420 Liquid | 30/50 Лав66</name>
 </offer>
-<offer id="dub-hd24965" available="true">
+<offer id="dub-hd24965" available="false">
 <price>135</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd24965</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>24965</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка 420 Liquid | 30/50 Лимон Лайм</name>
 </offer>
 <offer id="dub-hd26174" available="true">
@@ -173728,14 +173728,14 @@
 <quantity>0</quantity>
 <name>Заливка Get High 30/50 Green Red Mix</name>
 </offer>
-<offer id="dub-hd24069" available="true">
+<offer id="dub-hd24069" available="false">
 <price>189</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd24069</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>24069</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Get High 30/50 Iced Cherry Blossom</name>
 </offer>
 <offer id="dub-hd24070" available="true">
@@ -182448,14 +182448,14 @@
 <quantity>0</quantity>
 <name>Дудка Duke 30000 Nordic Berry</name>
 </offer>
-<offer id="dub-ws66633-9" available="true">
+<offer id="dub-ws66633-9" available="false">
 <price>475</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-9</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-9</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Pineapple Pomegranate</name>
 </offer>
 <offer id="dub-ws66633-5" available="false">
