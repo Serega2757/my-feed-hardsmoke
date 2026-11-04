@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 04.11.2026 20:04:43 (Europe/Kyiv) | офферів: 15451, в наявності: 6705, немає: 8746 -->
-<yml_catalog date="2026-11-04 20:04">
+<!-- Сформовано: 04.11.2026 20:33:59 (Europe/Kyiv) | офферів: 15451, в наявності: 6703, немає: 8748 -->
+<yml_catalog date="2026-11-04 20:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -39621,16 +39621,16 @@
 <name>Elf Bar 1500 Coconut Melon (Кокос І Диня) Одноразовий POD</name>
 <description><![CDATA[<h2>Elf Bar 1500 Coconut Melon (Кокос і Диня): одноразовий POD з екзотичним смаком</h2> <p>Для всіх, хто віддає перевагу яскравому смаку в кожному вдиху, підійде поєднання ніжного кокоса та соковитої дині. Нові <a href="https://hardsmoke.store/katalog/esigareti/odnorazovye">одноразові електронні сигарети (POD)</a> забезпечують до 1500 затяжок. Легка солодкість у смаку та кремова м’якість роблять кожну тягу приємною і насиченою. Електронна сигарета не потребує жодних зусиль у використанні. Цей POD безперечно підходить як для новачків, так і для досвідчених вейперів.</p> <h2>Які особливості Elf Bar 1500 Coconut Melon?</h2> <p><img alt="Електронна сигарета Elf Bar 1500 Кокос і Диня" class="img-responsive-left" height="500" src="https://hardsmoke.store/image/cache/webp/catalog/description_tovar/elektronnaya-sigareta-elf-bar-1500-coconut-melon-800x800product_popup.webp" width="500">Насамперед варто відзначити особливий екзотичний смак і насичений аромат. Солодка стигла диня в поєднанні з кремовою м’якоттю кокоса створює гармонійний екзотичний мікс. Одноразка<strong> </strong>дуже зручна завдяки компактним розмірам і ергономічному корпусу. Її можна носити з собою всюди. До того ж вона додає стилю.</img></p> <p>Електронка вже готова до використання. Сигарета заряджена і заправлена, достатньо просто зробити першу затяжку. Оптимальна міцність досягається завдяки вмісту нікотину в кількості 5%. Такий склад дарує насичену тягу і задовольняє потребу в нікотині.</p> <p>Автономність – до 1]]></description>
 </offer>
-<offer id="7931" available="true">
+<offer id="7931" available="false">
 <url>https://hardsmoke.store/elektronnyiy-isparitel-elf-bar-cola-kola-1500-zatyajek</url>
 <price>291</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/7931-800x800.png</picture>
 <vendorCode>hd7931</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>7931</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Elf Bar 1500 Cola (Кола) Одноразовий POD</name>
 <description><![CDATA[<p>Відкрийте для себе світ вейпінгу з Elf Bar 1500 Cola (Кола) Одноразовий POD — сучасною та стильною альтернативою традиційному курінню. Цей пристрій поєднує у собі елегантний дизайн, передові технології та високу функціональність. Цей варіант забезпечує чудову передачу смаку, не видає неприємного запаху та радує вейперів різноманітністю ароматів. Ось деякі з ключових переваг одноразів та вейпів:</p> <ul> <li>Міцний корпус: Виготовлений з якісних матеріалів, забезпечує довговічність та стійкість до пошкоджень.</li> <li>Інтуїтивна активація: Працює від затягування, забезпечуючи легкість використання</li> <li>Потужний акумулятор: Гарантує тривалу роботу пристрою, мінімізуючи необхідність частого заряджання.</li> </ul> <p>Електронні сигарети ПОД від компанії Elf Bar допоможуть позбутися звички курити класичні тютюнові вироби та подарують користувачам безпечне та приємне паріння з Elf Bar 1500 Cola (Кола) Одноразовий POD. Купити вейп оптом чи електронку в роздріб можна в інтернет-магазині з великим асортиментом аксесуарів для вейпінгу. Ми пропонуємо доступні ціни та доставку в будь-яке місто країни.</p>]]></description>
 </offer>
@@ -185088,14 +185088,14 @@
 <quantity>100</quantity>
 <name>Дудка 1500 Coconut Melon</name>
 </offer>
-<offer id="dub-hd7931" available="true">
-<price>291</price>
+<offer id="dub-hd7931" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd7931</vendorCode>
-<available>true</available>
-<supplierCode>7931</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd7931</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Cola</name>
 </offer>
 <offer id="dub-hd21791" available="false">
