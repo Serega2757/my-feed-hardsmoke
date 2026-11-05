@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 05.11.2026 12:04:43 (Europe/Kyiv) | офферів: 15451, в наявності: 6688, немає: 8763 -->
-<yml_catalog date="2026-11-05 12:04">
+<!-- Сформовано: 05.11.2026 12:34:11 (Europe/Kyiv) | офферів: 15451, в наявності: 6688, немає: 8763 -->
+<yml_catalog date="2026-11-05 12:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7786,7 +7786,7 @@
 </offer>
 <offer id="27227" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-elfliq-spearmint-myata-50-mg-30-ml</url>
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27227-800x800.png</picture>
@@ -169939,7 +169939,7 @@
 <name>Заливка ELFLIQ 30/50мг Sour Apple</name>
 </offer>
 <offer id="dub-hd27227" available="false">
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27227</vendorCode>
