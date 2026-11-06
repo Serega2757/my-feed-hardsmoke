@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 06.11.2026 20:34:18 (Europe/Kyiv) | офферів: 15451, в наявності: 6793, немає: 8658 -->
-<yml_catalog date="2026-11-06 20:34">
+<!-- Сформовано: 06.11.2026 21:04:38 (Europe/Kyiv) | офферів: 15451, в наявності: 6783, немає: 8668 -->
+<yml_catalog date="2026-11-06 21:04">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -127371,16 +127371,16 @@
 <name>Тютюн Unity Orange blossom (Апельсиновий фреш, 250 г)</name>
 <description><![CDATA[<h2>Тютюн Unity Orange blossom (Апельсиновий фреш, 250 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Unity Orange blossom (Апельсиновий фреш, 250 г) від Unity. Основа кальянної заправки — це тютюновий лист Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Апельсин, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Апельсин – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 250 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Unity Orange blossom (Апельсиновий фреш, 250 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Unity:</h2> <div class="text-block-wrap"> <img alt="Тютюн Unity Orange blossom (Апельсиновий фреш, 250 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </ul> </di]]></description>
 </offer>
-<offer id="9987" available="false">
+<offer id="9987" available="true">
 <url>https://hardsmoke.store/tabak-unity-orange-blossom-apelsinoviy-fresh-40-g</url>
 <price>120</price>
 <currencyId>UAH</currencyId>
 <categoryId>5</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/9987-400x400.png</picture>
 <vendorCode>hd9987</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>9987</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Тютюн Unity Orange blossom (Апельсиновий фреш, 40 г)</name>
 <description><![CDATA[<h2>Тютюн Unity Orange blossom (Апельсиновий фреш, 40 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Unity Orange blossom (Апельсиновий фреш, 40 г) від Unity. Основа кальянної заправки — це тютюновий лист Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Апельсин, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Апельсин – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 40 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Unity Orange blossom (Апельсиновий фреш, 40 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Unity:</h2> <div class="text-block-wrap"> <img alt="Тютюн Unity Orange blossom (Апельсиновий фреш, 40 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </ul> </div> </]]></description>
 </offer>
@@ -154428,14 +154428,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Alchemist 30/35 Cubanabanana</name>
 </offer>
-<offer id="dub-hd21867" available="true">
+<offer id="dub-hd21867" available="false">
 <price>174</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21867</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>21867</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Alchemist 30/35 Frappuccino</name>
 </offer>
 <offer id="dub-hd21868" available="true">
@@ -161588,14 +161588,14 @@
 <quantity>0</quantity>
 <name>Готова заливка Lucky 30/50 Blueberry Lemonade</name>
 </offer>
-<offer id="dub-hd22785" available="true">
+<offer id="dub-hd22785" available="false">
 <price>152</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22785</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>22785</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 30/50 Cactus Guava Kiwi</name>
 </offer>
 <offer id="dub-hd25972" available="false">
@@ -163678,14 +163678,14 @@
 <quantity>0</quantity>
 <name>Готова заливка YUMMY 30/50 Енергетик з Яблуком та Ківі</name>
 </offer>
-<offer id="dub-hd19822" available="true">
+<offer id="dub-hd19822" available="false">
 <price>160</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd19822</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>19822</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка YUMMY 30/50 Ківі Маракуя Гуава</name>
 </offer>
 <offer id="dub-hd19823" available="false">
@@ -169938,14 +169938,14 @@
 <quantity>0</quantity>
 <name>Заливка ELFLIQ 30/50мг Sour Apple</name>
 </offer>
-<offer id="dub-hd27227" available="true">
+<offer id="dub-hd27227" available="false">
 <price>169</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27227</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27227</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка ELFLIQ 30/50мг Spearmint</name>
 </offer>
 <offer id="dub-hd27228" available="true">
@@ -169968,14 +169968,14 @@
 <quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Strawberry ice</name>
 </offer>
-<offer id="dub-hd27230" available="true">
+<offer id="dub-hd27230" available="false">
 <price>169</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27230</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27230</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка ELFLIQ 30/50мг Strawberry kiwi</name>
 </offer>
 <offer id="dub-hd27231" available="true">
@@ -169988,14 +169988,14 @@
 <quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Strawberry Raspberry Cherry Ice</name>
 </offer>
-<offer id="dub-hd27232" available="true">
+<offer id="dub-hd27232" available="false">
 <price>169</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27232</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27232</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка ELFLIQ 30/50мг Watermelon</name>
 </offer>
 <offer id="dub-hd27233" available="false">
@@ -176428,14 +176428,14 @@
 <quantity>0</quantity>
 <name>Заливка Lucky 30/65 Blue Razz</name>
 </offer>
-<offer id="dub-hd25745" available="true">
+<offer id="dub-hd25745" available="false">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd25745</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25745</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky 30/65 Blueberry</name>
 </offer>
 <offer id="dub-hd25746" available="true">
@@ -176488,14 +176488,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky 30/65 Cola</name>
 </offer>
-<offer id="dub-hd25751" available="true">
+<offer id="dub-hd25751" available="false">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd25751</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25751</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky 30/65 Cold Mango</name>
 </offer>
 <offer id="dub-hd28141" available="true">
@@ -176558,14 +176558,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky 30/65 Green Tea Lemonade</name>
 </offer>
-<offer id="dub-hd25753" available="true">
+<offer id="dub-hd25753" available="false">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd25753</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25753</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky 30/65 Juicy Peach</name>
 </offer>
 <offer id="dub-hd28144" available="true">
@@ -176718,14 +176718,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky 30/65 Watermelon Lemonade</name>
 </offer>
-<offer id="dub-hd25761" available="true">
+<offer id="dub-hd25761" available="false">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd25761</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25761</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky 30/65 Wild Berries</name>
 </offer>
 <offer id="dub-lucky-30-1" available="false">
@@ -177018,14 +177018,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky Chrome 30/65 Blueberry Blackcurrant</name>
 </offer>
-<offer id="dub-hd27994" available="true">
+<offer id="dub-hd27994" available="false">
 <price>171</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27994</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27994</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky Chrome 30/65 Forest Berry Mint</name>
 </offer>
 <offer id="dub-hd27995" available="false">
