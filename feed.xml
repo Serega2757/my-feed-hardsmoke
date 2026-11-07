@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 07.11.2026 21:05:27 (Europe/Kyiv) | офферів: 15451, в наявності: 6762, немає: 8689 -->
-<yml_catalog date="2026-11-07 21:05">
+<!-- Сформовано: 07.11.2026 21:33:37 (Europe/Kyiv) | офферів: 15451, в наявності: 6762, немає: 8689 -->
+<yml_catalog date="2026-11-07 21:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -14039,7 +14039,7 @@
 </offer>
 <offer id="" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-in-bottle-parallel-puzzle-strawberry-watermelon-klubnika-arbuz-50-mg-30-ml</url>
-<price>196</price>
+<price>185</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/24916-800x800.png</picture>
@@ -175379,7 +175379,7 @@
 <name>Заливка In Bottle Parallel Puzzle 30/50 Soursop Tea</name>
 </offer>
 <offer id="dub-hd24916" available="false">
-<price>196</price>
+<price>185</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd24916</vendorCode>
