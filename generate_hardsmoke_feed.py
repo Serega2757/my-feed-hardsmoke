@@ -44,6 +44,24 @@ SHEETS = [
 # E — код поставщика (идёт в тег <supplierCode>).
 # Наличие и цену на листе проставляет скрипт внутри самой таблицы.
 DUBLI_GID = os.environ.get("DUBLI_GID", "476543170")
+# gid листов: читаем их через export?format=csv, а не через gviz.
+# gviz определяет ОДИН тип на колонку по большинству значений и возвращает
+# пустую строку для ячеек другого типа. В колонке C часть артикулов записана
+# текстом, часть числом — из-за этого 2303 оффера уходили с пустым id.
+# export?format=csv отдаёт значения как есть. gid виден в URL листа.
+SHEET_GIDS = {
+    "Liquids": "1084082387",
+    "Cartridge": "1087906707",
+    "ElfBar": "1778162995",
+    "Pods": "1028231481",
+    "Tabak": "67511540",
+    "Ugli": "82092070",
+    "Accessories": "9908080",
+    "Chashi": "1709257917",
+    "Kalyani": "1313550056",
+    "Комплекти": "810980414",
+}
+
 DUBLI_CATEGORY = "Дубли"
 
 # Предохранитель: если новый фид содержит меньше указанной доли офферов
@@ -127,15 +145,18 @@ def strip_hd(v):
 def load_sheet(sheet_name, gid=None):
     """Читает лист через gviz-экспорт: по имени или, если задан gid, по gid.
     Таблица должна быть расшарена как «Всем, у кого есть ссылка — читатель»."""
+    if gid is None:
+        gid = SHEET_GIDS.get(sheet_name)
+
     if gid:
-        # headers=1 — первая строка листа всегда считается шапкой.
-        selector = f"gid={gid}&headers=1"
+        # Обычный CSV-экспорт: значения приходят как есть, без типизации колонок.
+        path = f"/export?format=csv&gid={gid}"
     else:
-        selector = f"sheet={urllib.parse.quote(sheet_name)}"
+        path = f"/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(sheet_name)}"
 
     url = (
         f"https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}"
-        f"/gviz/tq?tqx=out:csv&{selector}"
+        f"{path}"
     )
 
     req = urllib.request.Request(url, headers={"User-Agent": "hardsmoke-feed/1.0"})
