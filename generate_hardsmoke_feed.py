@@ -135,7 +135,7 @@ def cell(row, index):
 
 
 def strip_hd(v):
-    # Код поставщика = колонка H без префикса hd.
+    # Сейчас НЕ ИСПОЛЬЗУЕТСЯ: supplierCode берётся из колонки C.
     # Берём H, а не C: в C часть артикулов записана текстом, часть числом,
     # а gviz определяет тип колонки по большинству и возвращает пусто для остальных.
     s = to_str(v).strip()
@@ -231,7 +231,7 @@ def collect_items():
                     "description": cell(row, 5),
                     "availability": norm_availability(cell(row, 6)),
                     "vendorCode": cell(row, 7),
-                    "supplierCode": strip_hd(cell(row, 7)),
+                    "supplierCode": cell(row, 2),
                     # Закупочная цена — колонка I на всех листах, ElfBar больше не исключение.
                     "price": norm_price(cell(row, 8)),
                     "categoryId": category_id,
