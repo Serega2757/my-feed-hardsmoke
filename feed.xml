@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 09.11.2026 18:10:50 (Europe/Kyiv) | офферів: 15451, в наявності: 6686, немає: 8765 -->
-<yml_catalog date="2026-11-09 18:10">
+<!-- Сформовано: 09.11.2026 18:35:04 (Europe/Kyiv) | офферів: 15451, в наявності: 6686, немає: 8765 -->
+<yml_catalog date="2026-11-09 18:35">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7552,7 +7552,7 @@
 </offer>
 <offer id="27211" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-elfliq-blueberry-sour-raspberry-chernika-kislaya-malina-50-mg-30-ml</url>
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27211-800x800.png</picture>
@@ -170069,7 +170069,7 @@
 <name>Заливка ELFLIQ 30/50мг Blueberry</name>
 </offer>
 <offer id="dub-hd27211" available="false">
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27211</vendorCode>
