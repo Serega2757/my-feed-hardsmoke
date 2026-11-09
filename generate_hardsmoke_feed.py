@@ -116,6 +116,14 @@ def cell(row, index):
 # ======================================================
 
 
+def strip_hd(v):
+    # Код поставщика = колонка H без префикса hd.
+    # Берём H, а не C: в C часть артикулов записана текстом, часть числом,
+    # а gviz определяет тип колонки по большинству и возвращает пусто для остальных.
+    s = to_str(v).strip()
+    return s[2:] if s[:2].lower() == "hd" else s
+
+
 def load_sheet(sheet_name, gid=None):
     """Читает лист через gviz-экспорт: по имени или, если задан gid, по gid.
     Таблица должна быть расшарена как «Всем, у кого есть ссылка — читатель»."""
@@ -202,6 +210,7 @@ def collect_items():
                     "description": cell(row, 5),
                     "availability": norm_availability(cell(row, 6)),
                     "vendorCode": cell(row, 7),
+                    "supplierCode": strip_hd(cell(row, 7)),
                     # Закупочная цена — колонка I на всех листах, ElfBar больше не исключение.
                     "price": norm_price(cell(row, 8)),
                     "categoryId": category_id,
