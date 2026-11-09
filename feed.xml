@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 09.11.2026 02:49:45 (Europe/Kyiv) | офферів: 15451, в наявності: 6738, немає: 8713 -->
-<yml_catalog date="2026-11-09 02:49">
+<!-- Сформовано: 09.11.2026 03:03:56 (Europe/Kyiv) | офферів: 15451, в наявності: 6737, немає: 8714 -->
+<yml_catalog date="2026-11-09 03:03">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -165638,14 +165638,14 @@
 <quantity>100</quantity>
 <name>Заливка Chaser Beat 30/50 Artic House</name>
 </offer>
-<offer id="dub-hd28011" available="true">
+<offer id="dub-hd28011" available="false">
 <price>186</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd28011</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>28011</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Chaser Beat 30/50 Bass Berry</name>
 </offer>
 <offer id="dub-hd28014" available="true">
