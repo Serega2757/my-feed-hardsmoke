@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 10.11.2026 17:33:07 (Europe/Kyiv) | офферів: 15451, в наявності: 6685, немає: 8766 -->
-<yml_catalog date="2026-11-10 17:33">
+<!-- Сформовано: 10.11.2026 18:04:06 (Europe/Kyiv) | офферів: 15451, в наявності: 6684, немає: 8767 -->
+<yml_catalog date="2026-11-10 18:04">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -161208,14 +161208,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Lucky 15/50 Banana</name>
 </offer>
-<offer id="dub-lucky-15-3" available="true">
+<offer id="dub-lucky-15-3" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-lucky-15-3</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>22773</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Berry Lemonade</name>
 </offer>
 <offer id="dub-hd27644" available="false">
@@ -161328,14 +161328,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Lucky 15/50 Gold Kiwi Strawberry</name>
 </offer>
-<offer id="dub-hd27150" available="true">
+<offer id="dub-hd27150" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27150</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27150</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Grape</name>
 </offer>
 <offer id="dub-lucky-15-13" available="true">
@@ -161658,14 +161658,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Lucky 30/50 Elderber-Flowers Lemonade</name>
 </offer>
-<offer id="dub-hd19604" available="false">
+<offer id="dub-hd19604" available="true">
 <price>152</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd19604</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>19604</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Готова заливка Lucky 30/50 Gold Kiwi Strawberry</name>
 </offer>
 <offer id="dub-hd27149" available="false">
