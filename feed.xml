@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 10.11.2026 14:34:33 (Europe/Kyiv) | офферів: 15451, в наявності: 6679, немає: 8772 -->
-<yml_catalog date="2026-11-10 14:34">
+<!-- Сформовано: 10.11.2026 15:04:55 (Europe/Kyiv) | офферів: 15451, в наявності: 6677, немає: 8774 -->
+<yml_catalog date="2026-11-10 15:04">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -161848,14 +161848,14 @@
 <quantity>0</quantity>
 <name>Готова заливка Lucky 30/50 Strawberry</name>
 </offer>
-<offer id="dub-hd25981" available="true">
+<offer id="dub-hd25981" available="false">
 <price>152</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd25981</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>25981</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 30/50 Watermelon Lemonade</name>
 </offer>
 <offer id="dub-hd22792" available="false">
@@ -168038,14 +168038,14 @@
 <quantity>0</quantity>
 <name>Заливка Chaser Lux 30/50 Currant Cherry</name>
 </offer>
-<offer id="dub-char-lux-30-5" available="true">
+<offer id="dub-char-lux-30-5" available="false">
 <price>186</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-char-lux-30-5</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>22152</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Chaser Lux 30/50 Energetic</name>
 </offer>
 <offer id="dub-hd20596" available="false">
