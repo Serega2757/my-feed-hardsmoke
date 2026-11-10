@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 10.11.2026 02:44:34 (Europe/Kyiv) | офферів: 15451, в наявності: 6691, немає: 8760 -->
-<yml_catalog date="2026-11-10 02:44">
+<!-- Сформовано: 10.11.2026 03:04:21 (Europe/Kyiv) | офферів: 15451, в наявності: 6692, немає: 8759 -->
+<yml_catalog date="2026-11-10 03:04">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -70054,16 +70054,16 @@
 <name>Тютюн Al Shaha Frougurt (Фрогурт, 50 г)</name>
 <description><![CDATA[<h2>Тютюн Al Shaha Frougurt (Фрогурт, 50 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Al Shaha Frougurt (Фрогурт, 50 г) від Al Shaha. Основа кальянної заправки — це тютюновий лист Virginia високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Йогурт, Полуниця, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Легкий — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Йогурт, Полуниця – для гурманів кальянокуріння;</li> <li>Жаростійкість: Середня — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 50 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Al Shaha Frougurt (Фрогурт, 50 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Al Shaha:</h2> <div class="text-block-wrap"> <img alt="Тютюн Al Shaha Frougurt (Фрогурт, 50 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Virginia гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </ul> </div> </img></div> <h2>Як купити ]]></description>
 </offer>
-<offer id="23461" available="true">
+<offer id="23461" available="false">
 <url>https://hardsmoke.store/tabak-al-shaha-fruit-juice-fruktovyiy-sok-50-g</url>
 <price>50</price>
 <currencyId>UAH</currencyId>
 <categoryId>5</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23461-240x240.png</picture>
 <vendorCode>hd23461</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>23461</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Тютюн Al Shaha Fruit juice (Фруктовий сік, 50 г)</name>
 <description><![CDATA[<h2>Тютюн Al Shaha Fruit juice (Фруктовий сік, 50 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Al Shaha Fruit juice (Фруктовий сік, 50 г) від Al Shaha. Основа кальянної заправки — це тютюновий лист Virginia високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Мультифрукт, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Легкий — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Мультифрукт – для гурманів кальянокуріння;</li> <li>Жаростійкість: Середня — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 50 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Al Shaha Fruit juice (Фруктовий сік, 50 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Al Shaha:</h2> <div class="text-block-wrap"> <img alt="Тютюн Al Shaha Fruit juice (Фруктовий сік, 50 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Virginia гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу.</li> </ul> </div> <]]></description>
 </offer>
@@ -182858,14 +182858,14 @@
 <quantity>100</quantity>
 <name>Дудка 23000 GH Grape Ice</name>
 </offer>
-<offer id="dub-ws83959-2" available="false">
-<price>470</price>
+<offer id="dub-ws83959-2" available="true">
+<price>685</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959-2</vendorCode>
-<available>false</available>
-<supplierCode>26311</supplierCode>
-<quantity>0</quantity>
+<available>true</available>
+<supplierCode>ws83959-2</supplierCode>
+<quantity>100</quantity>
 <name>Дудка 23000 GH Cherry Cola</name>
 </offer>
 <offer id="dub-ws83959-39" available="false">
@@ -185938,14 +185938,14 @@
 <quantity>0</quantity>
 <name>Дудка Milk 7000 Peach</name>
 </offer>
-<offer id="dub-ws42113-7" available="false">
+<offer id="dub-ws42113-7" available="true">
 <price>305</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws42113-7</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>ws42113-7</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Дудка Milk 7000 Strawberry Mango</name>
 </offer>
 <offer id="dub-ws42113-6" available="false">
