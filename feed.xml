@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 10.11.2026 22:04:19 (Europe/Kyiv) | офферів: 15451, в наявності: 6678, немає: 8773 -->
-<yml_catalog date="2026-11-10 22:04">
+<!-- Сформовано: 10.11.2026 22:34:30 (Europe/Kyiv) | офферів: 15451, в наявності: 6678, немає: 8773 -->
+<yml_catalog date="2026-11-10 22:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7669,7 +7669,7 @@
 </offer>
 <offer id="27220" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-elfliq-kiwi-passion-fruit-guava-kivi-marakuyya-guava-50-mg-30-ml</url>
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27220-800x800.png</picture>
@@ -169869,7 +169869,7 @@
 <name>Заливка ELFLIQ 30/50мг Grape Cherry</name>
 </offer>
 <offer id="dub-hd27220" available="false">
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27220</vendorCode>
