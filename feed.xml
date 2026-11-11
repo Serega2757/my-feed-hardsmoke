@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 11.11.2026 21:04:49 (Europe/Kyiv) | офферів: 15451, в наявності: 6721, немає: 8730 -->
-<yml_catalog date="2026-11-11 21:04">
+<!-- Сформовано: 11.11.2026 21:33:34 (Europe/Kyiv) | офферів: 15451, в наявності: 6721, немає: 8730 -->
+<yml_catalog date="2026-11-11 21:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -11062,7 +11062,7 @@
 </offer>
 <offer id="21993" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-apple-yabloko-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21993-800x800.png</picture>
@@ -11166,7 +11166,7 @@
 </offer>
 <offer id="21996" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-cold-kiwi-ledyanoy-kivi-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21996-800x800.png</picture>
@@ -11192,7 +11192,7 @@
 </offer>
 <offer id="21997" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-cold-lemon-ledyanoy-limon-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/21997-800x800.png</picture>
@@ -11270,7 +11270,7 @@
 </offer>
 <offer id="22000" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-doublemint-dvoynaya-myata-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22000-800x800.png</picture>
@@ -11296,7 +11296,7 @@
 </offer>
 <offer id="22001" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-grapefruit-greypfrut-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22001-800x800.png</picture>
@@ -11348,7 +11348,7 @@
 </offer>
 <offer id="22003" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-mint-myata-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22003-800x800.png</picture>
@@ -11426,7 +11426,7 @@
 </offer>
 <offer id="22006" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-strawberry-mango-klubnika-mango-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22006-800x800.png</picture>
@@ -11452,7 +11452,7 @@
 </offer>
 <offer id="22007" available="true">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-flip-salt-tobacco-tabak-50-mg-30-ml</url>
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/22007-800x800.png</picture>
@@ -173239,7 +173239,7 @@
 <name>Заливка Flip 30/25 Tobacco</name>
 </offer>
 <offer id="dub-hd21993" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21993</vendorCode>
@@ -173279,7 +173279,7 @@
 <name>Заливка Flip 30/50 Cola</name>
 </offer>
 <offer id="dub-hd21996" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21996</vendorCode>
@@ -173289,7 +173289,7 @@
 <name>Заливка Flip 30/50 Cold Kiwi</name>
 </offer>
 <offer id="dub-hd21997" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21997</vendorCode>
@@ -173319,7 +173319,7 @@
 <name>Заливка Flip 30/50 Donut</name>
 </offer>
 <offer id="dub-hd22000" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22000</vendorCode>
@@ -173329,7 +173329,7 @@
 <name>Заливка Flip 30/50 Doublemint</name>
 </offer>
 <offer id="dub-hd22001" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22001</vendorCode>
@@ -173349,7 +173349,7 @@
 <name>Заливка Flip 30/50 Melon</name>
 </offer>
 <offer id="dub-hd22003" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22003</vendorCode>
@@ -173379,7 +173379,7 @@
 <name>Заливка Flip 30/50 Red Grape</name>
 </offer>
 <offer id="dub-hd22006" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22006</vendorCode>
@@ -173389,7 +173389,7 @@
 <name>Заливка Flip 30/50 Strawberry Mango</name>
 </offer>
 <offer id="dub-hd22007" available="true">
-<price>139</price>
+<price>105</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22007</vendorCode>
