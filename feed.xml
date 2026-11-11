@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 11.11.2026 11:34:29 (Europe/Kyiv) | офферів: 15451, в наявності: 6662, немає: 8789 -->
-<yml_catalog date="2026-11-11 11:34">
+<!-- Сформовано: 11.11.2026 12:03:28 (Europe/Kyiv) | офферів: 15451, в наявності: 6659, немає: 8792 -->
+<yml_catalog date="2026-11-11 12:03">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -185038,14 +185038,14 @@
 <quantity>100</quantity>
 <name>Дудка 1500 Cherry Lemon Peach</name>
 </offer>
-<offer id="dub-hd21645" available="true">
-<price>291</price>
+<offer id="dub-hd21645" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21645</vendorCode>
-<available>true</available>
-<supplierCode>21645</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd21645</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Green Apple</name>
 </offer>
 <offer id="dub-hd7611" available="false">
@@ -185058,14 +185058,14 @@
 <quantity>0</quantity>
 <name>Дудка 1500 Watermelon</name>
 </offer>
-<offer id="dub-hd21795" available="true">
-<price>291</price>
+<offer id="dub-hd21795" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21795</vendorCode>
-<available>true</available>
-<supplierCode>21795</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd21795</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Watermelon Lemon</name>
 </offer>
 <offer id="dub-ws49648-52" available="true">
@@ -185108,14 +185108,14 @@
 <quantity>0</quantity>
 <name>Дудка 1500 Lychee Blackcurrant</name>
 </offer>
-<offer id="dub-hd21792" available="true">
-<price>291</price>
+<offer id="dub-hd21792" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21792</vendorCode>
-<available>true</available>
-<supplierCode>21792</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd21792</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Mixed Berries</name>
 </offer>
 <offer id="dub-hd7613" available="true">
