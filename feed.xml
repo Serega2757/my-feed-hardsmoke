@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 12.11.2026 12:04:46 (Europe/Kyiv) | офферів: 15451, в наявності: 6712, немає: 8739 -->
-<yml_catalog date="2026-11-12 12:04">
+<!-- Сформовано: 12.11.2026 12:34:05 (Europe/Kyiv) | офферів: 15451, в наявності: 6711, немає: 8740 -->
+<yml_catalog date="2026-11-12 12:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -182618,14 +182618,14 @@
 <quantity>100</quantity>
 <name>Дудка 40000Pro BC Sweet Pineapple</name>
 </offer>
-<offer id="dub-ws66633-7" available="true">
+<offer id="dub-ws66633-7" available="false">
 <price>480</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws66633-7</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws66633-7</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 40000Pro BC Tropical Baja</name>
 </offer>
 <offer id="dub-ws66633-16" available="false">
