@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 12.11.2026 17:34:41 (Europe/Kyiv) | офферів: 15451, в наявності: 6714, немає: 8737 -->
-<yml_catalog date="2026-11-12 17:34">
+<!-- Сформовано: 12.11.2026 18:03:32 (Europe/Kyiv) | офферів: 15451, в наявності: 6721, немає: 8730 -->
+<yml_catalog date="2026-11-12 18:03">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -161588,14 +161588,14 @@
 <quantity>0</quantity>
 <name>Готова заливка Lucky 30/50 Blueberry Lemonade</name>
 </offer>
-<offer id="dub-hd22785" available="false">
+<offer id="dub-hd22785" available="true">
 <price>152</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22785</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>22785</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Готова заливка Lucky 30/50 Cactus Guava Kiwi</name>
 </offer>
 <offer id="dub-hd25972" available="false">
@@ -169868,14 +169868,14 @@
 <quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Grape Cherry</name>
 </offer>
-<offer id="dub-hd27220" available="false">
+<offer id="dub-hd27220" available="true">
 <price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27220</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>27220</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Kiwi Passion Fruit Guava</name>
 </offer>
 <offer id="dub-hd27221" available="true">
@@ -169938,14 +169938,14 @@
 <quantity>0</quantity>
 <name>Заливка ELFLIQ 30/50мг Sour Apple</name>
 </offer>
-<offer id="dub-hd27227" available="false">
+<offer id="dub-hd27227" available="true">
 <price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27227</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>27227</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Spearmint</name>
 </offer>
 <offer id="dub-hd27228" available="true">
@@ -169968,34 +169968,34 @@
 <quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Strawberry ice</name>
 </offer>
-<offer id="dub-hd27230" available="false">
+<offer id="dub-hd27230" available="true">
 <price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27230</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>27230</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Strawberry kiwi</name>
 </offer>
-<offer id="dub-hd27231" available="false">
+<offer id="dub-hd27231" available="true">
 <price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27231</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>27231</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Strawberry Raspberry Cherry Ice</name>
 </offer>
-<offer id="dub-hd27232" available="false">
+<offer id="dub-hd27232" available="true">
 <price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27232</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>27232</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Заливка ELFLIQ 30/50мг Watermelon</name>
 </offer>
 <offer id="dub-hd27233" available="false">
@@ -176528,14 +176528,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky 30/65 Gold Kiwi Strawberry</name>
 </offer>
-<offer id="dub-hd27151" available="false">
+<offer id="dub-hd27151" available="true">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27151</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>27151</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Заливка Lucky 30/65 Grape</name>
 </offer>
 <offer id="dub-hd25752" available="true">
