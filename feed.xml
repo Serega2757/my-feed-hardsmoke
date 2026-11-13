@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 13.11.2026 02:47:25 (Europe/Kyiv) | офферів: 15451, в наявності: 6709, немає: 8742 -->
-<yml_catalog date="2026-11-13 02:47">
+<!-- Сформовано: 13.11.2026 03:04:55 (Europe/Kyiv) | офферів: 15451, в наявності: 6704, немає: 8747 -->
+<yml_catalog date="2026-11-13 03:04">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -185038,14 +185038,14 @@
 <quantity>0</quantity>
 <name>Дудка 1500 Cherry Lemon Peach</name>
 </offer>
-<offer id="dub-hd21645" available="true">
-<price>291</price>
+<offer id="dub-hd21645" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21645</vendorCode>
-<available>true</available>
-<supplierCode>21645</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd21645</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Green Apple</name>
 </offer>
 <offer id="dub-hd7611" available="false">
@@ -185138,24 +185138,24 @@
 <quantity>100</quantity>
 <name>Дудка 1500 Strawberry Banana</name>
 </offer>
-<offer id="dub-hd8998" available="true">
-<price>291</price>
+<offer id="dub-hd8998" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd8998</vendorCode>
-<available>true</available>
-<supplierCode>8998</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd8998</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Strawberry Kiwi</name>
 </offer>
-<offer id="dub-hd22706" available="true">
-<price>291</price>
+<offer id="dub-hd22706" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd22706</vendorCode>
-<available>true</available>
-<supplierCode>22706</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd22706</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Strawberry Raspberry Cherry Ice</name>
 </offer>
 <offer id="dub-hd7597" available="true">
@@ -185218,24 +185218,24 @@
 <quantity>0</quantity>
 <name>Дудка 1500 Blueberry</name>
 </offer>
-<offer id="dub-hd21790" available="true">
-<price>291</price>
+<offer id="dub-hd21790" available="false">
+<price>259</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd21790</vendorCode>
-<available>true</available>
-<supplierCode>21790</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>hd21790</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 1500 Blueberry Bubblegum</name>
 </offer>
-<offer id="dub-hd7608" available="true">
+<offer id="dub-hd7608" available="false">
 <price>291</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd7608</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>7608</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка 1500 Apple Peach</name>
 </offer>
 <offer id="dub-hd9008" available="false">
