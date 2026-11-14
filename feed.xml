@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 14.11.2026 20:03:57 (Europe/Kyiv) | офферів: 15451, в наявності: 6669, немає: 8782 -->
-<yml_catalog date="2026-11-14 20:03">
+<!-- Сформовано: 14.11.2026 20:35:00 (Europe/Kyiv) | офферів: 15451, в наявності: 6667, немає: 8784 -->
+<yml_catalog date="2026-11-14 20:35">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -35578,16 +35578,16 @@
 <name>Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p><b>Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)</b> надає вейперам унікальні смакові відчуття. Ця жижа ідеально підходить для багаторазових вейпів завдяки своїй оптимальній густоті, безпечному складу та приємному аромату, відкриваючи нові грані смаку.</p> <p>Оптимальний баланс компонентів гарантує стабільне пароутворення та рівномірне розкриття смаку. Відмінний вибір для щоденного паріння. </p> <p>Гарантія якості та сертифікований склад – ключові переваги рідин, представлених у нашій наявності. </p> </div> <img alt="Купити Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл) недорого" src="/images/zhidkost_1.JPG"> </img></div> <h2>Склад рідини</h2> <div class="text-block-wrap"> <img alt="Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл) з доставкою від Hardsmoke" src="/images/zhidkost_2.JPG"> <div> <p>Жижа від <b>Nectar</b> складається з натуральних компонентів, які мінімально впливають на здоров'я користувача:</p> <ul> <li><b>Соловий нікотин:</b> очищений від смол та хімічних добавок, забезпечує необхідний рівень нікотину.</li> <li><b>Гліцерин:</b> створює густу та ароматну пару.</li> <li><b>Пропіленгліколь:</b> пом'якшує смак і усуває гіркоту.</li> <li><b>Ароматизатори:</b> додають насичені фруктові, ягідні або тютюнові нотки.</li> </ul> </div> </img></div> <h2>Купити Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 10 мл)<]]></description>
 </offer>
-<offer id="26089" available="true">
+<offer id="26089" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-coffee-tobacco-kofe-tabak-50-mg-30-ml</url>
 <price>130</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/26089-800x800.png</picture>
 <vendorCode>hd26089</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26089</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 30 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 30 мл)</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p><b>Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 30 мл)</b> надає вейперам унікальні смакові відчуття. Ця жижа ідеально підходить для багаторазових вейпів завдяки своїй оптимальній густоті, безпечному складу та приємному аромату, відкриваючи нові грані смаку.</p> <p>Оптимальний баланс компонентів гарантує стабільне пароутворення та рівномірне розкриття смаку. Відмінний вибір для щоденного паріння. </p> <p>Гарантія якості та сертифікований склад – ключові переваги рідин, представлених у нашій наявності. </p> </div> <img alt="Купити Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 30 мл) недорого" src="/images/zhidkost_1.JPG"> </img></div> <h2>Склад рідини</h2> <div class="text-block-wrap"> <img alt="Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 30 мл) з доставкою від Hardsmoke" src="/images/zhidkost_2.JPG"> <div> <p>Жижа від <b>Nectar</b> складається з натуральних компонентів, які мінімально впливають на здоров'я користувача:</p> <ul> <li><b>Соловий нікотин:</b> очищений від смол та хімічних добавок, забезпечує необхідний рівень нікотину.</li> <li><b>Гліцерин:</b> створює густу та ароматну пару.</li> <li><b>Пропіленгліколь:</b> пом'якшує смак і усуває гіркоту.</li> <li><b>Ароматизатори:</b> додають насичені фруктові, ягідні або тютюнові нотки.</li> </ul> </div> </img></div> <h2>Купити Рідина Nectar Coffee Tobacco (Кава Тютюн, 50 мг, 30 мл)<]]></description>
 </offer>
@@ -162548,14 +162548,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Nectar 30/50 Cherry Black Currant Raspberry</name>
 </offer>
-<offer id="dub-hd26089" available="true">
+<offer id="dub-hd26089" available="false">
 <price>130</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd26089</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26089</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Nectar 30/50 Coffee Tobacco</name>
 </offer>
 <offer id="dub-hd22810" available="true">
