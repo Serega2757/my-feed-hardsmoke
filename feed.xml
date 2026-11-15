@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 15.11.2026 15:04:43 (Europe/Kyiv) | офферів: 15451, в наявності: 6660, немає: 8791 -->
-<yml_catalog date="2026-11-15 15:04">
+<!-- Сформовано: 15.11.2026 15:34:32 (Europe/Kyiv) | офферів: 15451, в наявності: 6659, немає: 8792 -->
+<yml_catalog date="2026-11-15 15:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -183338,14 +183338,14 @@
 <quantity>0</quantity>
 <name>Дудка 23000 GH Fizzy Cherry</name>
 </offer>
-<offer id="dub-ws83959" available="true">
-<price>685</price>
+<offer id="dub-ws83959" available="false">
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959</vendorCode>
-<available>true</available>
-<supplierCode>ws83959</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>26309</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 23000 GH Apple Pear</name>
 </offer>
 <offer id="dub-ws83959-30" available="false">
