@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 16.11.2026 11:42:51 (Europe/Kyiv) | офферів: 15451, в наявності: 6625, немає: 8826 -->
-<yml_catalog date="2026-11-16 11:42">
+<!-- Сформовано: 16.11.2026 12:04:12 (Europe/Kyiv) | офферів: 15451, в наявності: 6623, немає: 8828 -->
+<yml_catalog date="2026-11-16 12:04">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -88020,16 +88020,16 @@
 <name>Тютюн Dead Horse Honey halls (Медовий холл, 50 г)</name>
 <description><![CDATA[<h2>Тютюн Dead Horse Honey halls (Медовий холл, 50 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Dead Horse Honey halls (Медовий холл, 50 г) від Dead Horse. Основа кальянної заправки — це тютюновий лист Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Ментол/Евкаліпт, Мед, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Ментол/Евкаліпт, Мед – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 50 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Dead Horse Honey halls (Медовий холл, 50 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Dead Horse:</h2> <div class="text-block-wrap"> <img alt="Тютюн Dead Horse Honey halls (Медовий холл, 50 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна хмара диму, що посилює задоволення від процесу]]></description>
 </offer>
-<offer id="19872" available="true">
+<offer id="19872" available="false">
 <url>https://hardsmoke.store/tabak-dead-horse-indigo-chernika-malina-buzina-100g</url>
 <price>286</price>
 <currencyId>UAH</currencyId>
 <categoryId>5</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/19872-400x400.png</picture>
 <vendorCode>hd19872</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>19872</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Тютюн Dead Horse Indigo (Чорниця малина бузина, 100 г)</name>
 <description><![CDATA[<h2>Тютюн Dead Horse Indigo (Чорниця малина бузина, 100 г) для кальяну</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p>Найпопулярнішим серед поціновувачів димного відпочинку є Тютюн Dead Horse Indigo (Чорниця малина бузина, 100 г) від Dead Horse. Основа кальянної заправки — це тютюновий лист Burley високої якості, а також натуральні ароматизатори, патока та чистий гліцерин. Завдяки цьому тютюн має насичений смак Бузина, Малина, Чорниця/Голубика, приємний аромат і здатний утворювати густий дим.</p> <p>Основні характеристики:</p> <ul> <li>Міцність: Міцний — м'яка дія на горло, підходить як для новачків, так і для досвідчених курців.</li> <li>Смак: Бузина, Малина, Чорниця/Голубика – для гурманів кальянокуріння;</li> <li>Жаростійкість: Висока — тютюн стійкий до дії жару, що дозволяє довше насолоджуватися курінням.</li> <li>Вага: 100 г – знахідка для будь-якої компанії.</li> </ul> </div> <img alt="Купити Тютюн Dead Horse Indigo (Чорниця малина бузина, 100 г) недорого" src="/images/tabak_1.png"> </img></div> <h2>Переваги кальянного тютюну від Dead Horse:</h2> <div class="text-block-wrap"> <img alt="Тютюн Dead Horse Indigo (Чорниця малина бузина, 100 г) з доставкою від Hardsmoke" src="/images/tabak_2.jpg"> <div> <ul> <li>Інтенсивне зволоження: Лист добре просочений і досить вологий, що забезпечує рівномірне горіння.</li> <li>Висока якісна основа: Використання тютюнового листа Burley гарантує високу якість куріння.</li> <li>Густий дим: При курінні формується рясна х]]></description>
 </offer>
@@ -161228,14 +161228,14 @@
 <quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Blue Razz</name>
 </offer>
-<offer id="dub-lucky-15-4" available="true">
+<offer id="dub-lucky-15-4" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-lucky-15-4</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>20224</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Blueberry</name>
 </offer>
 <offer id="dub-lucky-15-5" available="false">
@@ -161408,14 +161408,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Lucky 15/50 Mojito Aloe Cucumber Lemonade</name>
 </offer>
-<offer id="dub-hd26305" available="true">
+<offer id="dub-hd26305" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd26305</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>26305</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Mojito Lemonade</name>
 </offer>
 <offer id="dub-lucky-15-19" available="true">
@@ -162548,14 +162548,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Nectar 30/50 Cherry Black Currant Raspberry</name>
 </offer>
-<offer id="dub-hd26089" available="false">
+<offer id="dub-hd26089" available="true">
 <price>130</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd26089</vendorCode>
-<available>false</available>
+<available>true</available>
 <supplierCode>26089</supplierCode>
-<quantity>0</quantity>
+<quantity>100</quantity>
 <name>Готова заливка Nectar 30/50 Coffee Tobacco</name>
 </offer>
 <offer id="dub-hd22810" available="true">
