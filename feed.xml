@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 16.11.2026 08:55:15 (Europe/Kyiv) | офферів: 15451, в наявності: 6628, немає: 8823 -->
-<yml_catalog date="2026-11-16 08:55">
+<!-- Сформовано: 16.11.2026 09:08:48 (Europe/Kyiv) | офферів: 15451, в наявності: 6626, немає: 8825 -->
+<yml_catalog date="2026-11-16 09:08">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -161428,14 +161428,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Lucky 15/50 Mokko</name>
 </offer>
-<offer id="dub-lucky-15-20" available="true">
+<offer id="dub-lucky-15-20" available="false">
 <price>76</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-lucky-15-20</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>22779</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Lucky 15/50 Orange Lemonade</name>
 </offer>
 <offer id="dub-lucky-15-21" available="true">
@@ -176528,14 +176528,14 @@
 <quantity>100</quantity>
 <name>Заливка Lucky 30/65 Gold Kiwi Strawberry</name>
 </offer>
-<offer id="dub-hd27151" available="true">
+<offer id="dub-hd27151" available="false">
 <price>161</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27151</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>27151</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Заливка Lucky 30/65 Grape</name>
 </offer>
 <offer id="dub-hd25752" available="true">
