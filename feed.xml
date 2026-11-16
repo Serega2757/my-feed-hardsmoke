@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 16.11.2026 18:03:45 (Europe/Kyiv) | офферів: 15451, в наявності: 6591, немає: 8860 -->
-<yml_catalog date="2026-11-16 18:03">
+<!-- Сформовано: 16.11.2026 18:34:53 (Europe/Kyiv) | офферів: 15451, в наявності: 6591, немає: 8860 -->
+<yml_catalog date="2026-11-16 18:34">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -1806,7 +1806,7 @@
 </offer>
 <offer id="28012" available="false">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-pineapple-bass-sochnyiy-ananas-50-mg-30-ml</url>
-<price>186</price>
+<price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28012-800x800.png</picture>
@@ -165509,7 +165509,7 @@
 <name>Заливка Chaser Beat 30/50 Grape Techno</name>
 </offer>
 <offer id="dub-hd28012" available="false">
-<price>186</price>
+<price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd28012</vendorCode>
