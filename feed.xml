@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 17.11.2026 21:05:04 (Europe/Kyiv) | офферів: 15451, в наявності: 6590, немає: 8861 -->
-<yml_catalog date="2026-11-17 21:05">
+<!-- Сформовано: 17.11.2026 21:35:01 (Europe/Kyiv) | офферів: 15451, в наявності: 6590, немає: 8861 -->
+<yml_catalog date="2026-11-17 21:35">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -1650,7 +1650,7 @@
 </offer>
 <offer id="28014" available="false">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-blue-ice-beat-chernichnoe-morojenoe-50-mg-30-ml</url>
-<price>186</price>
+<price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28014-800x800.png</picture>
@@ -1676,7 +1676,7 @@
 </offer>
 <offer id="28013" available="false">
 <url>https://hardsmoke.life/nabor-dlya-samozamesa-chaser-beat-bubble-berry-tune-chernichnaya-jvachka-50-mg-30-ml</url>
-<price>186</price>
+<price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.life/image/cache/catalog/exist/28013-800x800.png</picture>
@@ -165649,7 +165649,7 @@
 <name>Заливка Chaser Beat 30/50 Bass Berry</name>
 </offer>
 <offer id="dub-hd28014" available="false">
-<price>186</price>
+<price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd28014</vendorCode>
@@ -165659,7 +165659,7 @@
 <name>Заливка Chaser Beat 30/50 Blue Ice Chaser Beat</name>
 </offer>
 <offer id="dub-hd28013" available="false">
-<price>186</price>
+<price>168</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd28013</vendorCode>
