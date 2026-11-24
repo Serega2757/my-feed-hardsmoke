@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 24.11.2026 15:04:20 (Europe/Kyiv) | офферів: 15451, в наявності: 6690, немає: 8761 -->
-<yml_catalog date="2026-11-24 15:04">
+<!-- Сформовано: 24.11.2026 15:35:00 (Europe/Kyiv) | офферів: 15451, в наявності: 6690, немає: 8761 -->
+<yml_catalog date="2026-11-24 15:35">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -7604,7 +7604,7 @@
 </offer>
 <offer id="27215" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-elfliq-elf-jack-yagodnyiy-miks-50-mg-30-ml</url>
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27215-800x800.png</picture>
@@ -7877,7 +7877,7 @@
 </offer>
 <offer id="27234" available="false">
 <url>https://hardsmoke.store/nabor-dlya-samozamesa-elfliq-watermelon-sour-peach-arbuz-kislyiy-persik-50-mg-30-ml</url>
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/27234-800x800.png</picture>
@@ -170009,7 +170009,7 @@
 <name>Заливка ELFLIQ 30/50мг Watermelon Cherry</name>
 </offer>
 <offer id="dub-hd27234" available="false">
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27234</vendorCode>
@@ -170109,7 +170109,7 @@
 <name>Заливка ELFLIQ 30/50мг Cherry Lemon Peach</name>
 </offer>
 <offer id="dub-hd27215" available="false">
-<price>169</price>
+<price>139</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd27215</vendorCode>
