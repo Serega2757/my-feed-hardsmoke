@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 25.11.2026 18:03:42 (Europe/Kyiv) | офферів: 15477, в наявності: 6747, немає: 8730 -->
-<yml_catalog date="2026-11-25 18:03">
+<!-- Сформовано: 25.11.2026 18:35:23 (Europe/Kyiv) | офферів: 15477, в наявності: 6746, немає: 8731 -->
+<yml_catalog date="2026-11-25 18:35">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -183976,14 +183976,14 @@
 <quantity>0</quantity>
 <name>Дудка Moon 40000 Blue Raspberry Lemonade</name>
 </offer>
-<offer id="dub-ws24416-26" available="true">
-<price>669</price>
+<offer id="dub-ws24416-26" available="false">
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws24416-26</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws24416-26</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка Nic 30000 Pineapple Dragon Fruit Grapefruit</name>
 </offer>
 <offer id="dub-ws24416-22" available="true">
