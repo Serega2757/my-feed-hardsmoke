@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 25.11.2026 12:04:24 (Europe/Kyiv) | офферів: 15477, в наявності: 6753, немає: 8724 -->
-<yml_catalog date="2026-11-25 12:04">
+<!-- Сформовано: 25.11.2026 12:33:11 (Europe/Kyiv) | офферів: 15477, в наявності: 6752, немає: 8725 -->
+<yml_catalog date="2026-11-25 12:33">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -184056,14 +184056,14 @@
 <quantity>0</quantity>
 <name>Дудка Nic 30000 Sour Strawberry Dragon Fruit</name>
 </offer>
-<offer id="dub-ws24416-20" available="true">
-<price>669</price>
+<offer id="dub-ws24416-20" available="false">
+<price>485</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws24416-20</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>ws24416-20</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Дудка Nic 30000 Sour Apple Watermelon</name>
 </offer>
 <offer id="dub-ws24416-60" available="false">
