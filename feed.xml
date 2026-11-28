@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Сформовано: 28.11.2026 11:03:39 (Europe/Kyiv) | офферів: 15576, в наявності: 6852, немає: 8724 -->
-<yml_catalog date="2026-11-28 11:03">
+<!-- Сформовано: 28.11.2026 11:35:06 (Europe/Kyiv) | офферів: 15576, в наявності: 6849, немає: 8727 -->
+<yml_catalog date="2026-11-28 11:35">
 <shop>
 <name>My Shop</name>
 <company>My Company</company>
@@ -36735,16 +36735,16 @@
 <name>Рідина Nectar Blueberry (Чорниця, 50 мг, 10 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Nectar Blueberry (Чорниця, 50 мг, 10 мл)</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p><b>Рідина Nectar Blueberry (Чорниця, 50 мг, 10 мл)</b> надає вейперам унікальні смакові відчуття. Ця жижа ідеально підходить для багаторазових вейпів завдяки своїй оптимальній густоті, безпечному складу та приємному аромату, відкриваючи нові грані смаку.</p> <p>Оптимальний баланс компонентів гарантує стабільне пароутворення та рівномірне розкриття смаку. Відмінний вибір для щоденного паріння. </p> <p>Гарантія якості та сертифікований склад – ключові переваги рідин, представлених у нашій наявності. </p> </div> <img alt="Купити Рідина Nectar Blueberry (Чорниця, 50 мг, 10 мл) недорого" src="/images/zhidkost_1.JPG"> </img></div> <h2>Склад рідини</h2> <div class="text-block-wrap"> <img alt="Рідина Nectar Blueberry (Чорниця, 50 мг, 10 мл) з доставкою від Hardsmoke" src="/images/zhidkost_2.JPG"> <div> <p>Жижа від <b>Nectar</b> складається з натуральних компонентів, які мінімально впливають на здоров'я користувача:</p> <ul> <li><b>Соловий нікотин:</b> очищений від смол та хімічних добавок, забезпечує необхідний рівень нікотину.</li> <li><b>Гліцерин:</b> створює густу та ароматну пару.</li> <li><b>Пропіленгліколь:</b> пом'якшує смак і усуває гіркоту.</li> <li><b>Ароматизатори:</b> додають насичені фруктові, ягідні або тютюнові нотки.</li> </ul> </div> </img></div> <h2>Купити Рідина Nectar Blueberry (Чорниця, 50 мг, 10 мл)</h2> <div class="text-block-wrap"> <div>]]></description>
 </offer>
-<offer id="23279" available="true">
+<offer id="23279" available="false">
 <url>https://hardsmoke.store/jidkost-nectar-blueberry-chernika-50-mg-15-ml</url>
 <price>70</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://hardsmoke.store/image/cache/catalog/exist/23279-800x800.png</picture>
 <vendorCode>hd23279</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>23279</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Рідина Nectar Blueberry (Чорниця, 50 мг, 15 мл)</name>
 <description><![CDATA[<h2>Огляд: Рідина Nectar Blueberry (Чорниця, 50 мг, 15 мл)</h2> <div class="text-block-wrap text-block-wrap-first"> <div> <p><b>Рідина Nectar Blueberry (Чорниця, 50 мг, 15 мл)</b> надає вейперам унікальні смакові відчуття. Ця жижа ідеально підходить для багаторазових вейпів завдяки своїй оптимальній густоті, безпечному складу та приємному аромату, відкриваючи нові грані смаку.</p> <p>Оптимальний баланс компонентів гарантує стабільне пароутворення та рівномірне розкриття смаку. Відмінний вибір для щоденного паріння. </p> <p>Гарантія якості та сертифікований склад – ключові переваги рідин, представлених у нашій наявності. </p> </div> <img alt="Купити Рідина Nectar Blueberry (Чорниця, 50 мг, 15 мл) недорого" src="/images/zhidkost_1.JPG"> </img></div> <h2>Склад рідини</h2> <div class="text-block-wrap"> <img alt="Рідина Nectar Blueberry (Чорниця, 50 мг, 15 мл) з доставкою від Hardsmoke" src="/images/zhidkost_2.JPG"> <div> <p>Жижа від <b>Nectar</b> складається з натуральних компонентів, які мінімально впливають на здоров'я користувача:</p> <ul> <li><b>Соловий нікотин:</b> очищений від смол та хімічних добавок, забезпечує необхідний рівень нікотину.</li> <li><b>Гліцерин:</b> створює густу та ароматну пару.</li> <li><b>Пропіленгліколь:</b> пом'якшує смак і усуває гіркоту.</li> <li><b>Ароматизатори:</b> додають насичені фруктові, ягідні або тютюнові нотки.</li> </ul> </div> </img></div> <h2>Купити Рідина Nectar Blueberry (Чорниця, 50 мг, 15 мл)</h2> <div class="text-block-wrap"> <div>]]></description>
 </offer>
@@ -163943,14 +163943,14 @@
 <quantity>100</quantity>
 <name>Готова заливка Nectar 15/50 Berries</name>
 </offer>
-<offer id="dub-hd23279" available="true">
+<offer id="dub-hd23279" available="false">
 <price>70</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-hd23279</vendorCode>
-<available>true</available>
+<available>false</available>
 <supplierCode>23279</supplierCode>
-<quantity>100</quantity>
+<quantity>0</quantity>
 <name>Готова заливка Nectar 15/50 Blueberry</name>
 </offer>
 <offer id="dub-hd23276" available="false">
@@ -184473,14 +184473,14 @@
 <quantity>0</quantity>
 <name>Дудка 23000 GH Grape Cherry</name>
 </offer>
-<offer id="dub-ws83959-3" available="true">
-<price>685</price>
+<offer id="dub-ws83959-3" available="false">
+<price>470</price>
 <currencyId>UAH</currencyId>
 <categoryId>11</categoryId>
 <vendorCode>dub-ws83959-3</vendorCode>
-<available>true</available>
-<supplierCode>ws83959-3</supplierCode>
-<quantity>100</quantity>
+<available>false</available>
+<supplierCode>26312</supplierCode>
+<quantity>0</quantity>
 <name>Дудка 23000 GH Grape Ice</name>
 </offer>
 <offer id="dub-ws83959-2" available="false">
